@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "A gumiabroncs hibás állapota kerékenként",
+    "fine_chf": 20,
+    "keywords": [
+      "gumiabroncs",
+      "állapot",
+      "hibás",
+      "VTS",
+      "kerék",
+      "gumiabroncs",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "kerékenként",
+    "notes": "Kapcsolódik a 704. tételhez.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Az utas biztonsági öv viselésének elmulasztása",
+    "fine_chf": 60,
+    "keywords": [
+      "biztonsági övek",
+      "övtartási kötelezettség",
+      "utas",
+      "utas",
+      "biztonsági öv",
+      "utas"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Utas",
+      "Utas"
+    ],
+    "conditions": null,
+    "notes": "800.1. szakasz: Az utasok biztonsági öv használatának elmulasztása.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Az utasok által a védő sisak viselésének elmulasztása motoros, könnyű, kis és háromkerekű motorjárműveken",
+    "fine_chf": 60,
+    "keywords": [
+      "sisak",
+      "sisakviselési kötelezettség",
+      "utas",
+      "motorkerékpár",
+      "sisak",
+      "utas"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Utas",
+      "Motorkerékpárok"
+    ],
+    "conditions": null,
+    "notes": "800.2. szakasz: Az utasok sisak nem viselése motoros és háromkerekű járműveken.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Utas által jármű vagy tárgy tolása",
+    "fine_chf": 20,
+    "keywords": [
+      "tolás",
+      "jármű",
+      "tárgy",
+      "utas",
+      "tol",
+      "tárgy",
+      "utas"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Utas"
+    ],
+    "conditions": null,
+    "notes": "801.1. szakasz: Az utas által jármű vagy tárgy tolása (valószínűleg tilos viselkedés mozgás közben/közlekedésben).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Utas által jármű vagy tárgy húzása",
+    "fine_chf": 20,
+    "keywords": [
+      "húzás",
+      "jármű",
+      "tárgy",
+      "utas",
+      "húz",
+      "tárgy",
+      "utas"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Utas"
+    ],
+    "conditions": null,
+    "notes": "801.2. szakasz: Az utas által jármű vagy tárgy húzása.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Utas által jármű vagy tárgy vontatása",
+    "fine_chf": 20,
+    "keywords": [
+      "vontatás",
+      "jármű",
+      "tárgy",
+      "utas",
+      "vont",
+      "tárgy",
+      "utas"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Utas"
+    ],
+    "conditions": null,
+    "notes": "801.3. szakasz: Az utas által jármű vagy tárgy vontatása.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "A járda használatának elmulasztása",
+    "fine_chf": 10,
+    "keywords": [
+      "járda",
+      "gyalogút",
+      "használat hiánya",
+      "gyalogos",
+      "járda",
+      "gyalogos"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": null,
+    "notes": "A járda használatának elmulasztása, ha rendelkezésre áll.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "A gyalogátkelőhely használatának elmulasztása, ha kevesebb mint 50 m távolságra van",
+    "fine_chf": 10,
+    "keywords": [
+      "gyalogátkelőhely",
+      "zebraátkelő",
+      "használat hiánya",
+      "50m",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": "ha kevesebb mint 50 m távolságra",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Az átkelőhíd használatának elmulasztása, ha kevesebb mint 50 m távolságra van",
+    "fine_chf": 10,
+    "keywords": [
+      "átkelőhíd",
+      "gyaloghíd",
+      "használat hiánya",
+      "50m",
+      "gyalogátkelőhíd"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": "ha kevesebb mint 50 m távolságra",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Az alagút használatának elmulasztása, ha kevesebb mint 50 m távolságra van",
+    "fine_chf": 10,
+    "keywords": [
+      "alagút",
+      "gyalogalagut",
+      "használat hiánya",
+      "50m",
+      "gyalogalagút"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": "ha kevesebb mint 50 m távolságra",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "A 'Gyalogosok tilosak' jelzés (2.15) figyelmen kívül hagyása",
+    "fine_chf": 20,
+    "keywords": [
+      "tiltás",
+      "gyalogos",
+      "jelzés",
+      "nem betartás",
+      "korlátozás",
+      "gyalogos",
+      "táblajel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "A 'Gyalogút' jelzés (2.61) figyelmen kívül hagyása",
+    "fine_chf": 10,
+    "keywords": [
+      "gyalogút",
+      "jelzés",
+      "nem betartás",
+      "gyalogút",
+      "táblajel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Gyalogos"
+    ],
+    "conditions": null,
+    "notes": "A kijelölt gyalogút táblajel figyelmen kívül hagyása.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "A fényjelzés figyelmen kívül hagyása",
+    "fine_chf": 20,
+    "keywords": [
+      "fényjel",
+      "gyalogos",
+      "jel",
+      "nem betartás",
+      "közlekedési lámpa",
+      "gyalogos"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Gyalogos",
+      "Járműszerű eszközök felhasználója"
+    ],
+    "conditions": null,
+    "notes": "Vörös lámpa áthajtása (gyalogosként/járműszerű mobil eszköz felhasználójaként).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "A 'váltakozó villogó fényjel' (3.20) vagy az 'egyszerű villogó fényjel' (3.21) figyelmen kívül hagyása",
+    "fine_chf": 20,
+    "keywords": [
+      "villogó fényjel",
+      "váltakozó villogó fény",
+      "jel",
+      "szintátkelő",
+      "figyelmeztető fény",
+      "szintátkelő"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Gyalogos",
+      "Járműszerű eszközök felhasználója"
+    ],
+    "conditions": null,
+    "notes": "A villogó figyelmeztető fények figyelmen kívül hagyása (pl. szintátkelőknél).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Az autópályára való belépés",
+    "fine_chf": 20,
+    "keywords": [
+      "autópálya",
+      "belépés",
+      "gyalogos",
+      "tiltás",
+      "autópálya",
+      "hozzáférés",
+      "tiltott"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogos",
+      "Járműszerű eszközök felhasználója"
+    ],
+    "conditions": null,
+    "notes": "Az autópályára való belépés vagy járás (amely általában csak motoros forgalomra korlátozott).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

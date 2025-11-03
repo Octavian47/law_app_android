@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Oprirea pe trotuar în fața unei treceri pentru pietoni lângă o linie de interdicție a opririi",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Parcare",
+      "Trotuar",
+      "Trecere pentru pietoni",
+      "Linie de interdicție a opririi",
+      "oprire",
+      "trecere pentru pietoni"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe trotuar lângă o linie de interdicție a opririi înainte de o trecere pentru pietoni.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parcarea pe trotuar la mai puțin de 5 m de o trecere pentru pietoni unde nu există linie de interdicție a opririi (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Trotuar",
+      "Trecere pentru pietoni",
+      "Linie de interdicție a opririi",
+      "Distanță",
+      "parcare",
+      "trotuar",
+      "trecere pentru pietoni"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe trotuar la mai puțin de 5 m de o trecere pentru pietoni, unde nu există linie de interdicție a opririi.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parcarea pe trotuar la mai puțin de 5 m de o trecere pentru pietoni unde nu există linie de interdicție a opririi",
+    "fine_chf": 80,
+    "keywords": [
+      "Parcare",
+      "Trotuar",
+      "Trecere pentru pietoni",
+      "Linie de interdicție a opririi",
+      "Distanță",
+      "parcare",
+      "trotuar",
+      "trecere pentru pietoni"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Parcarea pe trotuar la mai puțin de 5 m de o trecere pentru pietoni, unde nu există linie de interdicție a opririi.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parcarea într-o zonă restricționată",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Zonă restricționată",
+      "Oprire",
+      "Zonă restricționată",
+      "parcare",
+      "hașurare",
+      "zonă interzisă parcării"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Parcarea pe o zonă restricționată cu marcaj de hașurare.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Oprirea într-o zonă restricționată",
+    "fine_chf": 80,
+    "keywords": [
+      "Parcare",
+      "Zonă restricționată",
+      "Oprire",
+      "Zonă restricționată",
+      "oprire",
+      "hașurare",
+      "zonă interzisă opririi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe o zonă restricționată cu marcaj de hașurare.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parcarea pe o linie zigzag",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Linie zigzag",
+      "Oprire",
+      "Zonă de așteptare",
+      "parcare",
+      "linie zigzag",
+      "zonă de încărcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe o linie zigzag (de obicei pentru stații de autobuz sau zone de încărcare).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Obstrucționarea opririi pe o linie zigzag în scopul de a urca și coborî pasageri",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Linie zigzag",
+      "Urcare",
+      "Coborâre",
+      "Obstrucție",
+      "oprire",
+      "linie zigzag",
+      "obstrucționare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Obstrucționarea opririi pe o linie zigzag în scopul de a ridica/descărca persoane.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Oprirea pe o linie zigzag pentru manipularea mărfurilor",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Linie zigzag",
+      "Manipulare mărfuri",
+      "Zonă de livrare",
+      "oprire",
+      "linie zigzag",
+      "încărcare mărfuri"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe o linie zigzag în scopul de a încărca/dezarhiva mărfuri.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parcarea unui vehicul neautorizat într-un spațiu de parcare rezervat persoanelor cu mobilitate redusă",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Mobilitate redusă",
+      "Spațiu de parcare",
+      "Scaun cu rotile",
+      "Neautorizat",
+      "parcare",
+      "persoane cu dizabilități",
+      "handicap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea neautorizată într-un loc rezervat persoanelor cu dizabilități.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Utilizare neautorizată a „Cardului de parcare pentru persoane cu dizabilități”",
+    "fine_chf": 120,
+    "keywords": [
+      "Card de parcare",
+      "Mobilitate redusă",
+      "Abuz",
+      "Neautorizat",
+      "Permis",
+      "card de parcare",
+      "persoane cu dizabilități",
+      "utilizare incorectă"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizare neautorizată a „Permisului de parcare pentru persoane cu dizabilități”.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parcarea pe o linie de interdicție a opririi",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Linie de interdicție a opririi",
+      "Interdicție",
+      "parcare",
+      "linie de interdicție a opririi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe o linie de interdicție a opririi.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Oprirea pe o linie de interdicție a opririi",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Linie de interdicție a opririi",
+      "Interdicție",
+      "oprire",
+      "linie de interdicție a opririi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe o linie de interdicție a opririi.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcarea pe o șosea principală în afara zonelor construite: până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în afara zonelor construite",
+      "Margine de drum",
+      "parcare",
+      "șosea principală",
+      "în afara zonelor construite"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Parcarea pe o șosea principală în afara zonelor construite, până la 2 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcarea pe o șosea principală în afara zonelor construite: pentru o durată mai mare de 2, dar nu mai mare de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în afara zonelor construite",
+      "Margine de drum",
+      "parcare",
+      "șosea principală",
+      "în afara zonelor construite"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "mai mult de 2, dar nu mai mult de 4 ore",
+    "notes": "Parcarea pe o șosea principală în afara zonelor construite, pentru o durată mai mare de 2, dar nu mai mare de 4 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcarea pe o șosea principală în afara zonelor construite: pentru o durată mai mare de 4, dar nu mai mare de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în afara zonelor construite",
+      "Margine de drum",
+      "parcare",
+      "șosea principală",
+      "în afara zonelor construite"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "mai mult de 4, dar nu mai mult de 10 ore",
+    "notes": "Parcarea pe o șosea principală în afara zonelor construite, pentru o durată mai mare de 4, dar nu mai mare de 10 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcarea pe o șosea principală în interiorul zonelor construite când nu există spațiu suficient pentru trecerea a două vehicule motorizate: până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în oraș",
+      "Traversare",
+      "Obstrucție",
+      "parcare",
+      "șosea principală",
+      "în oraș",
+      "trecere"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Parcarea pe o șosea principală în interiorul zonelor construite, dacă nu există suficient spațiu pentru trecerea a două vehicule motorizate, până la 2 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcarea pe o șosea principală în interiorul zonelor construite când nu există spațiu suficient pentru trecerea a două vehicule motorizate: pentru o durată mai mare de 2, dar nu mai mare de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în oraș",
+      "Traversare",
+      "Obstrucție",
+      "parcare",
+      "șosea principală",
+      "în oraș",
+      "trecere"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "mai mult de 2, dar nu mai mult de 4 ore",
+    "notes": "Parcarea pe o șosea principală în interiorul zonelor construite, dacă nu există suficient spațiu pentru trecerea a două vehicule motorizate, pentru o durată mai mare de 2, dar nu mai mare de 4 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcarea pe o șosea principală în interiorul zonelor construite când nu există spațiu suficient pentru trecerea a două vehicule motorizate: pentru o durată mai mare de 4, dar nu mai mare de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Șosea principală",
+      "în oraș",
+      "Traversare",
+      "Obstrucție",
+      "parcare",
+      "șosea principală",
+      "în oraș",
+      "trecere"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "mai mult de 4, dar nu mai mult de 10 ore",
+    "notes": "Parcarea pe o șosea principală în interiorul zonelor construite, dacă nu există suficient spațiu pentru trecerea a două vehicule motorizate, pentru o durată mai mare de 4, dar nu mai mare de 10 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

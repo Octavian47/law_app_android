@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Detención en la acera frente a un paso de peatones junto a una línea de no detenerse",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Estacionamiento",
+      "Acera",
+      "Paso de peatones",
+      "Línea de no detenerse",
+      "detención",
+      "paso de peatones"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en la acera junto a una línea de 'No detenerse' antes de un paso de peatones.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Estacionamiento en la acera a menos de 5 m de un paso de peatones donde no hay línea de no detenerse instalada (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "Acera",
+      "Paso de peatones",
+      "Línea de no detenerse",
+      "Distancia",
+      "estacionamiento",
+      "acera",
+      "paso de peatones"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la acera a menos de 5 m de un paso de peatones, donde no hay línea de 'No detenerse'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Estacionamiento en la acera a menos de 5 m de un paso de peatones donde no hay línea de no detenerse instalada",
+    "fine_chf": 80,
+    "keywords": [
+      "Estacionamiento",
+      "Acera",
+      "Paso de peatones",
+      "Línea de no detenerse",
+      "Distancia",
+      "estacionamiento",
+      "acera",
+      "paso de peatones"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento en la acera a menos de 5 m de un paso de peatones, donde no hay línea de 'No detenerse'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Estacionamiento en un área restringida",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "Área restringida",
+      "Detención",
+      "Zona restringida",
+      "estacionamiento",
+      "Rayado",
+      "Zona de no estacionar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento en un área restringida con rayado/marcada.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Detención en un área restringida",
+    "fine_chf": 80,
+    "keywords": [
+      "Estacionamiento",
+      "Área restringida",
+      "Detención",
+      "Zona restringida",
+      "detención",
+      "Rayado",
+      "Zona de no detenerse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un área restringida con rayado/marcada.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Estacionamiento en una línea zigzag",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "Línea zigzag",
+      "Detención",
+      "Área de espera",
+      "estacionamiento",
+      "línea zigzag",
+      "zona de carga"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en una línea zigzag (a menudo para paradas de autobús o zonas de carga).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Obstrucción de la detención en una línea zigzag con el fin de embarcar y desembarcar pasajeros",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Línea zigzag",
+      "Embarque",
+      "Desembarque",
+      "Obstrucción",
+      "detención",
+      "línea zigzag",
+      "obstruyendo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Obstrucción de la detención en una línea zigzag con el fin de recoger/dejar personas.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Detención en una línea zigzag para manipulación de mercancías",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Línea zigzag",
+      "Manipulación de mercancías",
+      "Zona de entrega",
+      "detención",
+      "línea zigzag",
+      "carga de mercancías"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en una línea zigzag con el fin de cargar o descargar mercancías.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Estacionamiento de un vehículo no autorizado en un espacio de estacionamiento reservado para personas con movilidad reducida",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "Movilidad reducida",
+      "Espacio de estacionamiento",
+      "Silla de ruedas",
+      "No autorizado",
+      "estacionamiento",
+      "discapacitado",
+      "discapacidad"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento no autorizado en un espacio reservado para personas discapacitadas.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Uso no autorizado de la “Tarjeta de estacionamiento para personas discapacitadas”",
+    "fine_chf": 120,
+    "keywords": [
+      "Tarjeta de estacionamiento",
+      "Movilidad reducida",
+      "Abuso",
+      "No autorizado",
+      "Permiso",
+      "tarjeta de estacionamiento",
+      "discapacitado",
+      "uso indebido"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso no autorizado de la 'Tarjeta de permiso de estacionamiento para personas discapacitadas'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Estacionamiento en una línea de no detenerse",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "Línea de no detenerse",
+      "Prohibición",
+      "estacionamiento",
+      "línea de no detenerse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en una línea de 'No detenerse'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Detención en una línea de no detenerse",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Línea de no detenerse",
+      "Prohibición",
+      "detención",
+      "línea de no detenerse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en una línea de 'No detenerse'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionamiento en una carretera principal fuera de zonas urbanas: hasta 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "fuera de zona urbana",
+      "Borde de la carretera",
+      "estacionamiento",
+      "carretera principal",
+      "fuera de zona urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 2 horas",
+    "notes": "Estacionamiento en una carretera principal fuera de zonas urbanas, hasta 2 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionamiento en una carretera principal fuera de zonas urbanas: más de 2 pero no más de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "fuera de zona urbana",
+      "Borde de la carretera",
+      "estacionamiento",
+      "carretera principal",
+      "fuera de zona urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "más de 2 pero no más de 4 horas",
+    "notes": "Estacionamiento en una carretera principal fuera de zonas urbanas, más de 2 pero no más de 4 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionamiento en una carretera principal fuera de zonas urbanas: más de 4 pero no más de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "fuera de zona urbana",
+      "Borde de la carretera",
+      "estacionamiento",
+      "carretera principal",
+      "fuera de zona urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "más de 4 pero no más de 10 horas",
+    "notes": "Estacionamiento en una carretera principal fuera de zonas urbanas, más de 4 pero no más de 10 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionamiento en una carretera principal dentro de zonas urbanas cuando no hay espacio suficiente para que pasen dos vehículos motorizados: hasta 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "en zona urbana",
+      "Cruce",
+      "Obstrucción",
+      "estacionamiento",
+      "carretera principal",
+      "en zona urbana",
+      "pasar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "hasta 2 horas",
+    "notes": "Estacionamiento en una carretera principal dentro de zonas urbanas, si no hay suficiente espacio para que dos vehículos motorizados pasen, hasta 2 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionamiento en una carretera principal dentro de zonas urbanas cuando no hay espacio suficiente para que pasen dos vehículos motorizados: más de 2 pero no más de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "en zona urbana",
+      "Cruce",
+      "Obstrucción",
+      "estacionamiento",
+      "carretera principal",
+      "en zona urbana",
+      "pasar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "más de 2 pero no más de 4 horas",
+    "notes": "Estacionamiento en una carretera principal dentro de zonas urbanas, si no hay suficiente espacio para que dos vehículos motorizados pasen, más de 2 pero no más de 4 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionamiento en una carretera principal dentro de zonas urbanas cuando no hay espacio suficiente para que pasen dos vehículos motorizados: más de 4 pero no más de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamiento",
+      "Carretera principal",
+      "en zona urbana",
+      "Cruce",
+      "Obstrucción",
+      "estacionamiento",
+      "carretera principal",
+      "en zona urbana",
+      "pasar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor del vehículo"
+    ],
+    "conditions": "más de 4 pero no más de 10 horas",
+    "notes": "Estacionamiento en una carretera principal dentro de zonas urbanas, si no hay suficiente espacio para que dos vehículos motorizados pasen, más de 4 pero no más de 10 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

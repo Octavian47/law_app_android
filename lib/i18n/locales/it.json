@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Leggi Svizzere",
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "ok": "OK",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "delete": "Elimina",
+    "search": "Cerca",
+    "close": "Chiudi"
+  },
+  "tabs": {
+    "laws": "Leggi",
+    "search": "Ricerca",
+    "favorites": "Preferiti"
+  },
+  "home": {
+    "title": "Leggi Svizzere",
+    "subtitle": "Conosci i tuoi diritti nel traffico stradale!",
+    "categories": "Categorie",
+    "currentlyAvailable": "Attualmente disponibile",
+    "tips": "Suggerimenti",
+    "roadTrafficAct": "Legge sulla circolazione stradale (RS 741.01)",
+    "articlesIndexed": "{{count}} articoli completamente indicizzati",
+    "finesIndexed": "420 multe stradali indicizzate",
+    "languagesAvailable": "Disponibile in 18 lingue",
+    "offlineAccess": "Accesso offline e ricerca",
+    "tipContent": "Utilizzare la funzione di ricerca per trovare rapidamente articoli o argomenti specifici.",
+    "tipDescription": "Utilizzare la scheda di ricerca per trovare multe per parola chiave, importo o riferimento articolo. Toccare l'icona stella per salvare le multe come preferiti."
+  },
+  "search": {
+    "title": "Cerca multe",
+    "subtitle": "420 multe stradali ricercabili",
+    "placeholder": "Art. 27, parcheggio, CHF 40...",
+    "resultsFound": "{{count}} multa trovata",
+    "resultsFound_other": "{{count}} multe trovate",
+    "filters": {
+      "traffic": "Circolazione",
+      "criminal": "Penale",
+      "fines": "Multe",
+      "quick": "Veloce"
+    },
+    "emptyState": {
+      "title": "Cerca multe stradali",
+      "description": "Cerca per numero di articolo, parola chiave o importo CHF"
+    },
+    "noResults": {
+      "title": "Nessun risultato",
+      "description": "Nessuna multa trovata per \"{{query}}\". Prova con altre parole chiave o importi."
+    },
+    "tips": {
+      "title": "Suggerimenti di ricerca",
+      "article": "Art. 27 - Cerca per numero di articolo",
+      "keyword": "parcheggio - Cerca per parola chiave",
+      "amount": "CHF 40 - Cerca per importo della multa"
+    },
+    "inDevelopment": {
+      "title": "In sviluppo",
+      "description": "La funzione di ricerca è attualmente in fase di implementazione.\n\nRicerca di: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Preferiti",
+    "subtitle": "Le tue multe salvate",
+    "resultsCount": "{{count}} Preferito",
+    "resultsCount_other": "{{count}} Preferiti",
+    "emptyState": {
+      "title": "Nessun preferito ancora",
+      "description": "Salva multe importanti come preferiti per un accesso rapido"
+    },
+    "howTo": {
+      "title": "Come aggiungere preferiti",
+      "step1": "Apri una multa",
+      "step2": "Tocca l'icona della stella",
+      "step3": "La multa apparirà qui"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Multa non trovata",
+    "articleInformation": "Informazioni sull'articolo",
+    "violationDescription": "Descrizione della violazione",
+    "appliesTo": "Si applica a",
+    "conditions": "Condizioni",
+    "notes": "Note",
+    "keywords": "Parole chiave",
+    "labels": {
+      "article": "Articolo:",
+      "law": "Legge:",
+      "category": "Categoria:"
+    },
+    "source": "Fonte: Pagina {{page}}, Riga {{line}}",
+    "laws": {
+      "svg": "Legge sulla circolazione stradale",
+      "vrv": "Ordinanza sulle regole di circolazione",
+      "arv1": "Ordinanza sull'orario di lavoro 1",
+      "arv2": "Ordinanza sull'orario di lavoro 2",
+      "ssv": "Ordinanza sui segnali stradali"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Diritto della circolazione",
+      "description": "Registro della circolazione stradale e diritto della circolazione"
+    },
+    "criminal": {
+      "name": "Diritto penale",
+      "description": "Codice penale e procedura penale"
+    },
+    "civil": {
+      "name": "Diritto civile",
+      "description": "Codice civile e obbligazioni"
+    },
+    "commercial": {
+      "name": "Diritto commerciale",
+      "description": "Registro di commercio e diritto commerciale"
+    },
+    "administrative": {
+      "name": "Diritto amministrativo",
+      "description": "Procedimenti amministrativi e diritto pubblico"
+    },
+    "constitutional": {
+      "name": "Diritto costituzionale",
+      "description": "Costituzione federale e diritti fondamentali"
+    }
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "language": "Lingua",
+    "theme": "Tema",
+    "about": "Informazioni"
+  }
+}

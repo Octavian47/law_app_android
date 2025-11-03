@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Uso di un telefono senza dispositivo vivavoce durante la guida (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefono",
+      "telefono cellulare",
+      "dispositivo vivavoce",
+      "durante la guida",
+      "guida",
+      "telefono cellulare"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Uso di un telefono senza dispositivo vivavoce durante la guida.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Mancata indossatura delle cinture di sicurezza da parte del conducente (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "cintura di sicurezza",
+      "cintura",
+      "fissaggio",
+      "conducente del veicolo",
+      "cintura di sicurezza",
+      "conducente"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata indossatura della cintura di sicurezza da parte del conducente.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Trasporto di un bambino non assicurato sotto i 12 anni (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "bambino",
+      "sicurezza",
+      "seggiolino per bambini",
+      "trasporto",
+      "dispositivo di sicurezza",
+      "bambini"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Trasporto di un bambino non assicurato sotto i 12 anni.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Mancata indossatura del casco protettivo da parte del conducente di motocicli, veicoli leggeri, piccoli e a tre ruote (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "casco protettivo",
+      "casco",
+      "motocicletta",
+      "veicolo a motore",
+      "conducente",
+      "casco",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Conducente di motocicletta/veicolo leggero/piccolo/a tre ruote che non indossa il casco protettivo.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Trasporto di un bambino sotto i 12 anni senza casco su motocicli, veicoli leggeri, piccoli e a tre ruote (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "bambino",
+      "casco",
+      "motocicletta",
+      "trasporto",
+      "casco protettivo",
+      "bambini",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Trasporto di un bambino sotto i 12 anni senza casco su motocicletta/veicolo leggero/piccolo/a tre ruote.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Mancato utilizzo della corsia più a destra su strade a più corsie, salvo sorpasso, immissione, guida in colonne parallele o all'interno di aree urbane (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "corsia",
+      "guida a destra",
+      "corsia più a destra",
+      "sorpasso",
+      "uso della corsia",
+      "tenere a destra"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancato utilizzo della corsia più a destra su strade a più corsie, salvo sorpasso, immissione, guida in colonne parallele o guida all'interno di un'area urbana.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Sorpasso a destra sterzando fuori e rientrando su strade a più corsie all'interno di aree urbane (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "sorpasso a destra",
+      "all'interno di area urbana",
+      "cambio di corsia",
+      "sorpasso a destra",
+      "area urbana",
+      "cambio di corsia"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sorpasso a destra sterzando fuori e rientrando su strade a più corsie all'interno di aree urbane.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Sorpasso a destra sterzando fuori e rientrando su autostrade e superstrade a più corsie (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "sorpasso a destra",
+      "superstrada",
+      "autostrada",
+      "cambio di corsia",
+      "sorpasso a destra",
+      "autostrada",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sorpasso a destra sterzando fuori e rientrando su superstrade e autostrade a più corsie.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Cambio di corsia per sorpassare su una strada a corsia singola (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "sorpasso",
+      "cambio di corsia",
+      "strada a corsia singola",
+      "sorpasso",
+      "cambio di corsia",
+      "strada a corsia singola"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Cambio di corsia per sorpassare su una sezione di strada a corsia singola.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Fermarsi o parcheggiare sul lato sinistro della strada, anche se non vi sono binari tram, non è segnalato divieto di parcheggio o sosta e la strada è larga (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "fermata",
+      "parcheggio",
+      "lato sinistro della strada",
+      "parcheggio",
+      "fermata",
+      "lato sbagliato"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermarsi o parcheggiare sul lato sinistro della strada, nonostante l'assenza di binari tram, segnaletica di divieto di parcheggio o sosta e la larghezza della strada.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Lasciare il veicolo senza rimuovere la chiave di accensione (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "abbandono del veicolo",
+      "chiave di accensione",
+      "chiave",
+      "chiave di accensione",
+      "abbandono del veicolo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Abbandonare il veicolo senza rimuovere la chiave di accensione.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Mancata sistemazione del triangolo di emergenza (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "segnale di guasto",
+      "triangolo di emergenza",
+      "installazione",
+      "triangolo di emergenza",
+      "guasto"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata installazione del triangolo di emergenza (segnale di guasto).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Installazione scorretta del triangolo di emergenza (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "segnale di guasto",
+      "triangolo di emergenza",
+      "installazione",
+      "non conforme",
+      "triangolo di emergenza",
+      "guasto"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Installazione del triangolo di emergenza (segnale di guasto) in violazione delle norme (ad es., troppo vicino).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Uso abusivo delle luci di emergenza su veicolo fermo (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "luci di emergenza",
+      "luci di emergenza",
+      "uso improprio",
+      "veicolo fermo",
+      "luci di emergenza",
+      "veicolo fermo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso improprio delle luci di emergenza su un veicolo fermo.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Uso abusivo delle luci di emergenza su veicolo in movimento (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "luci di emergenza",
+      "luci di emergenza",
+      "uso improprio",
+      "veicolo in movimento",
+      "luci di emergenza",
+      "veicolo in movimento"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso improprio delle luci di emergenza su un veicolo in movimento.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Mancata fissazione del triangolo di emergenza sul retro di un veicolo trainato (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "segnale di guasto",
+      "veicolo trainato",
+      "retro",
+      "triangolo di emergenza",
+      "veicolo trainato",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata fissazione del triangolo di emergenza sul retro del veicolo trainato.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

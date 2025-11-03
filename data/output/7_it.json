@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Fermarsi sul marciapiede di fronte a un attraversamento pedonale accanto a una linea di divieto di sosta",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Parcheggio",
+      "Marciapiede",
+      "Attraversamento pedonale",
+      "Linea di divieto di sosta",
+      "fermata",
+      "attraversamento pedonale"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermarsi sul marciapiede accanto a una linea di 'Divieto di sosta' prima di un attraversamento pedonale.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parcheggio sul marciapiede a meno di 5 metri da un attraversamento pedonale dove non è installata alcuna linea di divieto di sosta (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "Marciapiede",
+      "Attraversamento pedonale",
+      "Linea di divieto di sosta",
+      "Distanza",
+      "parcheggio",
+      "marciapiede",
+      "attraversamento pedonale"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sul marciapiede a meno di 5 metri da un attraversamento pedonale, dove non è presente alcuna linea di 'Divieto di sosta'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parcheggio sul marciapiede a meno di 5 metri da un attraversamento pedonale dove non è installata alcuna linea di divieto di sosta",
+    "fine_chf": 80,
+    "keywords": [
+      "Parcheggio",
+      "Marciapiede",
+      "Attraversamento pedonale",
+      "Linea di divieto di sosta",
+      "Distanza",
+      "parcheggio",
+      "marciapiede",
+      "attraversamento pedonale"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio sul marciapiede a meno di 5 metri da un attraversamento pedonale, dove non è presente alcuna linea di 'Divieto di sosta'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parcheggio in un'area riservata",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "Area riservata",
+      "Fermata",
+      "Zona riservata",
+      "parcheggio",
+      "tratteggio",
+      "area di divieto di parcheggio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio in un'area riservata tratteggiata/marcata.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Fermarsi in un'area riservata",
+    "fine_chf": 80,
+    "keywords": [
+      "Parcheggio",
+      "Area riservata",
+      "Fermata",
+      "Zona riservata",
+      "fermata",
+      "tratteggio",
+      "area di divieto di sosta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermarsi in un'area riservata tratteggiata/marcata.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parcheggio su una linea a zigzag",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "Linea a zigzag",
+      "Fermata",
+      "Area di attesa",
+      "parcheggio",
+      "linea a zigzag",
+      "zona di carico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su una linea a zigzag (spesso per fermate autobus o zone di carico).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Ostruire la sosta su una linea a zigzag per l'imbarco e lo sbarco dei passeggeri",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Linea a zigzag",
+      "Imbarco",
+      "Sbarco",
+      "Ostruzione",
+      "fermata",
+      "linea a zigzag",
+      "ostruendo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ostruire la sosta su una linea a zigzag per il prelievo/lasciapassare delle persone.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Fermarsi su una linea a zigzag per la movimentazione merci",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Linea a zigzag",
+      "Movimentazione merci",
+      "Zona di consegna",
+      "fermata",
+      "linea a zigzag",
+      "carico merci"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermarsi su una linea a zigzag per il carico/scarico delle merci.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parcheggio di un veicolo non autorizzato in uno spazio di parcheggio riservato a persone con mobilità ridotta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "Mobilità ridotta",
+      "Spazio di parcheggio",
+      "Sedia a rotelle",
+      "Non autorizzato",
+      "parcheggio",
+      "disabile",
+      "handicap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio non autorizzato in un posto riservato a persone disabili.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Uso non autorizzato della “Carta di parcheggio per persone disabili”",
+    "fine_chf": 120,
+    "keywords": [
+      "Carta di parcheggio",
+      "Mobilità ridotta",
+      "Abuso",
+      "Non autorizzato",
+      "Permesso",
+      "carta di parcheggio",
+      "disabile",
+      "uso improprio"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso non autorizzato del 'Permesso di parcheggio per persone disabili'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parcheggio su una linea di divieto di sosta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "Linea di divieto di sosta",
+      "Divieto",
+      "parcheggio",
+      "linea di divieto di sosta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su una linea di 'Divieto di sosta'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Fermarsi su una linea di divieto di sosta",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Linea di divieto di sosta",
+      "Divieto",
+      "fermata",
+      "linea di divieto di sosta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermarsi su una linea di 'Divieto di sosta'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcheggio su una strada principale fuori dalle aree urbane: fino a 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "fuori dall'area urbana",
+      "Lato della strada",
+      "parcheggio",
+      "strada principale",
+      "fuori dall'area urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 2 ore",
+    "notes": "Parcheggio su una strada principale fuori dalle aree urbane, fino a 2 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcheggio su una strada principale fuori dalle aree urbane: più di 2 ma non più di 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "fuori dall'area urbana",
+      "Lato della strada",
+      "parcheggio",
+      "strada principale",
+      "fuori dall'area urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "più di 2 ma non più di 4 ore",
+    "notes": "Parcheggio su una strada principale fuori dalle aree urbane, per più di 2 ma non più di 4 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parcheggio su una strada principale fuori dalle aree urbane: più di 4 ma non più di 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "fuori dall'area urbana",
+      "Lato della strada",
+      "parcheggio",
+      "strada principale",
+      "fuori dall'area urbana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "più di 4 ma non più di 10 ore",
+    "notes": "Parcheggio su una strada principale fuori dalle aree urbane, per più di 4 ma non più di 10 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcheggio su una strada principale all'interno delle aree urbane quando non c'è spazio sufficiente per il passaggio di due veicoli a motore: fino a 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "in città",
+      "Attraversamento",
+      "Ostruzione",
+      "parcheggio",
+      "strada principale",
+      "in città",
+      "passaggio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 2 ore",
+    "notes": "Parcheggio su una strada principale all'interno delle aree urbane, se non c'è spazio sufficiente per il passaggio di due veicoli a motore, fino a 2 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcheggio su una strada principale all'interno delle aree urbane quando non c'è spazio sufficiente per il passaggio di due veicoli a motore: più di 2 ma non più di 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "in città",
+      "Attraversamento",
+      "Ostruzione",
+      "parcheggio",
+      "strada principale",
+      "in città",
+      "passaggio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "più di 2 ma non più di 4 ore",
+    "notes": "Parcheggio su una strada principale all'interno delle aree urbane, se non c'è spazio sufficiente per il passaggio di due veicoli a motore, per più di 2 ma non più di 4 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parcheggio su una strada principale all'interno delle aree urbane quando non c'è spazio sufficiente per il passaggio di due veicoli a motore: più di 4 ma non più di 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcheggio",
+      "Strada principale",
+      "in città",
+      "Attraversamento",
+      "Ostruzione",
+      "parcheggio",
+      "strada principale",
+      "in città",
+      "passaggio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "più di 4 ma non più di 10 ore",
+    "notes": "Parcheggio su una strada principale all'interno delle aree urbane, se non c'è spazio sufficiente per il passaggio di due veicoli a motore, per più di 4 ma non più di 10 ore.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Ligjet Zviceriane",
+    "loading": "Duke ngarkuar...",
+    "error": "Gabim",
+    "ok": "OK",
+    "cancel": "Anulo",
+    "save": "Ruaj",
+    "delete": "Fshij",
+    "search": "Kërko",
+    "close": "Mbyll"
+  },
+  "tabs": {
+    "laws": "Ligjet",
+    "search": "Kërko",
+    "favorites": "Të preferuarat"
+  },
+  "home": {
+    "title": "Ligjet Zviceriane",
+    "subtitle": "Njihuni me të drejtat tuaja në trafik!",
+    "categories": "Kategoritë",
+    "currentlyAvailable": "Aktualisht në dispozicion",
+    "tips": "Këshilla",
+    "roadTrafficAct": "Ligji i Trafikut Rrugor (SR 741.01)",
+    "articlesIndexed": "{{count}} artikuj të indeksuar plotësisht",
+    "finesIndexed": "420 gjoba të trafikut të indeksuara",
+    "languagesAvailable": "Në dispozicion në 18 gjuhë",
+    "offlineAccess": "Qasje offline dhe kërkim",
+    "tipContent": "Përdorni funksionin e kërkimit për të gjetur shpejt artikuj ose tema specifike.",
+    "tipDescription": "Përdorni skedën e kërkimit për të gjetur gjoba sipas fjalës kyçe, shumës ose referencës së artikullit. Prekni ikonën e yllit për të ruajtur gjoba si të preferuara."
+  },
+  "search": {
+    "title": "Kërko gjoba",
+    "subtitle": "420 gjoba trafiku të kërkueshëm",
+    "placeholder": "Art. 27, parkim, CHF 40...",
+    "resultsFound": "{{count}} gjobë e gjetur",
+    "resultsFound_other": "{{count}} gjoba të gjetura",
+    "filters": {
+      "traffic": "Trafik",
+      "criminal": "Kriminal",
+      "fines": "Gjoba",
+      "quick": "I shpejtë"
+    },
+    "emptyState": {
+      "title": "Kërko gjoba të trafikut",
+      "description": "Kërko sipas numrit të artikullit, fjalë kyçe ose shumës CHF"
+    },
+    "noResults": {
+      "title": "Nuk ka rezultate",
+      "description": "Nuk u gjetën gjoba për \"{{query}}\". Provo me fjalë të tjera kyçe ose shuma."
+    },
+    "tips": {
+      "title": "Këshilla për Kërkimin",
+      "article": "Art. 27 - Kërko sipas numrit të artikullit",
+      "keyword": "parkim - Kërko sipas fjalë kyçe",
+      "amount": "CHF 40 - Kërko sipas shumës së gjobës"
+    },
+    "inDevelopment": {
+      "title": "Në Zhvillim",
+      "description": "Funksioni i kërkimit aktualisht po zbatohet.\n\nKërkohet për: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Të preferuarat",
+    "subtitle": "Gjobat tuaja të ruajtura",
+    "resultsCount": "{{count}} i preferuar",
+    "resultsCount_other": "{{count}} të preferuara",
+    "emptyState": {
+      "title": "Ende Pa të Preferuara",
+      "description": "Ruani gjoba të rëndësishme si të preferuara për qasje të shpejtë"
+    },
+    "howTo": {
+      "title": "Si të Shtoni në Të Preferuarat",
+      "step1": "Hapni një gjobë",
+      "step2": "Trokitni ikonën e yllit",
+      "step3": "Gjoba do të shfaqet këtu"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Gjobë e pagueshme nuk u gjet",
+    "articleInformation": "Informacioni i artikullit",
+    "violationDescription": "Përshkrimi i shkeljes",
+    "appliesTo": "Aplikohet për",
+    "conditions": "Kushtet",
+    "notes": "Shënime",
+    "keywords": "Fjalët kyçe",
+    "labels": {
+      "article": "Artikulli:",
+      "law": "Ligji:",
+      "category": "Kategoria:"
+    },
+    "source": "Burimi: Faqja {{page}}, Rreshti {{line}}",
+    "laws": {
+      "svg": "Ligji për Qarkullimin Rrugor",
+      "vrv": "Urdhëresë për Rregullat e Qarkullimit",
+      "arv1": "Urdhëresë për Orët e Punës 1",
+      "arv2": "Urdhëresë për Orët e Punës 2",
+      "ssv": "Urdhëresë për Shenjat e Qarkullimit"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Ligji i Trafikut",
+      "description": "Regjistri i Trafikut Rrugor dhe Ligji i Trafikut"
+    },
+    "criminal": {
+      "name": "Ligji Penal",
+      "description": "Kodi Penal dhe Procedura Penale"
+    },
+    "civil": {
+      "name": "Ligji Civil",
+      "description": "Kodi Civil dhe Detyrimet"
+    },
+    "commercial": {
+      "name": "Ligji i Tregtimit",
+      "description": "Regjistri Komercial dhe Ligji i Tregtimit"
+    },
+    "administrative": {
+      "name": "Ligji Administrativ",
+      "description": "Procedurat Administrative dhe Ligji Publik"
+    },
+    "constitutional": {
+      "name": "Ligji Kushtetutësor",
+      "description": "Kushtetuta Federale dhe të Drejtë të Thelbësore"
+    }
+  },
+  "settings": {
+    "title": "Cilësimet",
+    "language": "Gjuha",
+    "theme": "Tema",
+    "about": "Rreth"
+  }
+}

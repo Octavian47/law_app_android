@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autostrăzi (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 și 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autostradă",
+      "Semi-autostradă",
+      "Utilizare",
+      "VRV 50a",
+      "Restricție"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizare neautorizată a semi-autostrăzilor (se aplică adesea pentru tipuri specifice de vehicule sau dispozitive).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Ocolirea, escaladarea sau târârea sub bariere sau jumătăți de barieră",
+    "fine_chf": 20,
+    "keywords": [
+      "Bariere",
+      "Jumătăți de barieră",
+      "Bariere",
+      "Trecere feroviară",
+      "Trecere la nivel",
+      "Ocolire"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Utilizator de drum"
+    ],
+    "conditions": null,
+    "notes": "Ocolirea, escaladarea sau târârea sub bariere sau jumătăți de barieră.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Utilizarea pistei pentru biciclete de către pietoni, când\n1. există trotuar",
+    "fine_chf": 10,
+    "keywords": [
+      "Pieton",
+      "Pistă pentru biciclete",
+      "Trotuar",
+      "Trotuar",
+      "Pieton",
+      "Pistă pentru biciclete"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pietoni"
+    ],
+    "conditions": "Trotuar prezent",
+    "notes": "Utilizarea pistei pentru biciclete când există trotuar.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Utilizarea pistei pentru biciclete de către pietoni, când\n2. există cărare pietonală",
+    "fine_chf": 10,
+    "keywords": [
+      "Pieton",
+      "Pistă pentru biciclete",
+      "Cărare pietonală",
+      "Trotuar",
+      "Pieton",
+      "Pistă pentru biciclete"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pietoni"
+    ],
+    "conditions": "Cărare pietonală prezentă",
+    "notes": "Utilizarea pistei pentru biciclete când există o cărare pietonală dedicată.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Conducerea fără lumini",
+    "fine_chf": 20,
+    "keywords": [
+      "Lumină",
+      "Iluminare",
+      "Conducere",
+      "E-scooter",
+      "Dispozitive asemănătoare vehiculelor",
+      "Echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operator de dispozitive (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Conducerea fără iluminarea necesară (se aplică în principal la e-scooter/equivalente).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Împiedicarea utilizării zonelor de trafic destinate pietonilor",
+    "fine_chf": 20,
+    "keywords": [
+      "Pieton",
+      "Zone de trafic",
+      "Obstrucție",
+      "Trotuar",
+      "Împiedicare",
+      "Dispozitive VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Dispozitive (VRV 50a)",
+      "Utilizatori de drum"
+    ],
+    "conditions": null,
+    "notes": "Împiedicarea utilizării zonelor de trafic destinate pietonilor.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Împiedicarea utilizării carosabilului pe drumuri secundare cu calmare a traficului",
+    "fine_chf": 20,
+    "keywords": [
+      "Drumuri secundare",
+      "Carosabil",
+      "Obstrucție",
+      "Flux de trafic",
+      "Drum secundar",
+      "Dispozitive (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Dispozitive (VRV 50a)",
+      "Utilizatori de drum"
+    ],
+    "conditions": null,
+    "notes": "Împiedicarea fluxului de trafic pe drumuri secundare cu calmare a traficului.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorarea semnalului 'Interdicție pentru dispozitive asemănătoare vehiculelor'",
+    "fine_chf": 20,
+    "keywords": [
+      "Semnal",
+      "Interdicție",
+      "Dispozitive asemănătoare vehiculelor",
+      "E-scooter",
+      "Semnalizare",
+      "Semn de circulație"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului rutier specific care interzice dispozitivele asemănătoare vehiculelor.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Utilizarea dispozitivelor asemănătoare vehiculelor pe zone de trafic neautorizate",
+    "fine_chf": 20,
+    "keywords": [
+      "Dispozitive asemănătoare vehiculelor",
+      "E-scooter",
+      "Zone de trafic",
+      "Utilizare neautorizată",
+      "Restricție"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea dispozitivelor (cum ar fi e-scooter-ele) pe zone de trafic unde nu sunt permise.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Nerespectarea acordării priorității pietonilor",
+    "fine_chf": 30,
+    "keywords": [
+      "Prioritate de trecere",
+      "Pieton",
+      "Prioritate",
+      "Prioritate",
+      "Pieton",
+      "Dispozitive (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea acordării priorității pietonilor (se aplică utilizatorilor de dispozitive speciale).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

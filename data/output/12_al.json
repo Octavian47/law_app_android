@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Kthim i kundërt i ndaluar (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Kthim i kundërt i ndaluar",
+      "Kthim i kundërt i ndaluar",
+      "Sinjal 2.46",
+      "Kthim",
+      "Sinjal rregullator"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Zinxhira për dëborë të detyrueshme (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zinxhira për dëborë",
+      "i detyrueshëm",
+      "Zinxhira për dëborë",
+      "i detyrueshëm",
+      "Sinjal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Zonë për këmbësorë (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zonë për këmbësorë",
+      "Zonë për këmbësorë",
+      "Ndalohet hyrja",
+      "Sinjal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Hyrje e paautorizuar në zonën për këmbësorë.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Rruga për biçikleta (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Rruga për biçikleta",
+      "Rruga për biçikleta",
+      "Kalimi i ndaluar",
+      "Sinjal 2.60",
+      "Udhëzimi i ndaluar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit (përveç biçikletave)"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një rruge të rezervuar ekskluzivisht për biçikleta.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Rruga për këmbësorë (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Rruga për këmbësorë",
+      "Rruga për këmbësorë",
+      "Kalimi i ndaluar",
+      "Sinjal 2.61",
+      "Udhëzimi i ndaluar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit (përveç këmbësorëve)"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një rruge të rezervuar ekskluzivisht për këmbësorë.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Rruga për biçikleta dhe këmbësorë (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Rruga për biçikleta dhe këmbësorë",
+      "Rrugë e kombinuar",
+      "Kalimi i ndaluar",
+      "Sinjal 2.63",
+      "Udhëzimi i ndaluar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit (përveç biçikletave/këmbësorëve)"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një rruge të rezervuar për biçikleta dhe këmbësorë.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Ndalohet përdorimi i trailer-it, përveç trailer-ëve me sedilë dhe me bosht qendror (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Ndalohet përdorimi i trailer-it",
+      "Ndalohet përdorimi i trailer-it",
+      "Trailer me sedilë",
+      "Trailer me bosht qendror",
+      "Sinjal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit (me trailer)"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqja me një lloj trailer-i të ndaluar.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Mosrespektimi i sinjalit rregullator “Nuk lejohet kalimi për kamionë” në autostradë (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Ndalohet kalimi",
+      "Kamion",
+      "Autostradë",
+      "Kamion",
+      "Ndalohet kalimi",
+      "Sinjal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues kamioni"
+    ],
+    "conditions": null,
+    "notes": "Kalim i paligjshëm nga kamioni në autostradë ku është i ndaluar.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Udhëheqja në shiritin e tramvajit",
+    "fine_chf": 60,
+    "keywords": [
+      "Shirit tramvaji",
+      "Shirit tramvaji",
+      "Kalimi në të ndaluar",
+      "Rruge speciale",
+      "Shiritat e tramvajit"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Shkelja e disiplinës së lane-it duke injoruar shigjetën e drejtimit të shënuar",
+    "fine_chf": 100,
+    "keywords": [
+      "Disiplina e lane-it",
+      "Shigjeta e drejtimit",
+      "Shënimi i rrugës",
+      "Disiplina e lane-it",
+      "Shigjeta e shënuar",
+      "Injorim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shigjetave të lane-it/disiplinës.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Shkelja e disiplinës së lane-it duke injoruar shigjetën kontur të sistemit të semaforit",
+    "fine_chf": 100,
+    "keywords": [
+      "Disiplina e lane-it",
+      "Shigjeta kontur",
+      "Sistemi i semaforit",
+      "Semafor",
+      "Shigjeta e sinjalit",
+      "Disiplina e lane-it"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shigjetës së drejtimit të shfaqur në semaforë.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Mosvazhdimi i udhëheqjes në drejtimin e shigjetës (duke përfshirë kalimin e mundshëm të një linje të sigurisë që ndan lane-et në të njëjtën drejtim [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Drejtimi i shigjetës",
+      "Mosvazhdim i udhëheqjes",
+      "Linja e sigurisë",
+      "Drejtimi i detyrueshëm",
+      "Linja e vazhdueshme",
+      "Kalimi"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mosndjekja e drejtimit të detyrueshëm të lane-it të shfaqur me shigjetë (duke përfshirë kalimin e një linje të vazhdueshme për ta shmangur).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Shkelja e disiplinës së lane-it duke injoruar bashkimin zip",
+    "fine_chf": 100,
+    "keywords": [
+      "Disiplina e lane-it",
+      "Bashkimi zip",
+      "Bashkim",
+      "Bashkim zip",
+      "Fund i lane-it",
+      "Injorim"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mosbërja e bashkimit zip kur përfundojnë lane-et.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Udhëheqja në lane autobusi",
+    "fine_chf": 60,
+    "keywords": [
+      "Lane autobusi",
+      "Lane autobusi",
+      "Lane speciale",
+      "Përdorim i paautorizuar"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit (përveç autobusi)"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqja në një lane të shënuar për autobus.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Udhëheqja në rrugën e autobusëve",
+    "fine_chf": 60,
+    "keywords": [
+      "Rrugë autobusi",
+      "Rrugë autobusi",
+      "Lane speciale",
+      "Përdorim i paautorizuar"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit (përveç autobusi)"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqja në një rrugë/përshteg të caktuar për autobusë (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Ndalim i paplotë në sinjalet e ndalimit (ndalim rrotullues) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Sinjali i ndalimit",
+      "Ndalim rrotullues",
+      "Ndalim",
+      "Shenja e ndalimit",
+      "Mungesë e ndalimit",
+      "Sinjal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Një 'ndalim rrotullues' ku mjeti nuk ndalon plotësisht në vijën e ndalimit.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Mosrespektimi i semaforit",
+    "fine_chf": 250,
+    "keywords": [
+      "Semafor",
+      "Drita e kuqe",
+      "Semafor",
+      "Injorim",
+      "Drita e kuqe",
+      "Sinjal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e përgjithshme për kalimin e dritës së kuqe ose shkelje të barabartë të sinjalit të trafikut.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Mosrespektimi i një \"sinjali të dritës së ndezur në mënyrë alternuese\" (3.20) ose një \"sinjali të dritës së ndezur thjeshtë\" (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Sinjal i dritës së ndezur në mënyrë alternuese",
+      "Sinjal i dritës së ndezur thjeshtë",
+      "Sinjal i dridhur",
+      "Kryqëzimi hekurudhor",
+      "Kryqëzimi në nivel",
+      "Sinjal 3.20",
+      "Sinjal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i sinjaleve të ndriçimit, zakonisht të përdorura në kryqëzime hekurudhore ose pika kritike të rrezikut.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Kalimi në lane të biçikletave të shënuar me linjë të vazhdueshme",
+    "fine_chf": 60,
+    "keywords": [
+      "Lane biçikleta",
+      "Linje e vazhdueshme",
+      "Lane biçikleta",
+      "Linje e ngurtë",
+      "Kalimi i ndaluar",
+      "Kalimi"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit (përveç biçikletave)"
+    ],
+    "conditions": null,
+    "notes": "Kalimi ose udhëheqja mbi një lane të biçikletave të shënuar me një linjë të bardhë të ngurtë.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

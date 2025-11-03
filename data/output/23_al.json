@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autostrada (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autostradë",
+      "Gjysmë-autostradë",
+      "Përdorim",
+      "VRV 50a",
+      "Kufizim"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i paautorizuar i gjysmë-autostradave (shpesh aplikohet për lloje specifike të mjeteve ose pajisjeve).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Anashkalim, ngjitje mbi ose rrëshqitje nën barrierë ose barrierë të gjysmë",
+    "fine_chf": 20,
+    "keywords": [
+      "Barrierë",
+      "Barrierë të gjysmë",
+      "Barrierë",
+      "Kryqëzim hekurudhor",
+      "Kryqëzim i nivelit",
+      "Anashkalim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Përdorues i rrugës"
+    ],
+    "conditions": null,
+    "notes": "Anashkalim, ngjitje mbi ose rrëshqitje nën barrierë ose barrierë të gjysmë.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Përdorimi i një rruge për biçikleta nga këmbësorët, kur\n1. një trotuar është i pranishëm",
+    "fine_chf": 10,
+    "keywords": [
+      "Këmbësor",
+      "Rrugë për biçikleta",
+      "Trotuar",
+      "Trotuar",
+      "Këmbësor",
+      "Rrugë për biçikleta"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësorë"
+    ],
+    "conditions": "Trotuar i pranishëm",
+    "notes": "Përdorimi i rrugës për biçikleta kur është i disponueshëm një trotuar.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Përdorimi i një rruge për biçikleta nga këmbësorët, kur\n2. një shteg këmbësor është i pranishëm",
+    "fine_chf": 10,
+    "keywords": [
+      "Këmbësor",
+      "Rrugë për biçikleta",
+      "Shteg këmbësor",
+      "Trotuar",
+      "Këmbësor",
+      "Rrugë për biçikleta"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësorë"
+    ],
+    "conditions": "Shteg këmbësor i pranishëm",
+    "notes": "Përdorimi i rrugës për biçikleta kur është i disponueshëm një shteg këmbësor i dedikuar.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Udhëtime pa drita",
+    "fine_chf": 20,
+    "keywords": [
+      "Dritë",
+      "Ndriçim",
+      "Udhëtime",
+      "E-skuter",
+      "Pajisje të ngjashme me mjetet",
+      "Pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operator i pajisjeve (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime pa ndriçimin e kërkuar (zbaton kryesisht për e-skuterë/pajisje të ngjashme).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Pengim i përdorimit të zonave të trafikut të destinuara për këmbësorët",
+    "fine_chf": 20,
+    "keywords": [
+      "Këmbësor",
+      "Zona trafiku",
+      "Pengim",
+      "Trotuar",
+      "Pengim",
+      "Pajisje VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pajisje (VRV 50a)",
+      "Përdorues të rrugës"
+    ],
+    "conditions": null,
+    "notes": "Pengim i përdorimit të zonave të trafikut të destinuara për këmbësorët.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Pengim i përdorimit të rrugës në rrugë dytësore me trafikun e qetësuar",
+    "fine_chf": 20,
+    "keywords": [
+      "Rrugë dytësore",
+      "Rrugë",
+      "Pengim",
+      "Rrjedhja e trafikut",
+      "Rrugë dytësore",
+      "Pajisje (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pajisje (VRV 50a)",
+      "Përdorues të rrugës"
+    ],
+    "conditions": null,
+    "notes": "Pengim i rrjedhjes së trafikut në rrugë dytësore me trafikun e qetësuar.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Injorimi i sinjalit 'Ndaloje për pajisje të ngjashme me mjetet'",
+    "fine_chf": 20,
+    "keywords": [
+      "Sinjal",
+      "Ndaloje",
+      "Pajisje të ngjashme me mjetet",
+      "E-skuter",
+      "Sinjalizim",
+      "Shenjë trafiku"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës specifike të rrugës që ndalon pajisjet e ngjashme me mjetet.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Përdorimi i pajisjeve të ngjashme me mjetet në zona trafiku të paautorizuara",
+    "fine_chf": 20,
+    "keywords": [
+      "Pajisje të ngjashme me mjetet",
+      "E-skuter",
+      "Zona trafiku",
+      "Përdorim i paautorizuar",
+      "Kufizim"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i pajisjeve (si e-skuterë) në zona trafiku ku nuk lejohet.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Mungesa e dhënies së prioritetit për këmbësorët",
+    "fine_chf": 30,
+    "keywords": [
+      "E drejta e kalimit",
+      "Këmbësor",
+      "Prioritet",
+      "Prioritet",
+      "Këmbësor",
+      "Pajisje (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e dhënies së prioritetit për këmbësorët (zbaton për përdoruesit e pajisjeve speciale).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

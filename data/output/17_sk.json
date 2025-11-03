@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Jazda bez povinných kontrolných značiek okrem obchodných značiek (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolná značka",
+      "poznávacia značka",
+      "poznávacia značka",
+      "jazda",
+      "chýbajúca",
+      "vodič"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez povinných poznávacích značiek (okrem obchodných značiek).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Jazda bez značky maximálnej rýchlosti (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximálna rýchlosť",
+      "značka",
+      "značka maximálnej rýchlosti",
+      "chýbajúca",
+      "jazda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Jazda vozidla, ktoré vyžaduje, ale nemá povinnú značku rýchlosti.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Jazda bez zadnej označovacej značky (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "zadná označovacia značka",
+      "zadná označovacia značka",
+      "chýbajúca",
+      "jazda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Jazda vozidla, ktoré vyžaduje, ale nemá povinnú zadnú označovaciu značku (napr. pomalé vozidlá).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Prevádzka motocyklu bez trvalo pripevnených odraziek (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocykl",
+      "odrazka",
+      "odrazka",
+      "motocykl",
+      "chýbajúca"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič (motocykl)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Vykonávanie prepravy nebezpečného tovaru s chýbajúcim, neúplným alebo nevyhovujúcim komponentom vybavenia (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "nebezpečný tovar",
+      "ADR",
+      "nebezpečný tovar",
+      "vybavenie",
+      "profesionálny vodič",
+      "chýbajúca"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vodič (preprava nebezpečného tovaru)"
+    ],
+    "conditions": null,
+    "notes": "Chýbajúce, neúplné alebo nevyhovujúce vybavenie počas prepravy nebezpečného tovaru.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Neoznámenie alebo oneskorené oznamovanie skutočností, ktoré vyžadujú zmenu alebo výmenu povolenia alebo oprávnenia (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "oznamovanie",
+      "povolenie",
+      "oprávnenie",
+      "zmena",
+      "oznámenie",
+      "dokumentácia",
+      "majiteľ vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoznámenie vlastníkom/držiteľom zmien vyžadujúcich úpravu alebo výmenu dokumentov.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekročenie predpísaného termínu povinného emisného servisu: až do 1 mesiaca",
+    "fine_chf": 40,
+    "keywords": [
+      "emisný servis",
+      "emisný servis",
+      "meškanie",
+      "termín",
+      "údržba",
+      "majiteľ vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": "až do 1 mesiaca",
+    "notes": "Povinný emisný servis meškajúci až do 1 mesiaca.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekročenie predpísaného termínu povinného emisného servisu: viac ako 1 mesiac, ale nie viac ako 3 mesiace",
+    "fine_chf": 100,
+    "keywords": [
+      "emisný servis",
+      "emisný servis",
+      "meškanie",
+      "termín",
+      "údržba",
+      "majiteľ vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": "viac ako 1 mesiac, ale nie viac ako 3 mesiace",
+    "notes": "Povinný emisný servis meškajúci medzi 1 a 3 mesiacmi.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekročenie predpísaného termínu povinného emisného servisu: viac ako 3 mesiace, ale nie viac ako 6 mesiacov",
+    "fine_chf": 200,
+    "keywords": [
+      "emisný servis",
+      "emisný servis",
+      "meškanie",
+      "termín",
+      "údržba",
+      "majiteľ vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": "viac ako 3 mesiace, ale nie viac ako 6 mesiacov",
+    "notes": "Povinný emisný servis meškajúci medzi 3 a 6 mesiacmi.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Uvedenie motorového vozidla do obehu s vadným pneumatikom (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneumatika",
+      "vadná",
+      "pneumatika",
+      "chybná",
+      "uvádzanie",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Majiteľ umožňuje motorovému vozidlu s vadnými pneumatikami byť uvedené do obehu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Uvedenie prívesu do obehu s vadným pneumatikom (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneumatika",
+      "vadná",
+      "príves",
+      "príves",
+      "uvádzanie",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Majiteľ umožňuje prívesu s vadnými pneumatikami byť uvedený do obehu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nedodržanie pripojenia značky rýchlosti pri používaní vozidla s hrotovanými pneumatikami (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "značka rýchlosti",
+      "hrotované pneumatiky",
+      "hrotované pneumatiky",
+      "značka rýchlosti",
+      "chýbajúca",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Majiteľ nepripojí požadovanú značku rýchlosti pri použití hrotovaných pneumatík.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nesprávna inštalácia značky rýchlosti pri používaní vozidla s hrotovanými pneumatikami (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "značka rýchlosti",
+      "hrotované pneumatiky",
+      "hrotované pneumatiky",
+      "značka rýchlosti",
+      "inštalácia",
+      "nevyhovujúca"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nevyhovujúce pripojenie značky rýchlosti pri použití hrotovaných pneumatík.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Nedodržanie odstránenia značky rýchlosti, hoci sa nepoužívajú hrotované pneumatiky (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "značka rýchlosti",
+      "hrotované pneumatiky",
+      "značka rýchlosti",
+      "odstránenie",
+      "odstránenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Majiteľ neodstráni značku rýchlosti, keď sa už hrotované pneumatiky nepoužívajú.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nedodržanie pripevnenia požadovaných kontrolných značiek okrem obchodných značiek (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolná značka",
+      "poznávacia značka",
+      "poznávacia značka",
+      "inštalácia",
+      "chýbajúca",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie vlastníkom pripevnenia požadovaných poznávacích značiek (okrem obchodných značiek).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nesprávna inštalácia kontrolných značiek (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolná značka",
+      "poznávacia značka",
+      "poznávacia značka",
+      "inštalácia",
+      "nevyhovujúca",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nevyhovujúca metóda pripevnenia poznávacích značiek.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Nedodržanie pripevnenia značky maximálnej rýchlosti (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximálna rýchlosť",
+      "značka",
+      "značka maximálnej rýchlosti",
+      "inštalácia",
+      "chýbajúca",
+      "majiteľ vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majiteľ vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie vlastníkom pripevnenia povinnej značky rýchlosti.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

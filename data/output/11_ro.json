@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale, specifice vehiculului sau semnalizate, după deducerea toleranței de dispozitiv și siguranță de măsurare stabilită de ASTRA pe autostrăzi",
+    "fine_chf": 20,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "autostradă",
+      "siguranță de măsurare",
+      "depășire de viteză",
+      "autostradă",
+      "autostrăzi",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu 1–5 km/h",
+    "notes": "Depășire a vitezei cu 1-5 km/h după deducerea toleranței.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale, specifice vehiculului sau semnalizate, după deducerea toleranței de dispozitiv și siguranță de măsurare stabilită de ASTRA pe autostrăzi",
+    "fine_chf": 60,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "autostradă",
+      "siguranță de măsurare",
+      "depășire de viteză",
+      "autostradă",
+      "autostrăzi",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu 6–10 km/h",
+    "notes": "Depășire a vitezei cu 6-10 km/h după deducerea toleranței.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale, specifice vehiculului sau semnalizate, după deducerea toleranței de dispozitiv și siguranță de măsurare stabilită de ASTRA pe autostrăzi",
+    "fine_chf": 120,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "autostradă",
+      "siguranță de măsurare",
+      "depășire de viteză",
+      "autostradă",
+      "autostrăzi",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu 11–15 km/h",
+    "notes": "Depășire a vitezei cu 11-15 km/h după deducerea toleranței.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale, specifice vehiculului sau semnalizate, după deducerea toleranței de dispozitiv și siguranță de măsurare stabilită de ASTRA pe autostrăzi",
+    "fine_chf": 180,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "autostradă",
+      "siguranță de măsurare",
+      "depășire de viteză",
+      "autostradă",
+      "autostrăzi",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu 16–20 km/h",
+    "notes": "Depășire a vitezei cu 16-20 km/h după deducerea toleranței.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale, specifice vehiculului sau semnalizate, după deducerea toleranței de dispozitiv și siguranță de măsurare stabilită de ASTRA pe autostrăzi",
+    "fine_chf": 260,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "autostradă",
+      "siguranță de măsurare",
+      "depășire de viteză",
+      "autostradă",
+      "autostrăzi",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu 21–25 km/h",
+    "notes": "Depășire a vitezei cu 21-25 km/h după deducerea toleranței.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție generală de circulație în ambele sensuri” (2.01; Art. 27 para. 1 SVG și Art. 18 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție de trafic",
+      "în ambele sensuri",
+      "semn de reglementare",
+      "neobservare",
+      "interzis accesul",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis accesul tuturor vehiculelor în ambele sensuri'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Acces interzis” (2.02; Art. 27 para. 1 SVG, Art. 37 para. 3 VRV și Art. 18 para. 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interzis accesul",
+      "semn de reglementare",
+      "neobservare",
+      "interzis accesul",
+      "semn rutier",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis accesul'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție pentru vehicule motorizate” (2.03; Art. 27 para. 1 SVG și Art. 19 para. 1 litera a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție",
+      "vehicul motorizat",
+      "semn de reglementare",
+      "neobservare",
+      "interzis vehicule motorizate",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul motorizat"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis vehicule motorizate'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție pentru motociclete” (2.04; Art. 27 para. 1 SVG și Art. 19 para. 1 litera b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție",
+      "motociclete",
+      "semn de reglementare",
+      "neobservare",
+      "interzis motociclete",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motociclist"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis motociclete'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție pentru camioane” (2.07; Art. 27 para. 1 SVG și Art. 19 para. 1 litera d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție",
+      "camioane",
+      "semn de reglementare",
+      "neobservare",
+      "interzis camioane",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de camion"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis camioane'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție pentru autocare” (2.08; Art. 27 para. 1 SVG și Art. 19 para. 1 litera e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție",
+      "autocare",
+      "semn de reglementare",
+      "neobservare",
+      "interzis autobuze",
+      "autocare",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de autocar"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis autocare/autobuze'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interdicție pentru remorci” (2.09; Art. 27 para. 1 SVG și Art. 19 para. 1 litera f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție",
+      "remorci",
+      "semn de reglementare",
+      "neobservare",
+      "interzis remorci",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul cu remorcă"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis remorci'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Direcție dreapta” (2.32; Art. 27 para. 1 SVG și Art. 24 para. 1 litera a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "direcție dreapta",
+      "semn de reglementare",
+      "neobservare",
+      "direcție dreapta",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Direcție dreapta'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Direcție stânga” (2.33; Art. 27 para. 1 SVG și Art. 24 para. 1 litera b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "direcție stânga",
+      "semn de reglementare",
+      "neobservare",
+      "direcție stânga",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Direcție stânga'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Trecere obstacol pe dreapta” (2.34; Art. 27 para. 1 SVG și Art. 24 para. 1 litera c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "trecere obstacol",
+      "dreapta",
+      "semn de reglementare",
+      "neobservare",
+      "trecere pe dreapta",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Trecere obstacol pe dreapta'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Trecere obstacol pe stânga” (2.35; Art. 27 para. 1 SVG și Art. 24 para. 1 litera d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "trecere obstacol",
+      "stânga",
+      "semn de reglementare",
+      "neobservare",
+      "trecere pe stânga",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Trecere obstacol pe stânga'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Continua drept înainte” (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG și Art. 24 para. 1 litera i și 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "continua drept înainte",
+      "semn de reglementare",
+      "neobservare",
+      "drept înainte",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Continua drept înainte' (variante 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Viraj dreapta” (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG și Art. 24 para. 2 și 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "viraj dreapta",
+      "semn de reglementare",
+      "neobservare",
+      "viraj dreapta",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Viraj dreapta' (variante 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Viraj stânga” (2.38, 2.39, 2.41; Art. 27 para. 1 SVG și Art. 24 para. 2 și 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "viraj stânga",
+      "semn de reglementare",
+      "neobservare",
+      "viraj stânga",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Viraj stânga' (variante 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Rotonda” (2.41.1; Art. 27 para. 1 SVG și Art. 24 para. 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "rotondă",
+      "rotondă",
+      "semn de reglementare",
+      "neobservare",
+      "rotondă",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Rotonda'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interzis viraj dreapta” (2.42; Art. 27 para. 1 SVG și Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interzis viraj dreapta",
+      "semn de reglementare",
+      "neobservare",
+      "interzis viraj dreapta",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis viraj dreapta'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nerespectarea semnului de reglementare „Interzis viraj stânga” (2.43; Art. 27 para. 1 SVG și Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "interzis viraj stânga",
+      "semn de reglementare",
+      "neobservare",
+      "interzis viraj stânga",
+      "semn rutier",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului 'Interzis viraj stânga'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

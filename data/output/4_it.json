@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio accanto a una linea longitudinale ininterrotta quando non viene mantenuto libero un passaggio di almeno 3 m di larghezza (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 40,
+    "keywords": [
+      "parcheggio",
+      "linea longitudinale",
+      "passaggio",
+      "meno di 3 m",
+      "parcheggio",
+      "linea longitudinale",
+      "passaggio di meno di 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio accanto a una linea longitudinale ininterrotta, ostruendo il passaggio di meno di 3 m, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Fermata accanto a una linea longitudinale ininterrotta quando non viene mantenuto libero un passaggio di almeno 3 m di larghezza (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "linea longitudinale",
+      "passaggio",
+      "meno di 3 m",
+      "fermata",
+      "linea longitudinale",
+      "passaggio di meno di 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata accanto a una linea longitudinale ininterrotta, ostruendo il passaggio di meno di 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio accanto a una linea doppia quando non viene mantenuto libero un passaggio di almeno 3 m di larghezza (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 40,
+    "keywords": [
+      "parcheggio",
+      "linea doppia",
+      "passaggio",
+      "meno di 3 m",
+      "parcheggio",
+      "linea doppia",
+      "passaggio di meno di 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio accanto a una linea doppia, ostruendo il passaggio di meno di 3 m, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Fermata accanto a una linea doppia quando non viene mantenuto libero un passaggio di almeno 3 m di larghezza (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "linea doppia",
+      "passaggio",
+      "meno di 3 m",
+      "fermata",
+      "linea doppia",
+      "passaggio di meno di 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata accanto a una linea doppia, ostruendo il passaggio di meno di 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio su un incrocio stradale (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 40,
+    "keywords": [
+      "parcheggio",
+      "incrocio stradale",
+      "incrocio",
+      "parcheggio",
+      "incrocio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su un incrocio, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Fermata su un incrocio stradale (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "incrocio stradale",
+      "incrocio",
+      "fermata",
+      "incrocio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata su un incrocio.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio a meno di 5 m prima di un incrocio stradale dalla strada trasversale (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parcheggio",
+      "incrocio stradale",
+      "strada trasversale",
+      "5 m",
+      "parcheggio",
+      "incrocio",
+      "strada trasversale",
+      "meno di 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio a meno di 5 m prima di un incrocio dalla strada trasversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Fermata a meno di 5 m prima di un incrocio stradale dalla strada trasversale (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "fermata",
+      "incrocio stradale",
+      "strada trasversale",
+      "5 m",
+      "fermata",
+      "incrocio",
+      "strada trasversale",
+      "meno di 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata a meno di 5 m prima di un incrocio dalla strada trasversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio a meno di 5 m dopo un incrocio stradale dalla strada trasversale (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 40,
+    "keywords": [
+      "parcheggio",
+      "incrocio stradale",
+      "strada trasversale",
+      "5 m",
+      "parcheggio",
+      "incrocio",
+      "strada trasversale",
+      "meno di 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio a meno di 5 m dopo un incrocio dalla strada trasversale, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Fermata a meno di 5 m dopo un incrocio stradale dalla strada trasversale (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "incrocio stradale",
+      "strada trasversale",
+      "5 m",
+      "fermata",
+      "incrocio",
+      "strada trasversale",
+      "meno di 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata a meno di 5 m dopo un incrocio dalla strada trasversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio su un attraversamento pedonale (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 80,
+    "keywords": [
+      "parcheggio",
+      "attraversamento pedonale",
+      "parcheggio",
+      "attraversamento pedonale",
+      "attraversamento zebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su un attraversamento pedonale, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Fermata su un attraversamento pedonale (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "attraversamento pedonale",
+      "fermata",
+      "attraversamento pedonale",
+      "attraversamento zebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata su un attraversamento pedonale.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio adiacente a un attraversamento pedonale (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 80,
+    "keywords": [
+      "parcheggio",
+      "attraversamento pedonale",
+      "adiacente",
+      "parcheggio",
+      "attraversamento pedonale",
+      "adiacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio adiacente a un attraversamento pedonale, fino a 60 minuti.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Fermata adiacente a un attraversamento pedonale (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "attraversamento pedonale",
+      "adiacente",
+      "fermata",
+      "attraversamento pedonale",
+      "adiacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata adiacente a un attraversamento pedonale.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Fermata su un passaggio a livello (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "passaggio a livello",
+      "fermata",
+      "passaggio a livello",
+      "passaggio a livello"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata su un passaggio a livello.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Fermata in un sottopasso (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "sottopasso",
+      "fermata",
+      "sottopasso"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata in un sottopasso.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio a meno di 10 m prima di un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "fermata",
+      "trasporto pubblico",
+      "10 m",
+      "parcheggio",
+      "fermata dell'autobus",
+      "trasporto pubblico",
+      "meno di 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio a meno di 10 m prima di un segnale di fermata del trasporto pubblico.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata ostacolante per far salire/scendere persone a meno di 10 m prima di un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "fermata",
+      "trasporto pubblico",
+      "10 m",
+      "ostacolo",
+      "fermata",
+      "fermata dell'autobus",
+      "trasporto pubblico",
+      "meno di 10 m",
+      "ostacolo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata ostacolante per far salire/scendere persone a meno di 10 m prima di un segnale di fermata del trasporto pubblico.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Benützung einer Nationalstrasse erster oder zweiter Klasse ohne die für die Abgabeperiode erforderliche Vignette",
+    "fine_chf": 200,
+    "keywords": [
+      "Nationalstrasse",
+      "Vignette",
+      "Fehlende Vignette",
+      "Abgabe",
+      "Toll sticker",
+      "Autobahn"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Driving on national roads without the required toll vignette.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Benützung einer Nationalstrasse erster oder zweiten Klasse mit einer für die Abgabeperiode erforderlichen Klebevignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt ist oder die beschädigt ist",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignette",
+      "Klebevignette",
+      "Anbringung",
+      "Beschädigt",
+      "Adhesion",
+      "Placement"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Driving with a vignette that is incorrectly affixed (not directly to the vehicle) or damaged.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

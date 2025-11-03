@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Otoyollar (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 ve 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Otoyol",
+      "Yarı-Otoyol",
+      "Kullanım",
+      "VRV 50a",
+      "Kısıtlama"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yarı-otoyolların yetkisiz kullanımı (genellikle belirli araç tipleri veya cihazlar için geçerlidir).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Barikatları veya yarı-barikatları atlatma, üzerinden tırmanma veya altından sürünme",
+    "fine_chf": 20,
+    "keywords": [
+      "Barikatlar",
+      "Yarı-barikatlar",
+      "Barikatlar",
+      "Demiryolu geçidi",
+      "Düz geçiş",
+      "Atlatma"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Yol kullanıcısı"
+    ],
+    "conditions": null,
+    "notes": "Barikatları veya yarı-barikatları atlatma, üzerinden tırmanma veya altından sürünme.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Yaya tarafından bisiklet yolunun kullanılması, \n1. bir kaldırım mevcut olduğunda",
+    "fine_chf": 10,
+    "keywords": [
+      "Yaya",
+      "Bisiklet yolu",
+      "Kaldırım",
+      "Kaldırım",
+      "Yaya",
+      "Bisiklet yolu"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yayanlar"
+    ],
+    "conditions": "Kaldırım mevcut",
+    "notes": "Kaldırım mevcut olduğunda bisiklet yolunun kullanılması.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Yaya tarafından bisiklet yolunun kullanılması, \n2. bir yürüyüş yolu mevcut olduğunda",
+    "fine_chf": 10,
+    "keywords": [
+      "Yaya",
+      "Bisiklet yolu",
+      "Yürüyüş yolu",
+      "Kaldırım",
+      "Yaya",
+      "Bisiklet yolu"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yayanlar"
+    ],
+    "conditions": "Yürüyüş yolu mevcut",
+    "notes": "Ayrı bir yürüyüş yolu mevcut olduğunda bisiklet yolunun kullanılması.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Işık olmadan sürüş",
+    "fine_chf": 20,
+    "keywords": [
+      "Işık",
+      "Aydınlatma",
+      "Sürüş",
+      "E-Scooter",
+      "Araç benzeri cihazlar",
+      "Ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Cihaz operatörü (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Gerekli aydınlatma olmadan sürüş (özellikle e-scooter/benzeri cihazlar için geçerlidir).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Yayalar için tahsis edilen trafik alanlarının kullanımını engelleme",
+    "fine_chf": 20,
+    "keywords": [
+      "Yaya",
+      "Trafik alanları",
+      "Engelleme",
+      "Kaldırım",
+      "Engelleme",
+      "VRV 50a cihazları"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Cihazlar (VRV 50a)",
+      "Yol kullanıcıları"
+    ],
+    "conditions": null,
+    "notes": "Yayalar için tahsis edilen trafik alanlarının kullanımını engelleme.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Trafik yatıştırılmış ikincil yollarda yol kullanımını engelleme",
+    "fine_chf": 20,
+    "keywords": [
+      "İkincil yollar",
+      "Yol",
+      "Engelleme",
+      "Trafik akışı",
+      "İkincil yol",
+      "Cihazlar (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Cihazlar (VRV 50a)",
+      "Yol kullanıcıları"
+    ],
+    "conditions": null,
+    "notes": "Trafik yatıştırılmış ikincil yollarda trafik akışını engelleme.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Araç benzeri cihazlar için 'Yasak' işaretini görmezden gelme",
+    "fine_chf": 20,
+    "keywords": [
+      "Sinyal",
+      "Yasak",
+      "Araç benzeri cihazlar",
+      "E-Scooter",
+      "Sinyalleme",
+      "Trafik işareti"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Araç benzeri cihaz operatörü"
+    ],
+    "conditions": null,
+    "notes": "Araç benzeri cihazları yasaklayan belirli yol işaretini görmezden gelme.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Araç benzeri cihazların yetkisiz trafik alanlarında kullanımı",
+    "fine_chf": 20,
+    "keywords": [
+      "Araç benzeri cihazlar",
+      "E-Scooter",
+      "Trafik alanları",
+      "Yetkisiz kullanım",
+      "Kısıtlama"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Araç benzeri cihaz operatörü"
+    ],
+    "conditions": null,
+    "notes": "Cihazların (e-scooter gibi) izin verilmeyen trafik alanlarında kullanılması.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Yayalar önceliğini vermeme",
+    "fine_chf": 30,
+    "keywords": [
+      "Geçiş hakkı",
+      "Yaya",
+      "Öncelik",
+      "Öncelik",
+      "Yaya",
+      "Cihazlar (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Araç benzeri cihaz operatörü"
+    ],
+    "conditions": null,
+    "notes": "Yayalar önceliğini vermeme (özel cihaz kullanıcıları için geçerlidir).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

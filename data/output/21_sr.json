@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "u vezi sa oznakama (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Oznake",
+      "Signalizacija",
+      "VRV",
+      "SSV",
+      "Oznake na putu",
+      "Prekršaj"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Podrazumeva kršenje pravila o oznakama na putu.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nepridavanje prednosti na pešačkom prelazu (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Prioritet",
+      "Pešački prelaz",
+      "Zebra prelaz",
+      "SVG",
+      "VRV",
+      "Prioritet",
+      "Pešački prelaz"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Korišćenje telefona bez hands‑free uređaja tokom vožnje (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Mobilni telefon",
+      "Hands‑free uređaj",
+      "Vožnja",
+      "Ometanje",
+      "Mobilni telefon",
+      "Vožnja"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Prekoračenje opšte ili označene maksimalne brzine od strane vozača motocikala uzimajući u obzir uređaj i nesigurnost merenja ustanovljenu od strane ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Brzina",
+      "Maksimalna brzina",
+      "Motocikl",
+      "Moped",
+      "SVG",
+      "prekršaj brzine"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Fiksirana kazna za manji prekršaj brzine (verovatno do 5 km/h viška) na mopedsima/motorisanim biciklima.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Korišćenje motocikla ili električnog rikše bez registarske tablice ili bez važeće vinjete uz osiguranje (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Registarska tablica",
+      "Vinjet",
+      "Motocikl",
+      "Električni rikša",
+      "Registarska tablica",
+      "Nalepnica",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač motocikla",
+      "Vozač električnog rikše"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini korisnik (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Korišćenje motocikla ili električnog rikše bez potrebne dozvole za vozilo (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Dozvola za vozilo",
+      "Motocikl",
+      "Električni rikša",
+      "SVG",
+      "Dozvola za vozilo",
+      "Dokumenti"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač motocikla",
+      "Vozač električnog rikše"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini korisnik (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Korišćenje motocikla bez postojeće osiguranja (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Osiguranje",
+      "Motocikl",
+      "VZV",
+      "Osiguranje",
+      "Moped",
+      "Obavezno"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini korisnik (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Pozajmljivanje motocikla ili električnog rikše bez registarske tablice ili bez važeće vinjete uz osiguranje za korišćenje (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Pozajmljivanje",
+      "Registarska tablica",
+      "Vinjet",
+      "Motocikl",
+      "Električni rikša",
+      "Pozajmljivanje",
+      "Tablica",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik",
+      "Pozajmljivač"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini vlasnik/pozajmljivač (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Pozajmljivanje motocikla ili električnog rikše bez potrebne dozvole za vozilo za korišćenje (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Pozajmljivanje",
+      "Dozvola za vozilo",
+      "Motocikl",
+      "Električni rikša",
+      "VZV",
+      "Pozajmljivanje",
+      "Dokumenti vozila"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik",
+      "Pozajmljivač"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini vlasnik/pozajmljivač (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Pozajmljivanje motocikla bez postojećeg osiguranja za korišćenje (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Pozajmljivanje",
+      "Osiguranje",
+      "Motocikl",
+      "VZV",
+      "Pozajmljivanje",
+      "Osiguranje"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik",
+      "Pozajmljivač"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj počini vlasnik/pozajmljivač (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Vožnja sa registarskom tablicom koja nije lako čitljiva (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Registarska tablica",
+      "Čitljivost",
+      "Vožnja",
+      "VRV",
+      "VTS",
+      "Tablica",
+      "Čitljivost",
+      "Prljava tablica"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Vožnja bez obaveznog zvona na motociklima (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Zvon",
+      "Motocikl",
+      "Oprema",
+      "VTS",
+      "Moped",
+      "Zvon",
+      "Oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Vožnja mopeda/motorisanog bicikla bez obaveznog zvona.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Vožnja bez trajno pričvršćenih reflektora (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "Reflektor",
+      "Reflektor",
+      "Oprema",
+      "VTS",
+      "Reflektor",
+      "Oprema",
+      "Nedostaje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez fiksnih reflektora (primenjuje se opšte na vozila koja ih zahtevaju, često bicikli/mopedi u ovom odeljku).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

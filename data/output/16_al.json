@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Ndalimi i një mjeti motorik në autostradë dhe autostradë kur mjeti ka ndalur në bandën e emergjencës ose në një zonë parkimi për mjetet e dëmtuara për shkak të mungesës së karburantit ose energjisë elektrike.",
+    "fine_chf": 120,
+    "keywords": [
+      "autostradë",
+      "autostradë",
+      "bandë emergjence",
+      "mungesë karburanti",
+      "ndalje",
+      "bandë emergjence",
+      "pa karburant"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Mjet motorik"
+    ],
+    "conditions": null,
+    "notes": "Ndalimi për shkak të mungesës së karburantit ose energjisë elektrike.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Kalimi ose kalimi i një linje sigurie në zona të ndërtuara.",
+    "fine_chf": 140,
+    "keywords": [
+      "linjë sigurie",
+      "kalim",
+      "zonë të ndërtuar",
+      "linjë e ngurtë",
+      "zonë të ndërtuar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i një linje të ngurtë sigurie brenda një zone të ndërtuar.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Kalimi ose kalimi i një zone të ndaluar në zona të ndërtuara.",
+    "fine_chf": 140,
+    "keywords": [
+      "zonë e ndaluar",
+      "kalim",
+      "zonë të ndërtuar",
+      "zonë e ndaluar",
+      "zonë të ndërtuar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i një zone të ndaluar të shënuar (Sperrfläche) brenda një zone të ndërtuar.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Mos mbajtja e triangulit të paralajmërimit.",
+    "fine_chf": 40,
+    "keywords": [
+      "mos mbajtje",
+      "triangul i paralajmërimit",
+      "pajisje",
+      "pajisje",
+      "triangul i paralajmërimit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Mos mbajtja e bllokut të rrotave në mjetet e rënda me motor.",
+    "fine_chf": 40,
+    "keywords": [
+      "mos mbajtje",
+      "bllok rrotash",
+      "mjet i rëndë",
+      "pajisje",
+      "bllok rrotash",
+      "mjet i rëndë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Mjetet e rënda me motor"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Mos mbajtja e paketës së ndihmës së parë në autobusin e udhëtimeve.",
+    "fine_chf": 40,
+    "keywords": [
+      "mos mbajtje",
+      "paketë ndihme të parë",
+      "autobusi i udhëtimeve",
+      "autobusi i udhëtimeve",
+      "paketë ndihme të parë",
+      "autobusi i udhëtimeve"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Autobusi i udhëtimeve"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Mos mbajtja e një shpërthyesi zjarri të kërkuar.",
+    "fine_chf": 40,
+    "keywords": [
+      "mos mbajtje",
+      "shpërthyes zjarri",
+      "ADR",
+      "mallra të rrezikshme",
+      "pajisje",
+      "shpërthyes zjarri"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Transport i mallrave të rrezikshme"
+    ],
+    "conditions": null,
+    "notes": "Shpesh i rëndësishëm për transportin komercial ose të mallrave të rrezikshme.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Mos mbajtja e bllokut të rrotave në traktorë të cilët peshojnë më shumë se 0.75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "mos mbajtje",
+      "bllok rrotash",
+      "trailer",
+      "pesha totale",
+      "trailer",
+      "bllok rrotash"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Trailer > 0.75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Operacioni ose parkimi i një mjeti me tabelat e kontrollit të painstaluara sipas rregulloreve.",
+    "fine_chf": 60,
+    "keywords": [
+      "tabelat e kontrollit",
+      "tabelë regjistrimi",
+      "montim",
+      "parkim",
+      "tabelë regjistrimi",
+      "i montuar gabimisht"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Mjet i parkuar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Operacioni i një mjeti motorik me një gomë të dëmtuar.",
+    "fine_chf": 100,
+    "keywords": [
+      "mjet motorik",
+      "goma e dëmtuar",
+      "goma",
+      "goma e dëmtuar",
+      "mirëmbajtje",
+      "defekt i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Mjet motorik"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Transportimi i një trailer me një gomë të dëmtuar.",
+    "fine_chf": 100,
+    "keywords": [
+      "trailer",
+      "goma e dëmtuar",
+      "goma",
+      "goma e dëmtuar",
+      "trailer",
+      "mirëmbajtje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Trailer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Drejtimi me goma me çelësa pa ose me një shenjë shpejtësie të instaluar gabimisht.",
+    "fine_chf": 20,
+    "keywords": [
+      "goma me çelësa",
+      "shenjë shpejtësie",
+      "goma dimërore",
+      "goma me çelësa",
+      "shenjë shpejtësie",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungon ose është i pasaktë shenja/shenjë shpejtësie e kërkuar kur përdoren goma me çelësa.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Përdorimi i gomave me çelësa jashtë periudhës së lejuar.",
+    "fine_chf": 60,
+    "keywords": [
+      "goma me çelësa",
+      "përdorim",
+      "jashtë kohe",
+      "ndalim",
+      "goma me çelësa",
+      "rregull sezonor"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i gomave me çelësa jashtë sezonit të lejuar ligjërisht.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Drejtimi me shenjë shpejtësie edhe pse nuk përdoren goma me çelësa.",
+    "fine_chf": 20,
+    "keywords": [
+      "goma me çelësa",
+      "shenjë shpejtësie",
+      "pajisje e gabuar",
+      "shkelje pajisjeje",
+      "shenjë shpejtësie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shfaqja e shenjës së shpejtësisë së kërkuar për goma me çelësa kur mjeti nuk i ka ato.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Përdorimi i një mjeti me një pajisje akustike paralajmëruese të paautorizuar.",
+    "fine_chf": 40,
+    "keywords": [
+      "pajisje akustike paralajmëruese",
+      "buzë",
+      "i paautorizuar",
+      "sirena",
+      "buzë",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një mjeti me buzë ose pajisje paralajmëruese jo të aprovuara.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

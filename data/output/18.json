@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Nichttanbringen der Heckmarkierungstafel",
+    "fine_chf": 20,
+    "keywords": [
+      "Heckmarkierungstafel",
+      "marking plate",
+      "VTS",
+      "equipment",
+      "rear marking"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Relates to rear marking plates, usually for specific vehicles/loads.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Inverkehrbringen eines Motorrades ohne fest angebrachte Rückstrahler",
+    "fine_chf": 60,
+    "keywords": [
+      "Motorrad",
+      "Rückstrahler",
+      "reflector",
+      "VTS",
+      "equipment",
+      "Inbetriebnahme"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Halter",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Putting a motorcycle into traffic without fixed reflectors.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Loslassen der Lenkvorrichtung",
+    "fine_chf": 20,
+    "keywords": [
+      "Lenkvorrichtung",
+      "Freihändig",
+      "steering device",
+      "control",
+      "bicycle",
+      "motorcycle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Releasing the steering device (e.g., riding hands-free). Applies to motorcycles/bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Nichttagen des Schutzhelmes durch Personen auf Motorrädern",
+    "fine_chf": 30,
+    "keywords": [
+      "Schutzhelm",
+      "Helm",
+      "Motorrad",
+      "helmet",
+      "safety equipment",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrer",
+      "Mitfahrer"
+    ],
+    "conditions": null,
+    "notes": "Not wearing a protective helmet on a motorcycle.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Halten auf dem Fussgängerstreifen, wenn der Verkehr stockt",
+    "fine_chf": 20,
+    "keywords": [
+      "Fussgängerstreifen",
+      "Zebrastreifen",
+      "pedestrian crossing",
+      "Stau",
+      "stopping"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a pedestrian crossing during traffic congestion.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Unnötiges Laufenlassen des Motors eines stillstehenden Motorfahrrades",
+    "fine_chf": 20,
+    "keywords": [
+      "Motor",
+      "Leerlauf",
+      "unnecessary idling",
+      "Motorfahrrad",
+      "Mofa",
+      "emission"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Unnecessary idling of a stationary motorized bicycle/moped.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Fahren ohne Licht: bei beleuchteter Strasse nachts",
+    "fine_chf": 40,
+    "keywords": [
+      "Licht",
+      "night driving",
+      "Beleuchtung",
+      "headlight",
+      "beleuchtete Strasse"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "At night, on an illuminated road.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Fahren ohne Licht: bei unbeleuchteter Strasse nachts",
+    "fine_chf": 60,
+    "keywords": [
+      "Licht",
+      "night driving",
+      "unbeleuchtete Strasse",
+      "headlight",
+      "darkness"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "At night, on an unilluminated road.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Fahren ohne Licht: in einem beleuchteten Tunnel",
+    "fine_chf": 20,
+    "keywords": [
+      "Licht",
+      "Tunnel",
+      "headlight",
+      "tunnel driving",
+      "Beleuchtung"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "In an illuminated tunnel.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Fahren ohne Licht: tagsüber",
+    "fine_chf": 20,
+    "keywords": [
+      "Licht",
+      "tagsüber",
+      "daytime running light",
+      "headlight",
+      "day"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "During the day (applies to vehicles where daytime lights are mandatory).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Unerlaubtes Befahren des Trottoirs",
+    "fine_chf": 40,
+    "keywords": [
+      "Trottoir",
+      "sidewalk",
+      "illegal driving",
+      "Fahrrad",
+      "road use",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrrad",
+      "Mofa",
+      "E-Scooter"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized driving on the sidewalk.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Behinderndes Befahren von Längsstreifen für Fussgänger",
+    "fine_chf": 40,
+    "keywords": [
+      "Fussgänger",
+      "Längsstreifen",
+      "path",
+      "obstruction",
+      "pedestrian path"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Driving on pedestrian longitudinal strips in a manner that obstructs pedestrians.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Mitführen von Gegenständen, welche die Zeichengebung verunmöglichen",
+    "fine_chf": 20,
+    "keywords": [
+      "Gepäck",
+      "Ladung",
+      "signaling",
+      "Zeichengebung",
+      "carrying objects",
+      "hand signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Carrying objects that make signaling (hand signals) impossible.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Sichaufstellen vor einer wartenden Autokolonne",
+    "fine_chf": 20,
+    "keywords": [
+      "Überholen",
+      "queue",
+      "Autokolonne",
+      "lane splitting",
+      "Vordrängeln"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Positioning oneself in front of a waiting queue of cars (usually by weaving past the queue).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Überholen einer wartenden Autokolonne durch Slalomfahren",
+    "fine_chf": 20,
+    "keywords": [
+      "Slalomfahren",
+      "Überholen",
+      "queue",
+      "Autokolonne",
+      "overtaking",
+      "weaving"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Overtaking a waiting queue of cars by zigzagging/slalom driving.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Verbotenes Nebeneinanderfahren: mehrere Fahrräder",
+    "fine_chf": 20,
+    "keywords": [
+      "Nebeneinanderfahren",
+      "Fahrrad",
+      "cycling side-by-side",
+      "bicycles"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Verbotenes Nebeneinanderfahren: mehrere Motorfahrräder",
+    "fine_chf": 20,
+    "keywords": [
+      "Nebeneinanderfahren",
+      "Motorfahrräder",
+      "Mofa",
+      "E-Scooter",
+      "mopeds"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Mofafahrer"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple motorized bicycles (Mofas/E-Scooters).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Verbotenes Nebeneinanderfahren: mehrere Elektro-Rikschas",
+    "fine_chf": 20,
+    "keywords": [
+      "Nebeneinanderfahren",
+      "Elektro-Rikschas",
+      "e-rickshaw",
+      "side-by-side"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Rikschaführer"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple electric rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Verbotenes Nebeneinanderfahren: Kombinationen von Fahrrädern, Motorfahrrädern oder Elektro-Rikschas",
+    "fine_chf": 20,
+    "keywords": [
+      "Nebeneinanderfahren",
+      "Mischkombination",
+      "Fahrrad",
+      "Mofa",
+      "Rikscha",
+      "side-by-side"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: Mixed combinations of bicycles, mopeds, or e-rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Sich ziehen lassen",
+    "fine_chf": 20,
+    "keywords": [
+      "ziehen lassen",
+      "being towed",
+      "towing",
+      "SVG",
+      "safety",
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pulled/towed (e.g., by another vehicle or person).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Sich schleppen lassen",
+    "fine_chf": 20,
+    "keywords": [
+      "schleppen lassen",
+      "being towed",
+      "towing",
+      "SVG",
+      "safety",
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be towed (similar to 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Sich stossen lassen",
+    "fine_chf": 20,
+    "keywords": [
+      "stossen lassen",
+      "being pushed",
+      "safety",
+      "assistance",
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pushed.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Unerlaubtes Mitführen: einer Person",
+    "fine_chf": 20,
+    "keywords": [
+      "Mitführen",
+      "passenger",
+      "person",
+      "carrying",
+      "unauthorized",
+      "Beifahrer"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a person (e.g., carrying a passenger on a vehicle not designed for it, or where not permitted).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Unerlaubtes Mitführen: eines Kindes ohne sicheren Kindersitz",
+    "fine_chf": 40,
+    "keywords": [
+      "Kindersitz",
+      "child seat",
+      "Kind",
+      "safety",
+      "Mitführen",
+      "Fahrrad"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrrad",
+      "Motorrad"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a child without a safe child seat (where required).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

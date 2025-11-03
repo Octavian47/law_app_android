@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Halten zum Güterschlag näher als 10 m vor einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Güterschlag",
+      "Haltestellentafel",
+      "öffentlicher Verkehr",
+      "stopping",
+      "goods",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods within 10m before a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren näher als 10 m nach einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Haltestellentafel",
+      "öffentlicher Verkehr",
+      "60 Minuten",
+      "parking",
+      "public transport stop",
+      "time limit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking within 10m after a public transport stop sign, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Behindertes Halten zum Ein- und Aussteigenlassen von Personen näher als 10 m nach einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Behindertes",
+      "Ein-/Aussteigen",
+      "Haltestellentafel",
+      "stopping",
+      "obstructive",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping to let people on/off within 10m after a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Halten zum Güterschlag näher als 10 m nach einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Güterschlag",
+      "Haltestellentafel",
+      "öffentlicher Verkehr",
+      "stopping",
+      "goods",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods within 10m after a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren vor Feuerwehrlokalen und Löschergerätemagazinen (Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Feuerwehrlokale",
+      "Magazin",
+      "Löschgeräte",
+      "60 Minuten",
+      "parking",
+      "fire station",
+      "fire equipment"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking in front of fire station/equipment premises, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Halten zum Güterschlag vor Feuerwehrlokalen oder Löschergerätemagazinen (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Güterschlag",
+      "Feuerwehrlokale",
+      "Löschgeräte",
+      "stopping",
+      "goods",
+      "fire station"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods in front of fire station/equipment premises.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Behindertes Halten zum Ein- und Aussteigenlassen von Personen vor Feuerwehrlokalen und Löschergerätemagazinen (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Behindertes",
+      "Ein-/Aussteigen",
+      "Feuerwehrlokale",
+      "stopping",
+      "obstructive",
+      "fire station"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping to let people on/off in front of fire station/equipment premises.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Behindernes Halten zum Güterschlag neben Fahrzeugen, die längs des Strassenrandes parkiert sind (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Behindernes",
+      "Güterschlag",
+      "längs",
+      "parkiert",
+      "stopping",
+      "obstructive",
+      "goods",
+      "double parking"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping for loading/unloading goods next to vehicles parked along the road edge (double-parking for goods).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkieren auf einem Radstreifen (Art. 19 Abs. 2 Bst. d VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Radstreifen",
+      "Velostreifen",
+      "60 Minuten",
+      "parking",
+      "bicycle lane",
+      "cycle strip"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on a cycle lane/strip, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Halten auf einem Radstreifen, wenn der Fahrradverkehr dadurch behindert wird (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Radstreifen",
+      "Fahrradverkehr",
+      "behindert",
+      "stopping",
+      "bicycle lane",
+      "obstructive"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a cycle lane/strip when it obstructs bicycle traffic.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkieren auf der Fahrbahn neben einem Radstreifen (Art. 19 Abs. 2 Bst. d VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Fahrbahn",
+      "Radstreifen",
+      "neben",
+      "60 Minuten",
+      "parking",
+      "roadway",
+      "bicycle lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the road next to a cycle lane/strip, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkieren auf dem Strassenbahngleise (Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Strassenbahngleise",
+      "Tramgleise",
+      "60 Minuten",
+      "parking",
+      "tram tracks"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on tram tracks, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Halten auf dem Strassenbahngleise (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Strassenbahngleise",
+      "Tramgleise",
+      "stopping",
+      "tram tracks"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on tram tracks.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkieren näher als 1,5 m neben der nächsten Strassenbahnschiene (Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Strassenbahnschiene",
+      "Tramgleise",
+      "1,5 m",
+      "60 Minuten",
+      "parking",
+      "tram track",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking closer than 1.5m to the nearest tram track rail, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Halten näher als 1,5 m neben der nächsten Strassenbahnschiene (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Strassenbahnschiene",
+      "Tramgleise",
+      "1,5 m",
+      "stopping",
+      "tram track",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping closer than 1.5m to the nearest tram track rail.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkieren auf dem Pannenstreifen einer Autobahn (Art. 36 Abs. 3 VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Pannenstreifen",
+      "Autobahn",
+      "60 Minuten",
+      "parking",
+      "hard shoulder",
+      "motorway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the hard shoulder of a motorway, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Halten auf dem Pannenstreifen einer Autobahn, ausgenommen Nothalt (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Pannenstreifen",
+      "Autobahn",
+      "Nothalt",
+      "stopping",
+      "hard shoulder",
+      "motorway",
+      "emergency"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "ausgenommen Nothalt",
+    "notes": "Stopping on the hard shoulder of a motorway, excluding emergencies.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkieren auf dem Pannenstreifen einer Autostrasse (Art. 36 Abs. 3 VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Pannenstreifen",
+      "Autostrasse",
+      "60 Minuten",
+      "parking",
+      "hard shoulder",
+      "expressway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the hard shoulder of an expressway, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

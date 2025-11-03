@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "A kötelező ellenőrző lemez(ek) hiányában történő vezetés, kivéve a kereskedelmi lemezeket (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "ellenőrző lemez",
+      "rendszám",
+      "rendszám",
+      "vezetés",
+      "hiányzó",
+      "vezető"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Járművezetés a kötelező rendszámok nélkül (kivéve kereskedelmi lemezek).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "A legmagasabb sebesség táblajel hiányában történő vezetés (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "legmagasabb sebesség",
+      "táblajel",
+      "legmagasabb sebesség táblajel",
+      "hiányzó",
+      "vezetés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Járművezetés, amelynek kötelező sebességjelző táblája hiányzik.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "A hátsó jelzőlemez hiányában történő vezetés (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "hátsó jelzőlemez",
+      "hátsó jelzőlemez",
+      "hiányzó",
+      "vezetés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Járművezetés, amelynek kötelező hátsó jelzőlemez hiányzik (pl. lassú járművek).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Motorkerékpár üzemeltetése állandóan rögzített reflexek nélkül (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motorkerékpár",
+      "reflex",
+      "reflex",
+      "motorkerékpár",
+      "hiányzó"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető (motorkerékpár)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Veszélyes áruk szállítása hiányzó, hiányos vagy nem megfelelő felszereléskomponenssel (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "veszélyes áruk",
+      "ADR",
+      "veszélyes áruk",
+      "felszerelés",
+      "hivatásos járművezető",
+      "hiányzó"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető (veszélyes áruk szállítása)"
+    ],
+    "conditions": null,
+    "notes": "Hiányzó, hiányos vagy nem megfelelő felszerelés veszélyes áruk szállítása során.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "A változást vagy engedély/címzés cseréjét igénylő tények jelentésének vagy időben történő jelentésének elmulasztása (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "jelentés",
+      "engedély",
+      "engedélyezés",
+      "változás",
+      "értesítés",
+      "adminisztráció",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos/engedélytulajdonos mulasztása a változások jelentésében, amelyek dokumentummódosítást vagy cserét igényelnek.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "A kötelező kibocsátási szolgáltatás előírt határidejének túllépése: legfeljebb 1 hónap",
+    "fine_chf": 40,
+    "keywords": [
+      "kibocsátási szolgáltatás",
+      "kibocsátási szolgáltatás",
+      "késedelmes",
+      "határidő",
+      "karbantartás",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": "legfeljebb 1 hónap",
+    "notes": "Kötelező kibocsátási szolgáltatás késedelmes legfeljebb 1 hónap.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "A kötelező kibocsátási szolgáltatás előírt határidejének túllépése: több mint 1 hónap, de legfeljebb 3 hónap",
+    "fine_chf": 100,
+    "keywords": [
+      "kibocsátási szolgáltatás",
+      "kibocsátási szolgáltatás",
+      "késedelmes",
+      "határidő",
+      "karbantartás",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": "több mint 1 hónap, de legfeljebb 3 hónap",
+    "notes": "Kötelező kibocsátási szolgáltatás késedelmes 1 és 3 hónap között.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "A kötelező kibocsátási szolgáltatás előírt határidejének túllépése: több mint 3 hónap, de legfeljebb 6 hónap",
+    "fine_chf": 200,
+    "keywords": [
+      "kibocsátási szolgáltatás",
+      "kibocsátási szolgáltatás",
+      "késedelmes",
+      "határidő",
+      "karbantartás",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": "több mint 3 hónap, de legfeljebb 6 hónap",
+    "notes": "Kötelező kibocsátási szolgáltatás késedelmes 3 és 6 hónap között.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Gépjármű forgalomba helyezése hibás gumiabroncscsal (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "gumiabroncs",
+      "hibás",
+      "gumiabroncs",
+      "hibás",
+      "üzembe helyezés",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos engedélyezi, hogy hibás gumiabroncsú gépjárművet forgalomba helyezzen.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Pótkocsi forgalomba helyezése hibás gumiabroncscsal (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "gumiabroncs",
+      "hibás",
+      "pótkocsi",
+      "pótkocsi",
+      "üzembe helyezés",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos engedélyezi, hogy hibás gumiabroncsú pótkocsit forgalomba helyezzen.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "A sebességjelző tábla rögzítésének elmulasztása csapott gumik használata esetén (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "sebességjelző tábla",
+      "csapott gumik",
+      "csapott gumik",
+      "sebességjelző tábla",
+      "hiányzó",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos nem rögzíti a kötelező sebességjelző táblát csapott gumik használata esetén.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "A sebességjelző tábla nem megfelelő telepítése csapott gumik használata esetén (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "sebességjelző tábla",
+      "csapott gumik",
+      "csapott gumik",
+      "sebességjelző tábla",
+      "telepítés",
+      "nem megfelelő"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelő sebességjelző tábla rögzítése csapott gumik használata esetén.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "A sebességjelző tábla eltávolításának elmulasztása, ha már nem használnak csapott gumikat (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "sebességjelző tábla",
+      "csapott gumik",
+      "sebességjelző tábla",
+      "eltávolítás",
+      "eltávolítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos nem távolítja el a sebességjelző táblát, ha már nem használ csapott gumikat.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "A kötelező ellenőrző lemez(ek) rögzítésének elmulasztása, kivéve a kereskedelmi lemezeket (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "ellenőrző lemez",
+      "rendszám",
+      "rendszám",
+      "telepítés",
+      "hiányzó",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos mulasztása a kötelező rendszámok rögzítésében (kivéve kereskedelmi lemezek).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Az ellenőrző lemezek nem megfelelő telepítése (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "ellenőrző lemez",
+      "rendszám",
+      "rendszám",
+      "telepítés",
+      "nem megfelelő",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelő módszer a rendszámok rögzítésére.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "A legmagasabb sebesség táblajel rögzítésének elmulasztása (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "legmagasabb sebesség",
+      "táblajel",
+      "legmagasabb sebesség táblajel",
+      "telepítés",
+      "hiányzó",
+      "jármű tulajdonosa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Jármű tulajdonosa"
+    ],
+    "conditions": null,
+    "notes": "A tulajdonos mulasztása a kötelező sebességjelző tábla rögzítésében.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

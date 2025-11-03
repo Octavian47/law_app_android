@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata per caricare merci entro 10 m prima di un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Caricamento merci",
+      "Segnale di fermata",
+      "trasporto pubblico",
+      "fermata",
+      "merci",
+      "fermata del trasporto pubblico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata per caricare/scaricare merci entro 10 m prima di un segnale di fermata del trasporto pubblico.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio entro 10 m dopo un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 e 19 Abs. 2 a VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "segnale di fermata",
+      "trasporto pubblico",
+      "60 minuti",
+      "parcheggio",
+      "fermata del trasporto pubblico",
+      "limite di tempo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio entro 10 m dopo un segnale di fermata del trasporto pubblico, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata ostacolante per far salire e scendere persone entro 10 m dopo un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Ostacolante",
+      "salita/scesa",
+      "segnale di fermata",
+      "fermata",
+      "ostacolante",
+      "fermata del trasporto pubblico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata ostacolante per far salire e scendere persone entro 10 m dopo un segnale di fermata del trasporto pubblico.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata per caricare merci entro 10 m dopo un segnale di fermata del trasporto pubblico (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Caricamento merci",
+      "Segnale di fermata",
+      "trasporto pubblico",
+      "fermata",
+      "merci",
+      "fermata del trasporto pubblico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata per caricare/scaricare merci entro 10 m dopo un segnale di fermata del trasporto pubblico.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio davanti alla stazione dei vigili del fuoco e ai magazzini di attrezzature antincendio (Art. 18 Abs. 3 e Art. 19 Abs. 2 a VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "stazione dei vigili del fuoco",
+      "magazzino",
+      "attrezzature antincendio",
+      "60 minuti",
+      "parcheggio",
+      "stazione dei vigili del fuoco",
+      "attrezzature antincendio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio davanti alla stazione dei vigili del fuoco o ai locali delle attrezzature antincendio, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata per caricare merci davanti alla stazione dei vigili del fuoco o ai magazzini di attrezzature antincendio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Caricamento merci",
+      "stazione dei vigili del fuoco",
+      "attrezzature antincendio",
+      "fermata",
+      "merci",
+      "stazione dei vigili del fuoco"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata per caricare/scaricare merci davanti alla stazione dei vigili del fuoco o ai locali delle attrezzature antincendio.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Fermata ostacolante per far salire e scendere persone davanti alla stazione dei vigili del fuoco e ai magazzini di attrezzature antincendio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Ostacolante",
+      "salita/scesa",
+      "stazione dei vigili del fuoco",
+      "fermata",
+      "ostacolante",
+      "stazione dei vigili del fuoco"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata ostacolante per far salire e scendere persone davanti alla stazione dei vigili del fuoco o ai locali delle attrezzature antincendio.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Fermata ostacolante per caricare merci accanto a veicoli parcheggiati lungo il margine della strada (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "Ostacolante",
+      "Caricamento merci",
+      "lungo",
+      "parcheggiati",
+      "fermata",
+      "ostacolante",
+      "merci",
+      "doppio parcheggio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata ostacolante per caricare/scaricare merci accanto a veicoli parcheggiati lungo il margine della strada (doppio parcheggio per merci).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Parcheggio su una corsia ciclabile (Art. 19 Abs. 2 d VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "corsia ciclabile",
+      "corsia ciclabile",
+      "60 minuti",
+      "parcheggio",
+      "corsia ciclabile",
+      "corsia ciclabile"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su una corsia ciclabile, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Fermata su una corsia ciclabile quando ostacola il traffico ciclistico (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "corsia ciclabile",
+      "traffico ciclistico",
+      "ostacolato",
+      "fermata",
+      "corsia ciclabile",
+      "ostacolante"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata su una corsia ciclabile quando ostacola il traffico ciclistico.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Parcheggio sulla carreggiata accanto a una corsia ciclabile (Art. 19 Abs. 2 d VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "carreggiata",
+      "corsia ciclabile",
+      "accanto a",
+      "60 minuti",
+      "parcheggio",
+      "carreggiata",
+      "corsia ciclabile"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sulla strada accanto a una corsia ciclabile, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parcheggio sui binari del tram (Art. 19 Abs. 2 a e 25 Abs. 5 VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "binari del tram",
+      "binari del tram",
+      "60 minuti",
+      "parcheggio",
+      "binari del tram"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sui binari del tram, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Fermata sui binari del tram (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "binari del tram",
+      "binari del tram",
+      "fermata",
+      "binari del tram"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata sui binari del tram.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 a und 25 Abs. 5 VRV",
+    "law_text": "Parcheggio a meno di 1,5 m accanto al binario del tram più vicino (Art. 19 Abs. 2 a e 25 Abs. 5 VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "binario del tram",
+      "binari del tram",
+      "1,5 m",
+      "60 minuti",
+      "parcheggio",
+      "binario del tram",
+      "distanza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio a meno di 1,5 m dal binario del tram più vicino, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Fermata a meno di 1,5 m accanto al binario del tram più vicino (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "binario del tram",
+      "binari del tram",
+      "1,5 m",
+      "fermata",
+      "binario del tram",
+      "distanza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata a meno di 1,5 m dal binario del tram più vicino.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parcheggio sulla corsia di emergenza di un'autostrada (Art. 36 Abs. 3 VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "corsia di emergenza",
+      "autostrada",
+      "60 minuti",
+      "parcheggio",
+      "corsia di emergenza",
+      "autostrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sulla corsia di emergenza di un'autostrada, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Fermata sulla corsia di emergenza di un'autostrada, salvo fermata di emergenza (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fermata",
+      "corsia di emergenza",
+      "autostrada",
+      "fermata di emergenza",
+      "fermata",
+      "corsia di emergenza",
+      "autostrada",
+      "emergenza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "salvo fermata di emergenza",
+    "notes": "Fermata sulla corsia di emergenza di un'autostrada, escludendo le emergenze.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parcheggio sulla corsia di emergenza di una superstrada (Art. 36 Abs. 3 VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcheggio",
+      "corsia di emergenza",
+      "superstrada",
+      "60 minuti",
+      "parcheggio",
+      "corsia di emergenza",
+      "superstrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sulla corsia di emergenza di una superstrada, fino a 60 minuti.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

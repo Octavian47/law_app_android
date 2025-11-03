@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkiranje na manje od 20 m od železničkog prelaza",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "železnički prelaz",
+      "udaljenost",
+      "20m",
+      "parkiranje",
+      "železnički prelaz",
+      "udaljenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje bliže od 20 m od železničkog prelaza do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkiranje na manje od 20 m od železničkog prelaza",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "železnički prelaz",
+      "udaljenost",
+      "20m",
+      "parkiranje",
+      "železnički prelaz",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje bliže od 20 m od železničkog prelaza više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkiranje na manje od 20 m od železničkog prelaza",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "železnički prelaz",
+      "udaljenost",
+      "20m",
+      "parkiranje",
+      "železnički prelaz",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje bliže od 20 m od železničkog prelaza više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkiranje na mostu",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "most",
+      "zabranjeno",
+      "parkiranje",
+      "most",
+      "zabranjeno"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje na mostu do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkiranje na mostu",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "most",
+      "zabranjeno",
+      "parkiranje",
+      "most",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje na mostu više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkiranje na mostu",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "most",
+      "zabranjeno",
+      "parkiranje",
+      "most",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje na mostu više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj zgradi",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "zgrada",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "zgrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj zgradi do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj zgradi",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "zgrada",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj zgradi više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj zgradi",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "zgrada",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj zgradi više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj imovini",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "imovina",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "imovina"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj imovini do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj imovini",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "imovina",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj imovini više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkiranje ispred pristupa drugoj imovini",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "pristup",
+      "imovina",
+      "ulaz",
+      "parkiranje",
+      "pristup",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje ispred pristupa drugoj imovini više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkiranje na trotoaru gde znakovi ili oznake ne dozvoljavaju izričito, ako ostane najmanje 1,5 m prostor za pešake",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "trotoar",
+      "trotoar",
+      "minimalna udaljenost",
+      "pešak",
+      "1.5m",
+      "parkiranje",
+      "trotoar",
+      "pešak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje na trotoaru bez izričitih znakova/oznaka, iako je ostavljeno 1,5 m za pešake, do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkiranje na trotoaru gde znakovi ili oznake ne dozvoljavaju izričito, ako ostane najmanje 1,5 m prostor za pešake",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "trotoar",
+      "trotoar",
+      "minimalna udaljenost",
+      "pešak",
+      "parkiranje",
+      "trotoar",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje na trotoaru bez izričitih znakova/oznaka, iako je ostavljeno 1,5 m za pešake, više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkiranje na trotoaru gde znakovi ili oznake ne dozvoljavaju izričito, ako ostane najmanje 1,5 m prostor za pešake",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "trotoar",
+      "trotoar",
+      "minimalna udaljenost",
+      "pešak",
+      "parkiranje",
+      "trotoar",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje na trotoaru bez izričitih znakova/oznaka, iako je ostavljeno 1,5 m za pešake, više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkiranje u označenoj zabrani parkiranja (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "zabrana",
+      "signalizacija",
+      "parkiranje",
+      "zabrana",
+      "znak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje u oblasti označene znakom 'Parkiranje zabranjeno' (znak 2.50) do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkiranje u označenoj zabrani parkiranja (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "zabrana",
+      "signalizacija",
+      "parkiranje",
+      "zabrana",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje u oblasti označene znakom 'Parkiranje zabranjeno' (znak 2.50) više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkiranje u označenoj zabrani parkiranja (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "zabrana",
+      "signalizacija",
+      "parkiranje",
+      "zabrana",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje u oblasti označene znakom 'Parkiranje zabranjeno' (znak 2.50) više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkiranje u zoni susreta na mestima koja nisu označena za to",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "zona susreta",
+      "oznaka",
+      "parkiranje",
+      "zona susreta",
+      "označen prostor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje u 'Zoni susreta' (Begegnungszone) na neoznačenim mestima do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkiranje u zoni susreta na mestima koja nisu označena za to",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "zona susreta",
+      "oznaka",
+      "parkiranje",
+      "zona susreta",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje u 'Zoni susreta' (Begegnungszone) na neoznačenim mestima više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkiranje u zoni susreta na mestima koja nisu označena za to",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "zona susreta",
+      "oznaka",
+      "parkiranje",
+      "zona susreta",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje u 'Zoni susreta' (Begegnungszone) na neoznačenim mestima više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkiranje unutar parking mesta",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "parking mesto",
+      "oznaka",
+      "parkiranje",
+      "parking mesto",
+      "oznaka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje unutar označenog parking mesta do 2 sata (pretpostavlja nepoštovanje pravila parking polja, verovatno prekoračenje vremenskog limita ili slično).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkiranje unutar parking mesta",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "parking mesto",
+      "oznaka",
+      "parkiranje",
+      "parking mesto",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Kazna za parkiranje unutar označenog parking mesta više od 2, najviše 4 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkiranje unutar parking mesta",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "parking mesto",
+      "oznaka",
+      "parkiranje",
+      "parking mesto",
+      "trajanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Kazna za parkiranje unutar označenog parking mesta više od 4, najviše 10 sati.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkiranje vozila u parking mestu koje nije dimenzionisano za tu vrstu vozila",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "parking mesto",
+      "vrsta vozila",
+      "veličina",
+      "parkiranje",
+      "vrsta vozila",
+      "veličina"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Kazna za parkiranje vozila u prostoru koji nije predviđen za njegovu veličinu/vrstu do 2 sata.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

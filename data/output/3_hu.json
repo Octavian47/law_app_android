@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "A járművezető tachográf kártyájának károsodás, meghibásodás, elvesztés vagy lopás bejelentésének elmulasztása",
+    "fine_chf": 20,
+    "keywords": [
+      "vezetői tachográf kártya",
+      "bejelentés",
+      "kár",
+      "lopás",
+      "ARV",
+      "tachográf kártya",
+      "bejelentés"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A digitális tachográf kártyájára vonatkozik, amelyet hivatásos járművezetők használnak.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "A vezetői kártya visszaadásának elmulasztása",
+    "fine_chf": 20,
+    "keywords": [
+      "vezetői kártya",
+      "visszaadás",
+      "ARV",
+      "tachográf kártya",
+      "visszaadás"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A digitális tachográf kártyájára vonatkozik, amelyet hivatásos járművezetők használnak.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "A műhelyi kártya visszaadásának elmulasztása",
+    "fine_chf": 20,
+    "keywords": [
+      "műhelyi kártya",
+      "visszaadás",
+      "ARV",
+      "Műhelyi kártya",
+      "visszaadás",
+      "tachográf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Műhelyi személyzet"
+    ],
+    "conditions": null,
+    "notes": "A tachográf műhelyi kártyájára vonatkozik, amely elengedhetetlen a hivatásos járművezetőkre vonatkozó szabályozásokhoz.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "A megengedett parkolási idő túllépése\n  a. legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolási idő",
+      "túllépés",
+      "parkolás",
+      "parkolási idő",
+      "túllépés",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a megengedett parkolási idő túllépéséért.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "A megengedett parkolási idő túllépése\n  b. több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "parkolási idő",
+      "túllépés",
+      "parkolás",
+      "parkolási idő",
+      "túllépés",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a megengedett parkolási idő túllépéséért.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "A megengedett parkolási idő túllépése\n  c. több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "parkolási idő",
+      "túllépés",
+      "parkolás",
+      "parkolási idő",
+      "túllépés",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a megengedett parkolási idő túllépéséért.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "A parkolókorong járműre való rögzítésének vagy látható elhelyezésének elmulasztása",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolókorong",
+      "elhelyezés",
+      "láthatóság",
+      "parkolókorong",
+      "elhelyezés",
+      "láthatóság",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolókorong helytelen elhelyezéséért vagy rossz láthatóságáért.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "A parkolójegy járműre való rögzítésének vagy látható elhelyezésének elmulasztása",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolójegy",
+      "parkolójegy",
+      "elhelyezés",
+      "láthatóság",
+      "parkolójegy",
+      "elhelyezés",
+      "láthatóság",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolójegy helytelen elhelyezéséért vagy rossz láthatóságáért.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "A fogyatékos személyek parkolási engedélyének járműre való rögzítésének vagy látható elhelyezésének elmulasztása",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolási engedély",
+      "fogyatékos",
+      "elhelyezés",
+      "láthatóság",
+      "fogyatékos parkolás",
+      "jelvény",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a fogyatékos parkolási jelvény helytelen elhelyezéséért vagy rossz láthatóságáért.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Helytelen érkezési idő beállítása a parkolókorongon",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolókorong",
+      "érkezési idő",
+      "helytelen",
+      "beállítás",
+      "parkolókorong",
+      "érkezési idő",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolókorongon helytelen érkezési idő beállításáért.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Az beállított érkezési idő módosítása a jármű mozgatása nélkül",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolókorong",
+      "érkezési idő",
+      "módosítás",
+      "jármű elindítása",
+      "parkolókorong",
+      "érkezési idő",
+      "újra beállítás",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolókorong érkezési időpontjának jármű mozgatása nélküli újra beállításáért (illegális 'mérő etetés').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "A parkolóóra manipulálása",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolóóra",
+      "manipulálás",
+      "hibás",
+      "parkolóóra",
+      "manipulálás",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolóóra használhatatlanná tételéért.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Tiltott előre fizetés a parkolási idő lejárta előtt",
+    "fine_chf": 40,
+    "keywords": [
+      "előre fizetés",
+      "parkolási idő",
+      "lejárta előtt",
+      "parkolási díj",
+      "újratöltés",
+      "előre",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a parkolási idő lejárta előtt történő további parkolási idő fizetéséért, a tartózkodás meghosszabbítására.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Fizetés a parkolási idő lejárta után",
+    "fine_chf": 40,
+    "keywords": [
+      "utólag fizetés",
+      "parkolási idő",
+      "lejárt",
+      "parkolási díj",
+      "újratöltés",
+      "lejárt",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a megengedett idő lejárta után történő további parkolási idő fizetéséért.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Megállás rossz láthatóságú helyeken, különösen kanyarok és dombtetők közelében",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "rossz láthatóság",
+      "kanyarok",
+      "dombtetők",
+      "megállás",
+      "láthatóság",
+      "kanyarok",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság rossz láthatóságú helyeken való megállásért, például kanyarok vagy dombtetők közelében.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Megállás szűk keresztmetszetekben",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "szűk keresztmetszetek",
+      "megállás",
+      "szűk keresztmetszet",
+      "szűk",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság szűk keresztmetszetekben vagy szűk átjárókban való megállásért.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Megállás az úton egy akadály mellett",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "akadály",
+      "úton",
+      "megállás",
+      "akadály",
+      "úton",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság a sávban egy akadály mellett való megállásért, amely akadályozza a forgalmat.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás egypályás szakaszon (Art. 18 Abs. 2 Bst. c és 19 Abs. 2 Bst. a VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "egypályás",
+      "parkolás",
+      "egypályás",
+      "szűk keresztmetszet",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Bírság egypályás szakaszon való parkolásért (pl. ideiglenes akadály miatt).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Megállás egypályás szakaszon",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "egypályás",
+      "megállás",
+      "egypályás",
+      "szűk keresztmetszet",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Bírság egypályás szakaszon való megállásért (pl. ideiglenes akadály miatt).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkolás a biztonsági vonal mellett, ha legalább 3 m széles áthaladási lehetőség nem marad szabad",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "biztonsági vonal",
+      "átjárás",
+      "parkolás",
+      "biztonsági vonal",
+      "átmenő sáv",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "ha legalább 3 m széles áthaladási lehetőség nem marad szabad",
+    "notes": "Bírság a biztonsági vonal (átmenő vonal) mellett való parkolásért, ha kevesebb mint 3 m szabad áthaladási hely marad a forgalom számára.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkolás a biztonsági vonal mellett, ha legalább 3 m széles áthaladási lehetőség nem marad szabad",
+    "fine_chf": 80,
+    "keywords": [
+      "parkolás",
+      "biztonsági vonal",
+      "átjárás",
+      "parkolás",
+      "biztonsági vonal",
+      "átmenő sáv",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motoros járművezető",
+      "Járművezető"
+    ],
+    "conditions": "ha legalább 3 m széles áthaladási lehetőség nem marad szabad",
+    "notes": "Bírság a biztonsági vonal (átmenő vonal) mellett való parkolásért, ha kevesebb mint 3 m szabad áthaladási hely marad a forgalom számára.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

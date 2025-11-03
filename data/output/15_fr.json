@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Conduite sur la bande d'urgence des autoroutes ou voies rapides",
+    "fine_chf": 140,
+    "keywords": [
+      "bande d'urgence",
+      "autoroute",
+      "voie rapide",
+      "bande d'urgence",
+      "autoroute"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Utilisation de la voie la plus à gauche sur les autoroutes comportant au moins trois voies dans le même sens par des véhicules à moteur ne pouvant dépasser 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "voie de gauche",
+      "autoroute",
+      "vitesse",
+      "100 km/h",
+      "utilisation de voie",
+      "autoroute"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Véhicules à moteur"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Manquement à la création d'une bande de secours",
+    "fine_chf": 100,
+    "keywords": [
+      "bande de secours",
+      "obligation",
+      "couloir d'urgence",
+      "véhicule d'urgence"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Conduite obstructive sur la bande longitudinale pour piétons",
+    "fine_chf": 60,
+    "keywords": [
+      "piétons",
+      "bande longitudinale",
+      "obstruction",
+      "bande piétonne",
+      "obstruction"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec des plaques d'immatriculation difficilement lisibles",
+    "fine_chf": 60,
+    "keywords": [
+      "plaques d'immatriculation",
+      "plaque d'immatriculation",
+      "lisible",
+      "plaque d'immatriculation",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Transport d'une personne dépassant le nombre de sièges autorisé",
+    "fine_chf": 60,
+    "keywords": [
+      "passager en excès",
+      "sièges",
+      "surcapacité",
+      "passager",
+      "capacité"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Un passager de plus que le nombre de sièges autorisé.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Non-respect de l'interdiction de conduite de nuit\na. jusqu'à une heure",
+    "fine_chf": 100,
+    "keywords": [
+      "interdiction de conduite de nuit",
+      "interdiction de conduite de nuit",
+      "transport",
+      "durée"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule (véhicules lourds)"
+    ],
+    "conditions": "jusqu'à une heure",
+    "notes": "Violation de l'interdiction de conduite de nuit pour les véhicules lourds (généralement).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Non-respect de l'interdiction de conduite de nuit\nb. pendant plus d'une heure, mais pas plus de 2 heures",
+    "fine_chf": 200,
+    "keywords": [
+      "interdiction de conduite de nuit",
+      "interdiction de conduite de nuit",
+      "transport",
+      "durée"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule (véhicules lourds)"
+    ],
+    "conditions": "plus d'une heure, mais pas plus de 2 heures",
+    "notes": "Violation de l'interdiction de conduite de nuit pour les véhicules lourds (généralement).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec plaque(s) d'immatriculation obscurcie(s) en raison de\n1. cargaison",
+    "fine_chf": 60,
+    "keywords": [
+      "plaque d'immatriculation",
+      "obscurcie",
+      "cargaison",
+      "cargaison",
+      "obscurcie",
+      "plaque d'immatriculation"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Plaque d'immatriculation obscurcie par la cargaison.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec plaque(s) d'immatriculation obscurcie(s) en raison de\n2. porte-charges",
+    "fine_chf": 60,
+    "keywords": [
+      "plaque d'immatriculation",
+      "obscurcie",
+      "porte-charges",
+      "porte-vélos",
+      "obscurcie",
+      "porte-charges"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Plaque d'immatriculation obscurcie par le porte-charges (p. ex., porte-vélos).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec plaque(s) d'immatriculation obscurcie(s) en raison de\n3. outils et similaires",
+    "fine_chf": 60,
+    "keywords": [
+      "plaque d'immatriculation",
+      "obscurcie",
+      "outils",
+      "outils",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Plaque d'immatriculation obscurcie par des outils de travail attachés.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec dispositif(s) d'éclairage obscurci(s) en raison de\n1. cargaison",
+    "fine_chf": 60,
+    "keywords": [
+      "éclairage",
+      "obscurci",
+      "cargaison",
+      "lumières",
+      "obscurci",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dispositif d'éclairage obscurci par la cargaison.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec dispositif(s) d'éclairage obscurci(s) en raison de\n2. porte-charges",
+    "fine_chf": 60,
+    "keywords": [
+      "éclairage",
+      "obscurci",
+      "porte-charges",
+      "lumières",
+      "obscurci",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dispositif d'éclairage obscurci par le porte-charges.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conduite avec dispositif(s) d'éclairage obscurci(s) en raison de\n3. outils et similaires",
+    "fine_chf": 60,
+    "keywords": [
+      "éclairage",
+      "obscurci",
+      "outils",
+      "lumières",
+      "obscurci",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dispositif d'éclairage obscurci par des outils de travail attachés.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Arrêt sur un passage piéton pendant un trafic congestionné",
+    "fine_chf": 60,
+    "keywords": [
+      "arrêt",
+      "passage piéton",
+      "trafic congestionné",
+      "passage piéton",
+      "arrêt",
+      "congestion"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "pendant un trafic congestionné",
+    "notes": "Blocage d'un passage piéton pendant la congestion du trafic.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Arrêt à un carrefour sur la chaussée destiné au trafic transversal pendant un trafic congestionné",
+    "fine_chf": 60,
+    "keywords": [
+      "arrêt",
+      "carrefour",
+      "trafic transversal",
+      "trafic congestionné",
+      "carrefour",
+      "arrêt"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "pendant un trafic congestionné",
+    "notes": "Blocage de la zone du carrefour destinée au trafic transversal pendant la congestion.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Manquement à céder le droit de passage à un passage piéton",
+    "fine_chf": 140,
+    "keywords": [
+      "droit de passage",
+      "passage piéton",
+      "droit de passage",
+      "priorité",
+      "passage piéton"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Manquement à céder le passage aux piétons sur un passage balisé.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Transport non autorisé d'une personne sur des véhicules de transport de marchandises et sur des véhicules agricoles et forestiers",
+    "fine_chf": 60,
+    "keywords": [
+      "transport",
+      "transport de marchandises",
+      "véhicules agricoles",
+      "véhicules agricoles",
+      "transport de passagers"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Transport de passagers non autorisés sur des véhicules destinés au transport de marchandises ou à la foresterie/agriculture.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Conduite sur une zone piétonne avec un fauteuil roulant motorisé ou une trottinette électrique par une personne non handicapée",
+    "fine_chf": 40,
+    "keywords": [
+      "zone piétonne",
+      "fauteuil roulant motorisé",
+      "trottinette électrique",
+      "trottinette électrique",
+      "handicap de mobilité",
+      "zone piétonne"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Personne non handicapée"
+    ],
+    "conditions": null,
+    "notes": "Utilisation non autorisée d'appareils d'assistance (fauteuil roulant/trottinette) sur les voies piétonnes par des personnes non handicapées.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Udaranje vozila ili objekta od strane vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "Udaranje",
+      "Sudaranje",
+      "Objekat",
+      "Vozač",
+      "sudaranje",
+      "objekat",
+      "vozač"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženska vozačica",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Slučajno udaranje vozila ili objekta.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Vlačenje vozila ili objekta od strane vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "Vlačenje",
+      "Objekat",
+      "Vozač",
+      "vlačenje",
+      "objekat",
+      "vozač"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženska vozačica",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Uzrokovanje štete vlačenjem/povlačenjem vozila ili objekta.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Vučanje vozila ili objekta od strane vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "Vučanje",
+      "Objekat",
+      "Vozač",
+      "vučenje",
+      "povlačenje",
+      "objekat",
+      "vozač"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženska vozačica",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Uzrokovanje štete pri vučenju/povlačenju vozila ili objekta.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Opšta zabrana saobraćaja u oba smera» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zabrana saobraćaja",
+      "Signal zabrane",
+      "oba smera",
+      "Opšta zabrana",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka 'Zabranjeno vozilo u oba smera'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Zabranjen ulaz» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ulaz",
+      "zabranjen",
+      "Signal zabrane",
+      "Zabranjen ulaz",
+      "zabranjen ulaz",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka 'Zabranjen ulaz'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zabrana za bicikle i mopede» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Bicikli",
+      "Mopedi",
+      "Bicikl",
+      "Moped",
+      "Zabrana",
+      "bicikl",
+      "moped",
+      "signalizacija"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Biciklista",
+      "Mopedista"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka zabrane za bicikle i mopede.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zabrana za mopede» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mopedi",
+      "Moped",
+      "Zabrana",
+      "moped",
+      "signalizacija"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Mopedista"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka zabrane specifično za mopede.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Smer desno» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Smer",
+      "desno",
+      "Regulativni signal",
+      "smer desno",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog signala za smer (desno).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Smer levo» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Smer",
+      "levo",
+      "Regulativni signal",
+      "smer levo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog signala za smer (levo).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Prolaz oko prepreke desno» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Prepreka",
+      "desno",
+      "zaobilaženje",
+      "Regulativni signal",
+      "prolaz oko prepreke desno",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog smera za prolaz oko prepreke desno.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Prolaz oko prepreke levo» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Prepreka",
+      "levo",
+      "zaobilaženje",
+      "Regulativni signal",
+      "prolaz oko prepreke levo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog smera za prolaz oko prepreke levo.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Idi pravo napred» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Idi pravo",
+      "Smer",
+      "Regulativni signal",
+      "pravo napred",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog znaka za smer 'pravo napred'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Skreni desno» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skreni desno",
+      "Skretanje",
+      "Smer",
+      "Regulativni signal",
+      "skreni desno",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog znaka 'skreni desno'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Skreni levo» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skreni levo",
+      "Skretanje",
+      "Smer",
+      "Regulativni signal",
+      "skreni levo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog znaka 'skreni levo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rondo» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rondo",
+      "Saobraćajni krug",
+      "Regulativni signal",
+      "rondo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje obaveznog smera (obično suprotno smeru kazaljke na satu) u rondu.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zabranjeno skretanje desno» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skretanje",
+      "desno",
+      "zabranjeno",
+      "Signal zabrane",
+      "Zabranjeno skretanje desno",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka 'Zabranjeno skretanje desno'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zabranjeno skretanje levo» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skretanje",
+      "levo",
+      "zabranjeno",
+      "Signal zabrane",
+      "Zabranjeno skretanje levo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka 'Zabranjeno skretanje levo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Zabranjen U-turn» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "U-turn",
+      "zabranjeno",
+      "Signal zabrane",
+      "Zabranjen U-turn",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje znaka 'Zabranjen U-turn'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Biciklistička staza» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Biciklistička staza",
+      "Bicikl",
+      "Bicikl",
+      "Obavezni signal",
+      "biciklistička staza",
+      "signalizacija"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nepravilno korišćenje ili ometanje obavezne biciklističke staze.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zona zajedničkog prostora» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zona zajedničkog prostora",
+      "Zona",
+      "zajednički prostor",
+      "signalizacija",
+      "zona usporavanja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje pravila ili granica zone zajedničkog prostora (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Pešačka zona» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pešačka zona",
+      "Zona",
+      "pešačka zona",
+      "signalizacija",
+      "pešak"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje pravila ili granica pešačke zone.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

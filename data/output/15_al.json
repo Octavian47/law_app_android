@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Udhëtime në brezë emergjentë të autostradave ose rrugëve të shpejta",
+    "fine_chf": 140,
+    "keywords": [
+      "brezë emergjente",
+      "autostradë",
+      "rrugë e shpejtë",
+      "brezë emergjente",
+      "autostradë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Përdorimi i brezës më të majtë të jashtme në autostradat me të paktën tre breza në të njëjtën drejtim nga automjetet që nuk mund të kalojnë 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "brezë e majtë",
+      "autostradë",
+      "shpejtësi",
+      "100 km/h",
+      "përdorim i brezës",
+      "autostradë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Automjete"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Mungesa e krijimit të një brezë shpëtimi",
+    "fine_chf": 100,
+    "keywords": [
+      "brezë shpëtimi",
+      "detyrim",
+      "koridor emergjent",
+      "mjet emergjent"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Udhëtime penguese në shiritin longitudinal për këmbësorët",
+    "fine_chf": 60,
+    "keywords": [
+      "këmbësorë",
+      "shirit longitudinal",
+      "pengesë",
+      "shirit këmbësorësh",
+      "pengesë"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me targa kontrolli që nuk janë lehtë të lexueshme",
+    "fine_chf": 60,
+    "keywords": [
+      "targa kontrolli",
+      "targa e licencës",
+      "i lexueshëm",
+      "targa e regjistrimit",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Transportimi i një personi që tejkalon numrin e lejuar të vendeve",
+    "fine_chf": 60,
+    "keywords": [
+      "pasagjer i tepërt",
+      "vende",
+      "kapacitet i tepërt",
+      "pasagjer",
+      "kapacitet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Një pasagjer më shumë se numri i lejuar i vendeve.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Shkelja e ndalimit të udhëtimit në natë\na. deri në një orë",
+    "fine_chf": 100,
+    "keywords": [
+      "ndalim i udhëtimit në natë",
+      "ndalim i udhëtimit në natë",
+      "Transport",
+      "kohëzgjatje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit (automjete të rënda)"
+    ],
+    "conditions": "deri në një orë",
+    "notes": "Shkelje e ndalimit të udhëtimit në natë për automjete të rënda (zakonisht).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Shkelja e ndalimit të udhëtimit në natë\nb. për më shumë se një orë, por jo më shumë se 2 orë",
+    "fine_chf": 200,
+    "keywords": [
+      "ndalim i udhëtimit në natë",
+      "ndalim i udhëtimit në natë",
+      "Transport",
+      "kohëzgjatje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit (automjete të rënda)"
+    ],
+    "conditions": "më shumë se 1 orë, por jo më shumë se 2 orë",
+    "notes": "Shkelje e ndalimit të udhëtimit në natë për automjete të rënda (zakonisht).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me targa kontrolli të mbuluara për shkak të\n1. ngarkesës",
+    "fine_chf": 60,
+    "keywords": [
+      "targa kontrolli",
+      "e mbuluar",
+      "ngarkesë",
+      "ngarkesë",
+      "e mbuluar",
+      "targa e regjistrimit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Targa e regjistrimit e mbuluar nga ngarkesa.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me targa kontrolli të mbuluara për shkak të\n2. mbajtësit të ngarkesës",
+    "fine_chf": 60,
+    "keywords": [
+      "targa kontroli",
+      "e mbuluar",
+      "mbajtës ngarkese",
+      "mbajtës biçikletash",
+      "e mbuluar",
+      "mbajtës"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Targa e regjistrimit e mbuluar nga mbajtësi i ngarkesës (p.sh., mbajtës biçikletash).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me targa kontrolli të mbuluara për shkak të\n3. veglave dhe të ngjashme",
+    "fine_chf": 60,
+    "keywords": [
+      "targa kontroli",
+      "e mbuluar",
+      "vegla",
+      "vegla",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Targa e regjistrimit e mbuluar nga veglat e lidhura të punës.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me pajisje ndriçimi të mbuluara për shkak të\n1. ngarkesës",
+    "fine_chf": 60,
+    "keywords": [
+      "ndriçim",
+      "e mbuluar",
+      "ngarkesë",
+      "drita",
+      "e mbuluar",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pajisja e ndriçimit e mbuluar nga ngarkesa.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me pajisje ndriçimi të mbuluara për shkak të\n2. mbajtësit të ngarkesës",
+    "fine_chf": 60,
+    "keywords": [
+      "ndriçim",
+      "e mbuluar",
+      "mbajtës ngarkese",
+      "drita",
+      "e mbuluar",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pajisja e ndriçimit e mbuluar nga mbajtësi i ngarkesës.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Udhëtime me pajisje ndriçimi të mbuluara për shkak të\n3. veglave dhe të ngjashme",
+    "fine_chf": 60,
+    "keywords": [
+      "ndriçim",
+      "e mbuluar",
+      "vegla",
+      "drita",
+      "e mbuluar",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pajisja e ndriçimit e mbuluar nga veglat e lidhura të punës.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Ndalimi në kalim për këmbësorë gjatë trafikut të ngarkuar",
+    "fine_chf": 60,
+    "keywords": [
+      "ndalimi",
+      "kalim për këmbësorë",
+      "trafik i ngarkuar",
+      "kalim për këmbësorë",
+      "ndalimi",
+      "ngarkesë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "gjatë trafikut të ngarkuar",
+    "notes": "Bllokimi i kalimit për këmbësorë gjatë ngarkesës së trafikut.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Ndalimi në kryqëzimin e rrugës në shtratin për trafikun kryqëzuar gjatë trafikut të ngarkuar",
+    "fine_chf": 60,
+    "keywords": [
+      "ndalimi",
+      "kryqëzim",
+      "trafik kryqëzues",
+      "trafik i ngarkuar",
+      "kryqëzim",
+      "ndalimi"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "gjatë trafikut të ngarkuar",
+    "notes": "Bllokimi i zonës së kryqëzimit të destinuar për trafikun kryqëzuar gjatë ngarkesës së trafikut.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Mungesa e lëshimit të të drejtës së kalimit në kalim për këmbësorë",
+    "fine_chf": 140,
+    "keywords": [
+      "të drejtë kalimi",
+      "kalim për këmbësorë",
+      "të drejtë kalimi",
+      "përparësi",
+      "kalim për këmbësorë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e lëshimit të këmbësorëve në një kalim të shënuar.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Transportim i paautorizuar i personit në automjete për transport mallrash dhe në automjete bujqësore dhe pyjore",
+    "fine_chf": 60,
+    "keywords": [
+      "transportim",
+      "transport mallrash",
+      "automjete bujqësore",
+      "automjete bujqësore",
+      "transport pasagjerësh"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Transportim i pasagjerëve të paautorizuar në automjete të destinuara për mallra ose pylli/bujqësi.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Udhëtime në zonë këmbësore me karrige me rrota të motorizuara ose me skuter elektrik nga një person jo i aftë",
+    "fine_chf": 40,
+    "keywords": [
+      "zonë këmbësore",
+      "karrige me rrota të motorizuara",
+      "skuter elektrik",
+      "E-Scooter",
+      "çrregullim i lëvizjes",
+      "zonë këmbësore"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Person jo i aftë"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i paautorizuar i pajisjeve ndihmëse (karrige me rrota/skuter elektrik) në shtigjet këmbësore nga individë jo të aftë.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

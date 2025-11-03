@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Utilisation d'une route nationale de première ou deuxième classe sans la vignette requise pour la période de validité",
+    "fine_chf": 200,
+    "keywords": [
+      "Route nationale",
+      "Vignette",
+      "Vignette manquante",
+      "Émission",
+      "Autocollant de péage",
+      "Autoroute"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Conduite sur les routes nationales sans la vignette de péage requise.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Utilisation d'une route nationale de première ou deuxième classe avec la vignette adhésive requise pour la période de validité qui n'est pas apposée, ou qui n'est pas apposée à l'emplacement prescrit directement sur le véhicule, ou qui est endommagée",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignette",
+      "Vignette adhésive",
+      "Application",
+      "Endommagée",
+      "Adhésion",
+      "Placement"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Conduite avec une vignette mal apposée (pas directement sur le véhicule) ou endommagée.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

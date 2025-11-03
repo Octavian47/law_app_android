@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parking less than 20 m from a railway crossing",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "railway crossing",
+      "distance",
+      "20m",
+      "parking",
+      "railway crossing",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking closer than 20m to a railway crossing for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parking less than 20 m from a railway crossing",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "railway crossing",
+      "distance",
+      "20m",
+      "parking",
+      "railway crossing",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking closer than 20m to a railway crossing for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parking less than 20 m from a railway crossing",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "railway crossing",
+      "distance",
+      "20m",
+      "parking",
+      "railway crossing",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking closer than 20m to a railway crossing for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parking on a bridge",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "bridge",
+      "prohibition",
+      "parking",
+      "bridge",
+      "prohibition"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking on a bridge for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parking on a bridge",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "bridge",
+      "prohibition",
+      "parking",
+      "bridge",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking on a bridge for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parking on a bridge",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "bridge",
+      "prohibition",
+      "parking",
+      "bridge",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking on a bridge for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another building",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "access",
+      "building",
+      "entrance",
+      "parking",
+      "access",
+      "building"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking in front of an access to another building for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another building",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "access",
+      "building",
+      "entrance",
+      "parking",
+      "access",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking in front of an access to another building for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another building",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "access",
+      "building",
+      "entrance",
+      "parking",
+      "access",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking in front of an access to another building for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another property",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "access",
+      "property",
+      "entrance",
+      "parking",
+      "access",
+      "property"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking in front of an access to another property for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another property",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "access",
+      "property",
+      "entrance",
+      "parking",
+      "access",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking in front of an access to another property for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parking in front of an access to another property",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "access",
+      "property",
+      "entrance",
+      "parking",
+      "access",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking in front of an access to another property for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parking on the sidewalk where signals or markings do not explicitly permit it, if at least a 1.5 m wide space remains for pedestrians",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "sidewalk",
+      "sidewalk",
+      "minimum distance",
+      "pedestrian",
+      "1.5m",
+      "parking",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking on the sidewalk without explicit signs/markings, even if 1.5m is left for pedestrians, for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parking on the sidewalk where signals or markings do not explicitly permit it, if at least a 1.5 m wide space remains for pedestrians",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "sidewalk",
+      "sidewalk",
+      "minimum distance",
+      "pedestrian",
+      "parking",
+      "sidewalk",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking on the sidewalk without explicit signs/markings, even if 1.5m is left for pedestrians, for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parking on the sidewalk where signals or markings do not explicitly permit it, if at least a 1.5 m wide space remains for pedestrians",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "sidewalk",
+      "sidewalk",
+      "minimum distance",
+      "pedestrian",
+      "parking",
+      "sidewalk",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking on the sidewalk without explicit signs/markings, even if 1.5m is left for pedestrians, for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parking within the signaled parking prohibition (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "prohibition",
+      "signage",
+      "parking",
+      "prohibition",
+      "sign"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking within an area signed with 'Parking prohibited' (Sign 2.50) for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parking within the signaled parking prohibition (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "prohibition",
+      "signage",
+      "parking",
+      "prohibition",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking within an area signed with 'Parking prohibited' (Sign 2.50) for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parking within the signaled parking prohibition (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "prohibition",
+      "signage",
+      "parking",
+      "prohibition",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking within an area signed with 'Parking prohibited' (Sign 2.50) for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parking in a meeting zone at places not marked for it",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "meeting zone",
+      "marking",
+      "parking",
+      "meeting zone",
+      "marked space"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking in a 'Meeting Zone' (Begegnungszone) at unmarked spaces for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parking in a meeting zone at places not marked for it",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "meeting zone",
+      "marking",
+      "parking",
+      "meeting zone",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking in a 'Meeting Zone' (Begegnungszone) at unmarked spaces for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parking in a meeting zone at places not marked for it",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "meeting zone",
+      "marking",
+      "parking",
+      "meeting zone",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking in a 'Meeting Zone' (Begegnungszone) at unmarked spaces for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parking within parking bays",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "parking space",
+      "marking",
+      "parking",
+      "parking space",
+      "marking"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking within a marked parking space for up to 2 hours (implying non-compliance with parking field rules, likely time limit exceeded or similar).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parking within parking bays",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "parking space",
+      "marking",
+      "parking",
+      "parking space",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 2 but not more than 4 hours",
+    "notes": "Fine for parking within a marked parking space for more than 2 up to 4 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parking within parking bays",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "parking space",
+      "marking",
+      "parking",
+      "parking space",
+      "duration"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "for more than 4 but not more than 10 hours",
+    "notes": "Fine for parking within a marked parking space for more than 4 up to 10 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parking a vehicle in a parking bay when it is not sized for that vehicle type",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "parking space",
+      "vehicle type",
+      "size",
+      "parking",
+      "vehicle type",
+      "size"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Fine for parking a vehicle in a space not designated for its size/type for up to 2 hours.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

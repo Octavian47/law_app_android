@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mos mbajtja e lejes së drejtuesit",
+    "fine_chf": 20,
+    "keywords": [
+      "licencë drejtuesi",
+      "mbajtja e lejes",
+      "mos mbajtja",
+      "drejtues",
+      "inspektim",
+      "licencë drejtuesi",
+      "dokumente rrugore"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mos mbajtja e lejes së nxënësit",
+    "fine_chf": 20,
+    "keywords": [
+      "leje nxënës",
+      "mbajtja e lejes",
+      "mos mbajtja",
+      "leje nxënës",
+      "drejtues"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit (nxënës)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mos mbajtja e regjistrimit të automjetit",
+    "fine_chf": 20,
+    "keywords": [
+      "regjistrim i automjetit",
+      "mbajtja e regjistrimit",
+      "mos mbajtja",
+      "regjistrim i automjetit",
+      "dokumente rrugore"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mos mbajtja e lejes për transportet speciale",
+    "fine_chf": 20,
+    "keywords": [
+      "transportet speciale",
+      "leje",
+      "mos mbajtja",
+      "transport special",
+      "leje"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Leje për transportet speciale ose të tepruara.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Mos mbajtja e dokumentit të mirëmbajtjes së emetimeve",
+    "fine_chf": 20,
+    "keywords": [
+      "dokument i mirëmbajtjes së emetimeve",
+      "mos mbajtja",
+      "dokument i mirëmbajtjes së emetimeve",
+      "inspektim"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Mos mbajtja e lejes së përjashtimit për një rregullim të sinjalizuar",
+    "fine_chf": 20,
+    "keywords": [
+      "leje përjashtimi",
+      "sinjalizuar",
+      "rregullim",
+      "mos mbajtja",
+      "leje përjashtimi",
+      "shenja trafiku"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Leje përjashtimi për një rregull trafiku/shenjë specifike.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mos mbajtja e certifikatës së kualifikimit të drejtuesit",
+    "fine_chf": 20,
+    "keywords": [
+      "certifikatë kualifikimi drejtuesi",
+      "mos mbajtja",
+      "certifikatë kompetence",
+      "certifikatë kualifikimi drejtuesi profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Dëshmi e kualifikimit të drejtuesit profesionist.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Mos mbajtja e fletës së futur të ditës së mëparshme",
+    "fine_chf": 140,
+    "keywords": [
+      "fletë futur",
+      "dita e mëparshme",
+      "mos mbajtja",
+      "tachograf",
+      "fletë tachograf",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me përdorimin e tachografit analog për drejtues profesionistë (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Mos mbajtja e shtypjes së ditës së mëparshme",
+    "fine_chf": 140,
+    "keywords": [
+      "shtypje",
+      "dita e mëparshme",
+      "mos mbajtja",
+      "tachograf",
+      "shtypje tachografi dixhital",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me përdorimin e tachografit dixhital për drejtues profesionistë (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Mos mbajtja e fletëve të tjera të kërkuara të futur",
+    "fine_chf": 60,
+    "keywords": [
+      "fletë futur",
+      "mos mbajtja",
+      "tachograf",
+      "drejtues profesionist",
+      "fletë"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": "tarifë fikse për 7 ditë",
+    "notes": "Gjoba aplikohet për çdo periudhë 7-ditore për mungesën e fletëve të tachografit jo-ditore.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Mos mbajtja e shtypjeve të tjera të kërkuara",
+    "fine_chf": 60,
+    "keywords": [
+      "shtypje",
+      "mos mbajtja",
+      "tachograf",
+      "drejtues profesionist",
+      "shtypje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": "tarifë fikse për 7 ditë",
+    "notes": "Gjoba aplikohet për çdo periudhë 7-ditore për mungesën e shtypjeve të tachografit jo-ditore.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Mos mbajtja e kartës së drejtuesit",
+    "fine_chf": 140,
+    "keywords": [
+      "kartë drejtuesi",
+      "mos mbajtja",
+      "kartë drejtuesi",
+      "tachograf",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Kartë drejtuesi për tachografin dixhital. ARV 1 është orari i punës zviceran për *disa* drejtues profesionistë.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Mos mbajtja e regjistrimeve zëvendësuese të tachografit ose paketës javore",
+    "fine_chf": 40,
+    "keywords": [
+      "regjistrime tachografi zëvendësuese",
+      "paketë javore",
+      "mos mbajtja",
+      "regjistrime tachografi",
+      "drejtues profesionist",
+      "paketë"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Regjistrime tachografi zëvendësuese ose paketa javore (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Mos mbajtja e letrës zëvendësuese për printerin",
+    "fine_chf": 40,
+    "keywords": [
+      "letër printeri zëvendësuese",
+      "mos mbajtja",
+      "letër printeri",
+      "tachograf dixhital",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Mos mbajtja e letrës zëvendësuese për printerin e tachografit dixhital.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Mos mbajtja e fletës së futur të ditës së mëparshme",
+    "fine_chf": 40,
+    "keywords": [
+      "fletë futur",
+      "dita e mëparshme",
+      "mos mbajtja",
+      "tachograf",
+      "fletë tachograf",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me përdorimin e tachografit analog për drejtues profesionistë (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Mos mbajtja e librit të punës",
+    "fine_chf": 40,
+    "keywords": [
+      "libër pune",
+      "mos mbajtja",
+      "libër pune",
+      "drejtues profesionist",
+      "ditarë"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me drejtues profesionistë që punojnë sipas rregullave ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Mos mbajtja e raporteve të brendshme ditore të javës aktuale ose dyfishë të tyre",
+    "fine_chf": 40,
+    "keywords": [
+      "raporte ditore",
+      "javë",
+      "mos mbajtja",
+      "raporte ditore",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": "tarifë fikse",
+    "notes": "Raporte ditore të brendshme për drejtues profesionistë (ARV 2). Gjoba është fikse për javën/periudhën.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Mos mbajtja e lejes së përjashtimit nga mbajtja e librit të punës",
+    "fine_chf": 40,
+    "keywords": [
+      "leje",
+      "libër pune",
+      "përjashtim",
+      "mos mbajtja",
+      "leje përjashtimi"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist"
+    ],
+    "conditions": null,
+    "notes": "Leje që përjashton drejtuesin nga mbajtja e librit të punës (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Mos mbajtja e kartës së kontrollit për drejtues taksie",
+    "fine_chf": 40,
+    "keywords": [
+      "kartë kontrolli",
+      "drejtues taksie",
+      "mos mbajtja",
+      "drejtues taksie",
+      "kartë kontrolli",
+      "drejtues profesionist"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Drejtues taksie"
+    ],
+    "conditions": null,
+    "notes": "Kartë kontrolli për drejtues taksie (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

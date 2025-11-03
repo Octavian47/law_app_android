@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Jízda po národní silnici první nebo druhé třídy bez požadované vignety platné pro dané období",
+    "fine_chf": 200,
+    "keywords": [
+      "Národní silnice",
+      "Vigneta",
+      "Chybějící vigneta",
+      "Vydání",
+      "Mýtný štítek",
+      "Dálnice"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jízda po národních silnicích bez požadované mýtné vignety.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Jízda po národní silnici první nebo druhé třídy s požadovanou lepicí vignettou pro platnost období, která není připevněna, nebo není připevněna na předepsaném místě přímo na vozidle, nebo je poškozena",
+    "fine_chf": 200,
+    "keywords": [
+      "Vigneta",
+      "Lepicí vigneta",
+      "Aplikace",
+      "Poškozená",
+      "Adheze",
+      "Umístění"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jízda s vignettou, která je nesprávně připevněna (ne přímo na vozidle) nebo poškozena.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

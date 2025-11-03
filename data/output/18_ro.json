@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Neinstalarea plăcii de marcare din spate",
+    "fine_chf": 20,
+    "keywords": [
+      "placă de marcare din spate",
+      "placă de marcare",
+      "VTS",
+      "echipament",
+      "marcare din spate"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Se referă la plăcile de marcare din spate, de obicei pentru vehicule/încărcături specifice.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Punerea unei motociclete în trafic fără reflectoare fixate permanent",
+    "fine_chf": 60,
+    "keywords": [
+      "motocicletă",
+      "reflector",
+      "reflector",
+      "VTS",
+      "echipament",
+      "comisionare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Proprietar",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Introducerea unei motociclete în trafic fără reflectoare fixe.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Eliberarea dispozitivului de direcție",
+    "fine_chf": 20,
+    "keywords": [
+      "dispozitiv de direcție",
+      "mâini libere",
+      "dispozitiv de direcție",
+      "control",
+      "bicicletă",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Eliberarea dispozitivului de direcție (de ex., mers cu mâinile libere). Se aplică motocicletelor și bicicletelor.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Nerespectarea purtării căștii de protecție pe motociclete",
+    "fine_chf": 30,
+    "keywords": [
+      "cască de protecție",
+      "cască",
+      "motocicletă",
+      "cască",
+      "echipament de siguranță",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător",
+      "Pasager"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea purtării căștii de protecție pe o motocicletă.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Oprirea pe trecerea de pietoni când traficul este aglomerat",
+    "fine_chf": 20,
+    "keywords": [
+      "trecere de pietoni",
+      "trecere zebra",
+      "trecere de pietoni",
+      "blocaj de trafic",
+      "oprire"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe o trecere de pietoni în timpul congestiei traficului.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Rularea inutilă a motorului unei biciclete motorizate staționate",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "funcționare în ralanti",
+      "funcționare inutilă în ralanti",
+      "bicicletă motorizată",
+      "motocicletă mică",
+      "emisie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Rularea inutilă a unei biciclete motorizate/moped staționate.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini: pe o șosea iluminată noaptea",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină",
+      "conducere nocturnă",
+      "iluminare",
+      "fară",
+      "șosea iluminată"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "Noaptea, pe o șosea iluminată.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini: pe o șosea neiluminată noaptea",
+    "fine_chf": 60,
+    "keywords": [
+      "lumină",
+      "conducere nocturnă",
+      "șosea neiluminată",
+      "fară",
+      "întuneric"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "Noaptea, pe o șosea neiluminată.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini: într-un tunel iluminat",
+    "fine_chf": 20,
+    "keywords": [
+      "lumină",
+      "tunel",
+      "fară",
+      "conducere în tunel",
+      "iluminare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "Într-un tunel iluminat.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini: în timpul zilei",
+    "fine_chf": 20,
+    "keywords": [
+      "lumină",
+      "zi",
+      "lumină de zi",
+      "fară",
+      "zi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "În timpul zilei (se aplică vehiculelor unde luminile de zi sunt obligatorii).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Conducere neautorizată pe trotuar",
+    "fine_chf": 40,
+    "keywords": [
+      "trotuar",
+      "trotuar",
+      "conducere ilegală",
+      "bicicletă",
+      "utilizare a drumului",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă mică",
+      "Trotișor electric"
+    ],
+    "conditions": null,
+    "notes": "Conducere neautorizată pe trotuar.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Conducere obstructivă pe benzile longitudinale pentru pietoni",
+    "fine_chf": 40,
+    "keywords": [
+      "pieton",
+      "bandă longitudinală",
+      "traseu",
+      "obstrucție",
+      "traseu pietonal"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducerea pe benzile longitudinale pietonale într-un mod care obstrucționează pietonii.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Transportarea obiectelor care fac imposibilă semnalizarea",
+    "fine_chf": 20,
+    "keywords": [
+      "bagaje",
+      "încărcătură",
+      "semnalizare",
+      "semnalizare",
+      "transportarea obiectelor",
+      "semnal manual"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Transportarea obiectelor care fac imposibilă semnalizarea (semnale manuale).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Poziționarea în fața unei cozi de vehicule în așteptare",
+    "fine_chf": 20,
+    "keywords": [
+      "depășire",
+      "coadă",
+      "coadă de vehicule",
+      "tăierea benzii",
+      "tăiere în linie"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Poziționarea în fața unei cozi de mașini în așteptare (de obicei prin șerpuire prin coadă).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Depășirea unei cozi de vehicule în așteptare prin mers în șlagă",
+    "fine_chf": 20,
+    "keywords": [
+      "mers în șlagă",
+      "depășire",
+      "coadă",
+      "coadă de vehicule",
+      "depășire",
+      "șerpuire"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Depășirea unei cozi de vehicule în așteptare prin zigzagare/șlagă.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Conducere alăturată interzisă: mai multe biciclete",
+    "fine_chf": 20,
+    "keywords": [
+      "conducere alăturată",
+      "bicicletă",
+      "ciclism alăturat",
+      "biciclete"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Conducere alăturată interzisă: mai multe biciclete motorizate",
+    "fine_chf": 20,
+    "keywords": [
+      "conducere alăturată",
+      "biciclete motorizate",
+      "moped",
+      "Trotișor electric",
+      "mopede"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Ciclist moped"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple motorized bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Conducere alăturată interzisă: mai multe rickshawuri electrice",
+    "fine_chf": 20,
+    "keywords": [
+      "conducere alăturată",
+      "rickshawuri electrice",
+      "rickshaw electric",
+      "alăturat"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Șofer de rickshaw"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple electric rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Conducere alăturată interzisă: combinații de biciclete, biciclete motorizate sau rickshawuri electrice",
+    "fine_chf": 20,
+    "keywords": [
+      "conducere alăturată",
+      "combinație mixtă",
+      "bicicletă",
+      "moped",
+      "rickshaw",
+      "alăturat"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: Mixed combinations of bicycles, mopeds, or e-rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Permițându-se să fie tractat",
+    "fine_chf": 20,
+    "keywords": [
+      "a fi tractat",
+      "a fi tractat",
+      "tractare",
+      "SVG",
+      "siguranță",
+      "bicicletă",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pulled/towed (e.g., by another vehicle or person).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Permițându-se să fie tras",
+    "fine_chf": 20,
+    "keywords": [
+      "a fi tras",
+      "a fi tractat",
+      "tractare",
+      "SVG",
+      "siguranță",
+      "bicicletă",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be towed (similar to 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Permițându-se să fie împins",
+    "fine_chf": 20,
+    "keywords": [
+      "a fi împins",
+      "a fi împins",
+      "siguranță",
+      "asistență",
+      "bicicletă",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pushed.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Transport neautorizat: o persoană",
+    "fine_chf": 20,
+    "keywords": [
+      "transport",
+      "pasager",
+      "persoană",
+      "transport",
+      "neautorizat",
+      "co-pasager"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a person (e.g., carrying a passenger on a vehicle not designed for it, or where not permitted).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Transport neautorizat: un copil fără scaun de siguranță pentru copii",
+    "fine_chf": 40,
+    "keywords": [
+      "scaun pentru copil",
+      "scaun pentru copil",
+      "copil",
+      "siguranță",
+      "transport",
+      "bicicletă"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Bicicletă",
+      "Motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a child without a safe child seat (where required).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

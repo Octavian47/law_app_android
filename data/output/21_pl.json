@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "dotyczące oznakowań (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Oznakowania",
+      "Sygnalizacja",
+      "VRV",
+      "SSV",
+      "oznaczenia drogowe",
+      "naruszenie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Implikuje naruszenie przepisów dotyczących oznakowań drogowych.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Niezastosowanie pierwszeństwa na przejściu dla pieszych (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Pierwszeństwo",
+      "Przejście dla pieszych",
+      "Przejście dla pieszych (zebra)",
+      "SVG",
+      "VRV",
+      "pierwszeństwo",
+      "przejście dla pieszych"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Używanie telefonu bez zestawu głośnomówiącego podczas jazdy (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Telefon komórkowy",
+      "Zestaw głośnomówiący",
+      "Jazda",
+      "Rozproszenie",
+      "telefon komórkowy",
+      "jazda"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnej lub oznaczonej maksymalnej prędkości przez kierowców motocykli po uwzględnieniu urządzenia i niepewności pomiaru ustalonej przez ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Prędkość",
+      "Maksymalna prędkość",
+      "Motocykl",
+      "Moped",
+      "SVG",
+      "naruszenie prędkości"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Stała kara za niewielkie przekroczenie prędkości (prawdopodobnie do 5 km/h nadmiaru) na motorowerach/rowerach motorowych.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Używanie motocykla lub elektrycznego rikszę bez tablicy rejestracyjnej lub bez ważnej winiety przy posiadaniu ubezpieczenia (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "tablica rejestracyjna",
+      "winieta",
+      "motocykl",
+      "elektryczny riksza",
+      "tablica rejestracyjna",
+      "naklejka",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca motocykla",
+      "Kierowca elektrycznego rikszę"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez użytkownika (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Używanie motocykla lub elektrycznego rikszę bez wymaganego zezwolenia na pojazd (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "zezwolenie na pojazd",
+      "motocykl",
+      "elektryczny riksza",
+      "SVG",
+      "zezwolenie na pojazd",
+      "dokumenty"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca motocykla",
+      "Kierowca elektrycznego rikszę"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez użytkownika (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Używanie motocykla bez istniejącego ubezpieczenia (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "ubezpieczenie",
+      "motocykl",
+      "VZV",
+      "ubezpieczenie",
+      "motorower",
+      "obowiązkowe"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez użytkownika (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Udzielenie wypożyczenia motocykla lub elektrycznego rikszę bez tablicy rejestracyjnej lub bez ważnej winiety przy posiadaniu ubezpieczenia do użytku (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Wypożyczenie",
+      "tablica rejestracyjna",
+      "winieta",
+      "motocykl",
+      "elektryczny riksza",
+      "wypożyczenie",
+      "tablica",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel",
+      "Pożyczający"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez właściciela/pożyczającego (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Udzielenie wypożyczenia motocykla lub elektrycznego rikszę bez wymaganego zezwolenia na pojazd do użytku (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Wypożyczenie",
+      "zezwolenie na pojazd",
+      "motocykl",
+      "elektryczny riksza",
+      "VZV",
+      "wypożyczenie",
+      "dokumenty pojazdu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel",
+      "Pożyczający"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez właściciela/pożyczającego (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Udzielenie wypożyczenia motocykla bez istniejącego ubezpieczenia do użytku (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Wypożyczenie",
+      "ubezpieczenie",
+      "motocykl",
+      "VZV",
+      "wypożyczenie",
+      "ubezpieczenie"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel",
+      "Pożyczający"
+    ],
+    "conditions": null,
+    "notes": "Wykroczenie popełnione przez właściciela/pożyczającego (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Jazda z tablicą rejestracyjną, która nie jest łatwo czytelna (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "tablica rejestracyjna",
+      "czytelność",
+      "Jazda",
+      "VRV",
+      "VTS",
+      "tablica rejestracyjna",
+      "czytelność",
+      "brudna tablica"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Jazda bez wymaganego dzwonka w motocyklach (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "dzwonek",
+      "motocykl",
+      "wyposażenie",
+      "VTS",
+      "motorower",
+      "dzwonek",
+      "wyposażenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Jazda motorowerem/rowerem motorowym bez wymaganego dzwonka.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Jazda bez trwale zamontowanych reflektorów (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "reflektor",
+      "reflektor",
+      "wyposażenie",
+      "VTS",
+      "reflektor",
+      "wyposażenie",
+      "brak"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez stałych reflektorów (dotyczy ogólnie pojazdów, które je wymagają, często rowerów/motorowerów w tej sekcji).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

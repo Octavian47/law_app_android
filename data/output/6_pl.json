@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zatrzymywanie się na pasie awaryjnym autostrady, z wyjątkiem zatrzymania awaryjnego.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "pas awaryjny",
+      "autostrada",
+      "zatrzymanie awaryjne",
+      "zatrzymywanie",
+      "pas awaryjny",
+      "autostrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na poboczu autostrady, z wyjątkiem sytuacji awaryjnej.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkowanie na chodniku, gdzie sygnały lub oznaczenia nie zezwalają wyraźnie, bez pozostawienia 1,5 m szerokiej wolnej przestrzeni dla pieszych.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "chodnik",
+      "pieszy",
+      "1,5 m",
+      "odstęp",
+      "parkowanie",
+      "chodnik",
+      "pieszy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na chodniku bez wyraźnej zgody, przy pozostawieniu mniej niż 1,5 m odstępu dla pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Zatrzymywanie się na chodniku bez pozostawienia 1,5 m szerokiej wolnej przestrzeni dla pieszych.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "chodnik",
+      "pieszy",
+      "1,5 m",
+      "odstęp",
+      "zatrzymywanie",
+      "chodnik",
+      "pieszy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na chodniku i pozostawienie mniej niż 1,5 m odstępu dla pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkowanie na pasach podłużnych dla pieszych, utrudniających ruch pieszych.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "pas podłużny",
+      "pieszy",
+      "utrudnienie",
+      "parkowanie",
+      "pas podłużny",
+      "pieszy",
+      "dostęp dla niepełnosprawnych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na pasach podłużnych dla niepełnosprawnych pieszych, utrudniających ruch pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Zatrzymywanie się na pasach podłużnych dla pieszych, utrudniających ruch pieszych.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "pas podłużny",
+      "pieszy",
+      "utrudnienie",
+      "zatrzymywanie",
+      "pas podłużny",
+      "pieszy",
+      "dostęp dla niepełnosprawnych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na pasach podłużnych dla niepełnosprawnych pieszych, utrudniających ruch pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie w sygnalizowanej strefie zakazu zatrzymywania się.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "zakaz zatrzymywania",
+      "znak",
+      "parkowanie",
+      "zakaz zatrzymywania",
+      "strefa sygnalizowana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie w oznakowanej strefie zakazu zatrzymywania się.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Zatrzymywanie się w sygnalizowanej strefie zakazu zatrzymywania się.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "zakaz zatrzymywania",
+      "znak",
+      "zatrzymywanie",
+      "zakaz zatrzymywania",
+      "strefa sygnalizowana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się w oznakowanej strefie zakazu zatrzymywania się.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkowanie na pasie autobusowym.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "pas autobusowy",
+      "autobus",
+      "parkowanie",
+      "pas autobusowy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na pasie autobusowym.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Zatrzymywanie się na pasie autobusowym.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "pas autobusowy",
+      "autobus",
+      "zatrzymywanie",
+      "pas autobusowy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na pasie autobusowym.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkowanie w obszarze wystawowym.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "obszar wystawowy",
+      "parkowanie",
+      "obszar wystawowy",
+      "wystawa pojazdów"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie w obszarze wystawowym pojazdów.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Zatrzymywanie się w obszarze wystawowym.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "obszar wystawowy",
+      "zatrzymywanie",
+      "obszar wystawowy",
+      "wystawa pojazdów"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się w obszarze wystawowym pojazdów.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkowanie na miejscu postoju dla pojazdów niezdolnych do jazdy.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "miejsce postoju",
+      "pojazdy niezdolne do jazdy",
+      "parkowanie",
+      "miejsce postoju",
+      "pojazdy niezdolne do jazdy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie w miejscu postoju/przeznaczonym obszarze dla pojazdów niezdolnych do jazdy.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Zatrzymywanie się w miejscu postoju dla pojazdów niezdolnych do jazdy.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "miejsce postoju",
+      "pojazdy niezdolne do jazdy",
+      "zatrzymywanie",
+      "miejsce postoju",
+      "pojazdy niezdolne do jazdy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się w miejscu postoju/przeznaczonym obszarze dla pojazdów niezdolnych do jazdy.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na linii zakazu zatrzymywania przed przejściem dla pieszych.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "linia zakazu zatrzymywania",
+      "przejście dla pieszych",
+      "parkowanie",
+      "linia zakazu zatrzymywania",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na linii zakazu zatrzymywania przed przejściem dla pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zatrzymywanie się na linii zakazu zatrzymywania przed przejściem dla pieszych.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "linia zakazu zatrzymywania",
+      "przejście dla pieszych",
+      "zatrzymywanie",
+      "linia zakazu zatrzymywania",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na linii zakazu zatrzymywania przed przejściem dla pieszych.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na jezdni mniej niż 5 m przed przejściem dla pieszych, gdzie nie ma linii zakazu zatrzymywania.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "jezdnia",
+      "5 m",
+      "przejście dla pieszych",
+      "parkowanie",
+      "jezdnia",
+      "przejście dla pieszych",
+      "odstęp"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na drodze mniej niż 5 m przed przejściem dla pieszych, gdzie nie ma linii zakazu zatrzymywania.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zatrzymywanie się na jezdni mniej niż 5 m przed przejściem dla pieszych, gdzie nie ma linii zakazu zatrzymywania.",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie",
+      "jezdnia",
+      "5 m",
+      "przejście dla pieszych",
+      "zatrzymywanie",
+      "jezdnia",
+      "przejście dla pieszych",
+      "odstęp"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na drodze mniej niż 5 m przed przejściem dla pieszych, gdzie nie ma linii zakazu zatrzymywania.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na chodniku przed przejściem dla pieszych obok linii zakazu zatrzymywania.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "chodnik",
+      "przejście dla pieszych",
+      "linia zakazu zatrzymywania",
+      "parkowanie",
+      "chodnik",
+      "przejście dla pieszych",
+      "linia zakazu zatrzymywania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na chodniku przed przejściem dla pieszych obok linii zakazu zatrzymywania.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

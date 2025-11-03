@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autostrassen (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autostrasse",
+      "Semi-Motorway",
+      "Benutzung",
+      "VRV 50a",
+      "Restriction"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized use of semi-motorways (often applies to specific vehicle types or devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Umgehen, Übersteigen oder Unterqueren von Schranken oder Halbschranken",
+    "fine_chf": 20,
+    "keywords": [
+      "Schranken",
+      "Halbschranken",
+      "Barrieren",
+      "Bahnübergang",
+      "Level crossing",
+      "Umgehen"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Verkehrsteilnehmer"
+    ],
+    "conditions": null,
+    "notes": "Circumventing, climbing over, or crawling under barriers or half-barriers.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Benützen eines Radweges durch Fussgängerinnen und Fussgänger, wenn\n1. ein Trottoir vorhanden ist",
+    "fine_chf": 10,
+    "keywords": [
+      "Fussgänger",
+      "Radweg",
+      "Trottoir",
+      "Gehweg",
+      "Pedestrian",
+      "Cycle path"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Fussgänger"
+    ],
+    "conditions": "Trottoir vorhanden",
+    "notes": "Using the cycle path when a sidewalk is available.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Benützen eines Radweges durch Fussgängerinnen und Fussgänger, wenn\n2. ein Fussweg vorhanden ist",
+    "fine_chf": 10,
+    "keywords": [
+      "Fussgänger",
+      "Radweg",
+      "Fussweg",
+      "Gehweg",
+      "Pedestrian",
+      "Cycle path"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Fussgänger"
+    ],
+    "conditions": "Fussweg vorhanden",
+    "notes": "Using the cycle path when a dedicated footpath is available.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Fahren ohne Licht",
+    "fine_chf": 20,
+    "keywords": [
+      "Licht",
+      "Beleuchtung",
+      "Fahren",
+      "E-Scooter",
+      "Fahrzeugähnliche Geräte",
+      "Equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Lenker von Geräten (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Driving without required lighting (applies primarily to e-scooters/similar devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Behinderndes Benützen der für die Fussgänger bestimmten Verkehrsflächen",
+    "fine_chf": 20,
+    "keywords": [
+      "Fussgänger",
+      "Verkehrsflächen",
+      "Behinderung",
+      "Gehweg",
+      "Impeding",
+      "VRV 50a Geräte"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Geräte (VRV 50a)",
+      "Verkehrsteilnehmer"
+    ],
+    "conditions": null,
+    "notes": "Impeding use of traffic areas designated for pedestrians.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Behinderndes Benützen der Fahrbahn verkehrsarmer Nebenstrassen",
+    "fine_chf": 20,
+    "keywords": [
+      "Nebenstrassen",
+      "Fahrbahn",
+      "Behinderung",
+      "Traffic flow",
+      "Secondary road",
+      "Geräte (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Geräte (VRV 50a)",
+      "Verkehrsteilnehmer"
+    ],
+    "conditions": null,
+    "notes": "Impeding traffic flow on traffic-calmed secondary roads.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Nichtbeachten des Signals «Verbot für fahrzeugähnliche Geräte»",
+    "fine_chf": 20,
+    "keywords": [
+      "Signal",
+      "Verbot",
+      "Fahrzeugähnliche Geräte",
+      "E-Scooter",
+      "Signaling",
+      "Traffic sign"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Lenker von fahrzeugähnlichen Geräten"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the specific road sign prohibiting vehicle-like devices.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Verwendung von fahrzeugähnlichen Geräten auf nicht zugelassenen Verkehrsflächen",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrzeugähnliche Geräte",
+      "E-Scooter",
+      "Verkehrsflächen",
+      "Unauthorized use",
+      "Restriction"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Lenker von fahrzeugähnlichen Geräten"
+    ],
+    "conditions": null,
+    "notes": "Using devices (like e-scooters) on traffic areas where they are not permitted.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Missachten des Vortritts der Fussgänger",
+    "fine_chf": 30,
+    "keywords": [
+      "Vortritt",
+      "Fussgänger",
+      "Vorrang",
+      "Priority",
+      "Pedestrian",
+      "Geräte (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Lenker von fahrzeugähnlichen Geräten"
+    ],
+    "conditions": null,
+    "notes": "Failing to grant priority to pedestrians (applies to users of special devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

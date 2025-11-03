@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento junto a una línea longitudinal ininterrumpida cuando no se mantiene libre un pasaje de al menos 3 m de ancho (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamiento",
+      "línea longitudinal",
+      "pasaje",
+      "menos de 3 m",
+      "estacionamiento",
+      "línea longitudinal",
+      "pasaje menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento junto a una línea longitudinal ininterrumpida, obstruyendo el pasaje de menos de 3 m, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Detención junto a una línea longitudinal ininterrumpida cuando no se mantiene libre un pasaje de al menos 3 m de ancho (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "línea longitudinal",
+      "pasaje",
+      "menos de 3 m",
+      "detención",
+      "línea longitudinal",
+      "pasaje menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención junto a una línea longitudinal ininterrumpida, obstruyendo el pasaje de menos de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento junto a una línea doble cuando no se mantiene libre un pasaje de al menos 3 m de ancho (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamiento",
+      "línea doble",
+      "pasaje",
+      "menos de 3 m",
+      "estacionamiento",
+      "línea doble",
+      "pasaje menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento junto a una línea doble, obstruyendo el pasaje de menos de 3 m, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Detención junto a una línea doble cuando no se mantiene libre un pasaje de al menos 3 m de ancho (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "línea doble",
+      "pasaje",
+      "menos de 3 m",
+      "detención",
+      "línea doble",
+      "pasaje menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención junto a una línea doble, obstruyendo el pasaje de menos de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento en un cruce de carretera (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamiento",
+      "cruce de carretera",
+      "intersección",
+      "estacionamiento",
+      "cruce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en una intersección, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Detención en un cruce de carretera (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cruce de carretera",
+      "intersección",
+      "detención",
+      "cruce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en una intersección.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento a menos de 5 m antes de un cruce de carretera desde la calle transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamiento",
+      "cruce de carretera",
+      "calle transversal",
+      "5 m",
+      "estacionamiento",
+      "intersección",
+      "calle transversal",
+      "menos de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento a menos de 5 m antes de una intersección desde la calle transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Detención a menos de 5 m antes de un cruce de carretera desde la calle transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "detención",
+      "cruce de carretera",
+      "calle transversal",
+      "5 m",
+      "detención",
+      "intersección",
+      "calle transversal",
+      "menos de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención a menos de 5 m antes de una intersección desde la calle transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento a menos de 5 m después de un cruce de carretera desde la calle transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamiento",
+      "cruce de carretera",
+      "calle transversal",
+      "5 m",
+      "estacionamiento",
+      "intersección",
+      "calle transversal",
+      "menos de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento a menos de 5 m después de una intersección desde la calle transversal, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Detención a menos de 5 m después de un cruce de carretera desde la calle transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cruce de carretera",
+      "calle transversal",
+      "5 m",
+      "detención",
+      "intersección",
+      "calle transversal",
+      "menos de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención a menos de 5 m después de una intersección desde la calle transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento en un cruce peatonal (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamiento",
+      "cruce peatonal",
+      "estacionamiento",
+      "cruce peatonal",
+      "paso de cebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en un cruce peatonal, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Detención en un cruce peatonal (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cruce peatonal",
+      "detención",
+      "cruce peatonal",
+      "paso de cebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un cruce peatonal.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento adyacente a un cruce peatonal (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamiento",
+      "cruce peatonal",
+      "adyacente",
+      "estacionamiento",
+      "cruce peatonal",
+      "adyacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento adyacente a un cruce peatonal, hasta 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Detención adyacente a un cruce peatonal (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cruce peatonal",
+      "adyacente",
+      "detención",
+      "cruce peatonal",
+      "adyacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención adyacente a un cruce peatonal.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Detención en un cruce ferroviario (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cruce ferroviario",
+      "detención",
+      "cruce ferroviario",
+      "paso a nivel"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un cruce ferroviario.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Detención en un paso subterráneo (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "paso subterráneo",
+      "detención",
+      "paso subterráneo"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un paso subterráneo.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento a menos de 10 m antes de una señal de parada de transporte público (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "parada",
+      "transporte público",
+      "10 m",
+      "estacionamiento",
+      "parada de autobús",
+      "transporte público",
+      "menos de 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento a menos de 10 m antes de una señal de parada de transporte público.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención obstructiva para dejar entrar/salir personas a menos de 10 m antes de una señal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "parada",
+      "transporte público",
+      "10 m",
+      "obstrucción",
+      "detención",
+      "parada de autobús",
+      "transporte público",
+      "menos de 10 m",
+      "obstrucción"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención obstructiva para permitir la entrada/salida de personas a menos de 10 m antes de una señal de parada de transporte público.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

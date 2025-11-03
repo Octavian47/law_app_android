@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "A jármű vagy tárgy ütköztetése a vezető által",
+    "fine_chf": 20,
+    "keywords": [
+      "Ütközés",
+      "Ütközés",
+      "Tárgy",
+      "Vezető",
+      "ütközés",
+      "tárgy",
+      "vezető"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Női járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Véletlenül egy jármű vagy tárgy megütése.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "A jármű vagy tárgy húzása a vezető által",
+    "fine_chf": 20,
+    "keywords": [
+      "Húzás",
+      "Tárgy",
+      "Vezető",
+      "húzás",
+      "tárgy",
+      "vezető"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Női járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Kár okozása a jármű vagy tárgy húzásával.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "A jármű vagy tárgy vontatása a vezető által",
+    "fine_chf": 20,
+    "keywords": [
+      "Vontatás",
+      "Tárgy",
+      "Vezető",
+      "vontatás",
+      "húzás",
+      "tárgy",
+      "vezető"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Női járművezető",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Kár okozása a jármű vagy tárgy vontatásával.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Általános forgalmi tilalom mindkét irányban» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Forgalmi tilalom",
+      "Tiltó jel",
+      "mindkét irány",
+      "Általános tilalom",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'Járművek tilosak mindkét irányban' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Belépés tilos» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Belépés",
+      "tiltott",
+      "Tiltó jel",
+      "Belépés tilos",
+      "tiltott belépés",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'Belépés tilos' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Kerékpárok és robogók tilalma» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kerékpárok",
+      "Robogók",
+      "Kerékpár",
+      "Robogó",
+      "Tiltás",
+      "kerékpár",
+      "robogó",
+      "jelzés"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpáros",
+      "Robogóvezető"
+    ],
+    "conditions": null,
+    "notes": "A kerékpárok és robogók tilalmi jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Robogók tilalma» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Robogók",
+      "Robogó",
+      "Tiltás",
+      "robogó",
+      "jelzés"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Robogóvezető"
+    ],
+    "conditions": null,
+    "notes": "A robogókra vonatkozó tilalmi jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Jobbra irány» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Irány",
+      "jobbra",
+      "Szabályozó jel",
+      "jobbra irány",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező jobbra irány jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Balra irány» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Irány",
+      "balra",
+      "Szabályozó jel",
+      "balra irány",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező balra irány jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Jobbra kerülő akadály» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Akadály",
+      "jobbra",
+      "kerülés",
+      "Szabályozó jel",
+      "jobbra akadálykerülés",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező jobbra irányú akadálykerülés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Balra kerülő akadály» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Akadály",
+      "balra",
+      "kerülés",
+      "Szabályozó jel",
+      "balra akadálykerülés",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező balra irányú akadálykerülés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Egyenesen előre» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Menj egyenesen",
+      "Irány",
+      "Szabályozó jel",
+      "egyenesen előre",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező 'egyenesen előre' irányjelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Fordulj jobbra» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Fordulj jobbra",
+      "Fordulás",
+      "Irány",
+      "Szabályozó jel",
+      "jobbra fordulás",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező 'fordulj jobbra' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Fordulj balra» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Fordulj balra",
+      "Fordulás",
+      "Irány",
+      "Szabályozó jel",
+      "balra fordulás",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező 'fordulj balra' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Körforgalom» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Körforgalom",
+      "Forgalmi kör",
+      "Szabályozó jel",
+      "körforgalom",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező körforgalmi irány (általában óramutatóval ellentétes) figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Jobbra fordulás tilos» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Fordulás",
+      "jobbra",
+      "tiltott",
+      "Tiltó jel",
+      "Jobbra fordulás tilos",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'Jobbra fordulás tilos' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Balra fordulás tilos» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Fordulás",
+      "balra",
+      "tiltott",
+      "Tiltó jel",
+      "Balra fordulás tilos",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'Balra fordulás tilos' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Fordulás tilos» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Fordulás",
+      "tiltott",
+      "Tiltó jel",
+      "Fordulás tilos",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'Fordulás tilos' jelzés figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Kerékpárút» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kerékpárút",
+      "Kerékpár",
+      "Kerékpár",
+      "Kötelező jel",
+      "kerékpárút",
+      "jelzés"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Kötelező kerékpárút helytelen használata vagy akadályozása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Közös tér zóna» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Közös tér zóna",
+      "Zóna",
+      "közös tér",
+      "jelzés",
+      "lassú zóna"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A közös tér zóna (Begegnungszone) szabályainak vagy határainak figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Gyalogos zóna» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Gyalogos zóna",
+      "Zóna",
+      "gyalogos zóna",
+      "jelzés",
+      "gyalogos"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A gyalogos zóna szabályainak vagy határainak figyelmen kívül hagyása.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

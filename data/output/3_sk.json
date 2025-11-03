@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Neoznámenie poškodenia, poruchy, straty alebo krádeže tachografickej karty vodiča",
+    "fine_chf": 20,
+    "keywords": [
+      "tachografická karta vodiča",
+      "oznámenie",
+      "poškodenie",
+      "krádež",
+      "ARV",
+      "tachografická karta",
+      "oznamovanie"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionálny vodič",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Týka sa karty digitálneho tachografu používaného profesionálnymi vodičmi.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Neodovzdanie vodičovej karty",
+    "fine_chf": 20,
+    "keywords": [
+      "vodičová karta",
+      "vrátenie",
+      "ARV",
+      "tachografická karta",
+      "vrátenie"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionálny vodič",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Týka sa karty digitálneho tachografu používaného profesionálnymi vodičmi.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Neodovzdanie dielenskej karty",
+    "fine_chf": 20,
+    "keywords": [
+      "dielenská karta",
+      "vrátenie",
+      "ARV",
+      "Dielenská karta",
+      "vrátenie",
+      "tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Zamestnanci dielne"
+    ],
+    "conditions": null,
+    "notes": "Týka sa tachografickej dielenskej karty, ktorá je nevyhnutná pre predpisy pre profesionálnych vodičov.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Presiahnutie povoleného času parkovania\n  a. do 2 hodín",
+    "fine_chf": 40,
+    "keywords": [
+      "čas parkovania",
+      "prekročenie",
+      "parkovanie",
+      "čas parkovania",
+      "prekročenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "do 2 hodín",
+    "notes": "Pokuta za prekročenie povoleného času parkovania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Presiahnutie povoleného času parkovania\n  b. viac ako 2, ale nie viac ako 4 hodiny",
+    "fine_chf": 60,
+    "keywords": [
+      "čas parkovania",
+      "prekročenie",
+      "parkovanie",
+      "čas parkovania",
+      "prekročenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "viac ako 2, ale nie viac ako 4 hodiny",
+    "notes": "Pokuta za prekročenie povoleného času parkovania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Presiahnutie povoleného času parkovania\n  c. viac ako 4, ale nie viac ako 10 hodín",
+    "fine_chf": 100,
+    "keywords": [
+      "čas parkovania",
+      "prekročenie",
+      "parkovanie",
+      "čas parkovania",
+      "prekročenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "viac ako 4, ale nie viac ako 10 hodín",
+    "notes": "Pokuta za prekročenie povoleného času parkovania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Nepripojenie alebo neviditeľné zobrazenie parkovacieho disku na vozidle",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovací disk",
+      "umiestnenie",
+      "viditeľnosť",
+      "parkovací disk",
+      "umiestnenie",
+      "viditeľnosť",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za nesprávne umiestnenie alebo slabú viditeľnosť parkovacieho disku.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Nepripojenie alebo neviditeľné zobrazenie parkovacieho lístka na vozidle",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovací lístok",
+      "parkovací lístok",
+      "umiestnenie",
+      "viditeľnosť",
+      "parkovací lístok",
+      "umiestnenie",
+      "viditeľnosť",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za nesprávne umiestnenie alebo slabú viditeľnosť parkovacieho lístka.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Nepripojenie alebo neviditeľné zobrazenie parkovacieho povolenia pre osoby so zdravotným postihom na vozidle",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovacie povolenie",
+      "zdravotne postihnutých",
+      "umiestnenie",
+      "viditeľnosť",
+      "parkovanie pre zdravotne postihnutých",
+      "odznak",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za nesprávne umiestnenie alebo slabú viditeľnosť odznaku pre parkovanie osôb so zdravotným postihom.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Nastavenie nesprávneho času príchodu na parkovacom disku",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovací disk",
+      "čas príchodu",
+      "nesprávny",
+      "nastavenie",
+      "parkovací disk",
+      "čas príchodu",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za nastavenie nesprávneho času príchodu na parkovacom disku.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Zmena nastaveného času príchodu bez pohybu vozidla",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovací disk",
+      "čas príchodu",
+      "zmena",
+      "odjazd",
+      "parkovací disk",
+      "čas príchodu",
+      "resetovanie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za resetovanie času príchodu na parkovacom disku bez pohybu vozidla (nelegálne \"napájaní\" disku).",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Zásah do parkovacieho merača",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovací merač",
+      "zasahovanie",
+      "defektný",
+      "parkovací merač",
+      "zasahovanie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za znefunkčnenie parkovacieho merača.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Zakázaná predplatenie pred uplynutím povoleného času parkovania",
+    "fine_chf": 40,
+    "keywords": [
+      "platba vopred",
+      "čas parkovania",
+      "pred uplynutím",
+      "parkovné",
+      "dobíjanie",
+      "vopred",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za platbu vopred pred uplynutím povoleného času parkovania.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Platba po uplynutí povoleného času parkovania",
+    "fine_chf": 40,
+    "keywords": [
+      "platba po",
+      "čas parkovania",
+      "uplynutý",
+      "parkovné",
+      "dobíjanie",
+      "uplynutý",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za platbu po uplynutí povoleného času parkovania.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Zastavenie na miestach so zlým výhľadom, najmä v oblastiach zákrut a vrcholov",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "slabá viditeľnosť",
+      "zákruty",
+      "vrcholy",
+      "zastavenie",
+      "viditeľnosť",
+      "zákruty",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za zastavenie na miestach so slabou viditeľnosťou, napríklad pri zákrutách alebo vrcholoch.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zastavenie v úzkych úsekoch",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "úzke úseky",
+      "zastavenie",
+      "úzky úsek",
+      "úzky",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za zastavenie v úzkych úsekoch alebo úzkych miestach.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zastavenie vedľa prekážky na ceste",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "prekážka",
+      "cesta",
+      "zastavenie",
+      "prekážka",
+      "cesta",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za zastavenie vedľa prekážky na ceste, čo by mohlo brániť premávke.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na úseku s jednou jazdnou pruhom (Art. 18 Abs. 2 Bst. c a 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "jednopruhová",
+      "parkovanie",
+      "jednopruhová",
+      "úzke miesto",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "do 60 minút",
+    "notes": "Pokuta za parkovanie na úseku, kde je premávka obmedzená na jeden jazdný pruh (napr. kvôli dočasnej prekážke).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zastavenie na úseku s jednou jazdnou pruhom",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "jednopruhová",
+      "zastavenie",
+      "jednopruhová",
+      "úzke miesto",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Pokuta za zastavenie v úseku, kde je premávka obmedzená na jeden jazdný pruh (napr. kvôli dočasnej prekážke).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkovanie vedľa bezpečnostnej línie, ak nie je ponechaný aspoň 3 m široký priechod",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "bezpečnostná línia",
+      "priechod",
+      "parkovanie",
+      "bezpečnostná línia",
+      "jazdná pruh",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "ak nie je ponechaný aspoň 3 m široký priechod",
+    "notes": "Pokuta za parkovanie vedľa bezpečnostnej línie, ak nie je ponechaný aspoň 3‑metrový priechod pre premávku.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zastavenie vedľa bezpečnostnej línie, ak nie je ponechaný aspoň 3 m široký priechod",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "bezpečnostná línia",
+      "priechod",
+      "zastavenie",
+      "bezpečnostná línia",
+      "jazdná pruh",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič motorového vozidla",
+      "Vodič"
+    ],
+    "conditions": "ak nie je ponechaný aspoň 3 m široký priechod",
+    "notes": "Pokuta za zastavenie vedľa bezpečnostnej línie, ak nie je ponechaný aspoň 3‑metrový priechod pre premávku.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

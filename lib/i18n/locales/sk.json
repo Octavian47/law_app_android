@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Švajčiarske zákony",
+    "loading": "Načítava sa...",
+    "error": "Chyba",
+    "ok": "OK",
+    "cancel": "Zrušiť",
+    "save": "Uložiť",
+    "delete": "Odstrániť",
+    "search": "Hľadať",
+    "close": "Zavrieť"
+  },
+  "tabs": {
+    "laws": "Zákony",
+    "search": "Hľadať",
+    "favorites": "Obľúbené"
+  },
+  "home": {
+    "title": "Švajčiarske zákony",
+    "subtitle": "Poznajte svoje práva v premávke!",
+    "categories": "Kategórie",
+    "currentlyAvailable": "Momentálne dostupné",
+    "tips": "Tipy",
+    "roadTrafficAct": "Zákon o cestnej premávke (SR 741.01)",
+    "articlesIndexed": "{{count}} článkov plne indexovaných",
+    "finesIndexed": "420 dopravných pokút indexovaných",
+    "languagesAvailable": "Dostupné v 18 jazykoch",
+    "offlineAccess": "Offline prístup a vyhľadávanie",
+    "tipContent": "Použite funkciu vyhľadávania na rýchle nájdenie konkrétnych článkov alebo tém.",
+    "tipDescription": "Použite kartu vyhľadávania na nájdenie pokút podľa kľúčového slova, sumy alebo referencie článku. Klepnite na ikonu hviezdy a uložte pokuty ako obľúbené."
+  },
+  "search": {
+    "title": "Hľadať pokuty",
+    "subtitle": "420 dopravných pokút vyhľadateľných",
+    "placeholder": "Art. 27, parkovanie, CHF 40...",
+    "resultsFound": "{{count}} pokuta nájdená",
+    "resultsFound_other": "{{count}} pokút nájdených",
+    "filters": {
+      "traffic": "Premávka",
+      "criminal": "Trestný",
+      "fines": "Pokuty",
+      "quick": "Rýchle"
+    },
+    "emptyState": {
+      "title": "Hľadať dopravné pokuty",
+      "description": "Hľadať podľa čísla článku, kľúčového slova alebo sumy CHF"
+    },
+    "noResults": {
+      "title": "Žiadne výsledky",
+      "description": "Nenašli sa žiadne pokuty pre \"{{query}}\". Skúste iné kľúčové slová alebo sumy."
+    },
+    "tips": {
+      "title": "Tipy na vyhľadávanie",
+      "article": "Art. 27 - Hľadať podľa čísla článku",
+      "keyword": "parkovanie - Hľadať podľa kľúčového slova",
+      "amount": "CHF 40 - Hľadať podľa sumy pokuty"
+    },
+    "inDevelopment": {
+      "title": "Vo vývoji",
+      "description": "Funkcia vyhľadávania je momentálne implementovaná.\n\nVyhľadávanie: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Obľúbené",
+    "subtitle": "Vaše uložené pokuty",
+    "resultsCount": "{{count}} obľúbená",
+    "resultsCount_other": "{{count}} obľúbených",
+    "emptyState": {
+      "title": "Zatiaľ žiadne obľúbené",
+      "description": "Uložte dôležité pokuty do obľúbených pre rýchly prístup"
+    },
+    "howTo": {
+      "title": "Ako pridať do obľúbených",
+      "step1": "Otvorte pokutu",
+      "step2": "Ťuknite na ikonu hviezdy",
+      "step3": "Pokuta sa objaví tu"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Pokuta sa nenašla",
+    "articleInformation": "Informácie o článku",
+    "violationDescription": "Popis porušenia",
+    "appliesTo": "Vzťahuje sa na",
+    "conditions": "Podmienky",
+    "notes": "Poznámky",
+    "keywords": "Kľúčové slová",
+    "labels": {
+      "article": "Článok:",
+      "law": "Zákon:",
+      "category": "Kategória:"
+    },
+    "source": "Zdroj: Strana {{page}}, Riadok {{line}}",
+    "laws": {
+      "svg": "Zákon o premávke",
+      "vrv": "Nariadenie o dopravných pravidlách",
+      "arv1": "Nariadenie o pracovnom čase 1",
+      "arv2": "Nariadenie o pracovnom čase 2",
+      "ssv": "Nariadenie o dopravných značkách"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Zákon o premávke",
+      "description": "Register cestnej premávky a zákon o premávke"
+    },
+    "criminal": {
+      "name": "Trestný zákon",
+      "description": "Trestný zákonník a trestný proces"
+    },
+    "civil": {
+      "name": "Občiansky zákon",
+      "description": "Občiansky zákonník a záväzky"
+    },
+    "commercial": {
+      "name": "Obchodný zákon",
+      "description": "Obchodný register a zákon o obchode"
+    },
+    "administrative": {
+      "name": "Administratívny zákon",
+      "description": "Administratívne postupy a verejné právo"
+    },
+    "constitutional": {
+      "name": "Ústavný zákon",
+      "description": "Federálna ústava a základné práva"
+    }
+  },
+  "settings": {
+    "title": "Nastavenia",
+    "language": "Jazyk",
+    "theme": "Motív",
+    "about": "O aplikácii"
+  }
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Parkirno mesto",
+      "Prekoračenje vremena",
+      "Signalizacija",
+      "Trajanje parkiranja",
+      "parkiranje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 2 i 4 sata",
+    "notes": "Proširenje kazne 254.b za parkiranje vozila u parking prostoru označenom znakovima ili gde je parkiranje rezervisano za određenu kategoriju vozila, prekoračujući dozvoljeno vreme.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Parkirno mesto",
+      "Prekoračenje vremena",
+      "Signalizacija",
+      "Trajanje parkiranja",
+      "parkiranje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 4 i 10 sati",
+    "notes": "Proširenje kazne 254.c za parkiranje vozila u parking prostoru označenom znakovima ili gde je parkiranje rezervisano za određenu kategoriju vozila, prekoračujući dozvoljeno vreme.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkiranje na liniji zabrane parkiranja\\na. do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "Linija zabrane parkiranja",
+      "Prekoračenje vremena",
+      "Žuta linija",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Parkiranje na liniji zabrane parkiranja (obično žuta) do 2 sata.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Linija zabrane parkiranja",
+      "Prekoračenje vremena",
+      "Žuta linija",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 2 i 4 sata",
+    "notes": "Proširenje kazne 255.b za parkiranje na liniji zabrane parkiranja.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Linija zabrane parkiranja",
+      "Prekoračenje vremena",
+      "Žuta linija",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 4 i 10 sati",
+    "notes": "Proširenje kazne 255.c za parkiranje na liniji zabrane parkiranja.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkiranje u zoni zabrane parkiranja\\na. do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "Zona zabrane parkiranja",
+      "Prekoračenje vremena",
+      "zona zabrane parkiranja",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Parkiranje u zoni zabrane parkiranja (obično označeno žutim križnim šrafom ili slično) do 2 sata.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Zona zabrane parkiranja",
+      "Prekoračenje vremena",
+      "zona zabrane parkiranja",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 2 i 4 sata",
+    "notes": "Proširenje kazne 256.b za parkiranje u zoni zabrane parkiranja.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Zona zabrane parkiranja",
+      "Prekoračenje vremena",
+      "zona zabrane parkiranja",
+      "Zabrana parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 4 i 10 sati",
+    "notes": "Proširenje kazne 256.c za parkiranje u zoni zabrane parkiranja.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Ometajuće parkiranje na biciklističkoj stazi vozilom koje nije dozvoljeno (2.60; Art. 37 para. 2 i 43 para. 2 SVG) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Biciklistička staza",
+      "Ometanje",
+      "Vozilo",
+      "Bicikl",
+      "biciklistička staza",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Ometajuće parkiranje na biciklističkoj stazi vozilom koje nije dozvoljeno, do 60 minuta.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Ometajuće zaustavljanje na biciklističkoj stazi vozilom koje nije dozvoljeno (2.60; Art. 37 para. 2 i 43 para. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Biciklistička staza",
+      "Ometanje",
+      "Vozilo",
+      "Bicikl",
+      "biciklistička staza",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": null,
+    "notes": "Ometajuće zaustavljanje na biciklističkoj stazi vozilom koje nije dozvoljeno.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Ometajuće parkiranje na pešačkom putu vozilom koje nije dozvoljeno (2.61; Art. 37 para. 2 SVG, Art. 33 para. 2 SSV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Pešački put",
+      "Ometanje",
+      "Vozilo",
+      "pešački put",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Ometajuće parkiranje na pešačkom putu vozilom koje nije dozvoljeno, do 60 minuta.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Ometajuće zaustavljanje na pešačkom putu vozilom koje nije dozvoljeno (2.61; Art. 37 para. 2 SVG, Art. 33 para. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Pešački put",
+      "Ometanje",
+      "Vozilo",
+      "pešački put",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": null,
+    "notes": "Ometajuće zaustavljanje na pešačkom putu vozilom koje nije dozvoljeno.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkiranje u pešačkoj zoni na neoznačenim mestima\\na. do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "Pešačka zona",
+      "Prekoračenje vremena",
+      "pešačka zona",
+      "neoznačeno mesto"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Parkiranje u pešačkoj zoni na neoznačenom mestu do 2 sata.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Pešačka zona",
+      "Prekoračenje vremena",
+      "pešačka zona",
+      "neoznačeno mesto"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 2 i 4 sata",
+    "notes": "Proširenje kazne 259.b za parkiranje u pešačkoj zoni na neoznačenom mestu.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Pešačka zona",
+      "Prekoračenje vremena",
+      "pešačka zona",
+      "neoznačeno mesto"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "između 4 i 10 sati",
+    "notes": "Proširenje kazne 259.c za parkiranje u pešačkoj zoni na neoznačenom mestu.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Prekoračenje dozvoljene težine nakon odbitka uređaja i nesigurnosti merenja koju postavlja Federalni ured za puteve (ASTRA)\\na. najviše 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Težina",
+      "Prekoračenje",
+      "Dozvoljena težina",
+      "ASTRA",
+      "Motorno vozilo",
+      "prekomerna težina",
+      "teret"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač motornog vozila"
+    ],
+    "conditions": "do 100 kg prekomerne težine",
+    "notes": "Prekoračenje dozvoljenog ograničenja težine za motorna vozila, nakon odbitka tolerancije i nesigurnosti merenja, najviše 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

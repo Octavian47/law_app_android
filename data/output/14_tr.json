@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Öğrenci sürücü L-plaketi takmadan araç kullanıyor",
+    "fine_chf": 20,
+    "keywords": [
+      "L-plaketi",
+      "öğrenci sürüşü",
+      "sürücü kursu",
+      "öğrenci plaketi",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Öğrenci sürücü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Öğrenci sürüşü olmadığında L-plaketi çıkarmamak",
+    "fine_chf": 20,
+    "keywords": [
+      "L-plaketi",
+      "öğrenci sürüşü",
+      "öğrenci plaketi",
+      "kaldırma",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Dönüş sinyalini kullanmamak",
+    "fine_chf": 100,
+    "keywords": [
+      "dönüş sinyali",
+      "gösterge",
+      "dönüş sinyali",
+      "sinyalizasyon",
+      "ihmal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Yön değişikliğinden sonra dönüş sinyalini kapatmamak",
+    "fine_chf": 100,
+    "keywords": [
+      "dönüş sinyali",
+      "gösterge",
+      "dönüş sinyali",
+      "sıfırlama",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Gerekli olduğunda sinyal çubuğunu taşımamak",
+    "fine_chf": 40,
+    "keywords": [
+      "sinyal çubuğu",
+      "sinyal çubuğu",
+      "sinyal cihazı",
+      "ekipman",
+      "taşıma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle, genellikle belirli büyük veya yavaş araçlar ya da özel manevralar için gerekli olan bir sinyal çubuğudur.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Uyarı sinyallerinin hatalı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "uyarı sinyali",
+      "korna",
+      "korna",
+      "kötüye kullanım",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Gün içinde ışık olmadan sürüş",
+    "fine_chf": 40,
+    "keywords": [
+      "ışık",
+      "ışık olmadan sürüş",
+      "gün ışığı çalışan farlar",
+      "gün içinde",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Gün içinde gerekli ışıklar olmadan sürüş.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Gece aydınlatılmış yolda ışık olmadan sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "ışık",
+      "ışık olmadan sürüş",
+      "gece sürüşü",
+      "aydınlatılmış yol",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatılmış yolda gece gerekli ışıklar olmadan sürüş.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Aydınlatılmış tünelde ışık olmadan sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "ışık",
+      "ışık olmadan sürüş",
+      "tünel",
+      "aydınlatılmış tünel",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatılmış tünelde gerekli ışıklar olmadan sürüş.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Gece aydınlatılmış yolda park ışıkları veya gündüz farlarıyla sürüş",
+    "fine_chf": 40,
+    "keywords": [
+      "park ışığı",
+      "gündüz farı",
+      "ışık",
+      "gece sürüşü",
+      "ekipman",
+      "yetersiz aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatılmış yolda gece gerekli farlar yerine yetersiz aydınlatma (park ışığı veya gündüz farı) kullanmak.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Aydınlatılmış tünelde park ışıkları veya gündüz farlarıyla sürüş",
+    "fine_chf": 40,
+    "keywords": [
+      "park ışığı",
+      "gündüz farı",
+      "ışık",
+      "tünel",
+      "ekipman",
+      "yetersiz aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatılmış tünelde gerekli farlar yerine yetersiz aydınlatma (park ışığı veya gündüz farı) kullanmak.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Sis farlarının hatalı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "sis farı",
+      "sis farı",
+      "kötüye kullanım",
+      "ekipman",
+      "aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Arka sis farlarının hatalı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "arka sis farı",
+      "arka sis farı",
+      "kötüye kullanım",
+      "ekipman",
+      "aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Arama ışıklarının hatalı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "arama ışığı",
+      "arama ışığı",
+      "kötüye kullanım",
+      "ekipman",
+      "aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Çalışma ışıklarının hatalı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "çalışma ışığı",
+      "çalışma ışığı",
+      "kötüye kullanım",
+      "ekipman",
+      "aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Durma halindeki aracın motorunu gereksiz ısıtma",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "ön ısıtma",
+      "boşta çalıştırma",
+      "motor ısınması",
+      "gürültü",
+      "çevre"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Durma halindeki aracın motorunu gereksiz boşta çalıştırma",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "çalışma",
+      "boşta çalıştırma",
+      "motor çalışması",
+      "gürültü",
+      "çevre"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Motorlu bisikletin motor hacmi 50 cm³ ve gücü 4 kW'ye kadar olduğu bir otoyolda kullanılması",
+    "fine_chf": 100,
+    "keywords": [
+      "karayolu",
+      "otoyol",
+      "motosiklet",
+      "motor hacmi",
+      "güç",
+      "otoyol",
+      "kısıtlı araç"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Motorlu bisikletler/mopedler, minimum gereksinimlerin (50cc veya 4kW) altında olduğunda karayollarında yasaktır.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "İzin verilmeyen başka bir motorlu aracı karayolu veya otoyolda kullanmak",
+    "fine_chf": 140,
+    "keywords": [
+      "karayolu",
+      "otoyol",
+      "motorlu araç",
+      "yetkisiz",
+      "otoyol",
+      "kısıtlı araç"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Karayolunda izin verilmeyen bir araç kullanmak (örneğin, yavaş araçlar, tarım araçları).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Çivili lastiklerle karayolu veya otoyolda araç kullanmak",
+    "fine_chf": 60,
+    "keywords": [
+      "karayolu",
+      "otoyol",
+      "çivili lastikler",
+      "çivili lastikler",
+      "ekipman",
+      "otoyol"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Karayolu veya otoyolda bir sonraki çıkışa kadar çekme",
+    "fine_chf": 140,
+    "keywords": [
+      "karayolu",
+      "otoyol",
+      "çekme",
+      "çekme",
+      "acil durum",
+      "sonraki çıkış"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çekme sadece bir sonraki çıkışa kadar karayollarında izinlidir.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

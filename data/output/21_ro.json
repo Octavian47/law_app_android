@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "referitor la marcaje (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Marcaje",
+      "Semnale",
+      "VRV",
+      "SSV",
+      "Marcaje rutiere",
+      "Încălcare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Impune încălcarea regulilor privind marcajele rutiere.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nerespectarea acordării priorității la trecerea pentru pietoni (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Prioritate",
+      "Trecere pentru pietoni",
+      "Trecere zebra",
+      "SVG",
+      "VRV",
+      "prioritate",
+      "trecere pentru pietoni"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Utilizarea unui telefon fără dispozitiv hands‑free în timpul conducerii (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Telefon mobil",
+      "Dispozitiv hands‑free",
+      "Conducere",
+      "Distragere",
+      "telefon mobil",
+      "conducere"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Depășirea vitezei maxime generale sau semnalate de către călătorii pe motociclete, după luarea în considerare a incertitudinii dispozitivului și a măsurării stabilite de ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Viteză",
+      "Viteză maximă",
+      "Motocicletă",
+      "Moped",
+      "SVG",
+      "încălcare a vitezei"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Amendă fixă pentru depășirea minoră a vitezei (probabil până la 5 km/h în exces) pe mopede/biciclete motorizate.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Utilizarea unei motociclete sau a unui rickshaw electric fără număr de înmatriculare sau fără vigneta valabilă în timp ce există asigurare (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "număr de înmatriculare",
+      "Vignetă",
+      "Motocicletă",
+      "Rickshaw electric",
+      "număr de înmatriculare",
+      "autocolant",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de motocicletă",
+      "Conducător de rickshaw electric"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de utilizator (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Utilizarea unei motociclete sau a unui rickshaw electric fără licență de vehicul necesară (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "licență de vehicul",
+      "Motocicletă",
+      "Rickshaw electric",
+      "SVG",
+      "licență de vehicul",
+      "documente"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de motocicletă",
+      "Conducător de rickshaw electric"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de utilizator (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Utilizarea unei motociclete fără asigurare existentă (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "asigurare",
+      "Motocicletă",
+      "VZV",
+      "asigurare",
+      "Moped",
+      "obligatoriu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de utilizator (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Împrumutarea unei motociclete sau a unui rickshaw electric fără număr de înmatriculare sau fără vigneta valabilă în timp ce există asigurare pentru utilizare (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Împrumut",
+      "număr de înmatriculare",
+      "Vignetă",
+      "Motocicletă",
+      "Rickshaw electric",
+      "împrumut",
+      "placă",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietar",
+      "Împrumutător"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de proprietar/împrumutător (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Împrumutarea unei motociclete sau a unui rickshaw electric fără licență de vehicul necesară pentru utilizare (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Împrumut",
+      "licență de vehicul",
+      "Motocicletă",
+      "Rickshaw electric",
+      "VZV",
+      "împrumut",
+      "documente de vehicul"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietar",
+      "Împrumutător"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de proprietar/împrumutător (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Împrumutarea unei motociclete fără asigurare existentă pentru utilizare (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Împrumut",
+      "asigurare",
+      "Motocicletă",
+      "VZV",
+      "împrumut",
+      "asigurare"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietar",
+      "Împrumutător"
+    ],
+    "conditions": null,
+    "notes": "Infracțiunea este comisă de proprietar/împrumutător (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Conducerea cu un număr de înmatriculare care nu este ușor de citit (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "număr de înmatriculare",
+      "lizibilitate",
+      "Conducere",
+      "VRV",
+      "VTS",
+      "număr de înmatriculare",
+      "lizibilitate",
+      "placă murdară"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Conducerea fără claxonul obligatoriu pe motociclete (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "claxon",
+      "Motocicletă",
+      "echipament",
+      "VTS",
+      "Moped",
+      "claxon",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Conducerea unui moped/bicicletă motorizată fără claxonul obligatoriu.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Conducerea fără reflectoare fixate permanent (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "reflector",
+      "reflector",
+      "echipament",
+      "VTS",
+      "reflector",
+      "echipament",
+      "lipsă"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducerea fără reflectoare fixe (se aplică în general vehiculelor care le necesită, adesea biciclete/mopede în această secțiune).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

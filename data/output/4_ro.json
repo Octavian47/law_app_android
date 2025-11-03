@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare lângă o linie longitudinală neîntreruptă când o trecere de cel puțin 3 m lățime nu este menținută liberă (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 40,
+    "keywords": [
+      "parcare",
+      "linie longitudinală",
+      "trecere",
+      "sub 3 m",
+      "parcare",
+      "linie longitudinală",
+      "trecere sub 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare lângă o linie longitudinală neîntreruptă, obstruind trecerea cu mai puțin de 3 m, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Oprire lângă o linie longitudinală neîntreruptă când o trecere de cel puțin 3 m lățime nu este menținută liberă (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "linie longitudinală",
+      "trecere",
+      "sub 3 m",
+      "oprire",
+      "linie longitudinală",
+      "trecere sub 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire lângă o linie longitudinală neîntreruptă, obstruind trecerea cu mai puțin de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare lângă o linie dublă când o trecere de cel puțin 3 m lățime nu este menținută liberă (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 40,
+    "keywords": [
+      "parcare",
+      "linie dublă",
+      "trecere",
+      "sub 3 m",
+      "parcare",
+      "linie dublă",
+      "trecere sub 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare lângă o linie dublă, obstruind trecerea cu mai puțin de 3 m, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Oprire lângă o linie dublă când o trecere de cel puțin 3 m lățime nu este menținută liberă (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "linie dublă",
+      "trecere",
+      "sub 3 m",
+      "oprire",
+      "linie dublă",
+      "trecere sub 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire lângă o linie dublă, obstruind trecerea cu mai puțin de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare la o intersecție rutieră (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 40,
+    "keywords": [
+      "parcare",
+      "intersecție rutieră",
+      "intersecție",
+      "parcare",
+      "nod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare la o intersecție, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Oprire la o intersecție rutieră (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "intersecție rutieră",
+      "intersecție",
+      "oprire",
+      "nod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire la o intersecție.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare la mai puțin de 5 m înainte de o intersecție rutieră din partea drumului transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parcare",
+      "intersecție rutieră",
+      "drum transversal",
+      "5 m",
+      "parcare",
+      "intersecție",
+      "drum transversal",
+      "sub 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Parcare la mai puțin de 5 m înainte de o intersecție, din partea drumului transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Oprire la mai puțin de 5 m înainte de o intersecție rutieră din partea drumului transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "oprire",
+      "intersecție rutieră",
+      "drum transversal",
+      "5 m",
+      "oprire",
+      "intersecție",
+      "drum transversal",
+      "sub 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire la mai puțin de 5 m înainte de o intersecție, din partea drumului transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare la mai puțin de 5 m după o intersecție rutieră din partea drumului transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 40,
+    "keywords": [
+      "parcare",
+      "intersecție rutieră",
+      "drum transversal",
+      "5 m",
+      "parcare",
+      "intersecție",
+      "drum transversal",
+      "sub 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare la mai puțin de 5 m după o intersecție, din partea drumului transversal, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Oprire la mai puțin de 5 m după o intersecție rutieră din partea drumului transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "intersecție rutieră",
+      "drum transversal",
+      "5 m",
+      "oprire",
+      "intersecție",
+      "drum transversal",
+      "sub 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire la mai puțin de 5 m după o intersecție, din partea drumului transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare pe o trecere pentru pietoni (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 80,
+    "keywords": [
+      "parcare",
+      "trecere pentru pietoni",
+      "parcare",
+      "trecere pentru pietoni",
+      "trecere zebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe o trecere pentru pietoni, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Oprire pe o trecere pentru pietoni (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "trecere pentru pietoni",
+      "oprire",
+      "trecere pentru pietoni",
+      "trecere zebra"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pe o trecere pentru pietoni.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare adiacentă unei treceri pentru pietoni (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 80,
+    "keywords": [
+      "parcare",
+      "trecere pentru pietoni",
+      "adiacentă",
+      "parcare",
+      "trecere pentru pietoni",
+      "adiacentă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare adiacentă unei treceri pentru pietoni, până la 60 de minute.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Oprire adiacentă unei treceri pentru pietoni (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "trecere pentru pietoni",
+      "adiacentă",
+      "oprire",
+      "trecere pentru pietoni",
+      "adiacentă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire adiacentă unei treceri pentru pietoni.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Oprire la o trecere feroviară (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "trecere feroviară",
+      "oprire",
+      "trecere feroviară",
+      "trecere la nivel"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire la o trecere feroviară.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Oprire într-un pasaj subteran (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "pasaj subteran",
+      "oprire",
+      "pasaj subteran"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire într-un pasaj subteran.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare la mai puțin de 10 m înainte de un semn de oprire pentru transport public (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "oprire",
+      "transport public",
+      "10 m",
+      "parcare",
+      "stație de autobuz",
+      "transport public",
+      "sub 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Parcare la mai puțin de 10 m înainte de un semn de oprire pentru transport public.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire obstructivă pentru a permite intrarea/ieșirea persoanelor la mai puțin de 10 m înainte de un semn de oprire pentru transport public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "oprire",
+      "transport public",
+      "10 m",
+      "obstrucție",
+      "oprire",
+      "stație de autobuz",
+      "transport public",
+      "sub 10 m",
+      "obstrucție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pentru a permite intrarea/ieșirea persoanelor la mai puțin de 10 m înainte de un semn de oprire pentru transport public.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

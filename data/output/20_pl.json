@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Używanie chodnika bez zsiadania",
+    "fine_chf": 30,
+    "keywords": [
+      "chodnik",
+      "zsiadanie",
+      "rower",
+      "Velo",
+      "ścieżka dla pieszych",
+      "zsiadanie"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Używanie chodnika/ścieżki pieszej bez zsiadania (dotyczy rowerzystów).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Korzystanie ze ścieżki rowerowej w zakazanym kierunku",
+    "fine_chf": 30,
+    "keywords": [
+      "ścieżka rowerowa",
+      "zakazany kierunek",
+      "Velo",
+      "przeciwny kierunek",
+      "ścieżka rowerowa"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Korzystanie ze ścieżki rowerowej w niewłaściwym kierunku.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Korzystanie z pasa rowerowego w zakazanym kierunku",
+    "fine_chf": 30,
+    "keywords": [
+      "pas rowerowy",
+      "zakazany kierunek",
+      "Velo",
+      "przeciwny kierunek",
+      "pas rowerowy"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Korzystanie z pasa rowerowego w niewłaściwym kierunku.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Nie zatrzymanie się całkowicie na sygnale stop (jazda na luzie) (3.01; Art. 27 ust. 1 SVG i Art. 36 ust. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "sygnał stop",
+      "jazda na luzie",
+      "zatrzymywanie",
+      "przepisy ruchu drogowego",
+      "znak stop",
+      "niezatrzymanie się"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie zatrzymanie się całkowicie (jazda na luzie).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nieprzestrzeganie sygnału świetlnego",
+    "fine_chf": 60,
+    "keywords": [
+      "sygnał świetlny",
+      "ignorowanie",
+      "czerwone światło",
+      "sygnalizacja świetlna",
+      "nieprzestrzeganie",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie sygnalizacji świetlnej (często odnosi się do przejazdu na czerwonym/bursztynowym).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Nieprzestrzeganie 'migającego sygnału świetlnego naprzemiennego' (3.20) lub 'prostego migającego sygnału świetlnego' (3.21; Art. 28 SVG, Art. 68 ust. 1 i nast. oraz Art. 93 ust. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "migający sygnał świetlny naprzemienny",
+      "prosty migający sygnał świetlny",
+      "ignorowanie",
+      "migające światło",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nieprzestrzeganie specjalnych migających sygnałów świetlnych (np. przejazdy kolejowe).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Naruszenie zasady jednokierunkowego pasa przez ignorowanie oznaczonej strzałki kierunkowej oraz konturowej strzałki systemu sygnalizacji świetlnej",
+    "fine_chf": 30,
+    "keywords": [
+      "zasada jednokierunkowego pasa",
+      "strzałka kierunkowa",
+      "strzałka konturowa",
+      "ignorowanie",
+      "dyscyplina pasa",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Naruszenie dyscypliny pasa przez ignorowanie oznaczonej strzałki kierunkowej lub konturowej przy sygnalizacji świetlnej.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Nie kontynuowanie jazdy w kierunku wskazanej strzałki pasa",
+    "fine_chf": 30,
+    "keywords": [
+      "kierunek strzałki",
+      "kontynuowanie jazdy",
+      "pas",
+      "kierunek pasa",
+      "przepływ ruchu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie kontynuowanie jazdy w wskazanym kierunku strzałki pasa.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nie podanie sygnału ręcznego lub wskazania kierunku przy skręcie w prawo",
+    "fine_chf": 20,
+    "keywords": [
+      "sygnał ręczny",
+      "wskazanie kierunku",
+      "skręt w prawo",
+      "sygnał skrętu",
+      "sygnalizacja",
+      "skręcanie w prawo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Brak sygnału przy skręcie w prawo.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nie podanie sygnału ręcznego lub wskazania kierunku przy skręcie w lewo",
+    "fine_chf": 30,
+    "keywords": [
+      "sygnał ręczny",
+      "wskazanie kierunku",
+      "skręt w lewo",
+      "sygnał skrętu",
+      "sygnalizacja",
+      "skręcanie w lewo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Brak sygnału przy skręcie w lewo.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nie podanie sygnału ręcznego lub wskazania kierunku przy wyprzedzaniu",
+    "fine_chf": 20,
+    "keywords": [
+      "sygnał ręczny",
+      "wskazanie kierunku",
+      "wyprzedzanie",
+      "sygnał skrętu",
+      "sygnalizacja",
+      "wyprzedzanie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Brak sygnału przy wyprzedzaniu.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Jazda ponad lub przekraczanie linii bezpieczeństwa w obszarze zabudowanym",
+    "fine_chf": 40,
+    "keywords": [
+      "linia bezpieczeństwa",
+      "jazda ponad",
+      "przekraczanie",
+      "w obszarze zabudowanym",
+      "linia ciągła",
+      "dyscyplina ruchu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekraczanie białej linii ciągłej (zakaz wyprzedzania/przekraczania) w obszarze zabudowanym.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Jazda po zarezerwowanym pasie autobusowym bez zezwolenia",
+    "fine_chf": 30,
+    "keywords": [
+      "pas autobusowy",
+      "jazda",
+      "zakaz",
+      "pas autobusowy",
+      "ograniczony dostęp"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu (nieuprawniony)"
+    ],
+    "conditions": null,
+    "notes": "Jazda po zarezerwowanym pasie autobusowym bez zezwolenia.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Jazda po ścieżce nieodpowiedniej dla rowerów, motocykli i elektrycznych riksz lub wyraźnie nieprzeznaczonej dla nich",
+    "fine_chf": 30,
+    "keywords": [
+      "użytkowanie ścieżki",
+      "nieodpowiednia",
+      "rower",
+      "motocykl",
+      "elektryczna riksza",
+      "nieodpowiednia ścieżka",
+      "ograniczony dostęp"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta",
+      "Kierowca motocykla",
+      "Kierowca elektrycznej rikszy"
+    ],
+    "conditions": null,
+    "notes": "Używanie ścieżki wyraźnie nieodpowiedniej lub nieprzeznaczonej dla rowerów/mopędów/elektrycznych riksz.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nie korzystanie ze ścieżki rowerowej",
+    "fine_chf": 30,
+    "keywords": [
+      "ścieżka rowerowa",
+      "nieużywanie",
+      "obowiązkowe użycie",
+      "obowiązkowe korzystanie",
+      "ścieżka rowerowa"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Nie korzystanie z obowiązkowej ścieżki rowerowej.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nie korzystanie z pasa rowerowego",
+    "fine_chf": 30,
+    "keywords": [
+      "pas rowerowy",
+      "nieużywanie",
+      "obowiązkowe użycie",
+      "obowiązkowe korzystanie",
+      "pas rowerowy"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Nie korzystanie z obowiązkowego pasa rowerowego.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parkowanie lub zatrzymywanie roweru, motocykla lub elektrycznej rikszy w miejscu, gdzie zatrzymanie lub parkowanie jest zakazane przez ogólne przepisy ruchu drogowego",
+    "fine_chf": 20,
+    "keywords": [
+      "zakaz parkowania",
+      "zakaz zatrzymywania",
+      "rower",
+      "motocykl",
+      "elektryczna riksza",
+      "zakaz parkowania",
+      "ogólne przepisy ruchu drogowego"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Rowerzysta",
+      "Kierowca motocykla",
+      "Kierowca elektrycznej rikszy"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie/zatrzymywanie zakazane przez ogólne przepisy (nie znaki).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parkowanie lub zatrzymywanie roweru, motocykla lub elektrycznej rikszy w miejscu, gdzie zatrzymanie lub parkowanie jest zakazane przez sygnały",
+    "fine_chf": 20,
+    "keywords": [
+      "zakaz parkowania",
+      "zakaz zatrzymywania",
+      "sygnały",
+      "rower",
+      "motocykl",
+      "elektryczna riksza",
+      "zakaz parkowania",
+      "znaki"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Rowerzysta",
+      "Kierowca motocykla",
+      "Kierowca elektrycznej rikszy"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie/zatrzymywanie zakazane przez konkretne znaki drogowe.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

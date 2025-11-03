@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Defektní stav pneumatiky na každém kole",
+    "fine_chf": 20,
+    "keywords": [
+      "pneumatika",
+      "stav",
+      "defektní",
+      "VTS",
+      "kolo",
+      "pneumatika",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "na každém kole",
+    "notes": "Týká se položky 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Nesnošení bezpečnostních pásů cestujícím",
+    "fine_chf": 60,
+    "keywords": [
+      "bezpečnostní pásy",
+      "povinnost pásu",
+      "cestující",
+      "cestující",
+      "bezpečnostní pás",
+      "cestující"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Cestující",
+      "Cestující"
+    ],
+    "conditions": null,
+    "notes": "Oddíl 800.1: Nepoužívání bezpečnostních pásů cestujícími.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Nesnošení ochranné helmy cestujícími na motocyklech, lehkých, malých a tříkolových motorových vozidlech",
+    "fine_chf": 60,
+    "keywords": [
+      "helma",
+      "povinnost helmy",
+      "cestující",
+      "motocykl",
+      "helma",
+      "cestující"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Cestující",
+      "Motocykly"
+    ],
+    "conditions": null,
+    "notes": "Oddíl 800.2: Nepoužívání helmy cestujícími na motocyklech/tříkolových vozidlech.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tlačení vozidla nebo předmětu cestujícím",
+    "fine_chf": 20,
+    "keywords": [
+      "tlačení",
+      "vozidlo",
+      "předmět",
+      "cestující",
+      "tlačit",
+      "předmět",
+      "cestující"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Cestující"
+    ],
+    "conditions": null,
+    "notes": "Oddíl 801.1: Tlačení vozidla nebo předmětu cestujícím (pravděpodobně zakázané chování během pohybu/v provozu).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tahání vozidla nebo předmětu cestujícím",
+    "fine_chf": 20,
+    "keywords": [
+      "tahání",
+      "vozidlo",
+      "předmět",
+      "cestující",
+      "tahat",
+      "předmět",
+      "cestující"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Cestující"
+    ],
+    "conditions": null,
+    "notes": "Oddíl 801.2: Tahání vozidla nebo předmětu cestujícím.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Táhnutí vozidla nebo předmětu cestujícím",
+    "fine_chf": 20,
+    "keywords": [
+      "tahání",
+      "vozidlo",
+      "předmět",
+      "cestující",
+      "táhnout",
+      "předmět",
+      "cestující"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Cestující"
+    ],
+    "conditions": null,
+    "notes": "Oddíl 801.3: Táhnutí/tažení vozidla nebo předmětu cestujícím.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Nepožívání chodníku",
+    "fine_chf": 10,
+    "keywords": [
+      "chodník",
+      "stezka",
+      "nepoužívání",
+      "chodec",
+      "chodník",
+      "chodec"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": null,
+    "notes": "Nepožívání chodníku, když je k dispozici.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nepožívání přechodu pro chodce, pokud je vzdálen méně než 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "přechod pro chodce",
+      "zebra přechod",
+      "nepoužívání",
+      "50 m",
+      "přechod pro chodce"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": "pokud je vzdálen méně než 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nepožívání nadjezdu, pokud je vzdálen méně než 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "nadjezd",
+      "pěší most",
+      "nepoužívání",
+      "50 m",
+      "pěší nadjezd"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": "pokud je vzdálen méně než 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nepožívání podjezdu, pokud je vzdálen méně než 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "podjezd",
+      "pěší tunel",
+      "nepoužívání",
+      "50 m",
+      "pěší podjezd"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": "pokud je vzdálen méně než 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Nepořizování signálu 'Chodci nejsou povoleni' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "zakázání",
+      "chodec",
+      "signál",
+      "nedodržení",
+      "omezení",
+      "chodec",
+      "značka"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Nepořizování signálu 'Cesta pro chodce' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "cesta pro chodce",
+      "signál",
+      "nedodržení",
+      "cesta pro chodce",
+      "značka"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Chodec"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení vyhrazeného značení cesty pro chodce.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Nepořizování světelného signálu",
+    "fine_chf": 20,
+    "keywords": [
+      "světelný signál",
+      "chodec",
+      "signál",
+      "nedodržení",
+      "semafor",
+      "chodec"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Chodec",
+      "Uživatel zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Projíždění na červenou (jako chodec/uživatel mobilního zařízení).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Nepořizování 'střídavého blikajícího světelného signálu' (3.20) nebo 'jednoduchého blikajícího světelného signálu' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "blikající světelný signál",
+      "střídavý blikající světelný signál",
+      "signál",
+      "úrovňový přejezd",
+      "varovné světlo",
+      "úrovňový přejezd"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Chodec",
+      "Uživatel zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Ignorování blikajících varovných světel (např. na úrovňových přejezdech).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Vstup na dálnice",
+    "fine_chf": 20,
+    "keywords": [
+      "dálnice",
+      "vstupování",
+      "chodec",
+      "zakázání",
+      "dálnice",
+      "přístup",
+      "zakázáno"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodec",
+      "Uživatel zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Vstup nebo chůze po dálnicích (což je obecně omezeno na motorová vozidla).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

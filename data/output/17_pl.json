@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Jazda bez wymaganego tablic kontrolnych (z wyjątkiem tablic handlowych) (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "tablica kontrolna",
+      "tablica rejestracyjna",
+      "tablica rejestracyjna",
+      "jazda",
+      "brak",
+      "kierowca"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez wymaganych tablic rejestracyjnych (z wyłączeniem tablic handlowych).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Jazda bez znaku maksymalnej prędkości (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksymalna prędkość",
+      "znak",
+      "znak maksymalnej prędkości",
+      "brak",
+      "jazda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Jazda pojazdem, który wymaga, ale nie posiada obowiązkowego znaku prędkości.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Jazda bez tylnej tablicy oznaczeniowej (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "tylna tablica oznaczeniowa",
+      "tylna tablica oznaczeniowa",
+      "brak",
+      "jazda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Jazda pojazdem, który wymaga, ale nie posiada obowiązkowej tylnej tablicy oznaczeniowej (np. pojazdy wolnojezdne).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Użytkowanie motocykla bez trwale zamontowanych reflektorów (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocykl",
+      "reflektor",
+      "reflektor",
+      "motocykl",
+      "brak"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca (motocykl)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Realizacja transportu towarów niebezpiecznych z brakującym, niekompletnym lub niezgodnym elementem wyposażenia (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "towary niebezpieczne",
+      "ADR",
+      "towary niebezpieczne",
+      "wyposażenie",
+      "kierowca zawodowy",
+      "brak"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca (transport towarów niebezpiecznych)"
+    ],
+    "conditions": null,
+    "notes": "Brak, niekompletne lub niezgodne wyposażenie podczas transportu towarów niebezpiecznych.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Niezgłoszenie lub nieterminowe zgłoszenie faktów wymagających zmiany lub wymiany zezwolenia lub upoważnienia (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "zgłaszanie",
+      "zezwolenie",
+      "upoważnienie",
+      "zmiana",
+      "powiadomienie",
+      "dokumentacja",
+      "właściciel pojazdu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezgłoszenie przez właściciela/posiadacza zmian wymagających modyfikacji lub wymiany dokumentu.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Przekroczenie wyznaczonego terminu obowiązkowej kontroli emisji: do 1 miesiąca",
+    "fine_chf": 40,
+    "keywords": [
+      "usługa emisji",
+      "usługa emisji",
+      "przeterminowane",
+      "termin",
+      "konserwacja",
+      "właściciel pojazdu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": "do 1 miesiąca",
+    "notes": "Obowiązkowa kontrola emisji przeterminowana do 1 miesiąca.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Przekroczenie wyznaczonego terminu obowiązkowej kontroli emisji: ponad 1 miesiąc, ale nie więcej niż 3 miesiące",
+    "fine_chf": 100,
+    "keywords": [
+      "usługa emisji",
+      "usługa emisji",
+      "przeterminowane",
+      "termin",
+      "konserwacja",
+      "właściciel pojazdu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": "powyżej 1 miesiąca, ale nie więcej niż 3 miesiące",
+    "notes": "Obowiązkowa kontrola emisji przeterminowana między 1 a 3 miesiącami.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Przekroczenie wyznaczonego terminu obowiązkowej kontroli emisji: ponad 3 miesiące, ale nie więcej niż 6 miesięcy",
+    "fine_chf": 200,
+    "keywords": [
+      "usługa emisji",
+      "usługa emisji",
+      "przeterminowane",
+      "termin",
+      "konserwacja",
+      "właściciel pojazdu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": "powyżej 3 miesięcy, ale nie więcej niż 6 miesięcy",
+    "notes": "Obowiązkowa kontrola emisji przeterminowana między 3 a 6 miesiącami.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Wprowadzanie pojazdu mechanicznego do ruchu z wadliwą oponą (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "opona",
+      "wadliwa",
+      "opona",
+      "uszkodzona",
+      "wprowadzanie do eksploatacji",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Właściciel dopuszczający wprowadzenie pojazdu mechanicznego z uszkodzonymi oponami do ruchu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Wprowadzanie przyczepy do ruchu z wadliwą oponą (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "opona",
+      "wadliwa",
+      "przyczepa",
+      "przyczepa",
+      "wprowadzanie do eksploatacji",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Właściciel dopuszczający wprowadzenie przyczepy z uszkodzonymi oponami do ruchu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Niezamontowanie znaku prędkości przy użyciu pojazdu z oponami kolcowanymi (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak prędkości",
+      "opony kolcowane",
+      "opony kolcowane",
+      "znak prędkości",
+      "brak",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Właściciel nie zamontował wymaganego znaku prędkości przy użyciu opon kolcowanych.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nieprawidłowy montaż znaku prędkości przy użyciu pojazdu z oponami kolcowanymi (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak prędkości",
+      "opony kolcowane",
+      "opony kolcowane",
+      "znak prędkości",
+      "montaż",
+      "niezgodny"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezgodny montaż znaku prędkości przy użyciu opon kolcowanych.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Niezdemontowanie znaku prędkości, mimo że nie używa się opon kolcowanych (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak prędkości",
+      "opony kolcowane",
+      "znak prędkości",
+      "demontaż",
+      "demontaż"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Właściciel nie usunął znaku prędkości, gdy opony kolcowane nie są już używane.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Niezamontowanie wymaganego tablic kontrolnych (z wyjątkiem tablic handlowych) (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "tablica kontrolna",
+      "tablica rejestracyjna",
+      "tablica rejestracyjna",
+      "montaż",
+      "brak",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezamontowanie przez właściciela wymaganych tablic rejestracyjnych (z wyłączeniem tablic handlowych).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nieprawidłowy montaż tablic kontrolnych (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "tablica kontrolna",
+      "tablica rejestracyjna",
+      "tablica rejestracyjna",
+      "montaż",
+      "niezgodny",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezgodna metoda montażu tablic rejestracyjnych.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Niezamontowanie znaku maksymalnej prędkości (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksymalna prędkość",
+      "znak",
+      "znak maksymalnej prędkości",
+      "montaż",
+      "brak",
+      "właściciel pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezamontowanie przez właściciela obowiązkowego znaku prędkości.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

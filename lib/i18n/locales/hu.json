@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Svájci törvények",
+    "loading": "Betöltés...",
+    "error": "Hiba",
+    "ok": "OK",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "delete": "Törlés",
+    "search": "Keresés",
+    "close": "Bezárás"
+  },
+  "tabs": {
+    "laws": "Törvények",
+    "search": "Keresés",
+    "favorites": "Kedvencek"
+  },
+  "home": {
+    "title": "Svájci törvények",
+    "subtitle": "Ismerje meg jogait a közlekedésben!",
+    "categories": "Kategóriák",
+    "currentlyAvailable": "Jelenleg elérhető",
+    "tips": "Tippek",
+    "roadTrafficAct": "Közúti közlekedési törvény (SR 741.01)",
+    "articlesIndexed": "{{count}} cikk teljesen indexelve",
+    "finesIndexed": "420 közúti bírság indexelve",
+    "languagesAvailable": "18 nyelven elérhető",
+    "offlineAccess": "Offline hozzáférés és keresés",
+    "tipContent": "Használja a kereső funkciót, hogy gyorsan megtalálja a konkrét cikkeket vagy témákat.",
+    "tipDescription": "Használja a kereső fület a bírságok kulcsszó, összeg vagy cikkreferencia szerinti megtalálásához. Érintse meg a csillag ikont a bírságok kedvencekhez adásához."
+  },
+  "search": {
+    "title": "Bírság keresése",
+    "subtitle": "420 közlekedési bírság kereshető",
+    "placeholder": "Art. 27, parkolás, CHF 40...",
+    "resultsFound": "{{count}} bírság találat",
+    "resultsFound_other": "{{count}} bírság találat",
+    "filters": {
+      "traffic": "Közlekedés",
+      "criminal": "Bűnügyi",
+      "fines": "Bírságok",
+      "quick": "Gyors"
+    },
+    "emptyState": {
+      "title": "Közlekedési bírságok keresése",
+      "description": "Keresés cikk szám, kulcsszó vagy CHF összeg szerint"
+    },
+    "noResults": {
+      "title": "Nincs találat",
+      "description": "Nem található bírság a következőre: \"{{query}}\". Próbáljon más kulcsszavakat vagy összegeket."
+    },
+    "tips": {
+      "title": "Keresési tippek",
+      "article": "Art. 27 - Keresés cikk szám szerint",
+      "keyword": "parkolás - Keresés kulcsszó szerint",
+      "amount": "CHF 40 - Keresés bírság összeg szerint"
+    },
+    "inDevelopment": {
+      "title": "Fejlesztés alatt",
+      "description": "A kereső funkció jelenleg fejlesztés alatt van.\n\nKeresés: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Kedvencek",
+    "subtitle": "Az Ön elmentett bírságai",
+    "resultsCount": "{{count}} kedvenc",
+    "resultsCount_other": "{{count}} kedvenc",
+    "emptyState": {
+      "title": "Még nincs kedvenc",
+      "description": "Mentse el a fontos bírságokat kedvencekként a gyors hozzáférésért"
+    },
+    "howTo": {
+      "title": "Hogyan adjon kedvenceket",
+      "step1": "Nyisson meg egy bírságot",
+      "step2": "Koppintson a csillag ikonra",
+      "step3": "A bírság itt fog megjelenni"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Bírság nem található",
+    "articleInformation": "Cikk információk",
+    "violationDescription": "Szabálysértés leírása",
+    "appliesTo": "Vonatkozik",
+    "conditions": "Feltételek",
+    "notes": "Megjegyzések",
+    "keywords": "Kulcsszavak",
+    "labels": {
+      "article": "Cikk:",
+      "law": "Törvény:",
+      "category": "Kategória:"
+    },
+    "source": "Forrás: Oldal {{page}}, Sor {{line}}",
+    "laws": {
+      "svg": "Közúti közlekedési törvény",
+      "vrv": "Közlekedési szabályzat",
+      "arv1": "Munkaidő-rendelet 1",
+      "arv2": "Munkaidő-rendelet 2",
+      "ssv": "Közlekedési táblák rendelete"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Közlekedési törvény",
+      "description": "Közúti közlekedési nyilvántartás és közlekedési törvény"
+    },
+    "criminal": {
+      "name": "Bűnügyi törvény",
+      "description": "Büntetőkönyv és büntetőeljárás"
+    },
+    "civil": {
+      "name": "Polgári törvény",
+      "description": "Polgári törvénykönyv és kötelezettségek"
+    },
+    "commercial": {
+      "name": "Kereskedelmi törvény",
+      "description": "Kereskedelmi nyilvántartás és kereskedelmi törvény"
+    },
+    "administrative": {
+      "name": "Közigazgatási törvény",
+      "description": "Közigazgatási eljárások és közhatalom"
+    },
+    "constitutional": {
+      "name": "Alkotmányos jog",
+      "description": "Szövetségi alkotmány és alapvető jogok"
+    }
+  },
+  "settings": {
+    "title": "Beállítások",
+    "language": "Nyelv",
+    "theme": "Téma",
+    "about": "Névjegy"
+  }
+}

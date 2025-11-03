@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Zabranjeno okretanje (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zabranjeno okretanje",
+      "Zabranjeno okretanje",
+      "Signal 2.46",
+      "Skretanje",
+      "Regulativni signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Lanci za sneg obavezni (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Lanci za sneg",
+      "obavezno",
+      "Lanci za sneg",
+      "obavezno",
+      "Signal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Pešačka zona (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pešačka zona",
+      "Pešačka zona",
+      "Zabranjen ulaz",
+      "Signal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neovlašćeni ulaz u pešačku zonu.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Biciklistička traka (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Biciklistička traka",
+      "Biciklistička traka",
+      "vožnja zabranjena",
+      "Signal 2.60",
+      "Vožnja zabranjena"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila (osim bicikala)"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje puta rezervisanog isključivo za bicikle.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Pešački put (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pešački put",
+      "Pešački put",
+      "vožnja zabranjena",
+      "Signal 2.61",
+      "Vožnja zabranjena"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila (osim pešaka)"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje puta rezervisanog isključivo za pešake.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Biciklistička i pešačka traka (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Biciklistička i pešačka traka",
+      "kombinovana traka",
+      "vožnja zabranjena",
+      "Signal 2.63",
+      "Vožnja zabranjena"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila (osim bicikala/pešaka)"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje puta rezervisanog za bicikle i pešake.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Zabranjeno vučenje prikolica, osim sedlovnih i centralnoosovinskih prikolica (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zabranjeno vučenje prikolica",
+      "Zabranjeno vučenje prikolica",
+      "Sedlovna prikolica",
+      "Centralnoosovinska prikolica",
+      "Signal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila (sa prikolicom)"
+    ],
+    "conditions": null,
+    "notes": "Vožnja sa zabranjenom vrstom prikolice.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Nepridržavanje regulativnog signala „Zabranjeno preticanje kamiona“ na autoputu (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zabranjeno preticanje",
+      "Kamion",
+      "Autoput",
+      "Kamion",
+      "Zabranjeno preticanje",
+      "Signal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač kamiona"
+    ],
+    "conditions": null,
+    "notes": "Nezakonito preticanje kamiona na autoputu gde je zabranjeno.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Vožnja po tramvajskom kolosijeku",
+    "fine_chf": 60,
+    "keywords": [
+      "Tramvajski kolosijek",
+      "Tramvajski kolosijek",
+      "vožnja zabranjena",
+      "posebne trake",
+      "tramvajski kolosijeci"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Prekršaj discipline trake ignorisanjem označene strelice pravca",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina trake",
+      "Strelica pravca",
+      "Saobraćajna oznaka",
+      "Disciplina trake",
+      "označena strelica",
+      "Ignorisanje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje strelica na traci/discipline.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Prekršaj discipline trake ignorisanjem kontur strelice semafora",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina trake",
+      "Kontur strelica",
+      "Sistem semafora",
+      "Semafor",
+      "signalna strelica",
+      "Disciplina trake"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje strelice pravca prikazane na semaforu.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Nepridržavanje vožnje u smeru strelice (uključujući moguće prelaženje sigurnosne linije koja razdvaja trake u istom smeru [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Smer strelice",
+      "Nepridržavanje nastavljanja vožnje",
+      "Sigurnosna linija",
+      "obavezni smer",
+      "čvrsta linija",
+      "Prelazak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nepridržavanje obaveznog smera trake prikazanog strelicom (uključujući prelaženje čvrste linije da bi se izbegla).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Prekršaj discipline trake ignorisanjem zipperskog spajanja",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina trake",
+      "Zippersko spajanje",
+      "spajanje",
+      "zip spajanje",
+      "kraj trake",
+      "Ignorisanje"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neizvođenje zipperskog spajanja kada se trake završavaju.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Vožnja u autobuskoj traci",
+    "fine_chf": 60,
+    "keywords": [
+      "Autobuska traka",
+      "Autobuska traka",
+      "Posebna traka",
+      "neovlašćena upotreba"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila (osim autobusa)"
+    ],
+    "conditions": null,
+    "notes": "Vožnja u označenoj autobuskoj traci.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Vožnja po autobuskoj trasi",
+    "fine_chf": 60,
+    "keywords": [
+      "Autobuska trasa",
+      "Autobuska trasa",
+      "Posebna traka",
+      "neovlašćena upotreba"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila (osim autobusa)"
+    ],
+    "conditions": null,
+    "notes": "Vožnja po označenom autobuskom putu (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Neodgovarajuće zaustavljanje na signalima zaustavljanja (rolling stop) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Signal zaustavljanja",
+      "Rolovanje",
+      "Zaustavljanje",
+      "Znak zaustavljanja",
+      "neuspeh zaustavljanja",
+      "Signal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "'Rolovanje' gde vozilo ne zaustavlja potpuno na liniji zaustavljanja.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nepridržavanje semafora",
+    "fine_chf": 250,
+    "keywords": [
+      "Semafor",
+      "Crveno svetlo",
+      "Semafor",
+      "ignoriranje",
+      "Crveno svetlo",
+      "Signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Opšti prekršaj za prolazak kroz crveno svetlo ili ekvivalentno kršenje semafora.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Nepridržavanje „naizmeničnog blinkajućeg svetlosnog signala“ (3.20) ili „jednostavnog blinkajućeg svetlosnog signala“ (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Naizmenični blinkajući svetlosni signal",
+      "Jednostavni blinkajući svetlosni signal",
+      "blinkajući signal",
+      "pruga železničkog prelaza",
+      "nivo prelaza",
+      "Signal 3.20",
+      "Signal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje blinkajućih upozorenja, obično korišćenih na železničkim prelazima ili kritičnim opasnim tačkama.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Prelazak biciklističke trake označene kontinuiranom linijom",
+    "fine_chf": 60,
+    "keywords": [
+      "Biciklistička traka",
+      "kontinuirana linija",
+      "Biciklistička traka",
+      "čvrsta linija",
+      "prelazak zabranjen",
+      "Prelazak"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila (osim bicikala)"
+    ],
+    "conditions": null,
+    "notes": "Prelazak ili vožnja preko biciklističke trake označene čvrstom belom linijom.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

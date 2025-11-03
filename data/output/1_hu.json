@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "A vezetői engedély nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "vezetői engedély",
+      "engedély magával tartása",
+      "nem tartás",
+      "vezető",
+      "ellenőrzés",
+      "vezetői engedély",
+      "úti dokumentumok"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "A tanuló jogosítvány nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "tanuló jogosítvány",
+      "engedély magával tartása",
+      "nem tartás",
+      "tanuló jogosítvány",
+      "vezető"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető (tanuló)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "A jármű forgalmi engedélyének nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "jármű forgalmi engedély",
+      "forgalmi engedély magával tartása",
+      "nem tartás",
+      "jármű forgalmi engedély",
+      "úti dokumentumok"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "A különleges szállítások engedélyének nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "különleges szállítások",
+      "engedély",
+      "nem tartás",
+      "különleges szállítás",
+      "engedély"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Engedély különleges vagy túlméretes szállításokhoz.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "A kibocsátási karbantartási dokumentum nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "kibocsátási karbantartási dokumentum",
+      "nem tartás",
+      "kibocsátási karbantartási dokumentum",
+      "ellenőrzés"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "A jelzős szabályozás mentességi engedélyének nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "mentességi engedély",
+      "jelzős",
+      "szabályozás",
+      "nem tartás",
+      "mentességi engedély",
+      "közlekedési táblák"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Kivételes engedély egy adott közlekedési szabályhoz/táblához.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "A vezetői képesítési bizonyítvány nem tartása",
+    "fine_chf": 20,
+    "keywords": [
+      "vezetői képesítési bizonyítvány",
+      "nem tartás",
+      "alkalmassági bizonyítvány",
+      "szakmai járművezetői képesítési bizonyítvány"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "A hivatásos járművezető képesítésének bizonyítása.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Az előző nap beillesztő lapjának nem tartása",
+    "fine_chf": 140,
+    "keywords": [
+      "beillesztő lap",
+      "előző nap",
+      "nem tartás",
+      "tachográf",
+      "tachográf lap",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Analóg tachográf használatával kapcsolatos hivatásos járművezetők számára (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Az előző nap nyomtatványának nem tartása",
+    "fine_chf": 140,
+    "keywords": [
+      "nyomtatvány",
+      "előző nap",
+      "nem tartás",
+      "tachográf",
+      "digitális tachográf nyomtatvány",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Digitális tachográf használatával kapcsolatos hivatásos járművezetők számára (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "A többi kötelező beillesztő lap nem tartása",
+    "fine_chf": 60,
+    "keywords": [
+      "beillesztő lapok",
+      "nem tartás",
+      "tachográf",
+      "hivatásos járművezető",
+      "lapok"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": "egységdíj 7 napra",
+    "notes": "A bírság 7 napos időszakra vonatkozik a nem napi tachográf lapok hiánya esetén.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "A többi kötelező nyomtatvány nem tartása",
+    "fine_chf": 60,
+    "keywords": [
+      "nyomtatványok",
+      "nem tartás",
+      "tachográf",
+      "hivatásos járművezető",
+      "nyomtatványok"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": "egységdíj 7 napra",
+    "notes": "A bírság 7 napos időszakra vonatkozik a nem napi tachográf nyomtatványok hiánya esetén.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "A vezetői kártya nem tartása",
+    "fine_chf": 140,
+    "keywords": [
+      "vezetői kártya",
+      "nem tartás",
+      "vezetői kártya",
+      "tachográf",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Digitális tachográfhoz vezetői kártya. Az ARV 1 a svájci munkaidő szabályok egyes hivatásos járművezetők számára.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "A helyettesítő tachográf feljegyzések vagy heti csomag nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "helyettesítő tachográf feljegyzések",
+      "heti csomag",
+      "nem tartás",
+      "tachográf feljegyzések",
+      "hivatásos járművezető",
+      "csomag"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Helyettesítő tachográf feljegyzések vagy heti csomagok (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "A helyettesítő nyomtatópapír nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "helyettesítő nyomtatópapír",
+      "nem tartás",
+      "nyomtatópapír",
+      "digitális tachográf",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "A helyettesítő nyomtatópapír hiánya a digitális tachográfhoz.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Az előző nap beillesztő lapjának nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "beillesztő lap",
+      "előző nap",
+      "nem tartás",
+      "tachográf",
+      "tachográf lap",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Analóg tachográf használatával kapcsolatos hivatásos járművezetők számára (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "A munkakönyv nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "munkakönyv",
+      "nem tartás",
+      "munkakönyv",
+      "hivatásos járművezető",
+      "napló"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Az ARV 2 szabályai szerint dolgozó hivatásos járművezetőkre vonatkozó.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Az aktuális hét belső napi jelentéseinek vagy duplájának nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "napi jelentések",
+      "hét",
+      "nem tartás",
+      "napi jelentések",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": "egységdíj",
+    "notes": "Belső napi jelentések hivatásos járművezetők számára (ARV 2). A bírság a hét/időszakra fix.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "A munkakönyv vezetésének mentességi engedélyének nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "engedély",
+      "munkakönyv",
+      "mentesség",
+      "nem tartás",
+      "mentességi engedély"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Hivatásos járművezető"
+    ],
+    "conditions": null,
+    "notes": "Engedély, amely felmenti a vezetőt a munkakönyv vezetésétől (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "A taxi vezetők ellenőrző kártyájának nem tartása",
+    "fine_chf": 40,
+    "keywords": [
+      "ellenőrző kártya",
+      "taxi vezető",
+      "nem tartás",
+      "taxi vezető",
+      "ellenőrző kártya",
+      "hivatásos járművezető"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxi vezető"
+    ],
+    "conditions": null,
+    "notes": "Ellenőrző kártya taxi vezetők számára (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

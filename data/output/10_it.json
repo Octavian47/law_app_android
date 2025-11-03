@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "per veicoli e combinazioni di veicoli con peso totale o peso totale di traino non superiore a 3500 kg, superando di più di 100 kg ma non più del 5 percento.",
+    "fine_chf": 200,
+    "keywords": [
+      "peso lordo",
+      "sovraccarico",
+      "combinazione di veicoli",
+      "peso consentito",
+      "sovraccarico",
+      "peso lordo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Combinazione di veicoli"
+    ],
+    "conditions": null,
+    "notes": "Sovrappeso: >100 kg, ma <= 5% oltre il peso lordo massimo (<= 3500 kg). La multa si applica al punto 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "per veicoli e combinazioni di veicoli con peso totale o peso totale di traino superiore a 3500 kg, di più di 100 kg fino al 5 percento, ma non più di 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "peso lordo",
+      "sovraccarico",
+      "combinazione di veicoli",
+      "traffico pesante",
+      "sovraccarico",
+      "Veicoli Commerciali Pesanti"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Veicoli pesanti"
+    ],
+    "conditions": null,
+    "notes": "Sovrappeso: >100 kg e <= 1000 kg, ma <= 5% oltre il peso lordo massimo (> 3500 kg). La multa si applica al punto 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "non più di 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "carico sull'asse",
+      "sovraccarico",
+      "peso consentito",
+      "carico sull'asse",
+      "sovraccarico"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Superamento del carico consentito sull'asse (dopo deduzione della tolleranza di misura), fino a 100 kg. La multa si applica al punto 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "per veicoli con peso totale superiore a 3500 kg, superando di più di 100 kg, ma non più del 2 percento.",
+    "fine_chf": 250,
+    "keywords": [
+      "carico sull'asse",
+      "sovraccarico",
+      "traffico pesante",
+      "carico sull'asse",
+      "Veicoli Commerciali Pesanti",
+      "sovraccarico"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Veicoli pesanti"
+    ],
+    "conditions": null,
+    "notes": "Superamento del carico consentito sull'asse (>100 kg, ma <= 2% oltre il limite) per veicoli > 3500 kg. La multa si applica al punto 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "di più del 2 percento, ma non più del 5 percento",
+    "fine_chf": 40,
+    "keywords": [
+      "peso consentito",
+      "sovraccarico",
+      "carico sull'asse",
+      "peso lordo",
+      "carico sull'asse",
+      "combinazione di veicoli"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Superamento del peso totale/combination consentito (dopo deduzione della tolleranza di misura) di >2% ma <=5%. La multa si applica al punto 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "di più del 5 percento",
+    "fine_chf": 100,
+    "keywords": [
+      "peso consentito",
+      "sovraccarico",
+      "carico sull'asse",
+      "peso lordo",
+      "carico sull'asse",
+      "combinazione di veicoli"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Superamento del peso totale/combination consentito (dopo deduzione della tolleranza di misura) di >5%. La multa si applica al punto 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Guidare una motocicletta sul marciapiede",
+    "fine_chf": 100,
+    "keywords": [
+      "motocicletta",
+      "marciapiede",
+      "passaggio pedonale",
+      "guida",
+      "Motocicletta",
+      "marciapiede"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Guidare una motocicletta sul marciapiede.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Mancata permanenza al proprio posto da parte del conducente di motocicletta all'interno della colonna quando il traffico è fermo.",
+    "fine_chf": 60,
+    "keywords": [
+      "conducente di motocicletta",
+      "colonna",
+      "posto",
+      "traffico fermo",
+      "Motocicletta",
+      "ingorgo",
+      "passaggio di corsia"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Il conducente di motocicletta non mantiene il proprio posto all'interno della colonna quando il traffico è fermo (ad es., filtraggio o passaggio di corsia quando fermo).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "di 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area urbana",
+      "Astra",
+      "eccesso di velocità",
+      "area urbana"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità all'interno delle aree urbane, 1-5 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "di 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area urbana",
+      "Astra",
+      "eccesso di velocità",
+      "area urbana"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità all'interno delle aree urbane, 6-10 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "di 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area urbana",
+      "Astra",
+      "eccesso di velocità",
+      "area urbana"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità all'interno delle aree urbane, 11-15 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "di 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area extraurbana",
+      "autostrada",
+      "eccesso di velocità",
+      "area extraurbana",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità fuori dalle aree urbane o su autostrade/semiautostrade, 1-5 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "di 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area extraurbana",
+      "autostrada",
+      "eccesso di velocità",
+      "area extraurbana",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità fuori dalle aree urbane o su autostrade/semiautostrade, 6-10 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "di 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area extraurbana",
+      "autostrada",
+      "eccesso di velocità",
+      "area extraurbana",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità fuori dalle aree urbane o su autostrade/semiautostrade, 11-15 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "di 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "area extraurbana",
+      "autostrada",
+      "eccesso di velocità",
+      "area extraurbana",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Eccesso di velocità fuori dalle aree urbane o su autostrade/semiautostrade, 16-20 km/h oltre il limite (dopo deduzione della tolleranza di misura). La multa si applica al punto 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

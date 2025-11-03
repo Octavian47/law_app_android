@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Lois Suisses",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "search": "Rechercher",
+    "close": "Fermer"
+  },
+  "tabs": {
+    "laws": "Lois",
+    "search": "Recherche",
+    "favorites": "Favoris"
+  },
+  "home": {
+    "title": "Lois Suisses",
+    "subtitle": "Connaissez vos droits dans la circulation routière!",
+    "categories": "Catégories",
+    "currentlyAvailable": "Actuellement disponible",
+    "tips": "Conseils",
+    "roadTrafficAct": "Loi sur la circulation routière (RS 741.01)",
+    "articlesIndexed": "{{count}} articles entièrement indexés",
+    "finesIndexed": "420 amendes routières indexées",
+    "languagesAvailable": "Disponible en 18 langues",
+    "offlineAccess": "Accès hors ligne et recherche",
+    "tipContent": "Utilisez la fonction de recherche pour trouver rapidement des articles ou des sujets spécifiques.",
+    "tipDescription": "Utilisez l'onglet de recherche pour trouver des amendes par mot-clé, montant ou référence d'article. Appuyez sur l'icône étoile pour enregistrer les amendes en favoris."
+  },
+  "search": {
+    "title": "Rechercher des amendes",
+    "subtitle": "420 amendes routières consultables",
+    "placeholder": "Art. 27, stationnement, CHF 40...",
+    "resultsFound": "{{count}} amende trouvée",
+    "resultsFound_other": "{{count}} amendes trouvées",
+    "filters": {
+      "traffic": "Circulation",
+      "criminal": "Pénal",
+      "fines": "Amendes",
+      "quick": "Rapide"
+    },
+    "emptyState": {
+      "title": "Rechercher des amendes routières",
+      "description": "Recherchez par numéro d'article, mot-clé ou montant CHF"
+    },
+    "noResults": {
+      "title": "Aucun résultat",
+      "description": "Aucune amende trouvée pour \"{{query}}\". Essayez d'autres mots-clés ou montants."
+    },
+    "tips": {
+      "title": "Conseils de recherche",
+      "article": "Art. 27 - Rechercher par numéro d'article",
+      "keyword": "stationnement - Rechercher par mot-clé",
+      "amount": "CHF 40 - Rechercher par montant d'amende"
+    },
+    "inDevelopment": {
+      "title": "En développement",
+      "description": "La fonction de recherche est en cours de mise en œuvre.\n\nRecherche de: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favoris",
+    "subtitle": "Vos amendes enregistrées",
+    "resultsCount": "{{count}} Favori",
+    "resultsCount_other": "{{count}} Favoris",
+    "emptyState": {
+      "title": "Pas encore de favoris",
+      "description": "Enregistrez des amendes importantes comme favoris pour un accès rapide"
+    },
+    "howTo": {
+      "title": "Comment ajouter des favoris",
+      "step1": "Ouvrir une amende",
+      "step2": "Appuyer sur l'icône étoile",
+      "step3": "L'amende apparaîtra ici"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Amende introuvable",
+    "articleInformation": "Informations sur l'article",
+    "violationDescription": "Description de la violation",
+    "appliesTo": "S'applique à",
+    "conditions": "Conditions",
+    "notes": "Notes",
+    "keywords": "Mots-clés",
+    "labels": {
+      "article": "Article:",
+      "law": "Loi:",
+      "category": "Catégorie:"
+    },
+    "source": "Source: Page {{page}}, Ligne {{line}}",
+    "laws": {
+      "svg": "Loi sur la circulation routière",
+      "vrv": "Ordonnance sur les règles de circulation",
+      "arv1": "Ordonnance sur les heures de travail 1",
+      "arv2": "Ordonnance sur les heures de travail 2",
+      "ssv": "Ordonnance sur les panneaux de signalisation"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Droit de la circulation",
+      "description": "Registre de la circulation routière et droit de la circulation"
+    },
+    "criminal": {
+      "name": "Droit pénal",
+      "description": "Code pénal et procédure pénale"
+    },
+    "civil": {
+      "name": "Droit civil",
+      "description": "Code civil et obligations"
+    },
+    "commercial": {
+      "name": "Droit commercial",
+      "description": "Registre du commerce et droit commercial"
+    },
+    "administrative": {
+      "name": "Droit administratif",
+      "description": "Procédures administratives et droit public"
+    },
+    "constitutional": {
+      "name": "Droit constitutionnel",
+      "description": "Constitution fédérale et droits fondamentaux"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "theme": "Thème",
+    "about": "À propos"
+  }
+}

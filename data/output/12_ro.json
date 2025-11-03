@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Interzis întoarcerea în sens invers (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Întoarcere în sens invers interzisă",
+      "Întoarcere în sens invers interzisă",
+      "Semnal 2.46",
+      "Întoarcere",
+      "Semnal de reglementare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Lanțuri de zăpadă obligatorii (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Lanțuri de zăpadă",
+      "obligatoriu",
+      "Lanțuri de zăpadă",
+      "obligatoriu",
+      "Semnal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Zonă pietonală (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zonă pietonală",
+      "Zonă pietonală",
+      "Acces interzis",
+      "Semnal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Intrare neautorizată în zona pietonală.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Bandă pentru biciclete (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Bandă pentru biciclete",
+      "Bandă pentru biciclete",
+      "Conducere interzisă",
+      "Semnal 2.60",
+      "Conducere interzisă"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția bicicletelor)"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei căi rezervate exclusiv pentru biciclete.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Cale pietonală (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Cale pietonală",
+      "Cale pietonală",
+      "Conducere interzisă",
+      "Semnal 2.61",
+      "Conducere interzisă"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția pietonilor)"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei căi rezervate exclusiv pentru pietoni.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Cale pentru biciclete și pietoni (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Cale pentru biciclete și pietoni",
+      "Cale combinată",
+      "Conducere interzisă",
+      "Semnal 2.63",
+      "Conducere interzisă"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția bicicletelor/pietonilor)"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei căi rezervate pentru biciclete și pietoni.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Interdicție de remorcă, cu excepția remorcilor tip șa și cu ax central (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Interdicție de remorcă",
+      "Interdicție de remorcă",
+      "Remorcă tip șa",
+      "Remorcă cu ax central",
+      "Semnal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul (cu remorcă)"
+    ],
+    "conditions": null,
+    "notes": "Conducerea cu un tip de remorcă interzis.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Nerespectarea semnalului de reglementare „Interzis depășirea pentru camioane” pe autostrăzi (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Interdicție de depășire",
+      "Camion",
+      "Autostradă",
+      "Camion",
+      "Interdicție de depășire",
+      "Semnal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de camion"
+    ],
+    "conditions": null,
+    "notes": "Depășire ilegală de către camion pe autostrăzi unde este interzisă.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Conducerea pe șine de tramvai",
+    "fine_chf": 60,
+    "keywords": [
+      "Șină de tramvai",
+      "Șină de tramvai",
+      "Conducere interzisă",
+      "Benzi speciale",
+      "Șine de tramvai"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Încălcarea disciplinei benzii prin ignorarea săgeții de direcție marcate",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina benzii",
+      "Săgeată de direcție",
+      "Marcaj rutier",
+      "Disciplina benzii",
+      "Săgeată marcată",
+      "Ignorare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea săgeților/disciplinei benzii.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Încălcarea disciplinei benzii prin ignorarea săgeții de contur a sistemului de semaforizare",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina benzii",
+      "Săgeată de contur",
+      "Sistem de semaforizare",
+      "Semafor",
+      "Săgeată de semnal",
+      "Disciplina benzii"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea săgeții de direcție afișate la semafoare.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Nerespectarea continuării conducerii în direcția săgeții (inclusiv traversarea posibilă a unei linii de siguranță care separă benzile în aceeași direcție [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Direcția săgeții",
+      "Nerespectarea continuării conducerii",
+      "Linie de siguranță",
+      "Direcție obligatorie",
+      "Linie continuă",
+      "Traversare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea direcției obligatorii a benzii indicate de săgeată (inclusiv traversarea unei linii continue pentru a o evita).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Încălcarea disciplinei benzii prin ignorarea îmbinării tip fermoar",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina benzii",
+      "Îmbinare tip fermoar",
+      "Îmbinare",
+      "Îmbinare tip fermoar",
+      "Sfârșitul benzii",
+      "Ignorare"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea îmbinării tip fermoar când benzile se termină.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Conducerea pe banda de autobuz",
+    "fine_chf": 60,
+    "keywords": [
+      "Bandă de autobuz",
+      "Bandă de autobuz",
+      "Bandă specială",
+      "Utilizare neautorizată"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția autobuzelor)"
+    ],
+    "conditions": null,
+    "notes": "Conducerea pe o bandă de autobuz marcată.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Conducerea pe traseul de autobuz",
+    "fine_chf": 60,
+    "keywords": [
+      "Traseu de autobuz",
+      "Traseu de autobuz",
+      "Bandă specială",
+      "Utilizare neautorizată"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția autobuzelor)"
+    ],
+    "conditions": null,
+    "notes": "Conducerea pe o cale/ drum de autobuz desemnată (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Oprire incompletă la semnalele de oprire (oprire rulantă) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Semnal de oprire",
+      "Oprire rulantă",
+      "Oprire",
+      "Semn de oprire",
+      "Nerespectarea opririi",
+      "Semnal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "O 'oprire rulantă' în care vehiculul nu se oprește complet la linia de oprire.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nerespectarea semaforului",
+    "fine_chf": 250,
+    "keywords": [
+      "Semafor",
+      "Lumină roșie",
+      "Semafor",
+      "Ignorare",
+      "Lumină roșie",
+      "Semnal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Infracțiune generală pentru trecerea pe roșu sau încălcarea echivalentă a semnalului de trafic.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Nerespectarea unui „semnal de lumină intermitentă alternativă” (3.20) sau a unui „semnal de lumină intermitentă simplă” (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Semnal de lumină intermitentă alternativă",
+      "Semnal de lumină intermitentă simplă",
+      "Semnal intermitent",
+      "Trecere feroviară",
+      "Trecere la nivel",
+      "Semnal 3.20",
+      "Semnal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea avertismentelor intermitente, utilizate de obicei la treceri feroviare sau puncte critice de pericol.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Traversarea unei benzi pentru biciclete marcate cu linie continuă",
+    "fine_chf": 60,
+    "keywords": [
+      "Bandă pentru biciclete",
+      "Linie continuă",
+      "Bandă pentru biciclete",
+      "Linie solidă",
+      "Traversare interzisă",
+      "Traversare"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul (cu excepția bicicletelor)"
+    ],
+    "conditions": null,
+    "notes": "Traversarea sau conducerea peste o bandă pentru biciclete marcată cu o linie albă continuă.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

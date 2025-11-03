@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Mësues i drejtimit voziton pa shfaqur tabelën L",
+    "fine_chf": 20,
+    "keywords": [
+      "Tabelë L",
+      "udhëtime e nxënësit",
+      "shkollë drejtimi",
+      "tabelë e nxënësit",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues nxënës"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Mos heqja e tabelës L kur nuk ka udhëtime e nxënësit",
+    "fine_chf": 20,
+    "keywords": [
+      "Tabelë L",
+      "udhëtime e nxënësit",
+      "tabelë e nxënësit",
+      "heqje",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Mos përdorimi i sinjalit të kthimit",
+    "fine_chf": 100,
+    "keywords": [
+      "sinjal i kthimit",
+      "tregues",
+      "sinjal i kthimit",
+      "sinjalizim",
+      "mospërfillje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Mos fikja e sinjalit të kthimit pas ndryshimit të drejtimit",
+    "fine_chf": 100,
+    "keywords": [
+      "sinjal i kthimit",
+      "tregues",
+      "sinjal i kthimit",
+      "rivendosje",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Mos mbajtja e shkopit të sinjalizimit kur kërkohet",
+    "fine_chf": 40,
+    "keywords": [
+      "shkop sinjalizimi",
+      "shkop sinjali",
+      "pajisje sinjalizimi",
+      "pajisje",
+      "mbajtje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle është një shkop sinjalizimi, zakonisht i kërkuar për disa automjete të mëdha ose të ngadalta, ose për manovra specifike.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Përdorim i pasaktë i sinjaleve paralajmëruese",
+    "fine_chf": 40,
+    "keywords": [
+      "sinjal paralajmërues",
+      "buzë",
+      "buzë",
+      "përdorim i gabuar",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Udhëtime me automjet pa drita gjatë ditës",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë",
+      "udhëtime pa drita",
+      "drita të funksionimit gjatë ditës",
+      "ditë",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime me automjet pa dritat e kërkuara gjatë ditës.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Udhëtime me automjet pa drita në rrugë të ndriçuar natën",
+    "fine_chf": 60,
+    "keywords": [
+      "dritë",
+      "udhëtime pa drita",
+      "udhëtime natën",
+      "rrugë e ndriçuar",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime me automjet pa dritat e kërkuara natën në rrugë të ndriçuar.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Udhëtime me automjet pa drita në tunel të ndriçuar",
+    "fine_chf": 60,
+    "keywords": [
+      "dritë",
+      "udhëtime pa drita",
+      "tunel",
+      "tunel i ndriçuar",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime me automjet pa dritat e kërkuara në tunel të ndriçuar.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Udhëtime me automjet me dritë parkimi ose dritë funksionimi gjatë ditës në rrugë të ndriçuar natën",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë parkimi",
+      "dritë funksionimi gjatë ditës",
+      "dritë",
+      "udhëtime natën",
+      "pajisje",
+      "ndriçim i pamjaftueshëm"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i ndriçimit të pamjaftueshëm (dritë parkimi ose DRL) në vend të dritave të përparme të kërkuara natën në rrugë të ndriçuar.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Udhëtime me automjet me dritë parkimi ose dritë funksionimi gjatë ditës në tunel të ndriçuar",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë parkimi",
+      "dritë funksionimi gjatë ditës",
+      "dritë",
+      "tunel",
+      "pajisje",
+      "ndriçim i pamjaftueshëm"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i ndriçimit të pamjaftueshëm (dritë parkimi ose DRL) në vend të dritave të përparme të kërkuara në tunel të ndriçuar.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Përdorim i pasaktë i dritave të mjegullës",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë mjegulle",
+      "dritë mjegulle",
+      "përdorim i gabuar",
+      "pajisje",
+      "ndriçim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Përdorim i pasaktë i dritave të mjegullës së pasme",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë mjegulle e pasme",
+      "dritë mjegulle e pasme",
+      "përdorim i gabuar",
+      "pajisje",
+      "ndriçim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Përdorim i pasaktë i dritave të kërkimit",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë kërkimi",
+      "dritë kërkimi",
+      "përdorim i gabuar",
+      "pajisje",
+      "ndriçim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Përdorim i pasaktë i dritave të punës",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë pune",
+      "dritë pune",
+      "përdorim i gabuar",
+      "pajisje",
+      "ndriçim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Ngrohje e panevojshme e motorit të një automjeti të ndalur",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "ngrohje paraprake",
+      "qëndrim i motorit",
+      "ngrohje e motorit",
+      "zë",
+      "mjedis"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Qëndrim i panevojshëm i motorit të një automjeti të ndalur",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "në funksion",
+      "qëndrim i motorit",
+      "motor në funksion",
+      "zë",
+      "mjedis"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Përdorimi i autostradës ose autoudhës me një motoçiklet me cilindrën deri në 50 cm³ ose fuqi deri në 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autostradë",
+      "autoudhë",
+      "motoçiklet",
+      "cilindër motorik",
+      "fuqi",
+      "autoudhë",
+      "automjet i kufizuar"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Motoçikletet/mopedet nën specifikimet minimale të kërkuara (50cc ose 4kW) janë të ndaluara në autostradë.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Përdorimi i autostradës ose autoudhës me një automjet tjetër që nuk lejohet në të",
+    "fine_chf": 140,
+    "keywords": [
+      "autostradë",
+      "autoudhë",
+      "automjet motorik",
+      "i paautorizuar",
+      "autoudhë",
+      "automjet i kufizuar"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një automjeti në autostradë që nuk lejohet (p.sh., automjete të ngadalta, automjete bujqësore).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Përdorimi i autostradës ose autoudhës me goma me çelë",
+    "fine_chf": 60,
+    "keywords": [
+      "autostradë",
+      "autoudhë",
+      "goma me çelë",
+      "goma me çelë",
+      "pajisje",
+      "autoudhë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Tërheqja në autostradë ose autoudhë pas daljes së ardhshme",
+    "fine_chf": 140,
+    "keywords": [
+      "autostradë",
+      "autoudhë",
+      "tërheqje",
+      "tërheqje",
+      "urgjencë",
+      "dalja e ardhshme"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Tërheqja lejohet vetëm në autostradë deri te dalja e ardhshme.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

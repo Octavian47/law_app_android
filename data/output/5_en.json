@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Stopping for loading goods within 10 m before a public transport stop sign (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Goods loading",
+      "Stop sign",
+      "public transport",
+      "stopping",
+      "goods",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods within 10m before a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking within 10 m after a public transport stop sign (Art. 18 Abs. 3 and 19 Abs. 2 a VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "stop sign",
+      "public transport",
+      "60 minutes",
+      "parking",
+      "public transport stop",
+      "time limit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking within 10m after a public transport stop sign, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Obstructive stopping to let persons board and alight within 10 m after a public transport stop sign (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Obstructive",
+      "boarding/alighting",
+      "stop sign",
+      "stopping",
+      "obstructive",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping to let people on/off within 10m after a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Stopping for loading goods within 10 m after a public transport stop sign (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Goods loading",
+      "Stop sign",
+      "public transport",
+      "stopping",
+      "goods",
+      "public transport stop"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods within 10m after a public transport stop sign.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking in front of fire station premises and fire equipment magazines (Art. 18 Abs. 3 and Art. 19 Abs. 2 a VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "fire station",
+      "magazine",
+      "fire equipment",
+      "60 minutes",
+      "parking",
+      "fire station",
+      "fire equipment"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking in front of fire station/equipment premises, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Stopping for loading goods in front of fire station premises or fire equipment magazines (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "goods loading",
+      "fire station",
+      "fire equipment",
+      "stopping",
+      "goods",
+      "fire station"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping for loading/unloading goods in front of fire station/equipment premises.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Obstructive stopping to let persons board and alight in front of fire station premises and fire equipment magazines (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Obstructive",
+      "boarding/alighting",
+      "fire station",
+      "stopping",
+      "obstructive",
+      "fire station"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping to let people on/off in front of fire station/equipment premises.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Obstructive stopping for loading goods next to vehicles parked along the road edge (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Obstructive",
+      "goods loading",
+      "along",
+      "parked",
+      "stopping",
+      "obstructive",
+      "goods",
+      "double parking"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping for loading/unloading goods next to vehicles parked along the road edge (double-parking for goods).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parking on a bicycle lane (Art. 19 Abs. 2 d VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "bicycle lane",
+      "cycle strip",
+      "60 minutes",
+      "parking",
+      "bicycle lane",
+      "cycle strip"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on a cycle lane/strip, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Stopping on a bicycle lane when it obstructs bicycle traffic (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "bicycle lane",
+      "bicycle traffic",
+      "obstructed",
+      "stopping",
+      "bicycle lane",
+      "obstructive"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a cycle lane/strip when it obstructs bicycle traffic.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parking on the roadway next to a bicycle lane (Art. 19 Abs. 2 d VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "roadway",
+      "bicycle lane",
+      "next to",
+      "60 minutes",
+      "parking",
+      "roadway",
+      "bicycle lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the road next to a cycle lane/strip, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parking on tram tracks (Art. 19 Abs. 2 a and 25 Abs. 5 VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "tram tracks",
+      "tram tracks",
+      "60 minutes",
+      "parking",
+      "tram tracks"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on tram tracks, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Stopping on tram tracks (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "tram tracks",
+      "tram tracks",
+      "stopping",
+      "tram tracks"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on tram tracks.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parking closer than 1.5 m next to the nearest tram track rail (Art. 19 Abs. 2 a and 25 Abs. 5 VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "tram track",
+      "tram tracks",
+      "1.5 m",
+      "60 minutes",
+      "parking",
+      "tram track",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking closer than 1.5m to the nearest tram track rail, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Stopping closer than 1.5 m next to the nearest tram track rail (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "tram track",
+      "tram tracks",
+      "1.5 m",
+      "stopping",
+      "tram track",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping closer than 1.5m to the nearest tram track rail.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parking on the hard shoulder of a motorway (Art. 36 Abs. 3 VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "hard shoulder",
+      "motorway",
+      "60 minutes",
+      "parking",
+      "hard shoulder",
+      "motorway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the hard shoulder of a motorway, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Stopping on the hard shoulder of a motorway, except for emergency stop (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "hard shoulder",
+      "motorway",
+      "emergency stop",
+      "stopping",
+      "hard shoulder",
+      "motorway",
+      "emergency"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "except emergency stop",
+    "notes": "Stopping on the hard shoulder of a motorway, excluding emergencies.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parking on the hard shoulder of an expressway (Art. 36 Abs. 3 VRV) up to 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "hard shoulder",
+      "expressway",
+      "60 minutes",
+      "parking",
+      "hard shoulder",
+      "expressway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the hard shoulder of an expressway, up to 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

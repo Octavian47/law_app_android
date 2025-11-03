@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Ehliyet taşımama",
+    "fine_chf": 20,
+    "keywords": [
+      "ehliyet",
+      "lisans taşıma",
+      "taşıyamama",
+      "sürücü",
+      "muayene",
+      "sürücü lisansı",
+      "yol belgeleri"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Öğrenci belgesi taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "öğrenci belgesi",
+      "belge taşıma",
+      "taşıyamama",
+      "öğrenci belgesi",
+      "sürücü"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü (öğrenci)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Araç tescil belgesini taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "araç tescili",
+      "tescil taşıma",
+      "taşıyamama",
+      "araç tescili",
+      "yol belgeleri"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Özel taşıma izin belgesini taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "özel taşıma",
+      "izin",
+      "taşıyamama",
+      "özel taşıma",
+      "izin"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Özel veya aşırı büyük taşıma izin belgesi.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Emisyon bakım belgesini taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "emisyon bakım belgesi",
+      "taşıyamama",
+      "emisyon bakım belgesi",
+      "muayene"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "İşaretli düzenleme için muafiyet iznini taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "muafiyet izni",
+      "işaretli",
+      "düzenleme",
+      "taşıyamama",
+      "muafiyet izni",
+      "trafik işaretleri"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Belirli bir trafik kuralı/işareti için istisna izni.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Sürücü nitelik sertifikasını taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "sürücü nitelik sertifikası",
+      "taşıyamama",
+      "yeterlilik belgesi",
+      "profesyonel sürücü nitelik sertifikası"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücü nitelik kanıtı.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Önceki günün ek sayfasını taşıyamama",
+    "fine_chf": 140,
+    "keywords": [
+      "ek sayfa",
+      "önceki gün",
+      "taşıyamama",
+      "Takoğraf",
+      "takoğraf sayfası",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler için analog takoğraf kullanımına ilişkin (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Önceki günün çıktısını taşıyamama",
+    "fine_chf": 140,
+    "keywords": [
+      "çıktı",
+      "önceki gün",
+      "taşıyamama",
+      "Takoğraf",
+      "dijital takoğraf çıktısı",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler için dijital takoğraf kullanımına ilişkin (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Diğer gerekli ek sayfaları taşıyamama",
+    "fine_chf": 60,
+    "keywords": [
+      "ek sayfalar",
+      "taşıyamama",
+      "Takoğraf",
+      "profesyonel sürücü",
+      "sayfalar"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": "7 gün başına sabit ücret",
+    "notes": "Eksik günlük olmayan takoğraf sayfaları için 7 günlük periyot başına ceza uygulanır.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Diğer gerekli çıktıları taşıyamama",
+    "fine_chf": 60,
+    "keywords": [
+      "çıktılar",
+      "taşıyamama",
+      "Takoğraf",
+      "profesyonel sürücü",
+      "çıktılar"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": "7 gün başına sabit ücret",
+    "notes": "Eksik günlük olmayan takoğraf çıktıları için 7 günlük periyot başına ceza uygulanır.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Sürücü kartını taşıyamama",
+    "fine_chf": 140,
+    "keywords": [
+      "sürücü kartı",
+      "taşıyamama",
+      "sürücü kartı",
+      "Takoğraf",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Dijital takoğraf için sürücü kartı. ARV 1, bazı profesyonel sürücüler için İsviçre çalışma saatleridir.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Yedek takoğraf kayıtlarını veya haftalık paketi taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "yedek takoğraf kayıtları",
+      "haftalık paket",
+      "taşıyamama",
+      "takoğraf kayıtları",
+      "profesyonel sürücü",
+      "paket"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Yedek takoğraf kayıtları veya haftalık paketler (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Yedek yazıcı kağıdını taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "yedek yazıcı kağıdı",
+      "taşıyamama",
+      "yazıcı kağıdı",
+      "dijital takoğraf",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Dijital takoğraf için yedek yazıcı kağıdını taşıyamama.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Önceki günün ek sayfasını taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "ek sayfa",
+      "önceki gün",
+      "taşıyamama",
+      "Takoğraf",
+      "takoğraf sayfası",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler için analog takoğraf kullanımına ilişkin (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "İş defterini taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "iş defteri",
+      "taşıyamama",
+      "iş defteri",
+      "profesyonel sürücü",
+      "kayıt defteri"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "ARV 2 kuralları altında çalışan profesyonel sürücülere ilişkin.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Mevcut haftanın iç günlük raporlarını veya iki katını taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "günlük raporlar",
+      "hafta",
+      "taşıyamama",
+      "günlük raporlar",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": "sabit ücret",
+    "notes": "Profesyonel sürücüler için iç günlük raporlar (ARV 2). Ceza hafta/periyot için sabittir.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "İş defteri tutmaktan muafiyet iznini taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "izin",
+      "iş defteri",
+      "muafiyet",
+      "taşıyamama",
+      "muafiyet izni"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü"
+    ],
+    "conditions": null,
+    "notes": "Sürücünün iş defteri tutmaktan muaf olmasını sağlayan izin (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Taksi sürücüleri için kontrol kartını taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrol kartı",
+      "taksi sürücüsü",
+      "taşıyamama",
+      "taksi sürücüsü",
+      "kontrol kartı",
+      "profesyonel sürücü"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taksi sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Taksi sürücüleri için kontrol kartı (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire pentru încărcarea mărfurilor în interiorul a 10 m înainte de un semn de oprire al transportului public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Încărcare mărfuri",
+      "Semn de oprire",
+      "transport public",
+      "oprire",
+      "mărfuri",
+      "oprire transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pentru încărcarea/dezarhivarea mărfurilor în interiorul a 10 m înainte de un semn de oprire al transportului public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare în interiorul a 10 m după un semn de oprire al transportului public (Art. 18 Abs. 3 și 19 Abs. 2 a VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Semn de oprire",
+      "transport public",
+      "60 de minute",
+      "parcare",
+      "oprire transport public",
+      "limită de timp"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare în interiorul a 10 m după un semn de oprire al transportului public, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire obstructivă pentru a permite persoanelor să urce și să coboare în interiorul a 10 m după un semn de oprire al transportului public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Obstructivă",
+      "urcare/coborâre",
+      "Semn de oprire",
+      "oprire",
+      "obstructivă",
+      "oprire transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pentru a permite persoanelor să urce și să coboare în interiorul a 10 m după un semn de oprire al transportului public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire pentru încărcarea mărfurilor în interiorul a 10 m după un semn de oprire al transportului public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Încărcare mărfuri",
+      "Semn de oprire",
+      "transport public",
+      "oprire",
+      "mărfuri",
+      "oprire transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pentru încărcarea/dezarhivarea mărfurilor în interiorul a 10 m după un semn de oprire al transportului public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare în fața incintei stației de pompieri și a depozitelor de echipamente de incendiu (Art. 18 Abs. 3 și Art. 19 Abs. 2 a VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "stație de pompiri",
+      "magazin",
+      "echipament de incendiu",
+      "60 de minute",
+      "parcare",
+      "stație de pompiri",
+      "echipament de incendiu"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare în fața incintei stației de pompiri/echipamentului, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire pentru încărcarea mărfurilor în fața incintei stației de pompiri sau a depozitelor de echipamente de incendiu (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Încărcare mărfuri",
+      "stație de pompiri",
+      "echipament de incendiu",
+      "oprire",
+      "mărfuri",
+      "stație de pompiri"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pentru încărcarea/dezarhivarea mărfurilor în fața incintei stației de pompiri/echipamentului.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Oprire obstructivă pentru a permite persoanelor să urce și să coboare în fața incintei stației de pompiri și a depozitelor de echipamente de incendiu (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Obstructivă",
+      "urcare/coborâre",
+      "stație de pompiri",
+      "oprire",
+      "obstructivă",
+      "stație de pompiri"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pentru a permite persoanelor să urce și să coboare în fața incintei stației de pompiri/echipamentului.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Oprire obstructivă pentru încărcarea mărfurilor lângă vehicule parcate de-a lungul marginii drumului (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Obstructivă",
+      "Încărcare mărfuri",
+      "de-a lungul",
+      "parcate",
+      "oprire",
+      "obstructivă",
+      "mărfuri",
+      "parcare dublă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pentru încărcarea/dezarhivarea mărfurilor lângă vehicule parcate de-a lungul marginii drumului (parcare dublă pentru mărfuri).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parcare pe pista de biciclete (Art. 19 Abs. 2 d VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "pistă de biciclete",
+      "bandă pentru biciclete",
+      "60 de minute",
+      "parcare",
+      "pistă de biciclete",
+      "bandă pentru biciclete"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe pista/ banda pentru biciclete, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Oprire pe pista de biciclete când obstrucționează traficul bicicletelor (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "pistă de biciclete",
+      "trafic de biciclete",
+      "obstrucționat",
+      "oprire",
+      "pistă de biciclete",
+      "obstructivă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pe pista/banda pentru biciclete când obstrucționează traficul bicicletelor.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parcare pe carosabil lângă o pistă de biciclete (Art. 19 Abs. 2 d VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "carosabil",
+      "pistă de biciclete",
+      "lângă",
+      "60 de minute",
+      "parcare",
+      "carosabil",
+      "pistă de biciclete"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe drum lângă pista/banda pentru biciclete, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parcare pe șinele de tramvai (Art. 19 Abs. 2 a și 25 Abs. 5 VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "șine de tramvai",
+      "șine de tramvai",
+      "60 de minute",
+      "parcare",
+      "șine de tramvai"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe șinele de tramvai, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Oprire pe șinele de tramvai (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "șine de tramvai",
+      "șine de tramvai",
+      "oprire",
+      "șine de tramvai"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire pe șinele de tramvai.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parcare la o distanță mai mică de 1,5 m lângă cel mai apropiat șin de tramvai (Art. 19 Abs. 2 a și 25 Abs. 5 VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "șin de tramvai",
+      "șine de tramvai",
+      "1,5 m",
+      "60 de minute",
+      "parcare",
+      "șin de tramvai",
+      "distanță"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare la o distanță mai mică de 1,5 m de cel mai apropiat șin de tramvai, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Oprire la o distanță mai mică de 1,5 m lângă cel mai apropiat șin de tramvai (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "șin de tramvai",
+      "șine de tramvai",
+      "1,5 m",
+      "oprire",
+      "șin de tramvai",
+      "distanță"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire la o distanță mai mică de 1,5 m de cel mai apropiat șin de tramvai.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parcare pe banda de urgență a autostrăzii (Art. 36 Abs. 3 VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "bandă de urgență",
+      "autostradă",
+      "60 de minute",
+      "parcare",
+      "bandă de urgență",
+      "autostradă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe banda de urgență a autostrăzii, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Oprire pe banda de urgență a autostrăzii, cu excepția opririi de urgență (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "bandă de urgență",
+      "autostradă",
+      "oprire de urgență",
+      "oprire",
+      "bandă de urgență",
+      "autostradă",
+      "urgență"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "cu excepția opririi de urgență",
+    "notes": "Oprire pe banda de urgență a autostrăzii, excluzând situațiile de urgență.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parcare pe banda de urgență a unui drum expres (Art. 36 Abs. 3 VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "bandă de urgență",
+      "drum expres",
+      "60 de minute",
+      "parcare",
+      "bandă de urgență",
+      "drum expres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare pe banda de urgență a unui drum expres, până la 60 de minute.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

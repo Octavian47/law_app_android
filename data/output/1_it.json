@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mancata presentazione della patente di guida",
+    "fine_chf": 20,
+    "keywords": [
+      "patente di guida",
+      "portare la patente",
+      "mancata presentazione",
+      "conducente",
+      "controllo",
+      "patente di guida",
+      "documenti di circolazione"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mancata presentazione del permesso di apprendista",
+    "fine_chf": 20,
+    "keywords": [
+      "permesso di apprendista",
+      "portare il permesso",
+      "mancata presentazione",
+      "permesso di apprendista",
+      "conducente"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo (apprendista)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mancata presentazione della carta di circolazione",
+    "fine_chf": 20,
+    "keywords": [
+      "registrazione del veicolo",
+      "portare la registrazione",
+      "mancata presentazione",
+      "registrazione del veicolo",
+      "documenti di circolazione"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mancata presentazione del permesso per trasporti speciali",
+    "fine_chf": 20,
+    "keywords": [
+      "trasporti speciali",
+      "permesso",
+      "mancata presentazione",
+      "trasporto speciale",
+      "permesso"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Permesso per trasporti speciali o sovradimensionati.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Mancata presentazione del documento di manutenzione delle emissioni",
+    "fine_chf": 20,
+    "keywords": [
+      "documento di manutenzione delle emissioni",
+      "mancata presentazione",
+      "documento di manutenzione delle emissioni",
+      "controllo"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Mancata presentazione del permesso di esenzione per una normativa segnalata",
+    "fine_chf": 20,
+    "keywords": [
+      "permesso di esenzione",
+      "segnalato",
+      "normativa",
+      "mancata presentazione",
+      "permesso di esenzione",
+      "segnali stradali"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Permesso di eccezione per una specifica regola o segnale stradale.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Mancata presentazione del certificato di qualifica del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "certificato di qualifica del conducente",
+      "mancata presentazione",
+      "certificato di competenza",
+      "certificato di qualifica del conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Prova della qualifica del conducente professionista.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Mancata presentazione del foglio di inserimento del giorno precedente",
+    "fine_chf": 140,
+    "keywords": [
+      "foglio di inserimento",
+      "giorno precedente",
+      "mancata presentazione",
+      "tachigrafo",
+      "foglio del tachigrafo",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Riguarda l'uso del tachigrafo analogico per i conducenti professionisti (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Mancata presentazione della stampa del giorno precedente",
+    "fine_chf": 140,
+    "keywords": [
+      "stampa",
+      "giorno precedente",
+      "mancata presentazione",
+      "tachigrafo",
+      "stampa del tachigrafo digitale",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Riguarda l'uso del tachigrafo digitale per i conducenti professionisti (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Mancata presentazione degli altri fogli di inserimento richiesti",
+    "fine_chf": 60,
+    "keywords": [
+      "fogli di inserimento",
+      "mancata presentazione",
+      "tachigrafo",
+      "conducente professionista",
+      "fogli"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": "tariffa fissa per 7 giorni",
+    "notes": "La multa si applica per periodo di 7 giorni per la mancanza di fogli del tachigrafo non giornalieri.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Mancata presentazione delle altre stampe richieste",
+    "fine_chf": 60,
+    "keywords": [
+      "stampe",
+      "mancata presentazione",
+      "tachigrafo",
+      "conducente professionista",
+      "stampe"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": "tariffa fissa per 7 giorni",
+    "notes": "La multa si applica per periodo di 7 giorni per la mancanza di stampe del tachigrafo non giornaliere.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Mancata presentazione della carta del conducente",
+    "fine_chf": 140,
+    "keywords": [
+      "carta del conducente",
+      "mancata presentazione",
+      "carta del conducente",
+      "tachigrafo",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Carta del conducente per il tachigrafo digitale. ARV 1 è la normativa svizzera sull'orario di lavoro per *alcuni* conducenti professionisti.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Mancata presentazione dei registri di tachigrafo sostitutivi o del fascicolo settimanale",
+    "fine_chf": 40,
+    "keywords": [
+      "registri di tachigrafo sostitutivi",
+      "fascicolo settimanale",
+      "mancata presentazione",
+      "registri di tachigrafo",
+      "conducente professionista",
+      "fascicolo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Registri di tachigrafo sostitutivi o fascicoli settimanali (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Mancata presentazione della carta di stampa sostitutiva",
+    "fine_chf": 40,
+    "keywords": [
+      "carta di stampa sostitutiva",
+      "mancata presentazione",
+      "carta di stampa",
+      "tachigrafo digitale",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Mancata presentazione della carta di stampa sostitutiva per il tachigrafo digitale.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Mancata presentazione del foglio di inserimento del giorno precedente",
+    "fine_chf": 40,
+    "keywords": [
+      "foglio di inserimento",
+      "giorno precedente",
+      "mancata presentazione",
+      "tachigrafo",
+      "foglio del tachigrafo",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Riguarda l'uso del tachigrafo analogico per i conducenti professionisti (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Mancata presentazione del registro di lavoro",
+    "fine_chf": 40,
+    "keywords": [
+      "registro di lavoro",
+      "mancata presentazione",
+      "registro di lavoro",
+      "conducente professionista",
+      "libro di bordo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Riguarda i conducenti professionisti che lavorano secondo le norme ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Mancata presentazione dei rapporti giornalieri interni della settimana corrente o del doppio",
+    "fine_chf": 40,
+    "keywords": [
+      "rapporti giornalieri",
+      "settimana",
+      "mancata presentazione",
+      "rapporti giornalieri",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": "tariffa fissa",
+    "notes": "Rapporti giornalieri interni per i conducenti professionisti (ARV 2). La multa è fissa per la settimana/periodo.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Mancata presentazione del permesso di esenzione dal tenere il registro di lavoro",
+    "fine_chf": 40,
+    "keywords": [
+      "permesso",
+      "registro di lavoro",
+      "esenzione",
+      "mancata presentazione",
+      "permesso di esenzione"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista"
+    ],
+    "conditions": null,
+    "notes": "Permesso che esenta il conducente dal tenere un registro di lavoro (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Mancata presentazione della carta di controllo per i conducenti di taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "carta di controllo",
+      "conducente di taxi",
+      "mancata presentazione",
+      "conducente di taxi",
+      "carta di controllo",
+      "conducente professionista"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Conducente di taxi"
+    ],
+    "conditions": null,
+    "notes": "Carta di controllo per i conducenti di taxi (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

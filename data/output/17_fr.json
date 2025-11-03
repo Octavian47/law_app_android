@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Conduite sans plaque de contrôle requise, à l'exception des plaques de concessionnaire (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "plaque de contrôle",
+      "plaque d'immatriculation",
+      "plaque d'immatriculation",
+      "conduite",
+      "manquant",
+      "conducteur"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Conduite sans plaques d'immatriculation requises (hors plaques commerciales).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Conduite sans panneau de vitesse maximale (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "vitesse maximale",
+      "panneau",
+      "panneau de vitesse maximale",
+      "manquant",
+      "conduite"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Conduite d'un véhicule qui nécessite mais ne possède pas le panneau de vitesse obligatoire.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Conduite sans plaque de marquage arrière (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "plaque de marquage arrière",
+      "plaque de marquage arrière",
+      "manquant",
+      "conduite"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Conduite d'un véhicule qui nécessite mais ne possède pas la plaque de marquage arrière obligatoire (ex. véhicules lents).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Utilisation d'une motocyclette sans réflecteurs fixés en permanence (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocyclette",
+      "réflecteur",
+      "réflecteur",
+      "motocyclette",
+      "manquant"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur (motocyclette)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Effectuer un transport de marchandises dangereuses avec un composant d'équipement manquant, incomplet ou non conforme (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "marchandises dangereuses",
+      "ADR",
+      "marchandises dangereuses",
+      "équipement",
+      "conducteur professionnel",
+      "manquant"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur (transport de marchandises dangereuses)"
+    ],
+    "conditions": null,
+    "notes": "Équipement manquant, incomplet ou non conforme lors d'un transport de marchandises dangereuses.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Défaut de signaler ou de signaler à temps les faits nécessitant une modification ou un remplacement d'un permis ou d'une autorisation (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "déclaration",
+      "permis",
+      "autorisation",
+      "changement",
+      "notification",
+      "paperasse",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut du propriétaire/détenteur de signaler les changements nécessitant une modification ou un remplacement du document.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Dépassement du délai prescrit pour le service d'émission obligatoire : jusqu'à 1 mois",
+    "fine_chf": 40,
+    "keywords": [
+      "service d'émission",
+      "service d'émission",
+      "en retard",
+      "délai",
+      "entretien",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": "jusqu'à 1 mois",
+    "notes": "Service d'émission obligatoire en retard jusqu'à 1 mois.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Dépassement du délai prescrit pour le service d'émission obligatoire : plus d'un mois mais pas plus de 3 mois",
+    "fine_chf": 100,
+    "keywords": [
+      "service d'émission",
+      "service d'émission",
+      "en retard",
+      "délai",
+      "entretien",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": "plus d'un mois mais pas plus de 3 mois",
+    "notes": "Service d'émission obligatoire en retard entre 1 et 3 mois.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Dépassement du délai prescrit pour le service d'émission obligatoire : plus de 3 mois mais pas plus de 6 mois",
+    "fine_chf": 200,
+    "keywords": [
+      "service d'émission",
+      "service d'émission",
+      "en retard",
+      "délai",
+      "entretien",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": "plus de 3 mois mais pas plus de 6 mois",
+    "notes": "Service d'émission obligatoire en retard entre 3 et 6 mois.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Mise en circulation d'un véhicule à moteur avec un pneu défectueux (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneu",
+      "défectueux",
+      "pneu",
+      "défectueux",
+      "mise en service",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Propriétaire autorisant la mise en circulation d'un véhicule à moteur avec des pneus défectueux.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Mise en circulation d'une remorque avec un pneu défectueux (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneu",
+      "défectueux",
+      "remorque",
+      "remorque",
+      "mise en service",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Propriétaire autorisant la mise en circulation d'une remorque avec des pneus défectueux.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Défaut d'attacher le panneau de vitesse lors de l'utilisation d'un véhicule avec des pneus cloutés (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "panneau de vitesse",
+      "pneus cloutés",
+      "pneus cloutés",
+      "panneau de vitesse",
+      "manquant",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Propriétaire ne fixant pas le panneau de vitesse requis lorsque des pneus cloutés sont utilisés.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Installation incorrecte du panneau de vitesse lors de l'utilisation d'un véhicule avec des pneus cloutés (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "panneau de vitesse",
+      "pneus cloutés",
+      "pneus cloutés",
+      "panneau de vitesse",
+      "installation",
+      "non conforme"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Fixation non conforme du panneau de vitesse lorsque des pneus cloutés sont utilisés.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Défaut de retirer le panneau de vitesse bien que aucun pneu clouté ne soit utilisé (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "panneau de vitesse",
+      "pneus cloutés",
+      "panneau de vitesse",
+      "retrait",
+      "retrait"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Propriétaire ne retirant pas le panneau de vitesse lorsque les pneus cloutés ne sont plus utilisés.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Défaut d'attacher la ou les plaques de contrôle requises, à l'exception des plaques de concessionnaire (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "plaque de contrôle",
+      "plaque d'immatriculation",
+      "plaque d'immatriculation",
+      "installation",
+      "manquant",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut du propriétaire d'attacher les plaques d'immatriculation requises (hors plaques commerciales).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Installation incorrecte des plaques de contrôle (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "plaque de contrôle",
+      "plaque d'immatriculation",
+      "plaque d'immatriculation",
+      "installation",
+      "non conforme",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Méthode non conforme d'attachement des plaques d'immatriculation.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Défaut d'attacher le panneau de vitesse maximale (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "vitesse maximale",
+      "panneau",
+      "panneau de vitesse maximale",
+      "installation",
+      "manquant",
+      "propriétaire du véhicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propriétaire du véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut du propriétaire d'attacher le panneau de vitesse obligatoire.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

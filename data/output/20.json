@@ -1,0 +1,444 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Benützen eines Fussweges ohne abzusteigen",
+    "fine_chf": 30,
+    "keywords": [
+      "Fussweg",
+      "absteigen",
+      "Fahrrad",
+      "Velo",
+      "pedestrian path",
+      "dismounting"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Using a footpath/sidewalk without dismounting (applies to cyclists).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Benützen des Radweges in der verbotenen Fahrtrichtung",
+    "fine_chf": 30,
+    "keywords": [
+      "Radweg",
+      "verbotene Fahrtrichtung",
+      "Velo",
+      "counterflow",
+      "bicycle path"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Using a cycle path in the wrong direction.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Benützen des Radstreifens in der verbotenen Fahrtrichtung",
+    "fine_chf": 30,
+    "keywords": [
+      "Radstreifen",
+      "verbotene Fahrtrichtung",
+      "Velo",
+      "counterflow",
+      "bicycle lane"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Using a cycle lane in the wrong direction.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Nicht vollständiges Anhalten bei Stopp-Signalen (Rollstopp) (3.01; Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Stopp-Signal",
+      "Rollstopp",
+      "Anhalten",
+      "Verkehrsregeln",
+      "Stop sign",
+      "failure to stop"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to come to a complete stop (Rolling Stop).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nichtbeachten eines Lichtsignals",
+    "fine_chf": 60,
+    "keywords": [
+      "Lichtsignal",
+      "Missachten",
+      "Rotlicht",
+      "Traffic light",
+      "failure to obey",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring a traffic light (often referring to crossing on red/amber).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Nichtbeachten eines «Wechselblinklichtsignals» (3.20) oder eines «Einfachen Blinklichtsignals» (3.21; Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Wechselblinklichtsignal",
+      "Einfaches Blinklichtsignal",
+      "Missachten",
+      "flashing light",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to obey special flashing light signals (e.g., railway crossings).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Widerhandlung gegen die Einspurordnung durch Missachten des markierten Richtungspfeils sowie des Konturpfeils der Lichtsignalanlage",
+    "fine_chf": 30,
+    "keywords": [
+      "Einspurordnung",
+      "Richtungspfeil",
+      "Konturpfeil",
+      "Missachten",
+      "lane discipline",
+      "signaling"
+    ]
+    ,
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Violation of lane discipline by disregarding marked direction or contour arrows near traffic lights.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Nichtfortsetzen der Fahrt in Pfeilrichtung",
+    "fine_chf": 30,
+    "keywords": [
+      "Pfeilrichtung",
+      "Fahrt fortsetzen",
+      "Fahrstreifen",
+      "lane direction",
+      "traffic flow"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to continue driving in the indicated direction of the lane arrow.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Unterlassen des Handzeichens oder der Richtungsanzeige beim Rechtsabbiegen",
+    "fine_chf": 20,
+    "keywords": [
+      "Handzeichen",
+      "Richtungsanzeige",
+      "Rechtsabbiegen",
+      "Blinker",
+      "signaling",
+      "turning right"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to signal when turning right.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Unterlassen des Handzeichens oder der Richtungsanzeige beim Linksabbiegen",
+    "fine_chf": 30,
+    "keywords": [
+      "Handzeichen",
+      "Richtungsanzeige",
+      "Linksabbiegen",
+      "Blinker",
+      "signaling",
+      "turning left"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to signal when turning left.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Unterlassen des Handzeichens oder der Richtungsanzeige beim Überholen",
+    "fine_chf": 20,
+    "keywords": [
+      "Handzeichen",
+      "Richtungsanzeige",
+      "Überholen",
+      "Blinker",
+      "signaling",
+      "overtaking"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Velofahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to signal when overtaking.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Überfahren oder Überqueren einer Sicherheitslinie innerorts",
+    "fine_chf": 40,
+    "keywords": [
+      "Sicherheitslinie",
+      "Überfahren",
+      "Überqueren",
+      "innerorts",
+      "solid line",
+      "traffic discipline"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Crossing a solid white line (no overtaking/crossing line) within a built-up area.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Befahren eines Busstreifens",
+    "fine_chf": 30,
+    "keywords": [
+      "Busstreifen",
+      "Befahren",
+      "Fahrverbot",
+      "Bus lane",
+      "restricted access"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer (unberechtigt)"
+    ],
+    "conditions": null,
+    "notes": "Driving on a reserved bus lane without authorization.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Befahren eines Weges, der sich für Fahrräder, Motorfahrräder und Elektro-Rikschas nicht eignet oder offensichtlich nicht dafür bestimmt ist",
+    "fine_chf": 30,
+    "keywords": [
+      "Weg befahren",
+      "ungeeignet",
+      "Fahrrad",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "unsuitable path",
+      "restricted access"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Motorfahrradfahrer",
+      "Elektro-Rikscha-Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Using a path clearly unsuitable or not intended for cycles/mopeds/e-rickshaws.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nichtbenützen des Radweges",
+    "fine_chf": 30,
+    "keywords": [
+      "Radweg",
+      "Nichtbenützen",
+      "Benutzungspflicht",
+      "compulsory use",
+      "bicycle path"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to use a mandatory bicycle path.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nichtbenützen des Radstreifens",
+    "fine_chf": 30,
+    "keywords": [
+      "Radstreifen",
+      "Nichtbenützen",
+      "Benutzungspflicht",
+      "compulsory use",
+      "bicycle lane"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Fahrradfahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to use a mandatory bicycle lane.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Abstellen eines Fahrrades, Motorfahrrades oder einer Elektro-Rikscha, wo das Halten oder das Parkieren verboten ist aufgrund allgemeiner Verkehrsregeln",
+    "fine_chf": 20,
+    "keywords": [
+      "Parkieren verboten",
+      "Halten verboten",
+      "Fahrrad",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "parking prohibition",
+      "general traffic rules"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Motorfahrradfahrer",
+      "Elektro-Rikscha-Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Parking/stopping prohibited by general rules (not signs).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Abstellen eines Fahrrades, Motorfahrrades oder einer Elektro-Rikscha, wo das Halten oder das Parkieren verboten ist aufgrund von Signalen",
+    "fine_chf": 20,
+    "keywords": [
+      "Parkieren verboten",
+      "Halten verboten",
+      "Signale",
+      "Fahrrad",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "parking prohibition",
+      "signs"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrradfahrer",
+      "Motorfahrradfahrer",
+      "Elektro-Rikscha-Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Parking/stopping prohibited by specific traffic signs.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Goditja e një mjeti ose objekti nga drejtuesi",
+    "fine_chf": 20,
+    "keywords": [
+      "Goditje",
+      "Përplasja",
+      "Objekt",
+      "Drejtues",
+      "përplasja",
+      "objekt",
+      "drejtues"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtuesja",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Goditje aksidentale e një mjeti ose objekti.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tërheqja e një mjeti ose objekti nga drejtuesi",
+    "fine_chf": 20,
+    "keywords": [
+      "Tërheqje",
+      "Objekt",
+      "Drejtues",
+      "tërheqje",
+      "objekt",
+      "drejtues"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtuesja",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Shkaktimi i dëmtimit duke tërhequr një mjet ose objekt.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tirrigimi i një mjeti ose objekti nga drejtuesi",
+    "fine_chf": 20,
+    "keywords": [
+      "Tirrigim",
+      "Objekt",
+      "Drejtues",
+      "tirrigim",
+      "rrëshqitje",
+      "objekt",
+      "drejtues"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtuesja",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Shkaktimi i dëmtimit gjatë tirrigimit/rrëshqitjes së një mjeti ose objekti.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Ndërprerje e përgjithshme e trafikut në të dyja drejtimet» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ndërprerje e trafikut",
+      "Sinjal i ndalimit",
+      "të dyja drejtimet",
+      "Ndërprerje e përgjithshme",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohen automjete në të dyja drejtimet'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Hyrja e ndaluar» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Hyrje",
+      "i ndaluar",
+      "Sinjal i ndalimit",
+      "Nuk lejohet hyrja",
+      "hyrje e ndaluar",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet hyrja'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Ndërprerje për biçikleta dhe mopedë» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Biçikleta",
+      "Mopedë",
+      "Biçikletë",
+      "Moped",
+      "Ndërprerje",
+      "biçikletë",
+      "moped",
+      "sinjalizim"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kalues i biçikletës",
+      "Kalues i mopedit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës së ndalimit për biçikleta dhe mopedë.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Ndërprerje për mopedë» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mopedë",
+      "Moped",
+      "Ndërprerje",
+      "moped",
+      "sinjalizim"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kalues i mopedit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës së ndalimit për mopedë.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Drejtimi djathtas» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Drejtim",
+      "djathtas",
+      "Sinjal rregullator",
+      "drejtim djathtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i sinjalit të detyrueshëm të drejtimit (djathtas).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Drejtimi majtas» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Drejtim",
+      "majtas",
+      "Sinjal rregullator",
+      "drejtim majtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i sinjalit të detyrueshëm të drejtimit (majtas).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Kalimi përmes pengesës djathtas» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pengesë",
+      "djathtas",
+      "kalim",
+      "Sinjal rregullator",
+      "kalim përmes pengesës djathtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i drejtimit të detyrueshëm për të kaluar një pengesë në djathtas.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Kalimi përmes pengesës majtas» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pengesë",
+      "majtas",
+      "kalim",
+      "Sinjal rregullator",
+      "kalim përmes pengesës majtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i drejtimit të detyrueshëm për të kaluar një pengesë në majtas.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Shkoni drejt përpara» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Shkoni drejt",
+      "Drejtim",
+      "Sinjal rregullator",
+      "drejt përpara",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës së detyrueshme të drejtimit 'drejt përpara'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Kthehuni djathtas» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kthehuni djathtas",
+      "Kthim",
+      "Drejtim",
+      "Sinjal rregullator",
+      "kthehu djathtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës së detyrueshme 'kthehu djathtas'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Kthehuni majtas» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kthehuni majtas",
+      "Kthim",
+      "Drejtim",
+      "Sinjal rregullator",
+      "kthehu majtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës së detyrueshme 'kthehu majtas'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rrondë» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rrondë",
+      "Rreth trafiku",
+      "Sinjal rregullator",
+      "rrondë",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i drejtimit të detyrueshëm (zakonisht në drejtim kundërorar) në një rrondë.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Kthimi djathtas i ndaluar» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kthim",
+      "djathtas",
+      "i ndaluar",
+      "Sinjal i ndalimit",
+      "Nuk lejohet kthimi djathtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet kthimi djathtas'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Kthimi majtas i ndaluar» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kthim",
+      "majtas",
+      "i ndaluar",
+      "Sinjal i ndalimit",
+      "Nuk lejohet kthimi majtas",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet kthimi majtas'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«U-turn i ndaluar» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "U-turn",
+      "i ndaluar",
+      "Sinjal i ndalimit",
+      "U-turn i ndaluar",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet U-turn'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Rruga e biçikletave» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rruga e biçikletave",
+      "Biçikletë",
+      "Biçikletë",
+      "Sinjal i detyrueshëm",
+      "rruga e biçikletave",
+      "sinjalizim"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i gabuar ose pengim i rrugës së detyrueshme të biçikletave.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zonë e hapësirës së përbashkët» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zonë e hapësirës së përbashkët",
+      "Zonë",
+      "hapësirë e përbashkët",
+      "sinjalizim",
+      "zonë e ngadalshme"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i rregullave ose kufijve të zonës së hapësirës së përbashkët (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Zonë për këmbësorë» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zonë për këmbësorë",
+      "Zonë",
+      "zonë për këmbësorë",
+      "sinjalizim",
+      "këmbësor"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i rregullave ose kufijve të zonës për këmbësorë.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

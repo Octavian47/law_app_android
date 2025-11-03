@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Oprirea pe banda de urgență a autostrăzii, cu excepția opririi de urgență.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "bandă de urgență",
+      "autostradă",
+      "oprire de urgență",
+      "oprire",
+      "bandă de urgență",
+      "autostradă"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe banda de urgență a autostrăzii, cu excepția unei urgențe.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parcarea pe trotuar unde semnalele sau marcajele nu permit expres, fără a lăsa un spațiu liber de 1,5 m pentru pietoni.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "trotuar",
+      "pieton",
+      "1,5 m",
+      "spațiu liber",
+      "parcare",
+      "trotuar",
+      "pieton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe trotuar fără permisiune expresă și lăsând mai puțin de 1,5 m spațiu liber pentru pietoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Oprirea pe trotuar fără a lăsa un spațiu liber de 1,5 m pentru pietoni.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "trotuar",
+      "pieton",
+      "1,5 m",
+      "spațiu liber",
+      "oprire",
+      "trotuar",
+      "pieton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe trotuar și lăsarea unui spațiu liber de mai puțin de 1,5 m pentru pietoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parcarea pe benzile longitudinale pentru pietoni, obstruând traficul pietonal.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "bandă longitudinală",
+      "pieton",
+      "obstrucție",
+      "parcare",
+      "bandă longitudinală",
+      "pieton",
+      "acces pentru persoane cu dizabilități"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe benzile longitudinale pentru pietoni cu dizabilități, obstruând traficul pietonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Oprirea pe benzile longitudinale pentru pietoni, obstruând traficul pietonal.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "bandă longitudinală",
+      "pieton",
+      "obstrucție",
+      "oprire",
+      "bandă longitudinală",
+      "pieton",
+      "acces pentru persoane cu dizabilități"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe benzile longitudinale pentru pietoni cu dizabilități, obstruând traficul pietonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcarea într-o zonă semnalizată de interdicție a opririi.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "interdicție de oprire",
+      "semn",
+      "parcare",
+      "interdicție de oprire",
+      "zonă semnalizată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea într-o zonă semnalizată de interdicție a opririi.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Oprirea într-o zonă semnalizată de interdicție a opririi.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "interdicție de oprire",
+      "semn",
+      "oprire",
+      "interdicție de oprire",
+      "zonă semnalizată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea într-o zonă semnalizată de interdicție a opririi.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parcarea în banda de autobuz.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "bandă de autobuz",
+      "autobuz",
+      "parcare",
+      "bandă de autobuz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea în banda de autobuz.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Oprirea în banda de autobuz.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "bandă de autobuz",
+      "autobuz",
+      "oprire",
+      "bandă de autobuz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea în banda de autobuz.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parcarea într-o zonă de expunere.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "zonă de expunere",
+      "parcare",
+      "zonă de expunere",
+      "expoziție de vehicule"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea într-o zonă de expunere/expoziție de vehicule.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Oprirea într-o zonă de expunere.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "zonă de expunere",
+      "oprire",
+      "zonă de expunere",
+      "expoziție de vehicule"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea într-o zonă de expunere/expoziție de vehicule.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parcarea într-un loc de staționare pentru vehicule avariate.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "loc de staționare",
+      "vehicule avariate",
+      "parcare",
+      "loc de staționare",
+      "vehicule avariate"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea într-un loc de staționare pentru vehicule avariate.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Oprirea într-un loc de staționare pentru vehicule avariate.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "loc de staționare",
+      "vehicule avariate",
+      "oprire",
+      "loc de staționare",
+      "vehicule avariate"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea într-un loc de staționare pentru vehicule avariate.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcarea pe linia de interdicție a opririi înainte de o trecere de pietoni.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "linia de interdicție a opririi",
+      "trecere de pietoni",
+      "parcare",
+      "linia de interdicție a opririi",
+      "trecere de pietoni"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe linia de interdicție a opririi înainte de o trecere de pietoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Oprirea pe linia de interdicție a opririi înainte de o trecere de pietoni.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "linia de interdicție a opririi",
+      "trecere de pietoni",
+      "oprire",
+      "linia de interdicție a opririi",
+      "trecere de pietoni"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe linia de interdicție a opririi înainte de o trecere de pietoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcarea pe carosabil la mai puțin de 5 m înainte de o trecere de pietoni, unde nu există linie de interdicție a opririi.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "carosabil",
+      "5 m",
+      "trecere de pietoni",
+      "parcare",
+      "carosabil",
+      "trecere de pietoni",
+      "spațiu liber"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe drum la mai puțin de 5 m înainte de o trecere de pietoni, unde nu există linie de interdicție a opririi.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Oprirea pe carosabil la mai puțin de 5 m înainte de o trecere de pietoni, unde nu există linie de interdicție a opririi.",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "carosabil",
+      "5 m",
+      "trecere de pietoni",
+      "oprire",
+      "carosabil",
+      "trecere de pietoni",
+      "spațiu liber"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea pe drum la mai puțin de 5 m înainte de o trecere de pietoni, unde nu există linie de interdicție a opririi.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcarea pe trotuar înainte de o trecere de pietoni lângă o linie de interdicție a opririi.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "trotuar",
+      "trecere de pietoni",
+      "linia de interdicție a opririi",
+      "parcare",
+      "trotuar",
+      "trecere de pietoni",
+      "linia de interdicție a opririi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcarea pe trotuar înainte de o trecere de pietoni lângă o linie de interdicție a opririi.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

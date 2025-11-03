@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Stopping on the emergency lane of a motorway, except for emergency stopping.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "emergency lane",
+      "motorway",
+      "emergency stop",
+      "stopping",
+      "emergency lane",
+      "motorway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the hard shoulder of a motorway, except in an emergency.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parking on the sidewalk where signals or markings do not expressly permit it, without leaving a 1.5 m wide space free for pedestrians.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "sidewalk",
+      "pedestrian",
+      "1,5 m",
+      "clearance",
+      "parking",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the pavement without express permission, and leaving less than 1.5m clearance for pedestrians.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Stopping on the sidewalk without leaving a 1.5 m wide space free for pedestrians.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "sidewalk",
+      "pedestrian",
+      "1,5 m",
+      "clearance",
+      "stopping",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the pavement and leaving less than 1.5m clearance for pedestrians.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parking on longitudinal strips for pedestrians, obstructing pedestrian traffic.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "longitudinal strip",
+      "pedestrian",
+      "obstruction",
+      "parking",
+      "longitudinal strip",
+      "pedestrian",
+      "disabled access"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on longitudinal strips for disabled pedestrians, obstructing pedestrian traffic.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Stopping on longitudinal strips for pedestrians, obstructing pedestrian traffic.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "longitudinal strip",
+      "pedestrian",
+      "obstruction",
+      "stopping",
+      "longitudinal strip",
+      "pedestrian",
+      "disabled access"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on longitudinal strips for disabled pedestrians, obstructing pedestrian traffic.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking within a signaled no-stopping zone.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "no stopping",
+      "sign",
+      "parking",
+      "no stopping",
+      "signaled zone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking within a signed no-stopping zone.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Stopping within a signaled no-stopping zone.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "no stopping",
+      "sign",
+      "stopping",
+      "no stopping",
+      "signaled zone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping within a signed no-stopping zone.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parking in a bus lane.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "bus lane",
+      "bus",
+      "parking",
+      "bus lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking in a bus lane.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Stopping in a bus lane.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "bus lane",
+      "bus",
+      "stopping",
+      "bus lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a bus lane.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parking in a display area.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "display area",
+      "parking",
+      "display area",
+      "vehicle exhibition"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking in a vehicle display/exhibition area.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Stopping in a display area.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "display area",
+      "stopping",
+      "display area",
+      "vehicle exhibition"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a vehicle display/exhibition area.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parking in a lay-by for broken-down vehicles.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "lay-by",
+      "broken-down vehicles",
+      "parking",
+      "lay-by",
+      "broken-down vehicles"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking in a lay-by/designated area for broken-down vehicles.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Stopping in a lay-by for broken-down vehicles.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "lay-by",
+      "broken-down vehicles",
+      "stopping",
+      "lay-by",
+      "broken-down vehicles"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a lay-by/designated area for broken-down vehicles.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking on the no-stopping line before a pedestrian crossing.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "no stopping line",
+      "pedestrian crossing",
+      "parking",
+      "no stopping line",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the no-stopping line before a pedestrian crossing.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Stopping on the no-stopping line before a pedestrian crossing.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "no stopping line",
+      "pedestrian crossing",
+      "stopping",
+      "no stopping line",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the no-stopping line before a pedestrian crossing.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking on the roadway less than 5 m before a pedestrian crossing where no no-stopping line is installed.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "roadway",
+      "5 m",
+      "pedestrian crossing",
+      "parking",
+      "roadway",
+      "pedestrian crossing",
+      "clearance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the road less than 5m before a pedestrian crossing where there is no no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Stopping on the roadway less than 5 m before a pedestrian crossing where no no-stopping line is installed.",
+    "fine_chf": 80,
+    "keywords": [
+      "stopping",
+      "roadway",
+      "5 m",
+      "pedestrian crossing",
+      "stopping",
+      "roadway",
+      "pedestrian crossing",
+      "clearance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the road less than 5m before a pedestrian crossing where there is no no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parking on the sidewalk before a pedestrian crossing next to a no-stopping line.",
+    "fine_chf": 120,
+    "keywords": [
+      "parking",
+      "sidewalk",
+      "pedestrian crossing",
+      "no stopping line",
+      "parking",
+      "sidewalk",
+      "pedestrian crossing",
+      "no stopping line"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the sidewalk before a pedestrian crossing next to a no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

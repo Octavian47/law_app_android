@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Dálnice (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Dálnice",
+      "Polodálnice",
+      "Použití",
+      "VRV 50a",
+      "Omezení"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněné používání polodálnic (často se vztahuje na konkrétní typy vozidel nebo zařízení).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Obcházení, přelézání nebo podlézání bariér nebo polobariér",
+    "fine_chf": 20,
+    "keywords": [
+      "Bariéry",
+      "Polobariéry",
+      "Bariéry",
+      "Železniční přejezd",
+      "Železniční přejezd",
+      "Obcházení"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Uživatel silnice"
+    ],
+    "conditions": null,
+    "notes": "Obcházení, přelézání nebo podlézání bariér nebo polobariér.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Používání cyklostezky chodci, když\n1. je přítomen chodník",
+    "fine_chf": 10,
+    "keywords": [
+      "Chodec",
+      "Cyklostezka",
+      "Chodník",
+      "Chodník",
+      "Chodec",
+      "Cyklostezka"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodci"
+    ],
+    "conditions": "Chodník přítomen",
+    "notes": "Používání cyklostezky, když je k dispozici chodník.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Používání cyklostezky chodci, když\n2. je přítomen pěší chodník",
+    "fine_chf": 10,
+    "keywords": [
+      "Chodec",
+      "Cyklostezka",
+      "Pěší cesta",
+      "Chodník",
+      "Chodec",
+      "Cyklostezka"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodci"
+    ],
+    "conditions": "Pěší cesta přítomna",
+    "notes": "Používání cyklostezky, když je k dispozici vyhrazená pěší cesta.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Jízda bez světel",
+    "fine_chf": 20,
+    "keywords": [
+      "Světlo",
+      "Osvětlení",
+      "Jízda",
+      "Elektrokoloběžka",
+      "Zařízení podobná vozidlům",
+      "Vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operátor zařízení (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Jízda bez požadovaného osvětlení (platí především pro elektrokoloběžky/ podobná zařízení).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Bránění používání dopravních oblastí určených pro chodce",
+    "fine_chf": 20,
+    "keywords": [
+      "Chodec",
+      "Dopravní oblasti",
+      "Zábrana",
+      "Chodník",
+      "Bránění",
+      "Zařízení VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Zařízení (VRV 50a)",
+      "Uživatelé silnice"
+    ],
+    "conditions": null,
+    "notes": "Bránění používání dopravních oblastí určených pro chodce.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Bránění používání vozovky na dopravně zklidněných sekundárních silnicích",
+    "fine_chf": 20,
+    "keywords": [
+      "Sekundární silnice",
+      "Vozovka",
+      "Zábrana",
+      "Dopravní tok",
+      "Sekundární silnice",
+      "Zařízení (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Zařízení (VRV 50a)",
+      "Uživatelé silnice"
+    ],
+    "conditions": null,
+    "notes": "Bránění dopravnímu toku na dopravně zklidněných sekundárních silnicích.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorování signálu 'Zákaz zařízení podobných vozidlům'",
+    "fine_chf": 20,
+    "keywords": [
+      "Signál",
+      "Zákaz",
+      "Zařízení podobná vozidlům",
+      "Elektrokoloběžka",
+      "Signalizace",
+      "Dopravní značka"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operátor zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Ignorování konkrétní dopravní značky zakazující zařízení podobná vozidlům.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Používání zařízení podobných vozidlům na neoprávněných dopravních plochách",
+    "fine_chf": 20,
+    "keywords": [
+      "Zařízení podobná vozidlům",
+      "Elektrokoloběžka",
+      "Dopravní oblasti",
+      "Neoprávněné používání",
+      "Omezení"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operátor zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Používání zařízení (např. elektrokoloběžek) v dopravních oblastech, kde nejsou povoleny.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Nedání přednosti chodcům",
+    "fine_chf": 30,
+    "keywords": [
+      "Přednost v jízdě",
+      "Chodec",
+      "Priorita",
+      "Priorita",
+      "Chodec",
+      "Zařízení (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operátor zařízení podobných vozidlům"
+    ],
+    "conditions": null,
+    "notes": "Nedání přednosti chodcům (platí pro uživatele speciálních zařízení).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

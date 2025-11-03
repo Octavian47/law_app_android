@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na traci za hitne slučajeve autoputa, osim u slučaju hitnog zaustavljanja.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "traka za hitne slučajeve",
+      "autoput",
+      "hitno zaustavljanje",
+      "zaustavljanje",
+      "traka za hitne slučajeve",
+      "autoput"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na čvrstoj traci autoputa, osim u hitnim slučajevima.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkiranje na trotoaru gde signali ili oznake izričito ne dozvoljavaju, bez ostavljanja slobodnog prostora širine 1,5 m za pešake.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "trotoar",
+      "pešak",
+      "1,5 m",
+      "odstojanje",
+      "parkiranje",
+      "trotoar",
+      "pešak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na trotoaru bez izričite dozvole, i ostavljanje manje od 1,5 m prostora za pešake.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Zaustavljanje na trotoaru bez ostavljanja slobodnog prostora širine 1,5 m za pešake.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "trotoar",
+      "pešak",
+      "1,5 m",
+      "odstojanje",
+      "zaustavljanje",
+      "trotoar",
+      "pešak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na trotoaru i ostavljanje manje od 1,5 m prostora za pešake.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkiranje na longitudinalnim trakama za pešake, ometajući pešački saobraćaj.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "dužinska traka",
+      "pešak",
+      "ometanje",
+      "parkiranje",
+      "dužinska traka",
+      "pešak",
+      "pristup osobama s invaliditetom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na dužinskim trakama za osobe s invaliditetom, ometajući pešački saobraćaj.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na longitudinalnim trakama za pešake, ometajući pešački saobraćaj.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "dužinska traka",
+      "pešak",
+      "ometanje",
+      "zaustavljanje",
+      "dužinska traka",
+      "pešak",
+      "pristup osobama s invaliditetom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na dužinskim trakama za osobe s invaliditetom, ometajući pešački saobraćaj.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje u označenoj zoni gde je zabranjeno zaustavljanje.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "zabranjeno zaustavljanje",
+      "znak",
+      "parkiranje",
+      "zabranjeno zaustavljanje",
+      "označena zona"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje u označenoj zoni gde je zabranjeno zaustavljanje.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Zaustavljanje u označenoj zoni gde je zabranjeno zaustavljanje.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "zabranjeno zaustavljanje",
+      "znak",
+      "zaustavljanje",
+      "zabranjeno zaustavljanje",
+      "označena zona"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje u označenoj zoni gde je zabranjeno zaustavljanje.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkiranje u traci za autobuse.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "traka za autobuse",
+      "autobus",
+      "parkiranje",
+      "traka za autobuse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje u traci za autobuse.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Zaustavljanje u traci za autobuse.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "traka za autobuse",
+      "autobus",
+      "zaustavljanje",
+      "traka za autobuse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje u traci za autobuse.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkiranje u izložbenom prostoru.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "izložbeni prostor",
+      "parkiranje",
+      "izložbeni prostor",
+      "izložba vozila"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje u prostoru za izložbu vozila.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Zaustavljanje u izložbenom prostoru.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "izložbeni prostor",
+      "zaustavljanje",
+      "izložbeni prostor",
+      "izložba vozila"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje u prostoru za izložbu vozila.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkiranje na odmorištu za neispravna vozila.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "odmorište",
+      "neispravna vozila",
+      "parkiranje",
+      "odmorište",
+      "neispravna vozila"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na odmorištu za neispravna vozila.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Zaustavljanje na odmorištu za neispravna vozila.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "odmorište",
+      "neispravna vozila",
+      "zaustavljanje",
+      "odmorište",
+      "neispravna vozila"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na odmorištu za neispravna vozila.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na liniji zabrane zaustavljanja ispred pešačkog prelaza.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "linija zabrane zaustavljanja",
+      "pešački prelaz",
+      "parkiranje",
+      "linija zabrane zaustavljanja",
+      "pešački prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na liniji zabrane zaustavljanja ispred pešačkog prelaza.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zaustavljanje na liniji zabrane zaustavljanja ispred pešačkog prelaza.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "linija zabrane zaustavljanja",
+      "pešački prelaz",
+      "zaustavljanje",
+      "linija zabrane zaustavljanja",
+      "pešački prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na liniji zabrane zaustavljanja ispred pešačkog prelaza.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na kolovozu manje od 5 m ispred pešačkog prelaza gde nije postavljena linija zabrane zaustavljanja.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "kolovoz",
+      "5 m",
+      "pešački prelaz",
+      "parkiranje",
+      "kolovoz",
+      "pešački prelaz",
+      "odstojanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na putu manje od 5 m ispred pešačkog prelaza gde ne postoji linija zabrane zaustavljanja.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zaustavljanje na kolovozu manje od 5 m ispred pešačkog prelaza gde nije postavljena linija zabrane zaustavljanja.",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "kolovoz",
+      "5 m",
+      "pešački prelaz",
+      "zaustavljanje",
+      "kolovoz",
+      "pešački prelaz",
+      "odstojanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na putu manje od 5 m ispred pešačkog prelaza gde ne postoji linija zabrane zaustavljanja.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na trotoaru ispred pešačkog prelaza pored linije zabrane zaustavljanja.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "trotoar",
+      "pešački prelaz",
+      "linija zabrane zaustavljanja",
+      "parkiranje",
+      "trotoar",
+      "pešački prelaz",
+      "linija zabrane zaustavljanja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na trotoaru ispred pešačkog prelaza pored linije zabrane zaustavljanja.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

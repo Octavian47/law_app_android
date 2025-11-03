@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messsicherheit auf Autobahnen",
+    "fine_chf": 20,
+    "keywords": [
+      "Geschwindigkeit",
+      "Überschreitung",
+      "Autobahn",
+      "Messsicherheit",
+      "speeding",
+      "highway",
+      "Autobahnen",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "um 1–5 km/h",
+    "notes": "Speeding by 1-5 km/h after deduction of tolerance.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messsicherheit auf Autobahnen",
+    "fine_chf": 60,
+    "keywords": [
+      "Geschwindigkeit",
+      "Überschreitung",
+      "Autobahn",
+      "Messsicherheit",
+      "speeding",
+      "highway",
+      "Autobahnen",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "um 6–10 km/h",
+    "notes": "Speeding by 6-10 km/h after deduction of tolerance.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messsicherheit auf Autobahnen",
+    "fine_chf": 120,
+    "keywords": [
+      "Geschwindigkeit",
+      "Überschreitung",
+      "Autobahn",
+      "Messsicherheit",
+      "speeding",
+      "highway",
+      "Autobahnen",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "um 11–15 km/h",
+    "notes": "Speeding by 11-15 km/h after deduction of tolerance.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messsicherheit auf Autobahnen",
+    "fine_chf": 180,
+    "keywords": [
+      "Geschwindigkeit",
+      "Überschreitung",
+      "Autobahn",
+      "Messsicherheit",
+      "speeding",
+      "highway",
+      "Autobahnen",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "um 16–20 km/h",
+    "notes": "Speeding by 16-20 km/h after deduction of tolerance.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Überschreiten allgemeiner, fahrzeugbedingter oder signalisierter Höchstgeschwindigkeit nach Abzug der vom ASTRA festgelegten Geräte- und Messsicherheit auf Autobahnen",
+    "fine_chf": 260,
+    "keywords": [
+      "Geschwindigkeit",
+      "Überschreitung",
+      "Autobahn",
+      "Messsicherheit",
+      "speeding",
+      "highway",
+      "Autobahnen",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "um 21–25 km/h",
+    "notes": "Speeding by 21-25 km/h after deduction of tolerance.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Allgemeines Fahrverbot in beiden Richtungen» (2.01; Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Fahrverbot",
+      "beide Richtungen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no entry",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No entry for all vehicles in both directions' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Einfahrt verboten» (2.02; Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Einfahrt verboten",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no entry",
+      "road sign",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No entry' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Verbot für Motorwagen» (2.03; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Verbot",
+      "Motorwagen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no motor vehicles",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motorwagenführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No motor vehicles' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Verbot für Motorräder» (2.04; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Verbot",
+      "Motorräder",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no motorcycles",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motorradfahrer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No motorcycles' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Verbot für Lastwagen» (2.07; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Verbot",
+      "Lastwagen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no trucks",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Lastwagenführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No lorries/trucks' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Verbot für Gesellschaftswagen» (2.08; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Verbot",
+      "Gesellschaftswagen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no buses",
+      "coaches",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Gesellschaftswagenführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No coaches/buses' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Verbot für Anhänger» (2.09; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Verbot",
+      "Anhänger",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no trailers",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer mit Anhänger"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No trailers' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Fahrtrichtung rechts» (2.32; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Fahrtrichtung rechts",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "direction right",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Direction right' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Fahrtrichtung links» (2.33; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Fahrtrichtung links",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "direction left",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Direction left' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Hindernis rechts umfahren» (2.34; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Hindernis umfahren",
+      "rechts",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "pass on right",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Pass obstacle on the right' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Hindernis links umfahren» (2.35; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Hindernis umfahren",
+      "links",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "pass on left",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Pass obstacle on the left' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Geradeausfahren» (2.37, 2.39, 2.40, 2.41; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Geradeausfahren",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "straight ahead",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Proceed straight ahead' sign (various forms 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Rechtsabbiegen» (2.37, 2.39, 2.40, 2.41; Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Rechtsabbiegen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "turn right",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Turn right' sign (various forms 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Linksabbiegen» (2.38, 2.39, 2.41; Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Linksabbiegen",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "turn left",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Turn left' sign (various forms 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Kreisverkehrsplatz» (2.41.1; Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Kreisverkehrsplatz",
+      "Kreisel",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "roundabout",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'Roundabout' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Abbiegen nach rechts verboten» (2.42; Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Abbiegen rechts verboten",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no right turn",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No right turn' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nichtbeachten des Vorschriftsignals «Abbiegen nach links verboten» (2.43; Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Abbiegen links verboten",
+      "Vorschriftsignal",
+      "Nichtbeachten",
+      "no left turn",
+      "road sign",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Ignoring 'No left turn' sign.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Brak przy sobie prawa jazdy",
+    "fine_chf": 20,
+    "keywords": [
+      "prawo jazdy",
+      "noszenie prawa jazdy",
+      "brak przy sobie",
+      "kierowca",
+      "kontrola",
+      "prawo jazdy kierowcy",
+      "dokumenty drogowe"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Brak przy sobie zezwolenia na naukę jazdy",
+    "fine_chf": 20,
+    "keywords": [
+      "zezwolenie na naukę jazdy",
+      "noszenie zezwolenia",
+      "brak przy sobie",
+      "zezwolenie na naukę jazdy",
+      "kierowca"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu (uczeń)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Brak przy sobie dowodu rejestracji pojazdu",
+    "fine_chf": 20,
+    "keywords": [
+      "rejestracja pojazdu",
+      "noszenie rejestracji",
+      "brak przy sobie",
+      "rejestracja pojazdu",
+      "dokumenty drogowe"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Brak przy sobie zezwolenia na transporty specjalne",
+    "fine_chf": 20,
+    "keywords": [
+      "transporty specjalne",
+      "zezwolenie",
+      "brak przy sobie",
+      "transport specjalny",
+      "zezwolenie"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zezwolenie na transporty specjalne lub ponadnormatywne.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Brak przy sobie dokumentu utrzymania emisji",
+    "fine_chf": 20,
+    "keywords": [
+      "dokument utrzymania emisji",
+      "brak przy sobie",
+      "dokument utrzymania emisji",
+      "kontrola"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Brak przy sobie zezwolenia na zwolnienie od regulacji sygnalizowanej",
+    "fine_chf": 20,
+    "keywords": [
+      "zezwolenie na zwolnienie",
+      "sygnalizowane",
+      "regulacja",
+      "brak przy sobie",
+      "zezwolenie na zwolnienie",
+      "znaki drogowe"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zezwolenie wyjątkowe dla konkretnej reguły lub znaku drogowego.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Brak przy sobie świadectwa kwalifikacji kierowcy",
+    "fine_chf": 20,
+    "keywords": [
+      "świadectwo kwalifikacji kierowcy",
+      "brak przy sobie",
+      "certyfikat kompetencji",
+      "świadectwo kwalifikacji kierowcy zawodowego"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Dowód kwalifikacji kierowcy zawodowego.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Brak przy sobie arkusza wkładu z poprzedniego dnia",
+    "fine_chf": 140,
+    "keywords": [
+      "arkusz wkładu",
+      "poprzedni dzień",
+      "brak przy sobie",
+      "tachograf",
+      "arkusz tachografu",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy użycia analogowego tachografu przez kierowców zawodowych (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Brak przy sobie wydruku z poprzedniego dnia",
+    "fine_chf": 140,
+    "keywords": [
+      "wydruk",
+      "poprzedni dzień",
+      "brak przy sobie",
+      "tachograf",
+      "wydruk tachografu cyfrowego",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy użycia cyfrowego tachografu przez kierowców zawodowych (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Brak przy sobie innych wymaganych arkuszy wkładu",
+    "fine_chf": 60,
+    "keywords": [
+      "arkusze wkładu",
+      "brak przy sobie",
+      "tachograf",
+      "kierowca zawodowy",
+      "arkusze"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": "stała opłata za 7 dni",
+    "notes": "Mandat obowiązuje za każdy 7-dniowy okres za brak niecodziennych arkuszy tachografu.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Brak przy sobie innych wymaganych wydruków",
+    "fine_chf": 60,
+    "keywords": [
+      "wydruki",
+      "brak przy sobie",
+      "tachograf",
+      "kierowca zawodowy",
+      "wydruki"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": "stała opłata za 7 dni",
+    "notes": "Mandat obowiązuje za każdy 7-dniowy okres za brak niecodziennych wydruków tachografu.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Brak przy sobie karty kierowcy",
+    "fine_chf": 140,
+    "keywords": [
+      "karta kierowcy",
+      "brak przy sobie",
+      "karta kierowcy",
+      "tachograf",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Karta kierowcy dla cyfrowego tachografu. ARV 1 to szwajcarskie przepisy dotyczące czasu pracy niektórych kierowców zawodowych.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Brak przy sobie zastępczych zapisów tachografu lub tygodniowego pakietu",
+    "fine_chf": 40,
+    "keywords": [
+      "zastępcze zapisy tachografu",
+      "tygodniowy pakiet",
+      "brak przy sobie",
+      "zapisy tachografu",
+      "kierowca zawodowy",
+      "pakiet"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Zastępcze zapisy tachografu lub tygodniowe pakiety (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Brak przy sobie zastępczego papieru do drukarki",
+    "fine_chf": 40,
+    "keywords": [
+      "zastępczy papier do drukarki",
+      "brak przy sobie",
+      "papier do drukarki",
+      "cyfrowy tachograf",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Brak przy sobie zastępczego papieru do drukarki dla cyfrowego tachografu.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Brak przy sobie arkusza wkładu z poprzedniego dnia",
+    "fine_chf": 40,
+    "keywords": [
+      "arkusz wkładu",
+      "poprzedni dzień",
+      "brak przy sobie",
+      "tachograf",
+      "arkusz tachografu",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy użycia analogowego tachografu przez kierowców zawodowych (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Brak przy sobie książki pracy",
+    "fine_chf": 40,
+    "keywords": [
+      "książka pracy",
+      "brak przy sobie",
+      "książka pracy",
+      "kierowca zawodowy",
+      "dziennik jazdy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy kierowców zawodowych pracujących zgodnie z przepisami ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Brak przy sobie wewnętrznych raportów dziennych bieżącego tygodnia lub ich podwójnej liczby",
+    "fine_chf": 40,
+    "keywords": [
+      "raporty dzienne",
+      "tydzień",
+      "brak przy sobie",
+      "raporty dzienne",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": "stała opłata",
+    "notes": "Wewnętrzne raporty dzienne dla kierowców zawodowych (ARV 2). Mandat jest stały za tydzień/okres.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Brak przy sobie zezwolenia na zwolnienie z prowadzenia książki pracy",
+    "fine_chf": 40,
+    "keywords": [
+      "zezwolenie",
+      "książka pracy",
+      "zwolnienie",
+      "brak przy sobie",
+      "zezwolenie na zwolnienie"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy"
+    ],
+    "conditions": null,
+    "notes": "Zezwolenie zwalniające kierowcę z prowadzenia książki pracy (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Brak przy sobie karty kontrolnej dla kierowców taksówek",
+    "fine_chf": 40,
+    "keywords": [
+      "karta kontrolna",
+      "kierowca taksówki",
+      "brak przy sobie",
+      "kierowca taksówki",
+      "karta kontrolna",
+      "kierowca zawodowy"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Kierowca taksówki"
+    ],
+    "conditions": null,
+    "notes": "Karta kontrolna dla kierowców taksówek (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

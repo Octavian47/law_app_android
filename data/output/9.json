@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "während mehr als 2, aber nicht mehr als 4 Stunden",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkieren",
+      "Parkfeld",
+      "Überzeit",
+      "Signalisation",
+      "Parkdauer",
+      "parking"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 2 und 4 Stunden",
+    "notes": "Extension of fine 254.b for parking a vehicle in a parking area indicated by signs or where parking is reserved for a certain vehicle category, exceeding the allowed time.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "während mehr als 4, aber nicht mehr als 10 Stunden",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkieren",
+      "Parkfeld",
+      "Überzeit",
+      "Signalisation",
+      "Parkdauer",
+      "parking"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 4 und 10 Stunden",
+    "notes": "Extension of fine 254.c for parking a vehicle in a parking area indicated by signs or where parking is reserved for a certain vehicle category, exceeding the allowed time.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkieren auf einer Parkverbotslinie\na. bis 2 Stunden",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotslinie",
+      "Überzeit",
+      "yellow line",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "bis 2 Stunden",
+    "notes": "Parking on a no-parking line (usually yellow) for up to 2 hours.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "während mehr als 2, aber nicht mehr als 4 Stunden",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotslinie",
+      "Überzeit",
+      "yellow line",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 2 und 4 Stunden",
+    "notes": "Extension of fine 255.b for parking on a no-parking line.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "während mehr als 4, aber nicht mehr als 10 Stunden",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotslinie",
+      "Überzeit",
+      "yellow line",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 4 und 10 Stunden",
+    "notes": "Extension of fine 255.c for parking on a no-parking line.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkieren auf einem Parkverbotsfeld\na. bis 2 Stunden",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotsfeld",
+      "Überzeit",
+      "no-parking zone",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "bis 2 Stunden",
+    "notes": "Parking in a no-parking area (usually marked with a yellow crosshatch or similar) for up to 2 hours.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "während mehr als 2, aber nicht mehr als 4 Stunden",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotsfeld",
+      "Überzeit",
+      "no-parking zone",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 2 und 4 Stunden",
+    "notes": "Extension of fine 256.b for parking in a no-parking area.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "während mehr als 4, aber nicht mehr als 10 Stunden",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkieren",
+      "Parkverbotsfeld",
+      "Überzeit",
+      "no-parking zone",
+      "parking ban"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 4 und 10 Stunden",
+    "notes": "Extension of fine 256.c for parking in a no-parking area.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Behinderndes Parkieren auf einem Radweg mit darauf nicht zugelassenem Fahrzeug (2.60; Art. 37 Abs. 2 und 43 Abs. 2 SVG) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Radweg",
+      "Behinderung",
+      "Fahrzeug",
+      "Velo",
+      "bicycle path",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Obstructive parking on a cycle path with a vehicle not permitted there, for up to 60 minutes.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Behinderndes Halten auf einem Radweg mit darauf nicht zugelassenem Fahrzeug (2.60; Art. 37 Abs. 2 und 43 Abs. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Radweg",
+      "Behinderung",
+      "Fahrzeug",
+      "Velo",
+      "bicycle path",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping on a cycle path with a vehicle not permitted there.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Behinderndes Parkieren auf einem Fussweg mit darauf nicht zugelassenem Fahrzeug (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Fussweg",
+      "Behinderung",
+      "Fahrzeug",
+      "pedestrian path",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Obstructive parking on a pedestrian path with a vehicle not permitted there, for up to 60 minutes.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Behinderndes Halten auf einem Fussweg mit darauf nicht zugelassenem Fahrzeug (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Fussweg",
+      "Behinderung",
+      "Fahrzeug",
+      "pedestrian path",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping on a pedestrian path with a vehicle not permitted there.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkieren in einer Fussgängerzone an nicht dafür gekennzeichneten Stellen\na. bis 2 Stunden",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Fussgängerzone",
+      "Überzeit",
+      "pedestrian zone",
+      "unmarked spot"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "bis 2 Stunden",
+    "notes": "Parking in a pedestrian zone in an unmarked spot for up to 2 hours.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "während mehr als 2, aber nicht mehr als 4 Stunden",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkieren",
+      "Fussgängerzone",
+      "Überzeit",
+      "pedestrian zone",
+      "unmarked spot"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 2 und 4 Stunden",
+    "notes": "Extension of fine 259.b for parking in a pedestrian zone in an unmarked spot.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "während mehr als 4, aber nicht mehr als 10 Stunden",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkieren",
+      "Fussgängerzone",
+      "Überzeit",
+      "pedestrian zone",
+      "unmarked spot"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": "zwischen 4 und 10 Stunden",
+    "notes": "Extension of fine 259.c for parking in a pedestrian zone in an unmarked spot.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Überschreiten des zulässigen Gewichts nach Abzug der vom Bundesamt für Strassen (ASTRA) festgelegten Geräte- und Messunsicherheit\na. um nicht mehr als 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Gewicht",
+      "Überschreitung",
+      "Zulässiges Gewicht",
+      "ASTRA",
+      "Motorfahrzeug",
+      "overweight",
+      "load"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorfahrzeugführer"
+    ],
+    "conditions": "bis 100 kg Übergewicht",
+    "notes": "Exceeding the allowed weight limit for motor vehicles, after deduction for tolerance and measurement uncertainty, by up to 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnego, pojazdowego lub oznaczonego maksymalnego limitu prędkości po odliczeniu tolerancji urządzenia i bezpieczeństwa pomiaru ustalonego przez ASTRA na autostradach",
+    "fine_chf": 20,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "autostrada",
+      "bezpieczeństwo pomiaru",
+      "przekroczenie prędkości",
+      "autostrada",
+      "autostrady",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "o 1–5 km/h",
+    "notes": "Przekroczenie prędkości o 1-5 km/h po odliczeniu tolerancji.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnego, pojazdowego lub oznaczonego maksymalnego limitu prędkości po odliczeniu tolerancji urządzenia i bezpieczeństwa pomiaru ustalonego przez ASTRA na autostradach",
+    "fine_chf": 60,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "autostrada",
+      "bezpieczeństwo pomiaru",
+      "przekroczenie prędkości",
+      "autostrada",
+      "autostrady",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "o 6–10 km/h",
+    "notes": "Przekroczenie prędkości o 6-10 km/h po odliczeniu tolerancji.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnego, pojazdowego lub oznaczonego maksymalnego limitu prędkości po odliczeniu tolerancji urządzenia i bezpieczeństwa pomiaru ustalonego przez ASTRA na autostradach",
+    "fine_chf": 120,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "autostrada",
+      "bezpieczeństwo pomiaru",
+      "przekroczenie prędkości",
+      "autostrada",
+      "autostrady",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "o 11–15 km/h",
+    "notes": "Przekroczenie prędkości o 11-15 km/h po odliczeniu tolerancji.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnego, pojazdowego lub oznaczonego maksymalnego limitu prędkości po odliczeniu tolerancji urządzenia i bezpieczeństwa pomiaru ustalonego przez ASTRA na autostradach",
+    "fine_chf": 180,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "autostrada",
+      "bezpieczeństwo pomiaru",
+      "przekroczenie prędkości",
+      "autostrada",
+      "autostrady",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "o 16–20 km/h",
+    "notes": "Przekroczenie prędkości o 16-20 km/h po odliczeniu tolerancji.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Przekroczenie ogólnego, pojazdowego lub oznaczonego maksymalnego limitu prędkości po odliczeniu tolerancji urządzenia i bezpieczeństwa pomiaru ustalonego przez ASTRA na autostradach",
+    "fine_chf": 260,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "autostrada",
+      "bezpieczeństwo pomiaru",
+      "przekroczenie prędkości",
+      "autostrada",
+      "autostrady",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "o 21–25 km/h",
+    "notes": "Przekroczenie prędkości o 21-25 km/h po odliczeniu tolerancji.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Ogólny zakaz ruchu w obu kierunkach' (2.01; Art. 27 ust. 1 SVG i Art. 18 ust. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz ruchu",
+      "w obu kierunkach",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz wjazdu",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz wjazdu dla wszystkich pojazdów w obu kierunkach”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Wjazd zabroniony' (2.02; Art. 27 ust. 1 SVG, Art. 37 ust. 3 VRV i Art. 18 ust. 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "wjazd zabroniony",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz wjazdu",
+      "znak drogowy",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz wjazdu”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz dla pojazdów silnikowych' (2.03; Art. 27 ust. 1 SVG i Art. 19 ust. 1 lit. a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz",
+      "pojazd silnikowy",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz pojazdów silnikowych",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz pojazdów silnikowych”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz dla motocykli' (2.04; Art. 27 ust. 1 SVG i Art. 19 ust. 1 lit. b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz",
+      "motocykle",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz motocykli",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motocyklista"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz motocykli”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz dla ciężarówek' (2.07; Art. 27 ust. 1 SVG i Art. 19 ust. 1 lit. d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz",
+      "ciężarówki",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz ciężarówek",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca ciężarówki"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz ciężarówek”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz dla autokarów' (2.08; Art. 27 ust. 1 SVG i Art. 19 ust. 1 lit. e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz",
+      "autokary",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz autobusów",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca autokaru"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz autokarów/autobusów”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz przyczep' (2.09; Art. 27 ust. 1 SVG i Art. 19 ust. 1 lit. f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz",
+      "przyczepy",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz przyczep",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu z przyczepą"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz przyczep”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Kierunek w prawo' (2.32; Art. 27 ust. 1 SVG i Art. 24 ust. 1 lit. a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kierunek w prawo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "kierunek w prawo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Kierunek w prawo”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Kierunek w lewo' (2.33; Art. 27 ust. 1 SVG i Art. 24 ust. 1 lit. b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kierunek w lewo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "kierunek w lewo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Kierunek w lewo”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Omijaj przeszkodę po prawej stronie' (2.34; Art. 27 ust. 1 SVG i Art. 24 ust. 1 lit. c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "omijaj przeszkodę",
+      "prawo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "omijaj po prawej",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Omijaj przeszkodę po prawej stronie”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Omijaj przeszkodę po lewej stronie' (2.35; Art. 27 ust. 1 SVG i Art. 24 ust. 1 lit. d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "omijaj przeszkodę",
+      "lewo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "omijaj po lewej",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Omijaj przeszkodę po lewej stronie”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Jedź prosto' (2.37, 2.39, 2.40, 2.41; Art. 27 ust. 1 SVG i Art. 24 ust. 1 lit. i oraz 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "jedź prosto",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "prosto",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Jedź prosto” (różne formy 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Skręt w prawo' (2.37, 2.39, 2.40, 2.41; Art. 27 ust. 1 SVG i Art. 24 ust. 2 oraz 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "skręt w prawo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "skręt w prawo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Skręt w prawo” (różne formy 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Skręt w lewo' (2.38, 2.39, 2.41; Art. 27 ust. 1 SVG i Art. 24 ust. 2 oraz 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "skręt w lewo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "skręt w lewo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Skręt w lewo” (różne formy 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Rondo' (2.41.1; Art. 27 ust. 1 SVG i Art. 24 ust. 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "rondo",
+      "rondo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "rondo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Rondo”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz skrętu w prawo' (2.42; Art. 27 ust. 1 SVG i Art. 25 ust. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz skrętu w prawo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz skrętu w prawo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz skrętu w prawo”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Niezastosowanie się do znaku regulacyjnego 'Zakaz skrętu w lewo' (2.43; Art. 27 ust. 1 SVG i Art. 25 ust. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz skrętu w lewo",
+      "znak regulacyjny",
+      "niezastosowanie się",
+      "zakaz skrętu w lewo",
+      "znak drogowy",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie znaku „Zakaz skrętu w lewo”.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

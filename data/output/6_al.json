@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Ndalimi në bandën e emergjencës në autostradë, përveç ndalimit të emergjencës.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "bandë emergjence",
+      "autostradë",
+      "ndalim emergjent",
+      "ndalim",
+      "bandë emergjence",
+      "autostradë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalimi në shpatullën e fortë të autostradës, përveç në rast emergjence.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkim në trotuar ku sinjalet ose shenjat nuk e lejojnë shprehimisht, pa lënë një hapësirë të lirë 1.5 m të gjerë për këmbësorët.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "trotuar",
+      "këmbësor",
+      "1,5 m",
+      "hapësirë",
+      "parkim",
+      "trotuar",
+      "këmbësor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në trotuar pa leje të shprehur, dhe duke lënë më pak se 1.5 m hapësirë për këmbësorët.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Ndalim në trotuar pa lënë një hapësirë të lirë 1.5 m të gjerë për këmbësorët.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "trotuar",
+      "këmbësor",
+      "1,5 m",
+      "hapësirë",
+      "ndalim",
+      "trotuar",
+      "këmbësor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në trotuar dhe duke lënë më pak se 1.5 m hapësirë për këmbësorët.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkim në shirita longitudinale për këmbësorë, duke penguar trafikun e këmbësorëve.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "shirit longitudinal",
+      "këmbësor",
+      "pengim",
+      "parkim",
+      "shirit longitudinal",
+      "këmbësor",
+      "qasje për të paaftë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në shirita longitudinale për këmbësorë me aftësi të kufizuara, duke penguar trafikun e këmbësorëve.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Ndalim në shirita longitudinale për këmbësorë, duke penguar trafikun e këmbësorëve.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "shirit longitudinal",
+      "këmbësor",
+      "pengim",
+      "ndalim",
+      "shirit longitudinal",
+      "këmbësor",
+      "qasje për të paaftë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në shirita longitudinale për këmbësorë me aftësi të kufizuara, duke penguar trafikun e këmbësorëve.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim brenda një zone të sinjalizuar pa ndalim.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "pa ndalim",
+      "shenjë",
+      "parkim",
+      "pa ndalim",
+      "zonë e sinjalizuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim brenda një zone të sinjalizuar pa ndalim.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Ndalim brenda një zone të sinjalizuar pa ndalim.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "pa ndalim",
+      "shenjë",
+      "ndalim",
+      "pa ndalim",
+      "zonë e sinjalizuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim brenda një zone të sinjalizuar pa ndalim.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkim në bandë autobusi.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "bandë autobusi",
+      "autobusi",
+      "parkim",
+      "bandë autobusi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në bandë autobusi.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Ndalim në bandë autobusi.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "bandë autobusi",
+      "autobusi",
+      "ndalim",
+      "bandë autobusi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në bandë autobusi.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkim në zonë ekspozimi.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "zonë ekspozimi",
+      "parkim",
+      "zonë ekspozimi",
+      "ekspozim i automjeteve"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në zonë ekspozimi/ekspozimi të automjeteve.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Ndalim në zonë ekspozimi.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "zonë ekspozimi",
+      "ndalim",
+      "zonë ekspozimi",
+      "ekspozim i automjeteve"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në zonë ekspozimi/ekspozimi të automjeteve.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkim në ndalesë për automjete të dëmtuara.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "ndalesë",
+      "automjete të dëmtuara",
+      "parkim",
+      "ndalesë",
+      "automjete të dëmtuara"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në ndalesë/zonë të caktuar për automjete të dëmtuara.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Ndalim në ndalesë për automjete të dëmtuara.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "ndalesë",
+      "automjete të dëmtuara",
+      "ndalim",
+      "ndalesë",
+      "automjete të dëmtuara"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në ndalesë/zonë të caktuar për automjete të dëmtuara.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në linjën e ndalimit para një kalimi këmbësor.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "linja e ndalimit",
+      "kalim këmbësor",
+      "parkim",
+      "linja e ndalimit",
+      "kalim këmbësor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në linjën e ndalimit para një kalimi këmbësor.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Ndalim në linjën e ndalimit para një kalimi këmbësor.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "linja e ndalimit",
+      "kalim këmbësor",
+      "ndalim",
+      "linja e ndalimit",
+      "kalim këmbësor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në linjën e ndalimit para një kalimi këmbësor.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në rrugë më pak se 5 m para një kalimi këmbësor ku nuk është vendosur linja e ndalimit.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "rrugë",
+      "5 m",
+      "kalim këmbësor",
+      "parkim",
+      "rrugë",
+      "kalim këmbësor",
+      "hapësirë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në rrugë më pak se 5 m para një kalimi këmbësor ku nuk është vendosur linja e ndalimit.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Ndalim në rrugë më pak se 5 m para një kalimi këmbësor ku nuk është vendosur linja e ndalimit.",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalim",
+      "rrugë",
+      "5 m",
+      "kalim këmbësor",
+      "ndalim",
+      "rrugë",
+      "kalim këmbësor",
+      "hapësirë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në rrugë më pak se 5 m para një kalimi këmbësor ku nuk është vendosur linja e ndalimit.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në trotuar para një kalimi këmbësor pranë linjës së ndalimit.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "trotuar",
+      "kalim këmbësor",
+      "linja e ndalimit",
+      "parkim",
+      "trotuar",
+      "kalim këmbësor",
+      "linja e ndalimit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në trotuar para një kalimi këmbësor pranë linjës së ndalimit.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

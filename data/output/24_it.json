@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Uso di una strada nazionale di prima o seconda classe senza il contrassegno richiesto per il periodo di validità",
+    "fine_chf": 200,
+    "keywords": [
+      "Strada nazionale",
+      "Vignetta",
+      "Vignetta mancante",
+      "Emissione",
+      "Etichetta pedaggio",
+      "Autostrada"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida su strade nazionali senza la vignetta pedaggio richiesta.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Uso di una strada nazionale di prima o seconda classe con la vignetta adesiva obbligatoria per il periodo di validità che non è applicata, o non è applicata nella posizione prescritta direttamente sul veicolo, o è danneggiata",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignetta",
+      "Vignetta adesiva",
+      "Applicazione",
+      "Danneggiata",
+      "Adesione",
+      "Posizionamento"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida con una vignetta applicata in modo errato (non direttamente sul veicolo) o danneggiata.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

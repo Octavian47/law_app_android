@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Fahren ohne vorgeschriebene(s) Kontrollschild(er) ausser Händlerschilder (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "Kontrollschild",
+      "Nummernschild",
+      "license plate",
+      "driving",
+      "fehlen",
+      "driver"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Driving without required license plates (excluding trade plates).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Fahren ohne Höchstgeschwindigkeitszeichen (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Höchstgeschwindigkeit",
+      "Zeichen",
+      "maximum speed sign",
+      "fehlen",
+      "driving"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Driving a vehicle that requires but lacks the mandatory speed sign.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Fahren ohne Heckmarkierungstafel (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Heckmarkierungstafel",
+      "rear marking plate",
+      "fehlen",
+      "driving"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Driving a vehicle that requires but lacks the mandatory rear marking plate (e.g., slow vehicles).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Führen eines Motorrades ohne fest angebrachte Rückstrahler (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Motorrad",
+      "Rückstrahler",
+      "reflector",
+      "motorcycle",
+      "fehlen"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer (Motorrad)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Ausführen einer Gefahrgutbeförderung mit einem fehlenden, unvollständigen oder nicht den Vorschriften entsprechenden Ausrüstungsteil (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "Gefahrgut",
+      "ADR",
+      "dangerous goods",
+      "Ausrüstung",
+      "professional-driver",
+      "fehlen"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrer (Gefahrguttransport)"
+    ],
+    "conditions": null,
+    "notes": "Missing, incomplete, or non-compliant equipment during dangerous goods transport.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Unterlassen der Meldung oder nicht rechtzeitiges Melden von Tatsachen, die eine Änderung oder Ersetzung eines Ausweises oder einer Bewilligung erfordern (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Melden",
+      "Ausweis",
+      "Bewilligung",
+      "Änderung",
+      "notification",
+      "paperwork",
+      "Fahrzeughalter"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner/holder to report changes requiring document modification or replacement.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Überschreiten der vorgeschriebenen Frist für die obligatorische Abgaswartung: bis 1 Monat",
+    "fine_chf": 40,
+    "keywords": [
+      "Abgaswartung",
+      "emission service",
+      "overdue",
+      "Frist",
+      "maintenance",
+      "Fahrzeughalter"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": "bis 1 Monat",
+    "notes": "Mandatory emissions service overdue up to 1 month.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Überschreiten der vorgeschriebenen Frist für die obligatorische Abgaswartung: um mehr als 1 Monat, aber nicht mehr als 3 Monate",
+    "fine_chf": 100,
+    "keywords": [
+      "Abgaswartung",
+      "emission service",
+      "overdue",
+      "Frist",
+      "maintenance",
+      "Fahrzeughalter"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": "um mehr als 1 Monat, aber nicht mehr als 3 Monate",
+    "notes": "Mandatory emissions service overdue between 1 and 3 months.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Überschreiten der vorgeschriebenen Frist für die obligatorische Abgaswartung: um mehr als 3, aber nicht mehr als 6 Monate",
+    "fine_chf": 200,
+    "keywords": [
+      "Abgaswartung",
+      "emission service",
+      "overdue",
+      "Frist",
+      "maintenance",
+      "Fahrzeughalter"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": "um mehr als 3, aber nicht mehr als 6 Monate",
+    "notes": "Mandatory emissions service overdue between 3 and 6 months.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Inverkehrbringen eines Motorfahrzeugs mit einem mangelhaften Reifen (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "Reifen",
+      "defekt",
+      "Tyre",
+      "faulty",
+      "Inbetriebnahme",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Owner allowing a motor vehicle with faulty tires to be put into circulation.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Inverkehrbringen eines Anhängers mit einem mangelhaften Reifen (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "Reifen",
+      "defekt",
+      "Anhänger",
+      "trailer",
+      "Inbetriebnahme",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Owner allowing a trailer with faulty tires to be put into circulation.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nichtanbringen der Geschwindigkeitstafel bei Verwendung eines Fahrzeugs mit Spikesreifen (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Geschwindigkeitstafel",
+      "Spikesreifen",
+      "studded tires",
+      "speed sign",
+      "fehlen",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Owner failing to attach the required speed sign when studded tires are used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nicht vorschriftsgemässes Anbringen der Geschwindigkeitstafel bei Verwendung eines Fahrzeugs mit Spikesreifen (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Geschwindigkeitstafel",
+      "Spikesreifen",
+      "studded tires",
+      "speed sign",
+      "Anbringen",
+      "non-compliant"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Non-compliant attachment of the speed sign when studded tires are used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Nichtentfernen der Geschwindigkeitstafel, obwohl keine Spikes verwendet werden (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Geschwindigkeitstafel",
+      "Spikesreifen",
+      "speed sign",
+      "Entfernen",
+      "removal"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Owner failing to remove the speed sign when studded tires are no longer used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nichtanbringen des (der) vorgeschriebenen Kontrollschildes(er) ausser Händlerschilder (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "Kontrollschild",
+      "Nummernschild",
+      "license plate",
+      "Anbringen",
+      "fehlen",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner to attach required license plates (excluding trade plates).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nicht vorschriftsgemässes Anbringen der Kontrollschilder (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Kontrollschild",
+      "Nummernschild",
+      "license plate",
+      "Anbringen",
+      "non-compliant",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Non-compliant method of attaching license plates.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Nichtanbringen des Höchstgeschwindigkeitszeichens (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Höchstgeschwindigkeit",
+      "Zeichen",
+      "maximum speed sign",
+      "Anbringen",
+      "fehlen",
+      "Fahrzeughalter"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeughalter"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner to attach the mandatory speed sign.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

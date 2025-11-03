@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "von Markierungen (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Markierungen",
+      "Signale",
+      "VRV",
+      "SSV",
+      "road markings",
+      "violation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Implies violation of road marking rules.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nichtgewähren des Vortritts bei Fussgängerstreifen (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Vortritt",
+      "Fussgängerstreifen",
+      "Zebrastreifen",
+      "SVG",
+      "VRV",
+      "priority",
+      "pedestrian crossing"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Verwenden eines Telefons ohne Freisprecheinrichtung während der Fahrt (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Handy",
+      "Freisprecheinrichtung",
+      "Fahren",
+      "Ablenkung",
+      "mobile phone",
+      "driving"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Überschreiten der allgemeinen oder signalisierten Höchstgeschwindigkeit durch Personen auf Motorfahrrädern nach Abzug der vom ASTRA festgelegten Geräte- und Messunsicherheit (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Geschwindigkeit",
+      "Höchstgeschwindigkeit",
+      "Motorfahrrad",
+      "Moped",
+      "SVG",
+      "speed violation"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Fahrer Motorfahrrad"
+    ],
+    "conditions": null,
+    "notes": "Fixed fine for minor speeding (likely up to 5 km/h excess) on mopeds/motorized bicycles.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Benützen eines Motorfahrrades oder einer Elektro-Rikscha ohne Kontrollschild oder ohne gültige Vignette bei bestehender Versicherung (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Kontrollschild",
+      "Vignette",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "registration plate",
+      "sticker",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer Motorfahrrad",
+      "Fahrer Elektro-Rikscha"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Benützen eines Motorfahrrades oder einer Elektro-Rikscha ohne den erforderlichen Fahrzeugausweis (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Fahrzeugausweis",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "SVG",
+      "vehicle license",
+      "documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrer Motorfahrrad",
+      "Fahrer Elektro-Rikscha"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Benützen eines Motorfahrrades ohne bestehende Versicherung (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Versicherung",
+      "Motorfahrrad",
+      "VZV",
+      "insurance",
+      "moped",
+      "mandatory"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrer Motorfahrrad"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Überlassen eines Motorfahrrades oder einer Elektro-Rikscha ohne Kontrollschild oder ohne gültige Vignette bei bestehender Versicherung zum Gebrauch (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Überlassen",
+      "Kontrollschild",
+      "Vignette",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "lending",
+      "plate",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Halter",
+      "Verleiher"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Überlassen eines Motorfahrrades oder einer Elektro-Rikscha ohne den erforderlichen Fahrzeugausweis zum Gebrauch (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Überlassen",
+      "Fahrzeugausweis",
+      "Motorfahrrad",
+      "Elektro-Rikscha",
+      "VZV",
+      "lending",
+      "vehicle documents"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Halter",
+      "Verleiher"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Überlassen eines Motorfahrrades ohne bestehende Versicherung zum Gebrauch (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Überlassen",
+      "Versicherung",
+      "Motorfahrrad",
+      "VZV",
+      "lending",
+      "insurance"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Halter",
+      "Verleiher"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Fahren mit nicht gut lesbarem Kontrollschild (Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Kontrollschild",
+      "Lesbarkeit",
+      "Fahren",
+      "VRV",
+      "VTS",
+      "license plate",
+      "readability",
+      "dirty plate"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Fahren ohne die erforderliche Glocke bei Motorfahrrädern (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Glocke",
+      "Motorfahrrad",
+      "Ausrüstung",
+      "VTS",
+      "moped",
+      "bell",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrer Motorfahrrad"
+    ],
+    "conditions": null,
+    "notes": "Driving a moped/motorized bicycle without the required bell.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Fahren ohne fest angebrachte Rückstrahler (Art. 178a Abs. 2 und 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "Rückstrahler",
+      "Reflektor",
+      "Ausrüstung",
+      "VTS",
+      "reflector",
+      "equipment",
+      "missing"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Driving without fixed reflectors (applies generally to vehicles requiring them, often bicycles/mopeds in this section).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Ndalimi në trotuar përpara një kalimi për këmbësorë pranë një linje të ndaluar ndalimin",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Parkim",
+      "Trotuar",
+      "Kalim për këmbësorë",
+      "Linje pa ndalim",
+      "ndalim",
+      "kalim për këmbësorë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalimi në trotuar pranë një linje 'Pa Ndalim' përpara një kalimi për këmbësorë.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkim në trotuar më pak se 5 m nga një kalim për këmbësorë ku nuk është vendosur linjë pa ndalim (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Trotuar",
+      "Kalim për këmbësorë",
+      "Linje pa ndalim",
+      "Distancë",
+      "parkim",
+      "trotuar",
+      "kalim për këmbësorë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në trotuar më pak se 5 m nga një kalim për këmbësorë, ku nuk ka linjë 'Pa Ndalim'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parkim në trotuar më pak se 5 m nga një kalim për këmbësorë ku nuk është vendosur linjë pa ndalim",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkim",
+      "Trotuar",
+      "Kalim për këmbësorë",
+      "Linje pa ndalim",
+      "Distancë",
+      "parkim",
+      "trotuar",
+      "kalim për këmbësorë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Parkim në trotuar më pak se 5 m nga një kalim për këmbësorë, ku nuk ka linjë 'Pa Ndalim'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parkim në zonë të kufizuar",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Zonë e kufizuar",
+      "Ndalim",
+      "Zonë e kufizuar",
+      "parkim",
+      "shiritim",
+      "zonë pa parkim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Parkim në zonë të kufizuar me shiritim të shënuar.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Ndalim në zonë të kufizuar",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkim",
+      "Zonë e kufizuar",
+      "Ndalim",
+      "Zonë e kufizuar",
+      "ndalim",
+      "shiritim",
+      "zonë pa ndalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në zonë të kufizuar me shiritim të shënuar.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parkim në vijë zigzag",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Vijë zigzag",
+      "Ndalim",
+      "Zonë pritjeje",
+      "parkim",
+      "vijë zigzag",
+      "zonë ngarkimi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në vijë zigzag (shpesh për ndalesa autobusi ose zona ngarkimi).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Pengimi i ndalimit në vijë zigzag për qëllimin e ngjitjes dhe zbritjes së pasagjerëve",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Vijë zigzag",
+      "Ngjitje",
+      "Zbritje",
+      "Pengim",
+      "ndalim",
+      "vijë zigzag",
+      "pengim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pengimi i ndalimit në vijë zigzag për qëllimin e marrjes dhe lëshimit të njerëzve.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Ndalim në vijë zigzag për trajtimin e mallrave",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Vijë zigzag",
+      "Trajtim mallrash",
+      "Zonë dërgimi",
+      "ndalim",
+      "vijë zigzag",
+      "ngarkim mallrash"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në vijë zigzag për qëllimin e ngarkimit/shkarkimit të mallrave.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parkim i një mjeti të paautorizuar në vend parkimi të rezervuar për persona me aftësi të kufizuara në lëvizje",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Person me aftësi të kufizuara në lëvizje",
+      "Vend parkimi",
+      "Karrige me rrota",
+      "Pa autorizim",
+      "parkim",
+      "i paaftë",
+      "i paaftë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim i paautorizuar në vend të rezervuar për persona me aftësi të kufizuara.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Përdorim i paautorizuar i “Kartës së parkimit për persona me aftësi të kufizuara”",
+    "fine_chf": 120,
+    "keywords": [
+      "Kartë parkimi",
+      "Person me aftësi të kufizuara",
+      "Abuzim",
+      "Pa autorizim",
+      "Leje",
+      "kartë parkimi",
+      "i paaftë",
+      "përdorim i gabuar"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i paautorizuar i 'Lejes së parkimit për persona me aftësi të kufizuara'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkim në linjë pa ndalim",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Linje pa ndalim",
+      "Ndalohet",
+      "parkim",
+      "linje pa ndalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në linjë 'Pa Ndalim'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Ndalim në linjë pa ndalim",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Linje pa ndalim",
+      "Ndalohet",
+      "ndalim",
+      "linje pa ndalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në linjë 'Pa Ndalim'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkim në rrugë kryesore jashtë zonave të ndërtuara: deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "jashtë zone të ndërtuara",
+      "Anë rrugës",
+      "parkim",
+      "rrugë kryesore",
+      "jashtë zone të ndërtuara"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Parkim në rrugë kryesore jashtë zonave të ndërtuara, deri në 2 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkim në rrugë kryesore jashtë zonave të ndërtuara: për më shumë se 2 por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "jashtë zone të ndërtuara",
+      "Anë rrugës",
+      "parkim",
+      "rrugë kryesore",
+      "jashtë zone të ndërtuara"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "më shumë se 2 por jo më shumë se 4 orë",
+    "notes": "Parkim në rrugë kryesore jashtë zonave të ndërtuara, për më shumë se 2 por jo më shumë se 4 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkim në rrugë kryesore jashtë zonave të ndërtuara: për më shumë se 4 por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "jashtë zone të ndërtuara",
+      "Anë rrugës",
+      "parkim",
+      "rrugë kryesore",
+      "jashtë zone të ndërtuara"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "më shumë se 4 por jo më shumë se 10 orë",
+    "notes": "Parkim në rrugë kryesore jashtë zonave të ndërtuara, për më shumë se 4 por jo më shumë se 10 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkim në rrugë kryesore brenda zonave të ndërtuara kur nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve: deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "në qytet",
+      "Kalim",
+      "Pengim",
+      "parkim",
+      "rrugë kryesore",
+      "në qytet",
+      "kalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Parkim në rrugë kryesore brenda zonave të ndërtuara, nëse nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve, deri në 2 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkim në rrugë kryesore brenda zonave të ndërtuara kur nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve: për më shumë se 2 por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "në qytet",
+      "Kalim",
+      "Pengim",
+      "parkim",
+      "rrugë kryesore",
+      "në qytet",
+      "kalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "më shumë se 2 por jo më shumë se 4 orë",
+    "notes": "Parkim në rrugë kryesore brenda zonave të ndërtuara, nëse nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve, për më shumë se 2 por jo më shumë se 4 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkim në rrugë kryesore brenda zonave të ndërtuara kur nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve: për më shumë se 4 por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Rrugë kryesore",
+      "në qytet",
+      "Kalim",
+      "Pengim",
+      "parkim",
+      "rrugë kryesore",
+      "në qytet",
+      "kalim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "më shumë se 4 por jo më shumë se 10 orë",
+    "notes": "Parkim në rrugë kryesore brenda zonave të ndërtuara, nëse nuk ka hapësirë të mjaftueshme për kalimin e dy automjeteve, për më shumë se 4 por jo më shumë se 10 orë.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Guidare sulla corsia di emergenza delle autostrade o superstrade",
+    "fine_chf": 140,
+    "keywords": [
+      "corsia di emergenza",
+      "autostrada",
+      "superstrada",
+      "corsia di emergenza",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Uso della corsia più a sinistra su autostrade con almeno tre corsie nella stessa direzione da parte di veicoli a motore che non possono superare i 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "corsia sinistra",
+      "autostrada",
+      "velocità",
+      "100 km/h",
+      "uso della corsia",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Veicoli a motore"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Mancata creazione di una corsia di soccorso",
+    "fine_chf": 100,
+    "keywords": [
+      "corsia di soccorso",
+      "obbligo",
+      "corridoio di emergenza",
+      "veicolo di emergenza"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Guida ostacolante sulla striscia longitudinale per pedoni",
+    "fine_chf": 60,
+    "keywords": [
+      "pedoni",
+      "striscia longitudinale",
+      "ostacolo",
+      "striscia pedonale",
+      "ostacolo"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con le targhe di controllo non facilmente leggibili",
+    "fine_chf": 60,
+    "keywords": [
+      "targhe di controllo",
+      "targa",
+      "leggibile",
+      "targa di immatricolazione",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Trasporto di una persona oltre il numero di posti consentito",
+    "fine_chf": 60,
+    "keywords": [
+      "passeggero in eccesso",
+      "posti",
+      "sovraccapacità",
+      "passeggero",
+      "capacità"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Un passeggero in più rispetto al numero di posti consentito.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Violazione del divieto di guida notturna\na. fino a un'ora",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto di guida notturna",
+      "divieto di guida notturna",
+      "Trasporto",
+      "durata"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo (veicoli a motore pesanti)"
+    ],
+    "conditions": "fino a un'ora",
+    "notes": "Violazione del divieto di guida notturna per veicoli commerciali pesanti (di solito).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Violazione del divieto di guida notturna\nb. per più di un'ora, ma non più di 2 ore",
+    "fine_chf": 200,
+    "keywords": [
+      "divieto di guida notturna",
+      "divieto di guida notturna",
+      "Trasporto",
+      "durata"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo (veicoli a motore pesanti)"
+    ],
+    "conditions": "più di 1 ora, ma non più di 2 ore",
+    "notes": "Violazione del divieto di guida notturna per veicoli commerciali pesanti (di solito).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con le targhe di controllo oscurate a causa di\n1. carico",
+    "fine_chf": 60,
+    "keywords": [
+      "targa",
+      "oscurata",
+      "carico",
+      "carico",
+      "oscurata",
+      "targa di immatricolazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Targa di immatricolazione oscurata dal carico.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con le targhe di controllo oscurate a causa di\n2. portapacchi",
+    "fine_chf": 60,
+    "keywords": [
+      "targa",
+      "oscurata",
+      "portapacchi",
+      "portapacchi per bici",
+      "oscurata",
+      "supporto"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Targa di immatricolazione oscurata dal portapacchi (ad es. portapacchi per bici).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con le targhe di controllo oscurate a causa di\n3. attrezzi e simili",
+    "fine_chf": 60,
+    "keywords": [
+      "targa",
+      "oscurata",
+      "attrezzi",
+      "attrezzi",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Targa di immatricolazione oscurata da attrezzi di lavoro attaccati.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con i dispositivi di illuminazione oscurati a causa di\n1. carico",
+    "fine_chf": 60,
+    "keywords": [
+      "illuminazione",
+      "oscurata",
+      "carico",
+      "luci",
+      "oscurata",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Dispositivo di illuminazione oscurato dal carico.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con i dispositivi di illuminazione oscurati a causa di\n2. portapacchi",
+    "fine_chf": 60,
+    "keywords": [
+      "illuminazione",
+      "oscurata",
+      "portapacchi",
+      "luci",
+      "oscurata",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Dispositivo di illuminazione oscurato dal portapacchi.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Guidare con i dispositivi di illuminazione oscurati a causa di\n3. attrezzi e simili",
+    "fine_chf": 60,
+    "keywords": [
+      "illuminazione",
+      "oscurata",
+      "attrezzi",
+      "luci",
+      "oscurata",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Dispositivo di illuminazione oscurato da attrezzi di lavoro attaccati.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Fermarsi su un attraversamento pedonale durante traffico congestionato",
+    "fine_chf": 60,
+    "keywords": [
+      "fermata",
+      "attraversamento pedonale",
+      "traffico congestionato",
+      "attraversamento pedonale",
+      "fermata",
+      "congestione"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "durante traffico congestionato",
+    "notes": "Ostruzione di un attraversamento pedonale durante la congestione del traffico.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Fermarsi a un incrocio stradale sulla carreggiata per il traffico trasversale durante traffico congestionato",
+    "fine_chf": 60,
+    "keywords": [
+      "fermata",
+      "incrocio",
+      "traffico trasversale",
+      "traffico congestionato",
+      "incrocio",
+      "fermata"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "durante traffico congestionato",
+    "notes": "Ostruzione dell'area dell'incrocio destinata al traffico trasversale durante la congestione.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Mancata precedenza a un attraversamento pedonale",
+    "fine_chf": 140,
+    "keywords": [
+      "precedenza",
+      "attraversamento pedonale",
+      "precedenza",
+      "priorità",
+      "attraversamento pedonale"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata precedenza ai pedoni su un attraversamento segnalato.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Trasporto non autorizzato di una persona su veicoli per il trasporto merci e su veicoli agricoli e forestali",
+    "fine_chf": 60,
+    "keywords": [
+      "trasporto",
+      "trasporto merci",
+      "veicoli agricoli",
+      "veicoli agricoli",
+      "trasporto passeggeri"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Trasporto di passeggeri non autorizzati su veicoli destinati al trasporto merci o forestale/agricolo.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Guidare su un'area pedonale con una sedia a rotelle motorizzata o un monopattino elettrico da parte di una persona non disabile",
+    "fine_chf": 40,
+    "keywords": [
+      "zona pedonale",
+      "sedia a rotelle motorizzata",
+      "monopattino elettrico",
+      "E-Scooter",
+      "disabilità motoria",
+      "area pedonale"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Persona non disabile"
+    ],
+    "conditions": null,
+    "notes": "Uso non autorizzato di dispositivi di assistenza (sedia a rotelle/monopattino elettrico) su percorsi pedonali da parte di persone non disabili.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

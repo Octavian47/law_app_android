@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "për shenjat e rrugës (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Shenjat",
+      "Sinjalet",
+      "VRV",
+      "SSV",
+      "shënimet e rrugës",
+      "shkelje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përfshin shkeljen e rregullave të shënjave të rrugës.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Mungesa e dhënies së përparësisë në kalim këmbësor (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Përparësi",
+      "Kalim këmbësor",
+      "Kalim zebra",
+      "SVG",
+      "VRV",
+      "përparësi",
+      "kalim këmbësor"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Përdorimi i telefonit pa pajisje hands‑free gjatë drejtimit (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Telefon celular",
+      "Pajisje hands‑free",
+      "Drejtim",
+      "Shqetësim",
+      "telefon celular",
+      "drejtim"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme ose të sinjalizuar nga drejtuesit e motoçikletave pas marrjes parasysh të pajisjes dhe pasigurisë së matjes së vendosur nga ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Shpejtësi",
+      "Shpejtësia maksimale",
+      "Motoçikletë",
+      "Moped",
+      "SVG",
+      "shkelje e shpejtësisë"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Gjoba fikse për shkelje të vogël të shpejtësisë (ndoshta deri në 5 km/h tejkalim) në mopedë/bicikleta me motor.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Përdorimi i motoçikletës ose i rikshave elektrike pa targë regjistrimi ose pa vignetë të vlefshme ndërkohë që ka sigurim (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Targë regjistrimi",
+      "Vignetë",
+      "Motoçikletë",
+      "Riksha elektrike",
+      "targë regjistrimi",
+      "etiketë",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i motoçikletës",
+      "Drejtues i rikshës elektrike"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga përdoruesi (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Përdorimi i motoçikletës ose i rikshave elektrike pa licencë e mjetit të nevojshme (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Licencë e mjetit",
+      "Motoçikletë",
+      "Riksha elektrike",
+      "SVG",
+      "licencë e mjetit",
+      "dokumente"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Drejtues i motoçikletës",
+      "Drejtues i rikshës elektrike"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga përdoruesi (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Përdorimi i motoçikletës pa sigurim ekzistues (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Sigurim",
+      "Motoçikletë",
+      "VZV",
+      "sigurim",
+      "Moped",
+      "i detyrueshëm"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga përdoruesi (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Huazimi i motoçikletës ose i rikshave elektrike pa targë regjistrimi ose pa vignetë të vlefshme ndërkohë që ka sigurim për përdorim (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Huazim",
+      "Targë regjistrimi",
+      "Vignetë",
+      "Motoçikletë",
+      "Riksha elektrike",
+      "huazim",
+      "targë",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari",
+      "Huazuesi"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga pronari/huazuesi (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Huazimi i motoçikletës ose i rikshave elektrike pa licencë e nevojshme të mjetit për përdorim (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Huazim",
+      "Licencë e mjetit",
+      "Motoçikletë",
+      "Riksha elektrike",
+      "VZV",
+      "huazim",
+      "dokumente të mjetit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari",
+      "Huazuesi"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga pronari/huazuesi (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Huazimi i motoçikletës pa sigurim ekzistues për përdorim (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Huazim",
+      "Sigurim",
+      "Motoçikletë",
+      "VZV",
+      "huazim",
+      "sigurim"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari",
+      "Huazuesi"
+    ],
+    "conditions": null,
+    "notes": "Shkelja kryhet nga pronari/huazuesi (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Drejtimi me targë regjistrimi që nuk është lehtësisht e lexueshme (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Targë regjistrimi",
+      "Lexueshmëri",
+      "Drejtim",
+      "VRV",
+      "VTS",
+      "Targë licence",
+      "lexueshmëri",
+      "targë e ndotur"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Drejtimi pa zile të kërkuara në motoçikleta (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Zile",
+      "Motoçikletë",
+      "pajisje",
+      "VTS",
+      "Moped",
+      "zile",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Drejtimi i një mopedë/biciklete me motor pa zile të kërkuara.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Drejtimi pa reflektorë të vendosur në mënyrë të përhershme (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "Reflektor",
+      "reflektor",
+      "pajisje",
+      "VTS",
+      "reflektor",
+      "pajisje",
+      "mungon"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Drejtimi pa reflektorë të fiksuar (zbaton në përgjithësi për automjetet që i kërkojnë, shpesh bicikleta/mopedë në këtë seksion).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

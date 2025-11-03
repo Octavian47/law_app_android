@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Używanie drogi krajowej pierwszej lub drugiej klasy bez wymaganej winiety obowiązującej w okresie ważności",
+    "fine_chf": 200,
+    "keywords": [
+      "Droga krajowa",
+      "Winieta",
+      "Brak winiety",
+      "Wydanie",
+      "Naklejka opłatowa",
+      "Autostrada"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda po drogach krajowych bez wymaganego winietowego naklejki.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Używanie drogi krajowej pierwszej lub drugiej klasy z wymaganą przyklejaną winietą obowiązującą w okresie ważności, która nie jest przyklejona, nie jest przyklejona w określonym miejscu bezpośrednio na pojeździe lub jest uszkodzona",
+    "fine_chf": 200,
+    "keywords": [
+      "Winieta",
+      "Winieta samoprzylepna",
+      "Aplikacja",
+      "Uszkodzona",
+      "Przyczepność",
+      "Umieszczenie"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda z winietą, która jest nieprawidłowo przyklejona (nie bezpośrednio do pojazdu) lub uszkodzona.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkolás kevesebb mint 20 m-re a vasúti átjárótól",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "vasúti átjáró",
+      "távolság",
+      "20m",
+      "Parkolás",
+      "vasúti átjáró",
+      "távolság"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a vasúti átjárótól kevesebb mint 20 m-re parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkolás kevesebb mint 20 m-re a vasúti átjárótól",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "vasúti átjáró",
+      "távolság",
+      "20m",
+      "Parkolás",
+      "vasúti átjáró",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a vasúti átjárótól kevesebb mint 20 m-re parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkolás kevesebb mint 20 m-re a vasúti átjárótól",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "vasúti átjáró",
+      "távolság",
+      "20m",
+      "Parkolás",
+      "vasúti átjáró",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a vasúti átjárótól kevesebb mint 20 m-re parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkolás hídon",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "híd",
+      "tiltás",
+      "Parkolás",
+      "híd",
+      "tiltás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság hídon parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkolás hídon",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "híd",
+      "tiltás",
+      "Parkolás",
+      "híd",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság hídon parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkolás hídon",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "híd",
+      "tiltás",
+      "Parkolás",
+      "híd",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság hídon parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik épület bejárata előtt",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "épület",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "épület"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság egy másik épület bejárata előtt parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik épület bejárata előtt",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "épület",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság egy másik épület bejárata előtt parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik épület bejárata előtt",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "épület",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság egy másik épület bejárata előtt parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik ingatlan bejárata előtt",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "ingatlan",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "ingatlan"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság egy másik ingatlan bejárata előtt parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik ingatlan bejárata előtt",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "ingatlan",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság egy másik ingatlan bejárata előtt parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkolás egy másik ingatlan bejárata előtt",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "bejárat",
+      "ingatlan",
+      "bejárat",
+      "Parkolás",
+      "bejárat",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság egy másik ingatlan bejárata előtt parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkolás a járdán, ahol a jelzések vagy jelölések nem engedélyezik kifejezetten, ha legalább 1.5 m széles hely marad a gyalogosok számára",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "járda",
+      "járda",
+      "minimum távolság",
+      "gyalogos",
+      "1.5m",
+      "Parkolás",
+      "járda",
+      "gyalogos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a járdán parkolásért, ha nincs kifejezett jelzés/jelölés, még ha 1,5 m marad a gyalogosok számára, legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkolás a járdán, ahol a jelzések vagy jelölések nem engedélyezik kifejezetten, ha legalább 1.5 m széles hely marad a gyalogosok számára",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "járda",
+      "járda",
+      "minimum távolság",
+      "gyalogos",
+      "Parkolás",
+      "járda",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a járdán parkolásért, ha nincs kifejezett jelzés/jelölés, még ha 1,5 m marad a gyalogosok számára, több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkolás a járdán, ahol a jelzések vagy jelölések nem engedélyezik kifejezetten, ha legalább 1.5 m széles hely marad a gyalogosok számára",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "járda",
+      "járda",
+      "minimum távolság",
+      "gyalogos",
+      "Parkolás",
+      "járda",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a járdán parkolásért, ha nincs kifejezett jelzés/jelölés, még ha 1,5 m marad a gyalogosok számára, több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkolás a jelzett parkolási tiltás (2.50) területén",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "tiltás",
+      "jelzés",
+      "Parkolás",
+      "tiltás",
+      "táblázat"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a 'Parkolás tilos' (2.50 jel) jelzéssel ellátott területen parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkolás a jelzett parkolási tiltás (2.50) területén",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "tiltás",
+      "jelzés",
+      "Parkolás",
+      "tiltás",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a 'Parkolás tilos' (2.50 jel) jelzéssel ellátott területen parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkolás a jelzett parkolási tiltás (2.50) területén",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "tiltás",
+      "jelzés",
+      "Parkolás",
+      "tiltás",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a 'Parkolás tilos' (2.50 jel) jelzéssel ellátott területen parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkolás a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "találkozó zóna",
+      "jelölés",
+      "Parkolás",
+      "találkozó zóna",
+      "jelölt hely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken parkolásért legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkolás a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "találkozó zóna",
+      "jelölés",
+      "Parkolás",
+      "találkozó zóna",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkolás a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "találkozó zóna",
+      "jelölés",
+      "Parkolás",
+      "találkozó zóna",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a 'Találkozó zóna' (Begegnungszone) jelöletlen helyeken parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkolás a parkolóhelyen",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "parkolóhely",
+      "jelölés",
+      "Parkolás",
+      "parkolóhely",
+      "jelölés"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság a jelölt parkolóhelyen parkolásért legfeljebb 2 óra (azaz a parkolóhely szabályainak be nem tartása, valószínűleg időkorlát túllépése).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkolás a parkolóhelyen",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "parkolóhely",
+      "jelölés",
+      "Parkolás",
+      "parkolóhely",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Bírság a jelölt parkolóhelyen parkolásért több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkolás a parkolóhelyen",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "parkolóhely",
+      "jelölés",
+      "Parkolás",
+      "parkolóhely",
+      "időtartam"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Bírság a jelölt parkolóhelyen parkolásért több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Jármű parkolása egy parkolóhelyen, ha az nem megfelelő méretű a jármű típusához",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "parkolóhely",
+      "járműtípus",
+      "méret",
+      "Parkolás",
+      "járműtípus",
+      "méret"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Bírság egy jármű parkolásáért egy olyan helyen, amely nem megfelelő méretű/típusú a jármű számára, legfeljebb 2 óra.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

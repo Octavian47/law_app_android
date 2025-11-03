@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Learner drives without displaying the L-plate",
+    "fine_chf": 20,
+    "keywords": [
+      "L-plate",
+      "learner drive",
+      "driving school",
+      "learner plate",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Learner driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Not removing the L-plate when no learner drive is occurring",
+    "fine_chf": 20,
+    "keywords": [
+      "L-plate",
+      "learner drive",
+      "learner plate",
+      "removal",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Failure to use the turn signal",
+    "fine_chf": 100,
+    "keywords": [
+      "turn signal",
+      "indicator",
+      "turn signal",
+      "signaling",
+      "omission"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Not turning off the turn signal after a direction change",
+    "fine_chf": 100,
+    "keywords": [
+      "turn signal",
+      "indicator",
+      "turn signal",
+      "reset",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Not carrying the signaling paddle when required",
+    "fine_chf": 40,
+    "keywords": [
+      "signaling paddle",
+      "signal paddle",
+      "signaling device",
+      "equipment",
+      "carrying"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle is a signaling paddle, typically required for certain large or slow vehicles, or specific maneuvers.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Improper use of warning signals",
+    "fine_chf": 40,
+    "keywords": [
+      "warning signal",
+      "horn",
+      "horn",
+      "misuse",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Driving without lights during the day",
+    "fine_chf": 40,
+    "keywords": [
+      "light",
+      "driving without lights",
+      "daytime running lights",
+      "daytime",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving without required lights during the day.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Driving without lights on an illuminated road at night",
+    "fine_chf": 60,
+    "keywords": [
+      "light",
+      "driving without lights",
+      "night driving",
+      "illuminated road",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving without required lights at night on an illuminated road.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Driving without lights in an illuminated tunnel",
+    "fine_chf": 60,
+    "keywords": [
+      "light",
+      "driving without lights",
+      "tunnel",
+      "illuminated tunnel",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving without required lights in an illuminated tunnel.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Driving with parking lights or daytime running lights on an illuminated road at night",
+    "fine_chf": 40,
+    "keywords": [
+      "parking light",
+      "daytime running light",
+      "light",
+      "night driving",
+      "equipment",
+      "insufficient lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Using insufficient lighting (parking light or DRL) instead of required headlights at night on an illuminated road.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Driving with parking lights or daytime running lights in an illuminated tunnel",
+    "fine_chf": 40,
+    "keywords": [
+      "parking light",
+      "daytime running light",
+      "light",
+      "tunnel",
+      "equipment",
+      "insufficient lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Using insufficient lighting (parking light or DRL) instead of required headlights in an illuminated tunnel.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Improper use of fog lights",
+    "fine_chf": 40,
+    "keywords": [
+      "fog light",
+      "fog light",
+      "misuse",
+      "equipment",
+      "lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Improper use of rear fog lights",
+    "fine_chf": 40,
+    "keywords": [
+      "rear fog light",
+      "rear fog light",
+      "misuse",
+      "equipment",
+      "lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Improper use of searchlights",
+    "fine_chf": 40,
+    "keywords": [
+      "searchlight",
+      "searchlight",
+      "misuse",
+      "equipment",
+      "lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Improper use of work lights",
+    "fine_chf": 40,
+    "keywords": [
+      "work light",
+      "work light",
+      "misuse",
+      "equipment",
+      "lighting"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Unnecessary preheating of the engine of a stationary vehicle",
+    "fine_chf": 80,
+    "keywords": [
+      "engine",
+      "preheating",
+      "idling",
+      "engine warm-up",
+      "noise",
+      "environment"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Unnecessary idling of the engine of a stationary vehicle",
+    "fine_chf": 80,
+    "keywords": [
+      "engine",
+      "running",
+      "idling",
+      "engine running",
+      "noise",
+      "environment"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Using a highway or motorway with a motorcycle having an engine displacement up to 50 cm³ or power up to 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "highway",
+      "motorway",
+      "motorcycle",
+      "engine displacement",
+      "power",
+      "motorway",
+      "restricted vehicle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorcycle driver"
+    ],
+    "conditions": null,
+    "notes": "Motorcycles/mopeds below minimum required specifications (50cc or 4kW) are prohibited on highways.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Using a highway or motorway with another motor vehicle not permitted on it",
+    "fine_chf": 140,
+    "keywords": [
+      "highway",
+      "motorway",
+      "motor vehicle",
+      "unauthorized",
+      "motorway",
+      "restricted vehicle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Using a vehicle on a highway that is not permitted (e.g., slow vehicles, agricultural vehicles).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Using a highway or motorway with studded tires",
+    "fine_chf": 60,
+    "keywords": [
+      "highway",
+      "motorway",
+      "studded tires",
+      "studded tires",
+      "equipment",
+      "motorway"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Towing on a highway or motorway beyond the next exit",
+    "fine_chf": 140,
+    "keywords": [
+      "highway",
+      "motorway",
+      "towing",
+      "towing",
+      "emergency",
+      "next exit"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Towing is only permitted on highways until the next available exit.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

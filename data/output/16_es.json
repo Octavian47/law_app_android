@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Detenerse con un vehículo motorizado en autopistas y autovías cuando el vehículo ha quedado detenido en el carril de emergencia o en una zona de aparcamiento para vehículos averiados por falta de combustible o energía eléctrica.",
+    "fine_chf": 120,
+    "keywords": [
+      "autopista",
+      "autovía",
+      "carril de emergencia",
+      "escasez de combustible",
+      "parada",
+      "carril de emergencia",
+      "sin combustible"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehículo motorizado"
+    ],
+    "conditions": null,
+    "notes": "Detención por falta de combustible o energía eléctrica.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Conducir sobre o cruzar una línea de seguridad en zonas urbanas.",
+    "fine_chf": 140,
+    "keywords": [
+      "línea de seguridad",
+      "cruce",
+      "zona urbana",
+      "línea continua",
+      "zona urbana"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Cruzar una línea de seguridad continua dentro de una zona urbana.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Conducir sobre o cruzar una zona restringida en áreas urbanizadas.",
+    "fine_chf": 140,
+    "keywords": [
+      "zona restringida",
+      "cruce",
+      "zona urbana",
+      "zona restringida",
+      "zona urbana"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Cruzar una zona restringida señalizada (Sperrfläche) dentro de una zona urbana.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "No portar el triángulo de advertencia.",
+    "fine_chf": 40,
+    "keywords": [
+      "no portar",
+      "triángulo de advertencia",
+      "equipo",
+      "equipo",
+      "triángulo de advertencia"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "No portar una cuña de rueda en vehículos motorizados pesados.",
+    "fine_chf": 40,
+    "keywords": [
+      "no portar",
+      "cuña de rueda",
+      "vehículo pesado",
+      "equipo",
+      "cuña de rueda",
+      "vehículo pesado"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehículos motorizados pesados"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "No portar el botiquín de primeros auxilios a bordo en autocares.",
+    "fine_chf": 40,
+    "keywords": [
+      "no portar",
+      "botiquín de primeros auxilios",
+      "autocar",
+      "autocar",
+      "botiquín de primeros auxilios",
+      "autocar"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "autocar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "No portar un extintor de incendios requerido.",
+    "fine_chf": 40,
+    "keywords": [
+      "no portar",
+      "extintor de incendios",
+      "ADR",
+      "mercancías peligrosas",
+      "equipo",
+      "extintor de incendios"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo",
+      "transporte de mercancías peligrosas"
+    ],
+    "conditions": null,
+    "notes": "A menudo relevante para el transporte comercial o de mercancías peligrosas.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "No portar una cuña de rueda en remolques cuyo peso total supera 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "no portar",
+      "cuña de rueda",
+      "remolque",
+      "peso total",
+      "remolque",
+      "cuña de rueda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Remolque > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Operar o estacionar un vehículo con placas de control no instaladas según la normativa.",
+    "fine_chf": 60,
+    "keywords": [
+      "placas de control",
+      "matrícula",
+      "montaje",
+      "estacionamiento",
+      "matrícula",
+      "instalado incorrectamente"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo",
+      "Vehículo estacionado"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Operar un vehículo motorizado con una llanta defectuosa.",
+    "fine_chf": 100,
+    "keywords": [
+      "vehículo motorizado",
+      "llanta defectuosa",
+      "llanta",
+      "llanta defectuosa",
+      "mantenimiento",
+      "defecto del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehículo motorizado"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Transportar un remolque con una llanta defectuosa.",
+    "fine_chf": 100,
+    "keywords": [
+      "remolque",
+      "llanta defectuosa",
+      "llanta",
+      "llanta defectuosa",
+      "remolque",
+      "mantenimiento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Remolque"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Conducir con neumáticos con clavos sin o con una placa de velocidad instalada incorrectamente.",
+    "fine_chf": 20,
+    "keywords": [
+      "neumáticos con clavos",
+      "placa de velocidad",
+      "neumáticos de invierno",
+      "neumáticos con clavos",
+      "placa de velocidad",
+      "equipo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta o es incorrecta la etiqueta/placa de velocidad requerida al usar neumáticos con clavos.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Uso de neumáticos con clavos fuera del período permitido.",
+    "fine_chf": 60,
+    "keywords": [
+      "neumáticos con clavos",
+      "uso",
+      "fuera del tiempo",
+      "prohibición",
+      "neumáticos con clavos",
+      "norma estacional"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de neumáticos con clavos fuera de la temporada legalmente permitida.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Conducir con la placa de velocidad aunque no se usen neumáticos con clavos.",
+    "fine_chf": 20,
+    "keywords": [
+      "neumáticos con clavos",
+      "placa de velocidad",
+      "equipo incorrecto",
+      "violación de equipamiento",
+      "placa de velocidad"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Mostrar la etiqueta de velocidad requerida para neumáticos con clavos cuando el vehículo no los lleva.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Uso de un vehículo con un dispositivo acústico de advertencia no autorizado.",
+    "fine_chf": 40,
+    "keywords": [
+      "dispositivo acústico de advertencia",
+      "claxon",
+      "no autorizado",
+      "sirena",
+      "claxon",
+      "equipo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de un vehículo con un claxon o dispositivo de advertencia no aprobado.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

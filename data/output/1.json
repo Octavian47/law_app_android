@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nichtmitführen des Führerausweises",
+    "fine_chf": 20,
+    "keywords": [
+      "Führerausweis",
+      "Ausweis mitführen",
+      "Nichtmitführen",
+      "Fahrer",
+      "Kontrolle",
+      "driver license",
+      "road documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nichtmitführen des Lernfahrausweises",
+    "fine_chf": 20,
+    "keywords": [
+      "Lernfahrausweis",
+      "Ausweis mitführen",
+      "Nichtmitführen",
+      "learner's permit",
+      "Fahrer"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrzeugführer (Lernende)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nichtmitführen des Fahrzeugausweises",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrzeugausweis",
+      "Ausweis mitführen",
+      "Nichtmitführen",
+      "vehicle registration",
+      "road documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nichtmitführen der Bewilligung für Spezialtransporte",
+    "fine_chf": 20,
+    "keywords": [
+      "Spezialtransporte",
+      "Bewilligung",
+      "Nichtmitführen",
+      "special transport",
+      "permit"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Permit for special or oversized transports.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Nichtmitführen des Abgas-Wartungsdokuments",
+    "fine_chf": 20,
+    "keywords": [
+      "Abgas-Wartungsdokument",
+      "Nichtmitführen",
+      "emission maintenance document",
+      "Kontrolle"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Nichtmitführen der Ausnahmebewilligung zu einer signalisierten Vorschrift",
+    "fine_chf": 20,
+    "keywords": [
+      "Ausnahmebewilligung",
+      "signalisiert",
+      "Vorschrift",
+      "Nichtmitführen",
+      "exemption permit",
+      "traffic signs"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Exception permit for a specific traffic rule/sign.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nichtmitführen des Fahrerqualifizierungsnachweises",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrerqualifizierungsnachweis",
+      "Nichtmitführen",
+      "Fähigkeitsausweis",
+      "professional driver qualification certificate"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Proof of professional driver qualification.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nichtmitführen des Einlageblattes des Vortages",
+    "fine_chf": 140,
+    "keywords": [
+      "Einlageblatt",
+      "Vortages",
+      "Nichtmitführen",
+      "Tachograph",
+      "tachograph sheet",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Related to analog tachograph use for professional drivers (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nichtmitführen des Ausdruckes des Vortages",
+    "fine_chf": 140,
+    "keywords": [
+      "Ausdruck",
+      "Vortages",
+      "Nichtmitführen",
+      "Tachograph",
+      "digital tachograph printout",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Related to digital tachograph use for professional drivers (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nichtmitführen der übrigen mitzuführenden Einlageblätter",
+    "fine_chf": 60,
+    "keywords": [
+      "Einlageblätter",
+      "Nichtmitführen",
+      "Tachograph",
+      "professional driver",
+      "sheets"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": "pauschal pro 7 Tage",
+    "notes": "Fine applies per 7-day period for missing non-daily tachograph sheets.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nichtmitführen der übrigen mitzuführenden Ausdrucke",
+    "fine_chf": 60,
+    "keywords": [
+      "Ausdrucke",
+      "Nichtmitführen",
+      "Tachograph",
+      "professional driver",
+      "printouts"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": "pauschal pro 7 Tage",
+    "notes": "Fine applies per 7-day period for missing non-daily tachograph printouts.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Nichtmitführen der Fahrerkarte",
+    "fine_chf": 140,
+    "keywords": [
+      "Fahrerkarte",
+      "Nichtmitführen",
+      "driver card",
+      "Tachograph",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Driver card for digital tachograph. ARV 1 is Swiss working hours for *some* professional drivers.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nichtmitführen der Ersatz-Fahrtschreiberunterlagen bzw. Wochenbündel",
+    "fine_chf": 40,
+    "keywords": [
+      "Ersatz-Fahrtschreiberunterlagen",
+      "Wochenbündel",
+      "Nichtmitführen",
+      "tachograph records",
+      "professional driver",
+      "bundle"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Replacement tachograph records or weekly bundles (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Nichtmitführen des Ersatz-Druckerpapiers",
+    "fine_chf": 40,
+    "keywords": [
+      "Ersatz-Druckerpapiers",
+      "Nichtmitführen",
+      "printer paper",
+      "digital tachograph",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry replacement printer paper for the digital tachograph.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nichtmitführen des Einlageblattes des Vortages",
+    "fine_chf": 40,
+    "keywords": [
+      "Einlageblatt",
+      "Vortages",
+      "Nichtmitführen",
+      "Tachograph",
+      "tachograph sheet",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Related to analog tachograph use for professional drivers (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Nichtmitführen des Arbeitsbuches",
+    "fine_chf": 40,
+    "keywords": [
+      "Arbeitsbuches",
+      "Nichtmitführen",
+      "work book",
+      "professional driver",
+      "logbook"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Related to professional drivers working under ARV 2 rules.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nichtmitführen der betriebsinternen Tagesrapporte der laufenden Woche oder Doppel davon",
+    "fine_chf": 40,
+    "keywords": [
+      "Tagesrapporte",
+      "Woche",
+      "Nichtmitführen",
+      "daily reports",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": "pauschal",
+    "notes": "Internal daily reports for professional drivers (ARV 2). Fine is fixed for the week/period.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nichtmitführen der Bewilligung zur Befreiung vom Führen des Arbeitsbuches",
+    "fine_chf": 40,
+    "keywords": [
+      "Bewilligung",
+      "Arbeitsbuches",
+      "Befreiung",
+      "Nichtmitführen",
+      "exemption permit"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer"
+    ],
+    "conditions": null,
+    "notes": "Permit exempting the driver from keeping a work book (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Nichtmitführen der Kontrollkarte für Taxiführer",
+    "fine_chf": 40,
+    "keywords": [
+      "Kontrollkarte",
+      "Taxiführer",
+      "Nichtmitführen",
+      "taxi driver",
+      "control card",
+      "professional driver"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxiführer"
+    ],
+    "conditions": null,
+    "notes": "Control card for taxi drivers (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

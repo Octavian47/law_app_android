@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Përdorimi i telefonit pa pajisje pa dorë gjatë drejtimit (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "telefon celular",
+      "pajisje pa dorë",
+      "gjatë drejtimit",
+      "drejtim",
+      "telefon celular"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Shofer"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i telefonit pa pajisje pa dorë gjatë drejtimit.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Mos veshja e rripave të sigurimit nga drejtuesi (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "rrip sigurimi",
+      "rrip",
+      "fiksim",
+      "drejtues i mjetit",
+      "rrip sigurimi",
+      "drejtues"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mos veshja e rripit të sigurimit nga drejtuesi.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Transportimi i një fëmije të pasiguruar nën 12 vjeç (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "fëmijë",
+      "siguri",
+      "karrige për fëmijë",
+      "transportim",
+      "pajisje sigurie",
+      "fëmijë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Transportimi i një fëmije të pasiguruar nën 12 vjeç.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Mos veshja e helmetit mbrojtës nga drejtuesi i motoçikletave, mjeteve të lehta, të vogla dhe me tre rrota (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "helmet mbrojtës",
+      "helmet",
+      "motoçikletë",
+      "mjet motorik",
+      "drejtues",
+      "helmet",
+      "motoçikletë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Drejtuesi i motoçikletës/mjetit të lehtë/të vogël/me tre rrota nuk po vesh helmet mbrojtës.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Transportimi i një fëmije nën 12 vjeç pa helmet në motoçikleta, mjete të lehta, të vogla dhe me tre rrota (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "fëmijë",
+      "helmet",
+      "motoçikletë",
+      "transportim",
+      "helmet mbrojtës",
+      "fëmijë",
+      "motoçikletë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Transportimi i një fëmije nën 12 vjeç pa helmet në motoçikletë/mjet të lehtë/të vogël/me tre rrota.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Mos përdorimi i brezit më të djathtë në rrugë me shumë breza, përveç nëse kalon, bashkohet, drejton në kolona paralele, ose brenda zonave të ndërtuara (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "brez",
+      "drejtimi në të djathtë",
+      "brezi më i djathtë",
+      "kalim",
+      "përdorimi i brezave",
+      "mbaj të djathtë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mos përdorimi i brezit më të djathtë në rrugë me shumë breza, përveç nëse kalon, bashkohet, drejton në kolona paralele, ose brenda një zone të ndërtuar.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Kalimi në të djathtë duke u shmangur jashtë dhe rikthyer në rrugë me shumë breza brenda zonave të ndërtuara (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "kalim në të djathtë",
+      "brenda zone të ndërtuar",
+      "ndryshim i brezave",
+      "kalim në të djathtë",
+      "zonë e ndërtuar",
+      "ndryshim i brezave"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi në të djathtë duke u shmangur jashtë dhe rikthyer në rrugë me shumë breza brenda zonave të ndërtuara.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Kalimi në të djathtë duke u shmangur jashtë dhe rikthyer në autostradë dhe autostradë me shumë breza (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "kalim në të djathtë",
+      "autostradë",
+      "autostradë",
+      "ndryshim i brezave",
+      "kalim në të djathtë",
+      "autostradë",
+      "autostradë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi në të djathtë duke u shmangur jashtë dhe rikthyer në rrugë me shumë breza (semi-autostradë dhe autostradë).",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Ndryshimi në një tjetër brez për të kaluar në një rrugë me një brez (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kalim",
+      "ndryshim i brezave",
+      "rrugë me një brez",
+      "kalim",
+      "ndryshim i brezave",
+      "rrugë me një brez"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndryshimi i brezave për të kaluar në një pjesë të rrugës me një brez.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Ndalja ose parkimi në anën e majtë të rrugës, edhe pse nuk ka tramvaj, nuk ka sinjalizim ndalimi ose parkimi dhe rruga është e gjerë (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "ndalim",
+      "parkim",
+      "anë e majtë e rrugës",
+      "parkim",
+      "ndalim",
+      "anë e gabuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalja ose parkimi në anën e majtë të rrugës, pavarësisht mungesës së tramvajëve, sinjalizimeve të ndalimit/parkimit dhe gjerësisë së rrugës.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Lënia e automjetit pa hequr çelësin e ndezjes (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "lënia e automjetit",
+      "çelës i ndezjes",
+      "çelës",
+      "çelës i ndezjes",
+      "lënia e automjetit"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Lënia e automjetit pa hequr çelësin e ndezjes.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Mos vendosja e trembës paralajmërues për defekt (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sinjal defekti",
+      "trembë paralajmërues",
+      "vendosja",
+      "trembë paralajmërues",
+      "defekt"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mos vendosja e trembës paralajmërues (sinjali për defekt).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Vendosja e pasaktë e trembës paralajmërues për defekt (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sinjal defekti",
+      "trembë paralajmërues",
+      "vendosja",
+      "jo në përputhje",
+      "trembë paralajmërues",
+      "defekt"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Vendosja e trembës paralajmërues (sinjali për defekt) në kundërshtim me rregulloret (p.sh., shumë afër).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Përdorim abuziv i dritave e emergjencës në një automjet të ndalur (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "drita e emergjencës",
+      "drita e emergjencës",
+      "përdorim i keq",
+      "automjet i ndalur",
+      "drita e emergjencës",
+      "automjet i ndalur"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i keq i dritave të emergjencës në një automjet të ndalur.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Përdorim abuziv i dritave e emergjencës në një automjet në lëvizje (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "drita e emergjencës",
+      "drita e emergjencës",
+      "përdorim i keq",
+      "automjet në lëvizje",
+      "drita e emergjencës",
+      "automjet në lëvizje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorim i keq i dritave të emergjencës në një automjet në lëvizje.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Mos vendosja e trembës paralajmërues për defekt në pjesën e pasme të një automjeti të tërhequr (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sinjal defekti",
+      "automjet i tërhequr",
+      "pjesa e pasme",
+      "trembë paralajmërues",
+      "automjet i tërhequr",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mos vendosja e trembës paralajmërues në pjesën e pasme të automjetit të tërhequr.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

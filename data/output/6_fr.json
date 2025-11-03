@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Arrêt sur la bande d'urgence d'une autoroute, sauf en cas d'arrêt d'urgence.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "bande d'urgence",
+      "autoroute",
+      "arrêt d'urgence",
+      "arrêt",
+      "bande d'urgence",
+      "autoroute"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur la bande d'arrêt d'urgence d'une autoroute, sauf en cas d'urgence.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Stationnement sur le trottoir où les signaux ou marquages ne le permettent pas expressément, sans laisser un espace libre de 1,5 m de large pour les piétons.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "trottoir",
+      "piéton",
+      "1,5 m",
+      "dégagement",
+      "stationnement",
+      "trottoir",
+      "piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur le trottoir sans autorisation expresse, laissant moins de 1,5 m de dégagement pour les piétons.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Arrêt sur le trottoir sans laisser un espace libre de 1,5 m de large pour les piétons.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "trottoir",
+      "piéton",
+      "1,5 m",
+      "dégagement",
+      "arrêt",
+      "trottoir",
+      "piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur le trottoir en laissant moins de 1,5 m de dégagement pour les piétons.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Stationnement sur les bandes longitudinales réservées aux piétons, entravant la circulation piétonne.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "bande longitudinale",
+      "piéton",
+      "obstruction",
+      "stationnement",
+      "bande longitudinale",
+      "piéton",
+      "accès handicapés"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur les bandes longitudinales réservées aux piétons handicapés, entravant la circulation piétonne.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Arrêt sur les bandes longitudinales réservées aux piétons, entravant la circulation piétonne.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "bande longitudinale",
+      "piéton",
+      "obstruction",
+      "arrêt",
+      "bande longitudinale",
+      "piéton",
+      "accès handicapés"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur les bandes longitudinales réservées aux piétons handicapés, entravant la circulation piétonne.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement dans une zone signalée d'interdiction d'arrêt.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "interdiction d'arrêt",
+      "signal",
+      "stationnement",
+      "interdiction d'arrêt",
+      "zone signalée"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement dans une zone signée d'interdiction d'arrêt.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Arrêt dans une zone signalée d'interdiction d'arrêt.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "interdiction d'arrêt",
+      "signal",
+      "arrêt",
+      "interdiction d'arrêt",
+      "zone signalée"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt dans une zone signée d'interdiction d'arrêt.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Stationnement dans une voie de bus.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "voie de bus",
+      "bus",
+      "stationnement",
+      "voie de bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement dans une voie de bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Arrêt dans une voie de bus.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "voie de bus",
+      "bus",
+      "arrêt",
+      "voie de bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt dans une voie de bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Stationnement dans une zone d'exposition.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "zone d'exposition",
+      "stationnement",
+      "zone d'exposition",
+      "exposition de véhicules"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement dans une zone d'exposition de véhicules.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Arrêt dans une zone d'exposition.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "zone d'exposition",
+      "arrêt",
+      "zone d'exposition",
+      "exposition de véhicules"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt dans une zone d'exposition de véhicules.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Stationnement sur une aire de repos pour véhicules en panne.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "aire de repos",
+      "véhicules en panne",
+      "stationnement",
+      "aire de repos",
+      "véhicules en panne"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur une aire de repos/zone désignée pour véhicules en panne.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Arrêt sur une aire de repos pour véhicules en panne.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "aire de repos",
+      "véhicules en panne",
+      "arrêt",
+      "aire de repos",
+      "véhicules en panne"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur une aire de repos/zone désignée pour véhicules en panne.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur la ligne d'interdiction d'arrêt avant un passage piéton.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "ligne d'interdiction d'arrêt",
+      "passage piéton",
+      "stationnement",
+      "ligne d'interdiction d'arrêt",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur la ligne d'interdiction d'arrêt avant un passage piéton.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Arrêt sur la ligne d'interdiction d'arrêt avant un passage piéton.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "ligne d'interdiction d'arrêt",
+      "passage piéton",
+      "arrêt",
+      "ligne d'interdiction d'arrêt",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur la ligne d'interdiction d'arrêt avant un passage piéton.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur la chaussée à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est installée.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "chaussée",
+      "5 m",
+      "passage piéton",
+      "stationnement",
+      "chaussée",
+      "passage piéton",
+      "dégagement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur la route à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est présente.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Arrêt sur la chaussée à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est installée.",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "chaussée",
+      "5 m",
+      "passage piéton",
+      "arrêt",
+      "chaussée",
+      "passage piéton",
+      "dégagement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur la route à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est présente.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur le trottoir avant un passage piéton à côté d'une ligne d'interdiction d'arrêt.",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "trottoir",
+      "passage piéton",
+      "ligne d'interdiction d'arrêt",
+      "stationnement",
+      "trottoir",
+      "passage piéton",
+      "ligne d'interdiction d'arrêt"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur le trottoir avant un passage piéton à côté d'une ligne d'interdiction d'arrêt.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

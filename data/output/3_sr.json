@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Nepoštovanje obaveze izveštavanja o oštećenju, kvaru, gubitku ili krađi takograf kartice vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "takograf kartica vozača",
+      "prijava",
+      "oštećenje",
+      "krađa",
+      "ARV",
+      "takograf kartica",
+      "izveštavanje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Relates to the card for the digital tachograph used by professional drivers.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Nepoštovanje obaveze vraćanja kartice vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "kartica vozača",
+      "vraćanje",
+      "ARV",
+      "takograf kartica",
+      "vraćanje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Relates to the card for the digital tachograph used by professional drivers.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Nepoštovanje obaveze vraćanja radione kartice",
+    "fine_chf": 20,
+    "keywords": [
+      "radionica kartica",
+      "vraćanje",
+      "ARV",
+      "radionica kartica",
+      "vraćanje",
+      "takograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Osoblje radionice"
+    ],
+    "conditions": null,
+    "notes": "Relates to the tachograph workshop card, essential for professional driver regulations.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Prekoračenje dozvoljenog vremena parkiranja\n  a. do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "vreme parkiranja",
+      "prekoračenje",
+      "parkiranje",
+      "vreme parkiranja",
+      "prekoračenje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Prekoračenje dozvoljenog vremena parkiranja\n  b. više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "vreme parkiranja",
+      "prekoračenje",
+      "parkiranje",
+      "vreme parkiranja",
+      "prekoračenje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Prekoračenje dozvoljenog vremena parkiranja\n  c. više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "vreme parkiranja",
+      "prekoračenje",
+      "parkiranje",
+      "vreme parkiranja",
+      "prekoračenje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Nepoštovanje obaveze pričvršćivanja ili vidljivog prikazivanja parking diska na vozilu",
+    "fine_chf": 40,
+    "keywords": [
+      "parking disk",
+      "postavljanje",
+      "vidljivost",
+      "parking disk",
+      "postavljanje",
+      "vidljivost",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Nepoštovanje obaveze pričvršćivanja ili vidljivog prikazivanja parking karte na vozilu",
+    "fine_chf": 40,
+    "keywords": [
+      "parking karta",
+      "parking karta",
+      "postavljanje",
+      "vidljivost",
+      "parking karta",
+      "postavljanje",
+      "vidljivost",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking ticket.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Nepoštovanje obaveze pričvršćivanja ili vidljivog prikazivanja parking dozvole za osobe sa invaliditetom na vozilu",
+    "fine_chf": 40,
+    "keywords": [
+      "parking dozvola",
+      "osobe sa invaliditetom",
+      "postavljanje",
+      "vidljivost",
+      "parking za osobe sa invaliditetom",
+      "oznaka",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the disabled parking badge.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Postavljanje netačnog vremena dolaska na parking disku",
+    "fine_chf": 40,
+    "keywords": [
+      "parking disk",
+      "vreme dolaska",
+      "netacan",
+      "postavljanje",
+      "parking disk",
+      "vreme dolaska",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for setting an incorrect arrival time on the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Promena postavljenog vremena dolaska bez pomeranja vozila",
+    "fine_chf": 40,
+    "keywords": [
+      "parking disk",
+      "vreme dolaska",
+      "promena",
+      "odlazak",
+      "parking disk",
+      "vreme dolaska",
+      "resetovanje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for resetting the parking disc's arrival time without moving the vehicle (illegal 'feeding the meter').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manipulisanje parking metrom",
+    "fine_chf": 40,
+    "keywords": [
+      "parking metar",
+      "manipulisanje",
+      "neispravan",
+      "parking metar",
+      "manipulisanje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for making a parking meter inoperable.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Zabranjeno preplaćivanje pre isteka vremena parkiranja",
+    "fine_chf": 40,
+    "keywords": [
+      "plaćanje unapred",
+      "vreme parkiranja",
+      "pre isteka",
+      "parking taksa",
+      "dopuna",
+      "unapred",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time before the current paid time has expired, to extend the stay.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Plaćanje nakon isteka vremena parkiranja",
+    "fine_chf": 40,
+    "keywords": [
+      "plaćanje posle",
+      "vreme parkiranja",
+      "isteklo",
+      "parking taksa",
+      "dopuna",
+      "isteklo",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time after the permitted time has already expired.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Zaustavljanje na mestima sa lošom vidljivosti, posebno u području krivina i uzvišenja",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "loša vidljivost",
+      "krivine",
+      "uzvišenja",
+      "zaustavljanje",
+      "vidljivost",
+      "krivine",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in places with poor visibility, such as near curves or crests.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zaustavljanje u uskim mestima",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "uska mesta",
+      "zaustavljanje",
+      "usko mesto",
+      "usko",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in bottlenecks or narrow passages.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zaustavljanje pored prepreke na kolovozu",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "prepreka",
+      "kolovoz",
+      "zaustavljanje",
+      "prepreka",
+      "kolovoz",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping next to an obstacle in the lane, which would impede traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na jednosmernoj traci (Art. 18 Abs. 2 Bst. c i 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "jednosmerna traka",
+      "parkiranje",
+      "jednosmerna traka",
+      "usko mesto",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Fine for parking in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zaustavljanje na jednosmernoj traci",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "jednosmerna traka",
+      "zaustavljanje",
+      "jednosmerna traka",
+      "usko mesto",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkiranje pored sigurnosne linije, ako nije ostavljen prolaz širok najmanje 3 m",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "sigurnosna linija",
+      "prolaz",
+      "parkiranje",
+      "sigurnosna linija",
+      "traka za prolaz",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "ako nije ostavljen prolaz širok najmanje 3 m",
+    "notes": "Fine for parking next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkiranje pored sigurnosne linije, ako nije ostavljen prolaz širok najmanje 3 m",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "sigurnosna linija",
+      "prolaz",
+      "zaustavljanje",
+      "sigurnosna linija",
+      "traka za prolaz",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motornih vozila",
+      "Vozač"
+    ],
+    "conditions": "ako nije ostavljen prolaz širok najmanje 3 m",
+    "notes": "Fine for stopping next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

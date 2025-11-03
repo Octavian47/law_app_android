@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Neinstaliranje zadnje oznake ploče",
+    "fine_chf": 20,
+    "keywords": [
+      "zadnja oznaka ploča",
+      "oznaka ploča",
+      "VTS",
+      "oprema",
+      "zadnja oznaka"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Relates to rear marking plates, usually for specific vehicles/loads.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Stavljanje motocikla u saobraćaj bez trajno pričvršćenih reflektora",
+    "fine_chf": 60,
+    "keywords": [
+      "motocikl",
+      "reflektor",
+      "reflektor",
+      "VTS",
+      "oprema",
+      "puštanje u rad"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik",
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Putting a motorcycle into traffic without fixed reflectors.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Otpuštanje upravljačkog uređaja",
+    "fine_chf": 20,
+    "keywords": [
+      "upravljački uređaj",
+      "bez ruku",
+      "upravljački uređaj",
+      "kontrola",
+      "bicikl",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Releasing the steering device (e.g., riding hands-free). Applies to motorcycles/bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Ne nošenje zaštitne kacige od strane osoba na motociklima",
+    "fine_chf": 30,
+    "keywords": [
+      "zaštitna kaciga",
+      "kaciga",
+      "motocikl",
+      "kaciga",
+      "oprema za sigurnost",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač",
+      "Putnik"
+    ],
+    "conditions": null,
+    "notes": "Not wearing a protective helmet on a motorcycle.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na pešačkom prelazu kada je saobraćaj zagušen",
+    "fine_chf": 20,
+    "keywords": [
+      "pešački prelaz",
+      "zebra prelaz",
+      "pešački prelaz",
+      "saobraćajna gužva",
+      "zaustavljanje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a pedestrian crossing during traffic congestion.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Neopravdano držanje motora stacionarne motorne bicikle",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "stajanje",
+      "neopravdano držanje u stanju mirovanja",
+      "motorna bicikla",
+      "moped",
+      "emisija"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Unnecessary idling of a stationary motorized bicycle/moped.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala: na osvetljenom putu noću",
+    "fine_chf": 40,
+    "keywords": [
+      "svetlo",
+      "noćna vožnja",
+      "osvetljenje",
+      "far",
+      "osvetljen put"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "Noću, na osvetljenom putu.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala: na neosvetljenom putu noću",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlo",
+      "noćna vožnja",
+      "neosvetljen put",
+      "far",
+      "tamno"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "Noću, na neosvetljenom putu.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala: u osvetljenom tunelu",
+    "fine_chf": 20,
+    "keywords": [
+      "svetlo",
+      "tunel",
+      "far",
+      "vožnja kroz tunel",
+      "osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "U osvetljenom tunelu.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala: tokom dana",
+    "fine_chf": 20,
+    "keywords": [
+      "svetlo",
+      "dnevno vreme",
+      "dnevna svetla",
+      "far",
+      "dan"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "Tokom dana (važi za vozila gde su dnevna svetla obavezna).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Neovlašćena vožnja po trotoaru",
+    "fine_chf": 40,
+    "keywords": [
+      "trotoar",
+      "trotoar",
+      "nezakonita vožnja",
+      "bicikl",
+      "korišćenje puta",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bicikl",
+      "Moped",
+      "E-Skuter"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized driving on the sidewalk.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Ometajuća vožnja po pešačkim longitudinalnim trakama",
+    "fine_chf": 40,
+    "keywords": [
+      "pešak",
+      "longitudinalna traka",
+      "put",
+      "ometanje",
+      "pešački put"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Driving on pedestrian longitudinal strips in a manner that obstructs pedestrians.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Nošenje predmeta koji onemogućavaju signalizaciju",
+    "fine_chf": 20,
+    "keywords": [
+      "prtljag",
+      "teret",
+      "signalizacija",
+      "signalizacija",
+      "nošenje predmeta",
+      "rukovni signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Carrying objects that make signaling (hand signals) impossible.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Pozicioniranje ispred reda čekajućih motornih vozila",
+    "fine_chf": 20,
+    "keywords": [
+      "preticanje",
+      "red",
+      "red vozila",
+      "prolazak između traka",
+      "preskakanje reda"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Positioning oneself in front of a waiting queue of cars (usually by weaving past the queue).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Preticanje reda čekajućih vozila slalom vožnjom",
+    "fine_chf": 20,
+    "keywords": [
+      "slalom vožnja",
+      "preticanje",
+      "red",
+      "red vozila",
+      "preticanje",
+      "zavijanje"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Overtaking a waiting queue of cars by zigzagging/slalom driving.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zabranjena vožnja jedan pored drugog: više bicikala",
+    "fine_chf": 20,
+    "keywords": [
+      "vožnja jedan pored drugog",
+      "bicikl",
+      "vožnja bicikala jedan pored drugog",
+      "bicikli"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vozač bicikla"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple bicycles.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zabranjena vožnja jedan pored drugog: više motornih bicikala",
+    "fine_chf": 20,
+    "keywords": [
+      "vožnja jedan pored drugog",
+      "motorna bicikla",
+      "moped",
+      "E-Skuter",
+      "mopedi"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Vozač mopeda"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple motorized bicycles (Mofas/E-Scooters).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zabranjena vožnja jedan pored drugog: više električnih rikša",
+    "fine_chf": 20,
+    "keywords": [
+      "vožnja jedan pored drugog",
+      "električne rikše",
+      "e-rikša",
+      "vožnja jedan pored drugog"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač rikše"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: multiple electric rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zabranjena vožnja jedan pored drugog: kombinacije bicikala, motornih bicikala ili električnih rikša",
+    "fine_chf": 20,
+    "keywords": [
+      "vožnja jedan pored drugog",
+      "mešovita kombinacija",
+      "bicikl",
+      "moped",
+      "rikša",
+      "vožnja jedan pored drugog"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Illegal driving side-by-side: Mixed combinations of bicycles, mopeds, or e-rickshaws.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Dozvoljavanje da se vuče",
+    "fine_chf": 20,
+    "keywords": [
+      "vučen",
+      "vučen",
+      "vučenje",
+      "SVG",
+      "bezbednost",
+      "bicikl",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pulled/towed (e.g., by another vehicle or person).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Dozvoljavanje da se povlači",
+    "fine_chf": 20,
+    "keywords": [
+      "povlačen",
+      "vučen",
+      "vučenje",
+      "SVG",
+      "bezbednost",
+      "bicikl",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be towed (similar to 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Dozvoljavanje da se gura",
+    "fine_chf": 20,
+    "keywords": [
+      "guran",
+      "guran",
+      "bezbednost",
+      "pomoć",
+      "bicikl",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Allowing oneself to be pushed.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Neovlašćeno prevoženje: osoba",
+    "fine_chf": 20,
+    "keywords": [
+      "prevoz",
+      "putnik",
+      "osoba",
+      "prevoz",
+      "neovlašćeno",
+      "soputnik"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a person (e.g., carrying a passenger on a vehicle not designed for it, or where not permitted).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Neovlašćeno prevoženje: dete bez sigurnog dečijeg sedišta",
+    "fine_chf": 40,
+    "keywords": [
+      "dečije sedište",
+      "dečije sedište",
+      "dete",
+      "bezbednost",
+      "prevoz",
+      "bicikl"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Bicikl",
+      "Motocikl"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized carrying of a child without a safe child seat (where required).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

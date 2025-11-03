@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autoestradas (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 e 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autoestrada",
+      "Semi-autoestrada",
+      "Uso",
+      "VRV 50a",
+      "Restrição"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso não autorizado de semi-autoestradas (geralmente aplica-se a tipos específicos de veículos ou dispositivos).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Contornar, escalar ou rastejar sob barreiras ou meio-barreiras",
+    "fine_chf": 20,
+    "keywords": [
+      "Barreiras",
+      "Meio-barreiras",
+      "Barreiras",
+      "Passagem de nível ferroviária",
+      "Passagem de nível",
+      "Contornar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Utilizador da via"
+    ],
+    "conditions": null,
+    "notes": "Contornar, escalar ou rastejar sob barreiras ou meio-barreiras.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso de ciclovia por pedestres, quando\n1. há calçada presente",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedestre",
+      "Ciclovia",
+      "Calçada",
+      "Calçada",
+      "Pedestre",
+      "Ciclovia"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestres"
+    ],
+    "conditions": "Calçada presente",
+    "notes": "Uso da ciclovia quando há calçada disponível.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso de ciclovia por pedestres, quando\n2. há caminho pedonal presente",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedestre",
+      "Ciclovia",
+      "Caminho pedonal",
+      "Calçada",
+      "Pedestre",
+      "Ciclovia"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestres"
+    ],
+    "conditions": "Caminho pedonal presente",
+    "notes": "Uso da ciclovia quando há caminho pedonal dedicado disponível.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Condução sem luzes",
+    "fine_chf": 20,
+    "keywords": [
+      "Luz",
+      "Iluminação",
+      "Condução",
+      "E-Scooter",
+      "Dispositivos semelhantes a veículos",
+      "Equipamento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operador de dispositivos (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Condução sem iluminação obrigatória (aplica-se principalmente a e-scooters/dispositivos semelhantes).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Obstrução do uso de áreas de tráfego designadas para pedestres",
+    "fine_chf": 20,
+    "keywords": [
+      "Pedestre",
+      "Áreas de tráfego",
+      "Obstrução",
+      "Calçada",
+      "Obstruindo",
+      "Dispositivos VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Dispositivos (VRV 50a)",
+      "Utilizadores da via"
+    ],
+    "conditions": null,
+    "notes": "Obstrução do uso de áreas de tráfego designadas para pedestres.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Obstrução do uso da via em ruas secundárias com tráfego calmo",
+    "fine_chf": 20,
+    "keywords": [
+      "Ruas secundárias",
+      "Via",
+      "Obstrução",
+      "Fluxo de tráfego",
+      "Rua secundária",
+      "Dispositivos (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Dispositivos (VRV 50a)",
+      "Utilizadores da via"
+    ],
+    "conditions": null,
+    "notes": "Obstrução do fluxo de tráfego em ruas secundárias com tráfego calmo.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorar o sinal 'Proibição para dispositivos semelhantes a veículos'",
+    "fine_chf": 20,
+    "keywords": [
+      "Sinal",
+      "Proibição",
+      "Dispositivos semelhantes a veículos",
+      "E-Scooter",
+      "Sinalização",
+      "Sinal de trânsito"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Ignorar o sinal de trânsito específico que proíbe dispositivos semelhantes a veículos.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Uso de dispositivos semelhantes a veículos em áreas de tráfego não autorizadas",
+    "fine_chf": 20,
+    "keywords": [
+      "Dispositivos semelhantes a veículos",
+      "E-Scooter",
+      "Áreas de tráfego",
+      "Uso não autorizado",
+      "Restrição"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Uso de dispositivos (como e-scooters) em áreas de tráfego onde não são permitidos.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Falha em dar prioridade a pedestres",
+    "fine_chf": 30,
+    "keywords": [
+      "Direito de passagem",
+      "Pedestre",
+      "Prioridade",
+      "Prioridade",
+      "Pedestre",
+      "Dispositivos (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Falha em conceder prioridade a pedestres (aplica-se a usuários de dispositivos especiais).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

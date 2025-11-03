@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Tanuló vezető nem mutatja az L-táblát",
+    "fine_chf": 20,
+    "keywords": [
+      "L-tábla",
+      "tanuló vezetés",
+      "vezetőiskola",
+      "tanuló tábla",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Tanuló vezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Az L-tábla eltávolításának elmulasztása, ha nincs tanuló vezetés",
+    "fine_chf": 20,
+    "keywords": [
+      "L-tábla",
+      "tanuló vezetés",
+      "tanuló tábla",
+      "eltávolítás",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Kanyarjelző használatának elmulasztása",
+    "fine_chf": 100,
+    "keywords": [
+      "kanyarjelző",
+      "jelző",
+      "kanyarjelző",
+      "jelzés",
+      "elmulasztás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "A kanyarjelző kikapcsolásának elmulasztása irányváltás után",
+    "fine_chf": 100,
+    "keywords": [
+      "kanyarjelző",
+      "jelző",
+      "kanyarjelző",
+      "visszaállítás",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Jelzőpálcát nem visel, ha kötelező",
+    "fine_chf": 40,
+    "keywords": [
+      "jelzőpálca",
+      "jelzőpálca",
+      "jelzőeszköz",
+      "felszerelés",
+      "viselés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A Winkkelle egy jelzőpálca, amelyet általában bizonyos nagy vagy lassú járműveknél, illetve speciális manőverekhez kötelező viselni.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Figyelmeztető jelzések helytelen használata",
+    "fine_chf": 40,
+    "keywords": [
+      "figyelmeztető jel",
+      "sziréna",
+      "sziréna",
+      "helytelen használat",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Fények nélküli vezetés nappal",
+    "fine_chf": 40,
+    "keywords": [
+      "fény",
+      "fények nélküli vezetés",
+      "nappali fényszórók",
+      "nappali idő",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező fények használata nélküli vezetés nappal.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Fények nélküli vezetés éjszaka megvilágított úton",
+    "fine_chf": 60,
+    "keywords": [
+      "fény",
+      "fények nélküli vezetés",
+      "éjszakai vezetés",
+      "megvilágított út",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező fények használata nélküli vezetés éjszaka megvilágított úton.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Fények nélküli vezetés megvilágított alagútban",
+    "fine_chf": 60,
+    "keywords": [
+      "fény",
+      "fények nélküli vezetés",
+      "alagút",
+      "megvilágított alagút",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező fények használata nélküli vezetés megvilágított alagútban.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Parkoló- vagy nappali fényszórók használata éjszaka megvilágított úton",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolófény",
+      "nappali fényszóró",
+      "fény",
+      "éjszakai vezetés",
+      "felszerelés",
+      "nem megfelelő világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelő világítás (parkolófény vagy nappali fényszóró) használata a kötelező fényszórók helyett éjszaka megvilágított úton.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Parkoló- vagy nappali fényszórók használata megvilágított alagútban",
+    "fine_chf": 40,
+    "keywords": [
+      "parkolófény",
+      "nappali fényszóró",
+      "fény",
+      "alagút",
+      "felszerelés",
+      "nem megfelelő világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelő világítás (parkolófény vagy nappali fényszóró) használata a kötelező fényszórók helyett megvilágított alagútban.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Ködlámpák helytelen használata",
+    "fine_chf": 40,
+    "keywords": [
+      "ködlámpa",
+      "ködlámpa",
+      "helytelen használat",
+      "felszerelés",
+      "világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Hátsó ködlámpák helytelen használata",
+    "fine_chf": 40,
+    "keywords": [
+      "hátsó ködlámpa",
+      "hátsó ködlámpa",
+      "helytelen használat",
+      "felszerelés",
+      "világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Keresőfények helytelen használata",
+    "fine_chf": 40,
+    "keywords": [
+      "keresőfény",
+      "keresőfény",
+      "helytelen használat",
+      "felszerelés",
+      "világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Munkafények helytelen használata",
+    "fine_chf": 40,
+    "keywords": [
+      "munkafény",
+      "munkafény",
+      "helytelen használat",
+      "felszerelés",
+      "világítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Álló jármű motorjának felesleges előmelegítése",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "előmelegítés",
+      "állás",
+      "motor felmelegítése",
+      "zaj",
+      "környezet"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Álló jármű motorjának felesleges üresjárata",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "működés",
+      "állás",
+      "motor működése",
+      "zaj",
+      "környezet"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Autópályán vagy gyorsúton motor használata, amelynek hengerűrtartalma legfeljebb 50 cm³ vagy teljesítménye legfeljebb 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autópálya",
+      "gyorsút",
+      "motor",
+      "hengerűrtartalom",
+      "teljesítmény",
+      "gyorsút",
+      "korlátozott jármű"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motoros vezető"
+    ],
+    "conditions": null,
+    "notes": "Az autópályán tilos a minimális előírások alatti motorok/mopédok (50 cm³ vagy 4 kW) használata.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Autópályán vagy gyorsúton olyan jármű használata, amely nem megengedett",
+    "fine_chf": 140,
+    "keywords": [
+      "autópálya",
+      "gyorsút",
+      "jármű",
+      "jogosulatlan",
+      "gyorsút",
+      "korlátozott jármű"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jármű használata autópályán, amely nem megengedett (pl. lassú járművek, mezőgazdasági járművek).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Autópályán vagy gyorsúton csíkozott gumiabroncsok használata",
+    "fine_chf": 60,
+    "keywords": [
+      "autópálya",
+      "gyorsút",
+      "csíkozott gumiabroncs",
+      "csíkozott gumiabroncs",
+      "felszerelés",
+      "gyorsút"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Vontatás autópályán vagy gyorsúton a következő kijárat után",
+    "fine_chf": 140,
+    "keywords": [
+      "autópálya",
+      "gyorsút",
+      "vontatás",
+      "vontatás",
+      "vészhelyzet",
+      "következő kijárat"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A vontatás csak az autópályán a következő elérhető kijáratig megengedett.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

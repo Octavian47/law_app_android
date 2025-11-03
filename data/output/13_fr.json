@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Utilisation d'un téléphone sans dispositif mains‑libres pendant la conduite (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "téléphone",
+      "téléphone portable",
+      "dispositif mains‑libres",
+      "en conduisant",
+      "conduite",
+      "téléphone portable"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un téléphone sans dispositif mains‑libres pendant la conduite.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Non port de la ceinture de sécurité par le conducteur (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "ceinture de sécurité",
+      "ceinture",
+      "attache",
+      "conducteur de véhicule",
+      "ceinture de sécurité",
+      "conducteur"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Absence de port de la ceinture de sécurité par le conducteur.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Transport d'un enfant non sécurisé de moins de 12 ans (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "enfant",
+      "sécurité",
+      "siège enfant",
+      "transport",
+      "dispositif de sécurité",
+      "enfants"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Transport d'un enfant non sécurisé de moins de 12 ans.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Non port du casque de protection par le conducteur de motos, véhicules légers, petits et à trois roues (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "casque de protection",
+      "casque",
+      "moto",
+      "véhicule à moteur",
+      "conducteur",
+      "casque",
+      "moto"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de moto"
+    ],
+    "conditions": null,
+    "notes": "Conducteur de moto/véhicule léger/petit/à trois roues ne portant pas de casque de protection.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Transport d'un enfant de moins de 12 ans sans casque sur motos, véhicules légers, petits et à trois roues (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "enfant",
+      "casque",
+      "moto",
+      "transport",
+      "casque de protection",
+      "enfants",
+      "moto"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de moto"
+    ],
+    "conditions": null,
+    "notes": "Transport d'un enfant de moins de 12 ans sans casque sur une moto/véhicule léger/petit/à trois roues.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Non utilisation de la voie la plus à droite sur les routes à plusieurs voies, sauf lors du dépassement, de la fusion, de la conduite en colonnes parallèles ou dans les zones urbaines (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "voie",
+      "conduite à droite",
+      "voie la plus à droite",
+      "dépassement",
+      "utilisation de la voie",
+      "rester à droite"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Non utilisation de la voie la plus à droite sur les routes à plusieurs voies, sauf lors du dépassement, de la fusion, de la conduite en colonnes parallèles ou dans une zone bâtie.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Dépassement à droite en s'écartant puis en revenant sur les routes à plusieurs voies dans les zones urbaines (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "dépassement à droite",
+      "dans une zone urbaine",
+      "changement de voie",
+      "dépassement à droite",
+      "zone urbaine",
+      "changement de voie"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dépassement à droite en s'écartant puis en revenant sur les routes à plusieurs voies dans les zones urbaines.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Dépassement à droite en s'écartant puis en revenant sur les autoroutes et voies rapides à plusieurs voies (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "dépassement à droite",
+      "voie express",
+      "autoroute",
+      "changement de voie",
+      "dépassement à droite",
+      "autoroute",
+      "autoroute"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dépassement à droite en s'écartant puis en revenant sur les voies semi-autoroutes et autoroutes à plusieurs voies.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Changement de voie pour dépasser sur une route à voie unique (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "dépassement",
+      "changement de voie",
+      "route à voie unique",
+      "dépassement",
+      "changement de voie",
+      "route à voie unique"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Changement de voie pour dépasser sur une section de route à voie unique.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Arrêt ou stationnement sur le côté gauche de la route, même en l'absence de voies de tram, sans signal d'interdiction de stationner ou d'arrêter et sur une route large (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "arrêt",
+      "stationnement",
+      "côté gauche de la route",
+      "stationnement",
+      "arrêt",
+      "côté incorrect"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt ou stationnement sur le côté gauche de la route, malgré l'absence de voies de tram, de panneaux d'interdiction de stationner ou d'arrêter, et la largeur de la route.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Quitter le véhicule sans retirer la clé d'allumage (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "quitter le véhicule",
+      "clé d'allumage",
+      "clé",
+      "clé d'allumage",
+      "quitter le véhicule"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Quitter le véhicule sans retirer la clé d'allumage.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Non mise en place du triangle de signalisation d'incident (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "signal de panne",
+      "triangle de signalisation",
+      "mise en place",
+      "triangle de signalisation",
+      "panne"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Absence de mise en place du triangle de signalisation (panne).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Mise en place incorrecte du triangle de signalisation d'incident (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signal de panne",
+      "triangle de signalisation",
+      "mise en place",
+      "non conforme",
+      "triangle de signalisation",
+      "panne"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Mise en place du triangle de signalisation (panne) contraire aux règlements (par ex. trop proche).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Utilisation abusive des feux de détresse sur un véhicule à l'arrêt (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "feux de détresse",
+      "feux de détresse",
+      "usage abusif",
+      "véhicule à l'arrêt",
+      "feux de détresse",
+      "véhicule à l'arrêt"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Usage abusif des feux de détresse sur un véhicule à l'arrêt.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Utilisation abusive des feux de détresse sur un véhicule en mouvement (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "feux de détresse",
+      "feux de détresse",
+      "usage abusif",
+      "véhicule en mouvement",
+      "feux de détresse",
+      "véhicule en mouvement"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Usage abusif des feux de détresse sur un véhicule en mouvement.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Non fixation du triangle de signalisation d'incident à l'arrière d'un véhicule remorqué (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signal de panne",
+      "véhicule remorqué",
+      "arrière",
+      "triangle de signalisation",
+      "véhicule remorqué",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Absence de fixation du triangle de signalisation à l'arrière du véhicule remorqué.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Haftalık formda gerekli bilgilerin girilmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "haftalık form",
+      "bilgi",
+      "girmek",
+      "ARV 2",
+      "çalışma süresi",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler için haftalık formda gerekli bilgilerin girilmemesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Günlük formda gerekli bilgilerin girilmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "günlük form",
+      "bilgi",
+      "girmek",
+      "ARV 2",
+      "çalışma süresi",
+      "profesyonel sürücü"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler için günlük formda gerekli bilgilerin girilmemesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Taksi sürücüleri için kontrol kartında gerekli bilgilerin girilmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrol kartı",
+      "taksi sürücüsü",
+      "bilgi",
+      "girmek",
+      "ARV",
+      "Taksi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taksi sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Taksi sürücüleri için kontrol kartında gerekli bilgilerin girilmemesi (hem ARV 2 hem de ARV 1 referansları).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Dijital takografta gerekli bilgilerin girilmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "dijital",
+      "bilgi",
+      "girmek",
+      "ARV",
+      "profesyonel sürücü",
+      "takograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Dijital takografta gerekli bilgilerin girilmemesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Takograf çizelgesinin etiketlenmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "çizelge",
+      "etiket",
+      "etiketsiz",
+      "takograf sayfası",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çizelgesinin (Einlegeblatt) etiketlenmemesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Çıktının etiketlenmemesi",
+    "fine_chf": 40,
+    "keywords": [
+      "çıktı",
+      "etiket",
+      "etiketsiz",
+      "takograf çıktısı",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çıktısının etiketlenmemesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Takograf çizelgesinin eksik etiketlenmesi",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "çizelge",
+      "eksik",
+      "etiket",
+      "takograf sayfası",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çizelgesinin eksik etiketlenmesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Çıktının eksik etiketlenmesi",
+    "fine_chf": 40,
+    "keywords": [
+      "çıktı",
+      "eksik",
+      "etiket",
+      "takograf çıktısı",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çıktısının eksik etiketlenmesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Takograf çizelgesinin yanlış/gerçek dışı etiketlenmesi",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "çizelge",
+      "yanlış",
+      "gerçek dışı",
+      "etiketleme",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çizelgesinin yanlış/gerçek dışı etiketlenmesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Çıktının yanlış/gerçek dışı etiketlenmesi",
+    "fine_chf": 40,
+    "keywords": [
+      "çıktı",
+      "yanlış",
+      "gerçek dışı",
+      "etiketleme",
+      "ARV",
+      "takograf çıktısı"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Takograf çıktısının yanlış/gerçek dışı etiketlenmesi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Tip onaylı olmayan bir takograf çizelgesi kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "çizelge",
+      "tip onaylı değil",
+      "onaysız",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tip onaylı olmayan bir takograf çizelgesi kullanımı.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Takograf cihazına uymayan bir takograf çizelgesi kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "takograf",
+      "çizelge",
+      "uygunsuz",
+      "yanlış",
+      "eşleşmeyen",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Belirli takograf cihazına uymayan bir takograf çizelgesi kullanımı.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Yanlış yazıcı kağıdı kullanımı",
+    "fine_chf": 40,
+    "keywords": [
+      "yazıcı kağıdı",
+      "uygunsuz",
+      "yanlış",
+      "yazıcı kağıdı",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Dijital takograf/kontrol cihazı için yanlış yazıcı kağıdı kullanımı.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Tehlikeli maddeler yükleri için eğitim sertifikasını taşıyamama",
+    "fine_chf": 20,
+    "keywords": [
+      "tehlikeli maddeler",
+      "yük",
+      "eğitim sertifikası",
+      "ADR",
+      "SDR",
+      "tehlikeli maddeler",
+      "belgeler"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tehlikeli bir yükün mevcut olduğunu bilerek, tehlikeli maddeler taşımacılığı için eğitim sertifikasını taşıyamama.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Tehlikeli maddeler yükleri için taşıma belgesini taşıyamama",
+    "fine_chf": 140,
+    "keywords": [
+      "tehlikeli maddeler",
+      "yük",
+      "taşıma belgesi",
+      "ADR",
+      "SDR",
+      "tehlikeli maddeler",
+      "taşıma belgesi"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tehlikeli bir yükün mevcut olduğunu bilerek, tehlikeli maddeler için taşıma belgesini taşıyamama. Bu ceza özellikle daha yüksektir.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Tehlikeli maddeler yükleri için yazılı talimatı (kaza formu) taşıyamama",
+    "fine_chf": 40,
+    "keywords": [
+      "tehlikeli maddeler",
+      "yük",
+      "yazılı talimat",
+      "kaza formu",
+      "ADR",
+      "SDR",
+      "acil durum talimatları"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tehlikeli bir yükün mevcut olduğunu bilerek, tehlikeli maddeler için yazılı talimatları (acil durum/kaza formu) taşıyamama.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Tehlikeli madde taşınmadığında turuncu levhaları kaldırmama veya örtmemek",
+    "fine_chf": 60,
+    "keywords": [
+      "tehlikeli maddeler",
+      "turuncu levha",
+      "kaldırmak",
+      "örtmek",
+      "SDR",
+      "gösterim",
+      "levha"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Araç tehlikeli madde taşımadığında (boş/temiz) turuncu levhaları (tehlikeli madde göstergesi) kaldırmama veya örtmemek.",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Bir lisans veya iznin değişimini veya yenilenmesini gerektiren durumları bildirmeme veya zamanında bildirmeme",
+    "fine_chf": 20,
+    "keywords": [
+      "raporlama yükümlülüğü",
+      "lisans",
+      "izin",
+      "değişiklik",
+      "yenileme",
+      "VZV",
+      "raporlama"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Lisans/izin sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sürücü lisansı veya iznin değiştirilmesi veya yenilenmesi gereken durumları bildirmeme veya geç bildirme.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Yeni bir İsviçre adresine ikamet değişikliğini bildirmeme veya zamanında bildirmeme",
+    "fine_chf": 20,
+    "keywords": [
+      "ikamet değişikliği",
+      "adres",
+      "bildirme",
+      "VZV",
+      "raporlama",
+      "ikamet değişikliği"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Lisans sahibi"
+    ],
+    "conditions": null,
+    "notes": "Yeni bir İsviçre ikamet adresine değişikliği bildirmeme veya geç bildirme.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Takograf kartlarındaki değişiklikleri bildirmeme",
+    "fine_chf": 20,
+    "keywords": [
+      "takograf kartı",
+      "değişiklik",
+      "bildirme",
+      "ARV",
+      "takograf kartı",
+      "raporlama"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Sürücü kartı sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sürücü takograf kartıyla ilgili değişiklikleri bildirmeme.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

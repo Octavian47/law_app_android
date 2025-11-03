@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Mungesa e instalimit të pllakës së shënimit të pasme",
+    "fine_chf": 20,
+    "keywords": [
+      "pllakë shënimi e pasme",
+      "pllakë shënimi",
+      "VTS",
+      "pajisje",
+      "shënim i pasëm"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me pllakët e shënimit të pasme, zakonisht për mjete/ngarkesa specifike.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Futja e një motoçiklete në trafikun pa reflektorë të vendosur në mënyrë të përhershme",
+    "fine_chf": 60,
+    "keywords": [
+      "motoçiklet",
+      "reflektues",
+      "reflektues",
+      "VTS",
+      "pajisje",
+      "komisionim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari",
+      "Drejtuesi"
+    ],
+    "conditions": null,
+    "notes": "Futja e një motoçiklete në trafikun pa reflektorë të vendosur në mënyrë të përhershme.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Lirimi i pajisjes së drejtimit",
+    "fine_chf": 20,
+    "keywords": [
+      "pajisje drejtimi",
+      "pa duar",
+      "pajisje drejtimi",
+      "kontroll",
+      "biciklet",
+      "motoçiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Lirimi i pajisjes së drejtimit (p.sh., drejtim pa duar). Zbaton për motoçikleta/bicikleta.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Mos veshja e helmetit mbrojtës nga personat në motoçikleta",
+    "fine_chf": 30,
+    "keywords": [
+      "helmet mbrojtës",
+      "helmet",
+      "motoçiklet",
+      "helmet",
+      "pajisje sigurie",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues",
+      "Udhëtar"
+    ],
+    "conditions": null,
+    "notes": "Mos veshja e helmetit mbrojtës në një motoçiklet.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Ndërprerja në kalimtarin e këmbësorëve kur trafiku është i ngarkuar",
+    "fine_chf": 20,
+    "keywords": [
+      "kalimtar këmbësor",
+      "kalimtar zebra",
+      "kalimtar këmbësor",
+      "ngarkesë trafiku",
+      "ndërprerje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndërprerja në kalimtarin e këmbësorëve gjatë ngarkesës së trafikut.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Fryrja e panevojshme e motorit të një biçiklete të motoruar në ndalim",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "fryrje",
+      "fryrje e panevojshme",
+      "biciklet e motoruar",
+      "moped",
+      "emision"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Fryrja e panevojshme e një biçiklete të motoruar/moped në ndalim.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Drejtimi pa drita: në rrugë të ndriçuar natën",
+    "fine_chf": 40,
+    "keywords": [
+      "dritë",
+      "drejtim natën",
+      "ndriçim",
+      "dritë kryesore",
+      "rrugë e ndriçuar"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "Natën, në rrugë të ndriçuar.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Drejtimi pa drita: në rrugë të pa ndriçuar natën",
+    "fine_chf": 60,
+    "keywords": [
+      "dritë",
+      "drejtim natën",
+      "rrugë e pa ndriçuar",
+      "dritë kryesore",
+      "errësirë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "Natën, në rrugë të pa ndriçuar.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Drejtimi pa drita: në tunel të ndriçuar",
+    "fine_chf": 20,
+    "keywords": [
+      "dritë",
+      "Tunel",
+      "dritë kryesore",
+      "drejtim në tunel",
+      "ndriçim"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "Në tunel të ndriçuar.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Drejtimi pa drita: gjatë ditës",
+    "fine_chf": 20,
+    "keywords": [
+      "dritë",
+      "ditë",
+      "dritë funksionimi ditore",
+      "dritë kryesore",
+      "ditë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "Gjatë ditës (zbaton për mjete ku dritat ditore janë të detyrueshme).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Kalimi i paautorizuar në trotuar",
+    "fine_chf": 40,
+    "keywords": [
+      "trotuar",
+      "trotuar",
+      "drejtim i paligjshëm",
+      "bicikletë",
+      "përdorim i rrugës",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bicikletë",
+      "Moped",
+      "E-Scooter"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i paautorizuar në trotuar.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Kalimi pengues në shiritat longitudinalë të këmbësorëve",
+    "fine_chf": 40,
+    "keywords": [
+      "këmbësor",
+      "shirit longitudinal",
+      "shteg",
+      "pengesë",
+      "shteg këmbësori"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi në shiritat longitudinalë të këmbësorëve në mënyrë që pengon këmbësorët.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Mbajtja e objekteve që e bëjnë të pamundur sinjalizimin",
+    "fine_chf": 20,
+    "keywords": [
+      "bagazhe",
+      "ngarkesë",
+      "sinjalizim",
+      "sinjalizim",
+      "mbajtja e objekteve",
+      "sinjal dorë"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mbajtja e objekteve që e bën të pamundur sinjalizimin (sinjalet me dorë).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Pozicionimi para një radhë të automjeteve në pritje",
+    "fine_chf": 20,
+    "keywords": [
+      "kalimi",
+      "radha",
+      "radha e automjeteve",
+      "ndarje e lane-it",
+      "prerje në radhë"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Pozicionimi para një radhe të automjeteve në pritje (zakonisht duke u përzier me radhen).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Kalimi i një radhe të automjeteve në pritje me kalim në zigzag",
+    "fine_chf": 20,
+    "keywords": [
+      "kalim në zigzag",
+      "kalim",
+      "radha",
+      "radha e automjeteve",
+      "kalim",
+      "kthjellëzim"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i një radhe të automjeteve në pritje me kalim në zigzag.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Kalimi i ndaluar krah për krah: shumë bicikleta",
+    "fine_chf": 20,
+    "keywords": [
+      "kalim krah për krah",
+      "bicikletë",
+      "çiklizëm krah për krah",
+      "bicikleta"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kalues biciklete"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i ndaluar krah për krah: shumë bicikleta.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Kalimi i ndaluar krah për krah: shumë biçikleta të motorizuara",
+    "fine_chf": 20,
+    "keywords": [
+      "kalim krah për krah",
+      "biçikleta të motorizuara",
+      "moped",
+      "E-Scooter",
+      "mopeds"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Kalues moped"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i ndaluar krah për krah: shumë biçikleta të motorizuara (Mofas/E-Scooters).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Kalimi i ndaluar krah për krah: shumë rikshaj elektrike",
+    "fine_chf": 20,
+    "keywords": [
+      "kalim krah për krah",
+      "rikshaj elektrike",
+      "e-rikshaj",
+      "krah për krah"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Shofer rikshaj"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i ndaluar krah për krah: shumë rikshaj elektrike.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Kalimi i ndaluar krah për krah: kombinime të bicikletave, biçikletave të motorizuara ose rikshajve elektrike",
+    "fine_chf": 20,
+    "keywords": [
+      "kalim krah për krah",
+      "kombinim i përzier",
+      "bicikletë",
+      "moped",
+      "rikshaj",
+      "krah për krah"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i ndaluar krah për krah: kombinime të përziera të bicikletave, mopeds, ose e-rikshajve.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Lejimi i vetes për të tërhequr",
+    "fine_chf": 20,
+    "keywords": [
+      "duke u tërhequr",
+      "duke u tërhequr",
+      "tërheqje",
+      "SVG",
+      "siguri",
+      "bicikletë",
+      "motoçiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Lejimi i vetes për të tërhequr (p.sh., nga një mjet tjetër ose person).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Lejimi i vetes për të tërhequr",
+    "fine_chf": 20,
+    "keywords": [
+      "duke u tërhequr",
+      "duke u tërhequr",
+      "tërheqje",
+      "SVG",
+      "siguri",
+      "bicikletë",
+      "motoçiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Lejimi i vetes për të tërhequr (ngjashëm me 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Lejimi i vetes për të shtyrë",
+    "fine_chf": 20,
+    "keywords": [
+      "duke u shtyrë",
+      "duke u shtyrë",
+      "siguri",
+      "ndihmë",
+      "bicikletë",
+      "motoçiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Lejimi i vetes për të shtyrë.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Transport i paautorizuar: një person",
+    "fine_chf": 20,
+    "keywords": [
+      "transportim",
+      "udhëtar",
+      "person",
+      "transportim",
+      "i paautorizuar",
+      "bashkëudhëtar"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Transport i paautorizuar i një personi (p.sh., transport i një udhëtari në një mjet që nuk është projektuar për të, ose ku nuk lejohet).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Transport i paautorizuar: një fëmijë pa vend të sigurt për fëmijë",
+    "fine_chf": 40,
+    "keywords": [
+      "vend për fëmijë",
+      "vend për fëmijë",
+      "fëmijë",
+      "siguri",
+      "transportim",
+      "bicikletë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Bicikletë",
+      "Motoçiklet"
+    ],
+    "conditions": null,
+    "notes": "Transport i paautorizuar i një fëmije pa vend të sigurt për fëmijë (ku kërkohet).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

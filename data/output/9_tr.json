@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "2 saatten fazla, ancak 4 saatten fazla olmayan sürede",
+    "fine_chf": 60,
+    "keywords": [
+      "Park",
+      "Park yeri",
+      "Fazla süre",
+      "Tabelalar",
+      "Park süresi",
+      "park"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 ile 4 saat arasında",
+    "notes": "İzin verilen sürenin aşılması durumunda, işaretlerle belirtilen bir park alanında veya belirli bir araç kategorisi için ayrılmış bir alanda araç park etme için 254.b cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "4 saatten fazla, ancak 10 saatten fazla olmayan sürede",
+    "fine_chf": 100,
+    "keywords": [
+      "Park",
+      "Park yeri",
+      "Fazla süre",
+      "Tabelalar",
+      "Park süresi",
+      "park"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "4 ile 10 saat arasında",
+    "notes": "İzin verilen sürenin aşılması durumunda, işaretlerle belirtilen bir park alanında veya belirli bir araç kategorisi için ayrılmış bir alanda araç park etme için 254.c cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Park yasağı çizgisi üzerinde park\\na. 2 saate kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "Park",
+      "Park yasağı çizgisi",
+      "Fazla süre",
+      "sarı çizgi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 saate kadar",
+    "notes": "Genellikle sarı olan park yasağı çizgisi üzerinde 2 saate kadar park etme.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "2 saatten fazla, ancak 4 saatten fazla olmayan sürede",
+    "fine_chf": 60,
+    "keywords": [
+      "Park",
+      "Park yasağı çizgisi",
+      "Fazla süre",
+      "sarı çizgi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 ile 4 saat arasında",
+    "notes": "Park yasağı çizgisi üzerinde park için 255.b cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "4 saatten fazla, ancak 10 saatten fazla olmayan sürede",
+    "fine_chf": 100,
+    "keywords": [
+      "Park",
+      "Park yasağı çizgisi",
+      "Fazla süre",
+      "sarı çizgi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "4 ile 10 saat arasında",
+    "notes": "Park yasağı çizgisi üzerinde park için 255.c cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Park yasağı bölgesi üzerinde park\\na. 2 saate kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "Park",
+      "Park yasağı bölgesi",
+      "Fazla süre",
+      "park yasağı bölgesi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 saate kadar",
+    "notes": "Genellikle sarı çapraz çizgilerle işaretlenmiş bir park yasağı bölgesinde 2 saate kadar park etme.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "2 saatten fazla, ancak 4 saatten fazla olmayan sürede",
+    "fine_chf": 60,
+    "keywords": [
+      "Park",
+      "Park yasağı bölgesi",
+      "Fazla süre",
+      "park yasağı bölgesi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 ile 4 saat arasında",
+    "notes": "Park yasağı bölgesinde park için 256.b cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "4 saatten fazla, ancak 10 saatten fazla olmayan sürede",
+    "fine_chf": 100,
+    "keywords": [
+      "Park",
+      "Park yasağı bölgesi",
+      "Fazla süre",
+      "park yasağı bölgesi",
+      "park yasağı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "4 ile 10 saat arasında",
+    "notes": "Park yasağı bölgesinde park için 256.c cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "İzin verilmeyen bir araçla bisiklet yolunda engelleyici park (2.60; Art. 37 Abs. 2 ve 43 Abs. 2 SVG) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park",
+      "Bisiklet yolu",
+      "Engelleme",
+      "Araç",
+      "Bisiklet",
+      "bisiklet yolu",
+      "engelleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "İzin verilmeyen bir araçla bisiklet yolunda engelleyici park, 60 dakikaya kadar.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "İzin verilmeyen bir araçla bisiklet yolunda engelleyici durma (2.60; Art. 37 Abs. 2 ve 43 Abs. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Bisiklet yolu",
+      "Engelleme",
+      "Araç",
+      "Bisiklet",
+      "bisiklet yolu",
+      "engelleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": null,
+    "notes": "İzin verilmeyen bir araçla bisiklet yolunda engelleyici durma.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "İzin verilmeyen bir araçla yaya yolunda engelleyici park (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park",
+      "Yaya yolu",
+      "Engelleme",
+      "Araç",
+      "yaya yolu",
+      "engelleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "İzin verilmeyen bir araçla yaya yolunda engelleyici park, 60 dakikaya kadar.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "İzin verilmeyen bir araçla yaya yolunda engelleyici durma (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Yaya yolu",
+      "Engelleme",
+      "Araç",
+      "yaya yolu",
+      "engelleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": null,
+    "notes": "İzin verilmeyen bir araçla yaya yolunda engelleyici durma.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Yaya bölgesinde işaretsiz noktalarda park\\na. 2 saate kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "Park",
+      "Yaya bölgesi",
+      "Fazla süre",
+      "yaya bölgesi",
+      "işaretsiz yer"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 saate kadar",
+    "notes": "Yaya bölgesinde işaretsiz bir noktada 2 saate kadar park etme.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "2 saatten fazla, ancak 4 saatten fazla olmayan sürede",
+    "fine_chf": 60,
+    "keywords": [
+      "Park",
+      "Yaya bölgesi",
+      "Fazla süre",
+      "yaya bölgesi",
+      "işaretsiz yer"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "2 ile 4 saat arasında",
+    "notes": "İşaretsiz bir noktada yaya bölgesinde park için 259.b cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "4 saatten fazla, ancak 10 saatten fazla olmayan sürede",
+    "fine_chf": 100,
+    "keywords": [
+      "Park",
+      "Yaya bölgesi",
+      "Fazla süre",
+      "yaya bölgesi",
+      "işaretsiz yer"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "4 ile 10 saat arasında",
+    "notes": "İşaretsiz bir noktada yaya bölgesinde park için 259.c cezasının genişletilmesi.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Federal Karayolları Dairesi (ASTRA) tarafından belirlenen cihaz ve ölçüm belirsizliği düşüldükten sonra izin verilen ağırlığın aşılması\\na. 100 kg'dan fazla olmamak kaydıyla",
+    "fine_chf": 100,
+    "keywords": [
+      "Ağırlık",
+      "Aşım",
+      "İzin verilen ağırlık",
+      "ASTRA",
+      "Motorlu taşıt",
+      "aşırı yük",
+      "yük"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü"
+    ],
+    "conditions": "100 kg'a kadar aşırı yük",
+    "notes": "Motorlu taşıtlar için izin verilen ağırlık limitinin, tolerans ve ölçüm belirsizliği düşüldükten sonra, 100 kg'a kadar aşılması.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autoputevi (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autoput",
+      "Poluautoput",
+      "Korišćenje",
+      "VRV 50a",
+      "Ograničenje"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neovlašćeno korišćenje poluautoputa (često se odnosi na određene vrste vozila ili uređaja).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Zaobilaženje, penjanje preko ili puzanje ispod barijera ili polubarijera",
+    "fine_chf": 20,
+    "keywords": [
+      "Barijere",
+      "Polubarijere",
+      "Barijere",
+      "Železnička prečica",
+      "Nivo prelaz",
+      "Zaobilaženje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Korisnik puta"
+    ],
+    "conditions": null,
+    "notes": "Zaobilaženje, penjanje preko ili puzanje ispod barijera ili polubarijera.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Korišćenje biciklističke staze od strane pešaka, kada\n1. postoji trotoar",
+    "fine_chf": 10,
+    "keywords": [
+      "Pešak",
+      "Biciklistička staza",
+      "Trotoar",
+      "Trotoar",
+      "Pešak",
+      "Biciklistička staza"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešaci"
+    ],
+    "conditions": "Trotoar prisutan",
+    "notes": "Korišćenje biciklističke staze kada je trotoar dostupan.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Korišćenje biciklističke staze od strane pešaka, kada\n2. postoji pešački put",
+    "fine_chf": 10,
+    "keywords": [
+      "Pešak",
+      "Biciklistička staza",
+      "Pešački put",
+      "Trotoar",
+      "Pešak",
+      "Biciklistička staza"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešaci"
+    ],
+    "conditions": "Pešački put prisutan",
+    "notes": "Korišćenje biciklističke staze kada je posvećeni pešački put dostupan.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Vožnja bez svetala",
+    "fine_chf": 20,
+    "keywords": [
+      "Svetlo",
+      "Osvetljenje",
+      "Vožnja",
+      "E-skuter",
+      "Uređaji slični vozilu",
+      "Oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operater uređaja (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez potrebnog osvetljenja (primarno se odnosi na e-skutere/slična uređaja).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Ometanje korišćenja saobraćajnih područja namenjenih pešacima",
+    "fine_chf": 20,
+    "keywords": [
+      "Pešak",
+      "Saobraćajna područja",
+      "Prepreka",
+      "Trotoar",
+      "Ometanje",
+      "VRV 50a uređaji"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Uređaji (VRV 50a)",
+      "Korisnici puta"
+    ],
+    "conditions": null,
+    "notes": "Ometanje korišćenja saobraćajnih područja namenjenih pešacima.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Ometanje korišćenja kolovoza na saobraćajno smirenim sporednim putevima",
+    "fine_chf": 20,
+    "keywords": [
+      "Sporedni putevi",
+      "Kolovoz",
+      "Prepreka",
+      "Saobraćajni tok",
+      "Sporedni put",
+      "Uređaji (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Uređaji (VRV 50a)",
+      "Korisnici puta"
+    ],
+    "conditions": null,
+    "notes": "Ometanje saobraćajnog toka na saobraćajno smirenim sporednim putevima.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorisanje signala 'Zabrana za uređaje slične vozilu'",
+    "fine_chf": 20,
+    "keywords": [
+      "Signal",
+      "Zabrana",
+      "Uređaji slični vozilu",
+      "E-skuter",
+      "Signalizacija",
+      "Saobraćajni znak"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operater uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje specifičnog saobraćajnog znaka koji zabranjuje uređaje slične vozilu.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Korišćenje uređaja sličnih vozilu na neovlašćenim saobraćajnim područjima",
+    "fine_chf": 20,
+    "keywords": [
+      "Uređaji slični vozilu",
+      "E-skuter",
+      "Saobraćajna područja",
+      "Neovlašćena upotreba",
+      "Ograničenje"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operater uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje uređaja (kao što su e-skuteri) na saobraćajnim područjima gde nisu dozvoljeni.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Nedavanje prednosti pešacima",
+    "fine_chf": 30,
+    "keywords": [
+      "Pravo prvenstva",
+      "Pešak",
+      "Prioritet",
+      "Prioritet",
+      "Pešak",
+      "Uređaji (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operater uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Nedavanje prednosti pešacima (odnosi se na korisnike posebnih uređaja).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

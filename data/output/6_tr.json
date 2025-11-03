@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Otoyolda acil durum şeridinde, acil durma dışında durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "acil şerit",
+      "otoyol",
+      "acil durma",
+      "durma",
+      "acil şerit",
+      "otoyol"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Otoyolda sert omuzda, acil durum dışında durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Sinyaller veya işaretlemeler açıkça izin vermediği kaldırımda, yayalar için 1,5 m genişliğinde boşluk bırakmadan park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "kaldırım",
+      "yaya",
+      "1,5 m",
+      "boşluk",
+      "park",
+      "kaldırım",
+      "yaya"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Açık izin olmadan kaldırımda park etmek ve yayalar için 1,5 m'den az boşluk bırakmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Yayalar için 1,5 m genişliğinde boşluk bırakmadan kaldırımda durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "kaldırım",
+      "yaya",
+      "1,5 m",
+      "boşluk",
+      "durma",
+      "kaldırım",
+      "yaya"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kaldırımda durmak ve yayalar için 1,5 m'den az boşluk bırakmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Yayalar için uzunlamasına şeritlerde park etmek, yaya trafiğini engellemek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "uzunlamasına şerit",
+      "yaya",
+      "engelleme",
+      "park",
+      "uzunlamasına şerit",
+      "yaya",
+      "engelli erişim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Engelli yayalar için uzunlamasına şeritlerde park etmek, yaya trafiğini engellemek.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Yayalar için uzunlamasına şeritlerde durmak, yaya trafiğini engellemek.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "uzunlamasına şerit",
+      "yaya",
+      "engelleme",
+      "durma",
+      "uzunlamasına şerit",
+      "yaya",
+      "engelli erişim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Engelli yayalar için uzunlamasına şeritlerde durmak, yaya trafiğini engellemek.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "İşaretli durma yasak bölgesinde park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "durma yasak",
+      "işaret",
+      "park",
+      "durma yasak",
+      "işaretli bölge"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "İşaretli durma yasak bölgesinde park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "İşaretli durma yasak bölgesinde durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "durma yasak",
+      "işaret",
+      "durma",
+      "durma yasak",
+      "işaretli bölge"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İşaretli durma yasak bölgesinde durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Otobüs şeridinde park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "otobüs şeridi",
+      "otobüs",
+      "park",
+      "otobüs şeridi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Otobüs şeridinde park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Otobüs şeridinde durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "otobüs şeridi",
+      "otobüs",
+      "durma",
+      "otobüs şeridi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Otobüs şeridinde durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Sergi alanında park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "sergi alanı",
+      "park",
+      "sergi alanı",
+      "araç sergisi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Araç sergi alanında park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Sergi alanında durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "sergi alanı",
+      "durma",
+      "sergi alanı",
+      "araç sergisi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Araç sergi alanında durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Arızalı araçlar için dinlenme alanında park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "dinlenme alanı",
+      "arızalı araçlar",
+      "park",
+      "dinlenme alanı",
+      "arızalı araçlar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Arızalı araçlar için dinlenme/ayırılmış alanda park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Arızalı araçlar için dinlenme alanında durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "dinlenme alanı",
+      "arızalı araçlar",
+      "durma",
+      "dinlenme alanı",
+      "arızalı araçlar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Arızalı araçlar için dinlenme/ayırılmış alanda durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Yaya geçidi önünde durma yasak çizgisine park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "durma yasak çizgisi",
+      "yaya geçidi",
+      "park",
+      "durma yasak çizgisi",
+      "yaya geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Yaya geçidi önünde durma yasak çizgisine park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Yaya geçidi önünde durma yasak çizgisine durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "durma yasak çizgisi",
+      "yaya geçidi",
+      "durma",
+      "durma yasak çizgisi",
+      "yaya geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya geçidi önünde durma yasak çizgisine durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Durma yasak çizgisi olmayan yaya geçidinden 5 m'den az bir mesafede yol üzerinde park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "yol",
+      "5 m",
+      "yaya geçidi",
+      "park",
+      "yol",
+      "yaya geçidi",
+      "boşluk"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Durma yasak çizgisi olmayan yaya geçidinden 5 m'den az bir mesafede yol üzerinde park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Durma yasak çizgisi olmayan yaya geçidinden 5 m'den az bir mesafede yol üzerinde durmak.",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "yol",
+      "5 m",
+      "yaya geçidi",
+      "durma",
+      "yol",
+      "yaya geçidi",
+      "boşluk"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Durma yasak çizgisi olmayan yaya geçidinden 5 m'den az bir mesafede yol üzerinde durmak.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Durma yasak çizgisinin yanında yaya geçidi önünde kaldırımda park etmek.",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "kaldırım",
+      "yaya geçidi",
+      "durma yasak çizgisi",
+      "park",
+      "kaldırım",
+      "yaya geçidi",
+      "durma yasak çizgisi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Durma yasak çizgisinin yanında yaya geçidi önünde kaldırımda park etmek.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

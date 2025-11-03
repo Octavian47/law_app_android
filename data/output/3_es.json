@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "No informar de daños, fallos, pérdida o robo de la tarjeta de tacógrafo del conductor",
+    "fine_chf": 20,
+    "keywords": [
+      "tarjeta de tacógrafo del conductor",
+      "informar",
+      "daño",
+      "robo",
+      "ARV",
+      "tarjeta de tacógrafo",
+      "informar"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor profesional",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Se refiere a la tarjeta del tacógrafo digital utilizada por conductores profesionales.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "No devolver la tarjeta del conductor",
+    "fine_chf": 20,
+    "keywords": [
+      "tarjeta del conductor",
+      "devolver",
+      "ARV",
+      "tarjeta de tacógrafo",
+      "devolver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor profesional",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Se refiere a la tarjeta del tacógrafo digital utilizada por conductores profesionales.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "No devolver la tarjeta del taller",
+    "fine_chf": 20,
+    "keywords": [
+      "tarjeta del taller",
+      "devolver",
+      "ARV",
+      "tarjeta del taller",
+      "devolver",
+      "Tacógrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personal del taller"
+    ],
+    "conditions": null,
+    "notes": "Se refiere a la tarjeta de tacógrafo del taller, esencial para la normativa de conductores profesionales.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Exceder el tiempo de estacionamiento permitido\n  a. hasta 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "estacionamiento",
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "hasta 2 horas",
+    "notes": "Multa por exceder la duración de estacionamiento permitida.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Exceder el tiempo de estacionamiento permitido\n  b. más de 2, pero no más de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "estacionamiento",
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "más de 2, pero no más de 4 horas",
+    "notes": "Multa por exceder la duración de estacionamiento permitida.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Exceder el tiempo de estacionamiento permitido\n  c. más de 4, pero no más de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "estacionamiento",
+      "tiempo de estacionamiento",
+      "exceso de tiempo",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "más de 4, pero no más de 10 horas",
+    "notes": "Multa por exceder la duración de estacionamiento permitida.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "No colocar o exhibir visiblemente el disco de estacionamiento en el vehículo",
+    "fine_chf": 40,
+    "keywords": [
+      "disco de estacionamiento",
+      "colocación",
+      "visibilidad",
+      "disco de estacionamiento",
+      "colocación",
+      "visibilidad",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por exhibición incorrecta o poca visibilidad del disco de estacionamiento.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "No colocar o exhibir visiblemente el ticket de estacionamiento en el vehículo",
+    "fine_chf": 40,
+    "keywords": [
+      "ticket de estacionamiento",
+      "ticket de estacionamiento",
+      "colocación",
+      "visibilidad",
+      "ticket de estacionamiento",
+      "colocación",
+      "visibilidad",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por exhibición incorrecta o poca visibilidad del ticket de estacionamiento.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "No colocar o exhibir visiblemente el permiso de estacionamiento para personas con discapacidad en el vehículo",
+    "fine_chf": 40,
+    "keywords": [
+      "permiso de estacionamiento",
+      "discapacitado",
+      "colocación",
+      "visibilidad",
+      "estacionamiento para discapacitados",
+      "insignia",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por exhibición incorrecta o poca visibilidad de la insignia de estacionamiento para discapacitados.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Establecer una hora de llegada incorrecta en el disco de estacionamiento",
+    "fine_chf": 40,
+    "keywords": [
+      "disco de estacionamiento",
+      "hora de llegada",
+      "incorrecta",
+      "ajuste",
+      "disco de estacionamiento",
+      "hora de llegada",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por establecer una hora de llegada incorrecta en el disco de estacionamiento.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Cambiar la hora de llegada establecida sin mover el vehículo",
+    "fine_chf": 40,
+    "keywords": [
+      "disco de estacionamiento",
+      "hora de llegada",
+      "cambio",
+      "alejarse",
+      "disco de estacionamiento",
+      "hora de llegada",
+      "reinicio",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por reiniciar la hora de llegada del disco de estacionamiento sin mover el vehículo (alimentación ilegal del medidor).",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manipular el parquímetro",
+    "fine_chf": 40,
+    "keywords": [
+      "parquímetro",
+      "manipulación",
+      "defectuoso",
+      "parquímetro",
+      "manipulación",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por dejar inoperable un parquímetro.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Pago anticipado prohibido antes de que expire el tiempo de estacionamiento",
+    "fine_chf": 40,
+    "keywords": [
+      "pago anticipado",
+      "tiempo de estacionamiento",
+      "antes de vencimiento",
+      "tarifa de estacionamiento",
+      "recarga",
+      "por adelantado",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por pagar tiempo de estacionamiento adicional antes de que el tiempo pagado actual haya expirado, para extender la estancia.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Pago después de que el tiempo de estacionamiento haya expirado",
+    "fine_chf": 40,
+    "keywords": [
+      "pago después",
+      "tiempo de estacionamiento",
+      "expirado",
+      "tarifa de estacionamiento",
+      "recarga",
+      "expirado",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por pagar tiempo de estacionamiento adicional después de que el tiempo permitido ya haya expirado.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Detenerse en lugares con poca visibilidad, especialmente en zonas de curvas y crestas",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "poca visibilidad",
+      "curvas",
+      "crestas",
+      "detención",
+      "visibilidad",
+      "curvas",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por detenerse en lugares con poca visibilidad, como cerca de curvas o crestas.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Detenerse en cuellos de botella",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "cuellos de botella",
+      "detención",
+      "cuello de botella",
+      "estrecho",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por detenerse en cuellos de botella o pasajes estrechos.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Detenerse junto a un obstáculo en la calzada",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "obstáculo",
+      "calzada",
+      "detención",
+      "obstáculo",
+      "calzada",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por detenerse junto a un obstáculo en el carril, lo que obstruiría el tráfico.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionar en una sección de un solo carril (Art. 18 Abs. 2 Bst. c y 19 Abs. 2 Bst. a VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "carril único",
+      "estacionamiento",
+      "carril único",
+      "cuello de botella",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Multa por estacionar en una sección donde el tráfico está restringido a un solo carril (p.ej., debido a un obstáculo temporal).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Detenerse en una sección de un solo carril",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "carril único",
+      "detención",
+      "carril único",
+      "cuello de botella",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Multa por detenerse en una sección donde el tráfico está restringido a un solo carril (p.ej., debido a un obstáculo temporal).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionar junto a una línea de seguridad, si no se deja libre un paso de al menos 3 m de ancho",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "línea de seguridad",
+      "pasaje",
+      "estacionamiento",
+      "línea de seguridad",
+      "carril de paso",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "si no se deja libre un paso de al menos 3 m de ancho",
+    "notes": "Multa por estacionar junto a una línea de seguridad (línea de no paso) si queda menos de 3 m de espacio libre para el tráfico.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Detenerse junto a una línea de seguridad, si no se deja libre un paso de al menos 3 m de ancho",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "línea de seguridad",
+      "pasaje",
+      "detención",
+      "línea de seguridad",
+      "carril de paso",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo motorizado",
+      "Conductor"
+    ],
+    "conditions": "si no se deja libre un paso de al menos 3 m de ancho",
+    "notes": "Multa por detenerse junto a una línea de seguridad (línea de no paso) si queda menos de 3 m de espacio libre para el tráfico.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

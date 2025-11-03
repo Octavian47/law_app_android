@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Urto di un veicolo o di un oggetto da parte del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "Urto",
+      "Collisione",
+      "Oggetto",
+      "Conducente",
+      "collisione",
+      "oggetto",
+      "conducente"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente donna",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Colpire accidentalmente un veicolo o un oggetto.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Trascinamento di un veicolo o di un oggetto da parte del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "Trascinamento",
+      "Oggetto",
+      "Conducente",
+      "trascinamento",
+      "oggetto",
+      "conducente"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente donna",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Causare danni tirando/trascinando un veicolo o un oggetto.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Trainare un veicolo o un oggetto da parte del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "Trainare",
+      "Oggetto",
+      "Conducente",
+      "trainare",
+      "trascinamento",
+      "oggetto",
+      "conducente"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente donna",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Causare danni durante il traino/trascinamento di un veicolo o un oggetto.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Divieto generale di traffico in entrambe le direzioni» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Divieto di traffico",
+      "Segnale di divieto",
+      "entrambe le direzioni",
+      "Divieto generale",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di veicoli in entrambe le direzioni'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Ingresso proibito» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ingresso",
+      "proibito",
+      "Segnale di divieto",
+      "Divieto di ingresso",
+      "Ingresso vietato",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di ingresso'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Divieto per biciclette e ciclomotori» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Biciclette",
+      "Ciclomotori",
+      "Bicicletta",
+      "Ciclomotore",
+      "Divieto",
+      "bicicletta",
+      "ciclomotore",
+      "segnalazione"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Conducente di ciclomotore"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale di divieto per biciclette e ciclomotori.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Divieto per ciclomotori» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ciclomotori",
+      "Ciclomotore",
+      "Divieto",
+      "ciclomotore",
+      "segnalazione"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducente di ciclomotore"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale di divieto specifico per i ciclomotori.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direzione destra» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direzione",
+      "destra",
+      "Segnale regolamentare",
+      "direzione destra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale di direzione obbligatorio (destra).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direzione sinistra» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direzione",
+      "sinistra",
+      "Segnale regolamentare",
+      "direzione sinistra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale di direzione obbligatorio (sinistra).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Passare l'ostruzione a destra» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ostruzione",
+      "destra",
+      "deviazione",
+      "Segnale regolamentare",
+      "passare l'ostruzione a destra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare la direzione obbligatoria per superare un'ostruzione a destra.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Passare l'ostruzione a sinistra» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ostruzione",
+      "sinistra",
+      "deviazione",
+      "Segnale regolamentare",
+      "passare l'ostruzione a sinistra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare la direzione obbligatoria per superare un'ostruzione a sinistra.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Andare dritto avanti» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Andare dritto",
+      "Direzione",
+      "Segnale regolamentare",
+      "dritto",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale di direzione obbligatorio 'dritto avanti'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Svoltare a destra» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Svoltare a destra",
+      "Svolta",
+      "Direzione",
+      "Segnale regolamentare",
+      "svolta a destra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale obbligatorio 'svolta a destra'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Svoltare a sinistra» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Svoltare a sinistra",
+      "Svolta",
+      "Direzione",
+      "Segnale regolamentare",
+      "svolta a sinistra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale obbligatorio 'svolta a sinistra'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rotonda» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rotonda",
+      "Rotonda",
+      "Segnale regolamentare",
+      "rotonda",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare la direzione obbligatoria (tipicamente in senso antiorario) in una rotonda.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Svolta a destra proibita» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Svolta",
+      "destra",
+      "proibito",
+      "Segnale di divieto",
+      "Divieto di svolta a destra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di svolta a destra'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Svolta a sinistra proibita» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Svolta",
+      "sinistra",
+      "proibito",
+      "Segnale di divieto",
+      "Divieto di svolta a sinistra",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di svolta a sinistra'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Inversione a U proibita» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Inversione a U",
+      "proibito",
+      "Segnale di divieto",
+      "Inversione a U proibita",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di inversione a U'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Pista ciclabile» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pista ciclabile",
+      "Bicicletta",
+      "Bicicletta",
+      "Segnale obbligatorio",
+      "pista ciclabile",
+      "segnalazione"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso improprio o ostruzione di una pista ciclabile obbligatoria.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zona a spazio condiviso» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zona a spazio condiviso",
+      "Zona",
+      "spazio condiviso",
+      "segnalazione",
+      "zona lenta"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare le regole o i confini di una zona a spazio condiviso (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Zona pedonale» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zona pedonale",
+      "Zona",
+      "zona pedonale",
+      "segnalazione",
+      "pedone"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare le regole o i confini di una zona pedonale.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

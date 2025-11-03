@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedostatak vozačke dozvole",
+    "fine_chf": 20,
+    "keywords": [
+      "vozačka dozvola",
+      "nošenje dozvole",
+      "neprenošenje",
+      "vozač",
+      "inspekcija",
+      "vozačka dozvola",
+      "saobraćajni dokumenti"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedostatak dozvole za učenje",
+    "fine_chf": 20,
+    "keywords": [
+      "dozvola za učenje",
+      "nošenje dozvole",
+      "neprenošenje",
+      "dozvola za učenje",
+      "vozač"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila (učenik)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedostatak registracije vozila",
+    "fine_chf": 20,
+    "keywords": [
+      "registracija vozila",
+      "nošenje registracije",
+      "neprenošenje",
+      "registracija vozila",
+      "saobraćajni dokumenti"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedostatak dozvole za specijalni transport",
+    "fine_chf": 20,
+    "keywords": [
+      "specijalni transporti",
+      "dozvola",
+      "neprenošenje",
+      "specijalni transport",
+      "dozvola"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Dozvola za specijalni ili preveliki transport.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Nedostatak dokumenta o održavanju emisija",
+    "fine_chf": 20,
+    "keywords": [
+      "dokument o održavanju emisija",
+      "neprenošenje",
+      "dokument o održavanju emisija",
+      "inspekcija"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Nedostatak izuzeće dozvole za signalizovanu regulaciju",
+    "fine_chf": 20,
+    "keywords": [
+      "izuzeće dozvola",
+      "signalizovano",
+      "regulacija",
+      "neprenošenje",
+      "izuzeće dozvola",
+      "saobraćajni znakovi"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Izuzetna dozvola za specifično saobraćajno pravilo/znak.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedostatak sertifikata o kvalifikaciji vozača",
+    "fine_chf": 20,
+    "keywords": [
+      "sertifikat o kvalifikaciji vozača",
+      "neprenošenje",
+      "sertifikat o kompetencijama",
+      "sertifikat o kvalifikaciji profesionalnog vozača"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Dokaz o kvalifikaciji profesionalnog vozača.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nedostatak umetnutog lista prethodnog dana",
+    "fine_chf": 140,
+    "keywords": [
+      "umetnuti list",
+      "prethodni dan",
+      "neprenošenje",
+      "tachograf",
+      "tachograf list",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Povezano sa korišćenjem analognog tachografa za profesionalne vozače (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nedostatak štampe prethodnog dana",
+    "fine_chf": 140,
+    "keywords": [
+      "štampa",
+      "prethodni dan",
+      "neprenošenje",
+      "tachograf",
+      "digitalna štampa tachografa",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Povezano sa korišćenjem digitalnog tachografa za profesionalne vozače (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nedostatak drugih potrebnih umetnutih listova",
+    "fine_chf": 60,
+    "keywords": [
+      "umetnuti listovi",
+      "neprenošenje",
+      "tachograf",
+      "profesionalni vozač",
+      "listovi"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": "fiksna taksa po 7 dana",
+    "notes": "Kazna se primenjuje po 7-dnevnom periodu za nedostatak ne-dnevnih tachograf listova.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nedostatak drugih potrebnih štampa",
+    "fine_chf": 60,
+    "keywords": [
+      "štampe",
+      "neprenošenje",
+      "tachograf",
+      "profesionalni vozač",
+      "štampe"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": "fiksna taksa po 7 dana",
+    "notes": "Kazna se primenjuje po 7-dnevnom periodu za nedostatak ne-dnevnih tachograf štampa.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Nedostatak vozačke kartice",
+    "fine_chf": 140,
+    "keywords": [
+      "vozačka kartica",
+      "neprenošenje",
+      "vozačka kartica",
+      "tachograf",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Vozačka kartica za digitalni tachograf. ARV 1 je švajcarsko radno vreme za *neke* profesionalne vozače.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nedostatak zamenskih tachograf zapisa ili nedeljne pakete",
+    "fine_chf": 40,
+    "keywords": [
+      "zamenski tachograf zapisi",
+      "nedeljni paket",
+      "neprenošenje",
+      "tachograf zapisi",
+      "profesionalni vozač",
+      "paket"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Zamenski tachograf zapisi ili nedeljni paketi (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Nedostatak zamenskog papira za štampač",
+    "fine_chf": 40,
+    "keywords": [
+      "zamenski papir za štampač",
+      "neprenošenje",
+      "papir za štampač",
+      "digitalni tachograf",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak zamenskog papira za štampač za digitalni tachograf.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nedostatak umetnutog lista prethodnog dana",
+    "fine_chf": 40,
+    "keywords": [
+      "umetnuti list",
+      "prethodni dan",
+      "neprenošenje",
+      "tachograf",
+      "tachograf list",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Povezano sa korišćenjem analognog tachografa za profesionalne vozače (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Nedostatak radne sveske",
+    "fine_chf": 40,
+    "keywords": [
+      "radna sveska",
+      "neprenošenje",
+      "radna sveska",
+      "profesionalni vozač",
+      "dnevnik"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Povezano sa profesionalnim vozačima koji rade prema ARV 2 pravilima.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nedostatak internih dnevnih izveštaja tekuće nedelje ili duplog",
+    "fine_chf": 40,
+    "keywords": [
+      "dnevni izveštaji",
+      "nedelja",
+      "neprenošenje",
+      "dnevni izveštaji",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": "fiksna taksa",
+    "notes": "Interni dnevni izveštaji za profesionalne vozače (ARV 2). Kazna je fiksna za nedelju/period.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nedostatak izuzeće dozvole za nevođenje radne sveske",
+    "fine_chf": 40,
+    "keywords": [
+      "dozvola",
+      "radna sveska",
+      "izuzeće",
+      "neprenošenje",
+      "izuzeće dozvola"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionalni vozač"
+    ],
+    "conditions": null,
+    "notes": "Dozvola koja izuzima vozača od vođenja radne sveske (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Nedostatak kontrolne kartice za taksi vozače",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrolna kartica",
+      "taksi vozač",
+      "neprenošenje",
+      "taksi vozač",
+      "kontrolna kartica",
+      "profesionalni vozač"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taksi vozač"
+    ],
+    "conditions": null,
+    "notes": "Kontrolna kartica za taksi vozače (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

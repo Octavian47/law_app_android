@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Uso de uma estrada nacional de primeira ou segunda classe sem a vinheta exigida para o período de validade",
+    "fine_chf": 200,
+    "keywords": [
+      "Estrada nacional",
+      "Vinheta",
+      "Vinheta ausente",
+      "Emissão",
+      "Adesivo de pedágio",
+      "Autoestrada"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Condução em estradas nacionais sem a vinheta de pedágio exigida.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Uso de uma estrada nacional de primeira ou segunda classe com a vinheta adesiva exigida para o período de validade que não está afixada, ou não está afixada no local prescrito diretamente no veículo, ou está danificada",
+    "fine_chf": 200,
+    "keywords": [
+      "Vinheta",
+      "Vinheta adesiva",
+      "Aplicação",
+      "Danificada",
+      "Aderência",
+      "Posicionamento"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Condução com uma vinheta que está afixada incorretamente (não diretamente no veículo) ou danificada.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

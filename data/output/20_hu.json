@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Gyalogúton való közlekedés lelépés nélkül",
+    "fine_chf": 30,
+    "keywords": [
+      "gyalogút",
+      "leszállás",
+      "kerékpár",
+      "Velo",
+      "gyalogos út",
+      "leszállás"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpárvezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Gyalogúton/járdán való közlekedés lelépés nélkül (kerékpárosokra vonatkozik).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Kerékpárúton való közlekedés tiltott irányban",
+    "fine_chf": 30,
+    "keywords": [
+      "kerékpárút",
+      "tiltott irány",
+      "Velo",
+      "ellenáram",
+      "kerékpárút"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpárvezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Kerékpárúton való közlekedés rossz irányban.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Kerékpár sávban való közlekedés tiltott irányban",
+    "fine_chf": 30,
+    "keywords": [
+      "kerékpár sáv",
+      "tiltott irány",
+      "Velo",
+      "ellenáram",
+      "kerékpár sáv"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpárvezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Kerékpár sávban való közlekedés rossz irányban.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "A megálló jelzéseknél a teljes megállás elmulasztása (görgő megállás) (3.01; Art. 27 para. 1 SVG and Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "állj jel",
+      "görgő megállás",
+      "megállás",
+      "közlekedési szabályok",
+      "állj jelzőtábla",
+      "megállás elmulasztása"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A teljes megállás elmulasztása (görgő megállás).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "A közlekedési lámpa jelzésének elmulasztása",
+    "fine_chf": 60,
+    "keywords": [
+      "fényjel",
+      "elmulasztás",
+      "vörös lámpa",
+      "közlekedési lámpa",
+      "elmulasztás",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A közlekedési lámpa figyelmen kívül hagyása (gyakran piros/ sárga áthaladásra utal).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Az 'váltakozó villogó fényjel' (3.20) vagy az 'egyszerű villogó fényjel' (3.21) elmulasztása (Art. 28 SVG, Art. 68 para. 1 et seq. and Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "váltakozó villogó fényjel",
+      "egyszerű villogó fényjel",
+      "elmulasztás",
+      "villogó fény",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Speciális villogó fényjelek (pl. vasúti átjárók) elmulasztása.",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Az egyirányú sávrend megsértése a jelzett iránynyíl és a közlekedési lámpa kontúrnyíl figyelmen kívül hagyásával",
+    "fine_chf": 30,
+    "keywords": [
+      "egyirányú sávrend",
+      "iránynyíl",
+      "kontúrnyíl",
+      "elmulasztás",
+      "sávdiszciplin",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A sávdiszciplin megsértése a jelzett iránynyíl vagy kontúrnyíl figyelmen kívül hagyásával a közlekedési lámpák közelében.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Az iránynyíl irányában való haladás elmulasztása",
+    "fine_chf": 30,
+    "keywords": [
+      "nyíl irány",
+      "továbbhaladás",
+      "sáv",
+      "sáv irány",
+      "forgalmi áramlás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A sávnyíl által jelzett irányban való haladás elmulasztása.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Kézjel vagy irányjelzés hiánya jobb kanyarodáskor",
+    "fine_chf": 20,
+    "keywords": [
+      "kézjel",
+      "irányjelzés",
+      "jobb kanyar",
+      "kanyarjel",
+      "jelzés",
+      "jobb kanyarodás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Jelzés hiánya jobb kanyarodáskor.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Kézjel vagy irányjelzés hiánya bal kanyarodáskor",
+    "fine_chf": 30,
+    "keywords": [
+      "kézjel",
+      "irányjelzés",
+      "bal kanyar",
+      "kanyarjel",
+      "jelzés",
+      "bal kanyarodás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Jelzés hiánya bal kanyarodáskor.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Kézjel vagy irányjelzés hiánya előzéskor",
+    "fine_chf": 20,
+    "keywords": [
+      "kézjel",
+      "irányjelzés",
+      "előzés",
+      "kanyarjel",
+      "jelzés",
+      "előzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető",
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Jelzés hiánya előzéskor.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Biztonsági vonalon való áthaladás vagy átkelés beépített területen",
+    "fine_chf": 40,
+    "keywords": [
+      "biztonsági vonal",
+      "átmenet",
+      "átkelés",
+      "épített területen belül",
+      "folyamatos vonal",
+      "forgalmi fegyelem"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Folyamatos fehér vonal (előzés/átkelés tilos) átlépése épített területen.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Jogosulatlanul a buszsávban való közlekedés",
+    "fine_chf": 30,
+    "keywords": [
+      "buszsáv",
+      "közlekedés",
+      "tiltott",
+      "buszsáv",
+      "korlátozott hozzáférés"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető (jogosulatlan)"
+    ],
+    "conditions": null,
+    "notes": "Jogosulatlanul a fenntartott buszsávban való közlekedés.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Kerékpárok, motorok és elektromos rikshawok számára nem megfelelő vagy nyilvánvalóan nem erre szánt útvonalon való közlekedés",
+    "fine_chf": 30,
+    "keywords": [
+      "útvonal használata",
+      "alkalmatlan",
+      "kerékpár",
+      "motor",
+      "elektromos rikshaw",
+      "alkalmatlan út",
+      "korlátozott hozzáférés"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpáros",
+      "Motoros",
+      "Elektromos rikshaw vezető"
+    ],
+    "conditions": null,
+    "notes": "Alkalmatlan vagy nyilvánvalóan nem erre szánt útvonal használata kerékpárok, motorok vagy elektromos rikshawok számára.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "A kerékpárút használatának elmulasztása",
+    "fine_chf": 30,
+    "keywords": [
+      "kerékpárút",
+      "nem használat",
+      "kötelező használat",
+      "kötelező használat",
+      "kerékpárút"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Kötelező kerékpárút használatának elmulasztása.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "A kerékpár sáv használatának elmulasztása",
+    "fine_chf": 30,
+    "keywords": [
+      "kerékpár sáv",
+      "nem használat",
+      "kötelező használat",
+      "kötelező használat",
+      "kerékpár sáv"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Kötelező kerékpár sáv használatának elmulasztása.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Kerékpár, motor vagy elektromos rikshaw parkolása vagy megállítása, ahol a megállás vagy parkolás általános közlekedési szabályok szerint tilos",
+    "fine_chf": 20,
+    "keywords": [
+      "parkolás tilos",
+      "megállás tilos",
+      "kerékpár",
+      "motor",
+      "elektromos rikshaw",
+      "parkolási tilalom",
+      "általános közlekedési szabályok"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kerékpáros",
+      "Motoros",
+      "Elektromos rikshaw vezető"
+    ],
+    "conditions": null,
+    "notes": "Általános szabályok (nem jelzések) által tiltott parkolás/megállás.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Kerékpár, motor vagy elektromos rikshaw parkolása vagy megállítása, ahol a megállás vagy parkolás jelzésekkel tilos",
+    "fine_chf": 20,
+    "keywords": [
+      "parkolás tilos",
+      "megállás tilos",
+      "jelzések",
+      "kerékpár",
+      "motor",
+      "elektromos rikshaw",
+      "parkolási tilalom",
+      "jelzések"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kerékpáros",
+      "Motoros",
+      "Elektromos rikshaw vezető"
+    ],
+    "conditions": null,
+    "notes": "Közlekedési jelzésekkel tiltott parkolás/megállás.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

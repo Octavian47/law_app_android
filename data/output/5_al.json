@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalimi për ngarkimin e mallrave brenda 10 m para një sinjali ndalimi të transportit publik (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Ngarkim i mallrave",
+      "Shenja e ndalimit",
+      "Transport publik",
+      "ndalim",
+      "mallra",
+      "Ndalesë e transportit publik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim për ngarkim/zharkim të mallrave brenda 10 m para një sinjali ndalimi të transportit publik.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim brenda 10 m pas një sinjali ndalimi të transportit publik (Art. 18 Abs. 3 dhe 19 Abs. 2 a VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shenja e ndalimit",
+      "Transport publik",
+      "60 minuta",
+      "parkim",
+      "Ndalesë e transportit publik",
+      "Kufiri i kohës"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim brenda 10 m pas një sinjali ndalimi të transportit publik, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalim pengues për të lejuar personat të ngjiten dhe të zbresin brenda 10 m pas një sinjali ndalimi të transportit publik (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Pengues",
+      "Ngjitje/Zbërje",
+      "Shenja e ndalimit",
+      "ndalim",
+      "pengues",
+      "Ndalesë e transportit publik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim pengues për të lejuar njerëzit të ngjiten/zbresin brenda 10 m pas një sinjali ndalimi të transportit publik.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalim për ngarkimin e mallrave brenda 10 m pas një sinjali ndalimi të transportit publik (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Ngarkim i mallrave",
+      "Shenja e ndalimit",
+      "Transport publik",
+      "ndalim",
+      "mallra",
+      "Ndalesë e transportit publik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim për ngarkim/zharkim të mallrave brenda 10 m pas një sinjali ndalimi të transportit publik.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim përpara objekteve të stacionit të zjarrit dhe magazinave të pajisjeve zjarri (Art. 18 Abs. 3 dhe Art. 19 Abs. 2 a VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Stacioni i zjarrit",
+      "Magazin",
+      "Pajisje zjarri",
+      "60 minuta",
+      "parkim",
+      "stacioni i zjarrit",
+      "pajisje zjarri"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim përpara objekteve të stacionit të zjarrit/pajisjeve, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalim për ngarkimin e mallrave përpara objekteve të stacionit të zjarrit ose magazinave të pajisjeve zjarri (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Ngarkim i mallrave",
+      "Stacioni i zjarrit",
+      "Pajisje zjarri",
+      "ndalim",
+      "mallra",
+      "stacioni i zjarrit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim për ngarkim/zharkim të mallrave përpara objekteve të stacionit të zjarrit/pajisjeve.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalim pengues për të lejuar personat të ngjiten dhe të zbresin përpara objekteve të stacionit të zjarrit dhe magazinave të pajisjeve zjarri (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Pengues",
+      "Ngjitje/Zbërje",
+      "Stacioni i zjarrit",
+      "ndalim",
+      "pengues",
+      "stacioni i zjarrit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim pengues për të lejuar njerëzit të ngjiten/zbresin përpara objekteve të stacionit të zjarrit/pajisjeve.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Ndalim pengues për ngarkimin e mallrave pranë automjeteve të parkuara përgjatë skajit të rrugës (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Pengues",
+      "Ngarkim i mallrave",
+      "përgjatë",
+      "të parkuara",
+      "ndalim",
+      "pengues",
+      "mallra",
+      "Parkim i dyfishtë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim pengues për ngarkim/zharkim të mallrave pranë automjeteve të parkuara përgjatë skajit të rrugës (parkim i dyfishtë për mallra).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkim në shiritin e bicikletave (Art. 19 Abs. 2 d VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shirit i bicikletave",
+      "Shirit i bicikletave",
+      "60 minuta",
+      "parkim",
+      "shirit i bicikletave",
+      "shirit i bicikletave"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në shiritin e bicikletave, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Ndalim në shiritin e bicikletave kur pengon trafikun e bicikletave (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Shirit i bicikletave",
+      "Trafik i bicikletave",
+      "i penguar",
+      "ndalim",
+      "shirit i bicikletave",
+      "pengues"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në shiritin e bicikletave kur pengon trafikun e bicikletave.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkim në rrugë pranë shiritit të bicikletave (Art. 19 Abs. 2 d VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Rrugë",
+      "Shirit i bicikletave",
+      "pranë",
+      "60 minuta",
+      "parkim",
+      "rrugë",
+      "shirit i bicikletave"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në rrugë pranë shiritit të bicikletave, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkim në pistat e tramvajit (Art. 19 Abs. 2 a dhe 25 Abs. 5 VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Pista e tramvajit",
+      "Pista e tramvajit",
+      "60 minuta",
+      "parkim",
+      "pista e tramvajit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në pistat e tramvajit, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Ndalim në pistat e tramvajit (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Pista e tramvajit",
+      "Pista e tramvajit",
+      "ndalim",
+      "pista e tramvajit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim në pistat e tramvajit.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkim më pak se 1.5 m pranë hekurudhave më të afërta të pistës së tramvajit (Art. 19 Abs. 2 a dhe 25 Abs. 5 VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Pista e tramvajit",
+      "Pista e tramvajit",
+      "1.5 m",
+      "60 minuta",
+      "parkim",
+      "pista e tramvajit",
+      "distancë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim më pak se 1.5 m nga hekurudha më e afërt e pistës së tramvajit, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Ndalim më pak se 1.5 m pranë hekurudhave më të afërta të pistës së tramvajit (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Pista e tramvajit",
+      "Pista e tramvajit",
+      "1.5 m",
+      "ndalim",
+      "pista e tramvajit",
+      "distancë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalim më pak se 1.5 m nga hekurudha më e afërt e pistës së tramvajit.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkim në shiritin e fortë të autostradës (Art. 36 Abs. 3 VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shirit i fortë",
+      "Autostradë",
+      "60 minuta",
+      "parkim",
+      "shirit i fortë",
+      "autostradë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në shiritin e fortë të autostradës, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Ndalim në shiritin e fortë të autostradës, përveç ndalimit emergjent (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndalim",
+      "Shirit i fortë",
+      "Autostradë",
+      "Ndalim emergjent",
+      "ndalim",
+      "shirit i fortë",
+      "autostradë",
+      "emergjencë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "përveç ndalimit emergjent",
+    "notes": "Ndalim në shiritin e fortë të autostradës, përveç rasteve emergjente.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkim në shiritin e fortë të autoudhës (Art. 36 Abs. 3 VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shirit i fortë",
+      "Autoudhë",
+      "60 minuta",
+      "parkim",
+      "shirit i fortë",
+      "autoudhë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në shiritin e fortë të autoudhës, deri në 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

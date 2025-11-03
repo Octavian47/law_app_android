@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim pranë një vije longitudinale të pandërprerë kur një pasaazh me gjerësinë të paktën 3 m nuk mbahet i lirë (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkim",
+      "vija longitudinale",
+      "pasaazh",
+      "më pak se 3 m",
+      "parkim",
+      "vija longitudinale",
+      "pasaazh më pak se 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim pranë një vije longitudinale të pandërprerë, duke penguar pasaazhin më pak se 3 m, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Ndalje pranë një vije longitudinale të pandërprerë kur një pasaazh me gjerësinë të paktën 3 m nuk mbahet i lirë (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "vija longitudinale",
+      "pasaazh",
+      "më pak se 3 m",
+      "ndalje",
+      "vija longitudinale",
+      "pasaazh më pak se 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje pranë një vije longitudinale të pandërprerë, duke penguar pasaazhin më pak se 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim pranë një vije e dyfishtë kur një pasaazh me gjerësinë të paktën 3 m nuk mbahet i lirë (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkim",
+      "vija e dyfishtë",
+      "pasaazh",
+      "më pak se 3 m",
+      "parkim",
+      "vija e dyfishtë",
+      "pasaazh më pak se 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim pranë një vije e dyfishtë, duke penguar pasaazhin më pak se 3 m, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Ndalje pranë një vije e dyfishtë kur një pasaazh me gjerësinë të paktën 3 m nuk mbahet i lirë (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "vija e dyfishtë",
+      "pasaazh",
+      "më pak se 3 m",
+      "ndalje",
+      "vija e dyfishtë",
+      "pasaazh më pak se 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje pranë një vije e dyfishtë, duke penguar pasaazhin më pak se 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në një kryqëz rrugor (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkim",
+      "kryqëz rrugor",
+      "kryq",
+      "parkim",
+      "kryqëz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në një kryq, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Ndalje në një kryqëz rrugor (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "kryqëz rrugor",
+      "kryq",
+      "ndalje",
+      "kryqëz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje në një kryq.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim më pak se 5 m para një kryqëz rrugor nga rruga kryqëzuese (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parkim",
+      "kryqëz rrugor",
+      "rrugë kryqëzuese",
+      "5 m",
+      "parkim",
+      "kryq",
+      "rrugë kryqëzuese",
+      "më pak se 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Parkim më pak se 5 m para një kryqje nga rruga kryqëzuese.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Ndalje më pak se 5 m para një kryqëz rrugor nga rruga kryqëzuese (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "ndalje",
+      "kryqëz rrugor",
+      "rrugë kryqëzuese",
+      "5 m",
+      "ndalje",
+      "kryq",
+      "rrugë kryqëzuese",
+      "më pak se 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje më pak se 5 m para një kryqje nga rruga kryqëzuese.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim më pak se 5 m pas një kryqëz rrugor nga rruga kryqëzuese (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkim",
+      "kryqëz rrugor",
+      "rrugë kryqëzuese",
+      "5 m",
+      "parkim",
+      "kryq",
+      "rrugë kryqëzuese",
+      "më pak se 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim më pak se 5 m pas një kryqje nga rruga kryqëzuese, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Ndalje më pak se 5 m pas një kryqëz rrugor nga rruga kryqëzuese (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "kryqëz rrugor",
+      "rrugë kryqëzuese",
+      "5 m",
+      "ndalje",
+      "kryq",
+      "rrugë kryqëzuese",
+      "më pak se 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje më pak se 5 m pas një kryqje nga rruga kryqëzuese.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në një kalim këmbësor (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 80,
+    "keywords": [
+      "parkim",
+      "kalim këmbësor",
+      "parkim",
+      "kalim këmbësor",
+      "kalim zebre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim në një kalim këmbësor, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Ndalje në një kalim këmbësor (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "kalim këmbësor",
+      "ndalje",
+      "kalim këmbësor",
+      "kalim zebre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje në një kalim këmbësor.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim pranë një kalimi këmbësor (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 80,
+    "keywords": [
+      "parkim",
+      "kalim këmbësor",
+      "pranë",
+      "parkim",
+      "kalim këmbësor",
+      "pranë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim pranë një kalimi këmbësor, deri në 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Ndalje pranë një kalimi këmbësor (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "kalim këmbësor",
+      "pranë",
+      "ndalje",
+      "kalim këmbësor",
+      "pranë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje pranë një kalimi këmbësor.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Ndalje në një kalim hekurudhor (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "kalim hekurudhor",
+      "ndalje",
+      "kalim hekurudhor",
+      "kalim në nivel"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje në një kalim hekurudhor.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Ndalje në një tunel (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "tunel",
+      "ndalje",
+      "tunel"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje në një tunel.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim më pak se 10 m para një shenjë ndalimi për transport publik (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "ndalim",
+      "transport publik",
+      "10 m",
+      "parkim",
+      "ndalesë autobusi",
+      "transport publik",
+      "më pak se 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Parkim më pak se 10 m para një shenjë ndalimi për transport publik.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ndalje penguese për të lejuar hyrjen/daljen e personave më pak se 10 m para një shenjë ndalimi për transport publik (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "ndalje",
+      "ndalim",
+      "transport publik",
+      "10 m",
+      "pengim",
+      "ndalje",
+      "ndalesë autobusi",
+      "transport publik",
+      "më pak se 10 m",
+      "pengim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Ndalje penguese për të lejuar hyrjen/daljen e personave më pak se 10 m para një shenjë ndalimi për transport publik.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

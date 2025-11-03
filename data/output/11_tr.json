@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "ASTRA tarafından otoyollarda belirlenen cihaz ve ölçüm güvenliği toleransı düşüldükten sonra genel, araçla ilgili veya işaretlenmiş maksimum hızı aşmak",
+    "fine_chf": 20,
+    "keywords": [
+      "hız",
+      "aşma",
+      "otoyol",
+      "ölçüm güvenliği",
+      "hız aşımı",
+      "otoyol",
+      "otoyollar",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "1–5 km/h kadar",
+    "notes": "Tolerans düşüldükten sonra 1-5 km/h hız aşımı.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "ASTRA tarafından otoyollarda belirlenen cihaz ve ölçüm güvenliği toleransı düşüldükten sonra genel, araçla ilgili veya işaretlenmiş maksimum hızı aşmak",
+    "fine_chf": 60,
+    "keywords": [
+      "hız",
+      "aşma",
+      "otoyol",
+      "ölçüm güvenliği",
+      "hız aşımı",
+      "otoyol",
+      "otoyollar",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "6–10 km/h kadar",
+    "notes": "Tolerans düşüldükten sonra 6-10 km/h hız aşımı.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "ASTRA tarafından otoyollarda belirlenen cihaz ve ölçüm güvenliği toleransı düşüldükten sonra genel, araçla ilgili veya işaretlenmiş maksimum hızı aşmak",
+    "fine_chf": 120,
+    "keywords": [
+      "hız",
+      "aşma",
+      "otoyol",
+      "ölçüm güvenliği",
+      "hız aşımı",
+      "otoyol",
+      "otoyollar",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "11–15 km/h kadar",
+    "notes": "Tolerans düşüldükten sonra 11-15 km/h hız aşımı.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "ASTRA tarafından otoyollarda belirlenen cihaz ve ölçüm güvenliği toleransı düşüldükten sonra genel, araçla ilgili veya işaretlenmiş maksimum hızı aşmak",
+    "fine_chf": 180,
+    "keywords": [
+      "hız",
+      "aşma",
+      "otoyol",
+      "ölçüm güvenliği",
+      "hız aşımı",
+      "otoyol",
+      "otoyollar",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "16–20 km/h kadar",
+    "notes": "Tolerans düşüldükten sonra 16-20 km/h hız aşımı.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "ASTRA tarafından otoyollarda belirlenen cihaz ve ölçüm güvenliği toleransı düşüldükten sonra genel, araçla ilgili veya işaretlenmiş maksimum hızı aşmak",
+    "fine_chf": 260,
+    "keywords": [
+      "hız",
+      "aşma",
+      "otoyol",
+      "ölçüm güvenliği",
+      "hız aşımı",
+      "otoyol",
+      "otoyollar",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "21–25 km/h kadar",
+    "notes": "Tolerans düşüldükten sonra 21-25 km/h hız aşımı.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "Her iki yönde genel trafik yasağını gösteren düzenleyici işareti (2.01; Art. 27 Abs. 1 SVG ve Art. 18 Abs. 1 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "trafik yasağı",
+      "her iki yön",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "giriş yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Her iki yönde tüm araçlar için 'Giriş yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Giriş yasak işaretini (2.02; Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV ve Art. 18 Abs. 3 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "giriş yasak",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "giriş yok",
+      "yol işareti",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Giriş yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Motorlu taşıtlar için yasak işaretini (2.03; Art. 27 Abs. 1 SVG ve Art. 19 Abs. 1 Bst. a SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "yasak",
+      "motorlu taşıt",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "motorlu taşıt yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Motorlu taşıt yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Motosikletler için yasak işaretini (2.04; Art. 27 Abs. 1 SVG ve Art. 19 Abs. 1 Bst. b SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "yasak",
+      "motosikletler",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "motosiklet yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Motosiklet yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Kamyonlar için yasak işaretini (2.07; Art. 27 Abs. 1 SVG ve Art. 19 Abs. 1 Bst. d SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "yasak",
+      "kamyonlar",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "kamyon yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kamyon sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Kamyon yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Otobüsler için yasak işaretini (2.08; Art. 27 Abs. 1 SVG ve Art. 19 Abs. 1 Bst. e SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "yasak",
+      "otobüsler",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "otobüs yok",
+      "otobüsler",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Otobüs sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Otobüs yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Römorklar için yasak işaretini (2.09; Art. 27 Abs. 1 SVG ve Art. 19 Abs. 1 Bst. f SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "yasak",
+      "römorklar",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "römork yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Römorklu araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Römork yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Sağa yön işaretini (2.32; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 1 Bst. a SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sağa yön",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sağa yön",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sağa yön' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Sola yön işaretini (2.33; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 1 Bst. b SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sola yön",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sola yön",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sola yön' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Sağdaki engeli geç işaretini (2.34; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 1 Bst. c SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "engel geç",
+      "sağ",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sağdan geç",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sağdaki engeli geç' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Soldaki engeli geç işaretini (2.35; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 1 Bst. d SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "engel geç",
+      "sol",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "soldan geç",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Soldaki engeli geç' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Düz ileri git işaretini (2.37, 2.39, 2.40, 2.41; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 1 Bst. i ve 3 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "düz ileri git",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "düz ileri",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Düz ileri git' işaretini (2.37, 2.39, 2.40, 2.41 çeşitli formları) görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Sağa dön işaretini (2.37, 2.39, 2.40, 2.41; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 2 ve 3 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sağa dön",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sağa dön",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sağa dön' işaretini (2.37, 2.39, 2.40, 2.41 çeşitli formları) görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Sola dön işaretini (2.38, 2.39, 2.41; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 2 ve 3 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sola dön",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sola dön",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sola dön' işaretini (2.38, 2.39, 2.41 çeşitli formları) görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Dönel kavşak işaretini (2.41.1; Art. 27 Abs. 1 SVG ve Art. 24 Abs. 4 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "dönel kavşak",
+      "dönel kavşak",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "dönel kavşak",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Dönel kavşak' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Sağa dönüş yasak işaretini (2.42; Art. 27 Abs. 1 SVG ve Art. 25 Abs. 1 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sağa dönüş yok",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sağa dönüş yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sağa dönüş yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Sola dönüş yasak işaretini (2.43; Art. 27 Abs. 1 SVG ve Art. 25 Abs. 1 SSV) göz ardı etmek",
+    "fine_chf": 100,
+    "keywords": [
+      "sola dönüş yok",
+      "düzenleyici işaret",
+      "göz ardı etme",
+      "sola dönüş yok",
+      "yol işareti",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Sola dönüş yok' işaretini görmezden gelmek.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

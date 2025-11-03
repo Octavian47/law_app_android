@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "U dönüş yasaktır (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "U dönüş yasaktır",
+      "U dönüş yasaktır",
+      "Sinyal 2.46",
+      "Dönüş",
+      "Düzenleyici sinyal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Kar zincirleri zorunludur (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Kar zincirleri",
+      "zorunlu",
+      "Kar zincirleri",
+      "zorunlu",
+      "Sinyal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Yaya bölgesi (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Yaya bölgesi",
+      "Yaya bölgesi",
+      "Giriş yasaktır",
+      "Sinyal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya bölgesine yetkisiz giriş.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Bisiklet yolu (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Bisiklet yolu",
+      "Bisiklet yolu",
+      "Sürüş yasaktır",
+      "Sinyal 2.60",
+      "Sürüş yasaktır"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü (bisikletler hariç)"
+    ],
+    "conditions": null,
+    "notes": "Yalnızca bisikletler için ayrılmış bir yolu kullanmak.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Yaya yolu (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Yaya yolu",
+      "Yaya yolu",
+      "Sürüş yasaktır",
+      "Sinyal 2.61",
+      "Sürüş yasaktır"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü (yaya hariç)"
+    ],
+    "conditions": null,
+    "notes": "Yalnızca yayalar için ayrılmış bir yolu kullanmak.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Bisiklet ve yaya yolu (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Bisiklet ve yaya yolu",
+      "Birleşik yol",
+      "Sürüş yasaktır",
+      "Sinyal 2.63",
+      "Sürüş yasaktır"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü (bisikletler ve yayalar hariç)"
+    ],
+    "conditions": null,
+    "notes": "Bisiklet ve yayalar için ayrılmış bir yolu kullanmak.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Sele ve merkezi aks römorkları hariç römork yasağı (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Römork yasağı",
+      "Römork yasağı",
+      "Sele römork",
+      "Merkezi aks römork",
+      "Sinyal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü (römorklu)"
+    ],
+    "conditions": null,
+    "notes": "Yasaklı bir römork tipiyle sürüş.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Otoyollarda “Kamyonlar için sollama yasaktır” düzenleyici sinyaline uymama (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Sollama yasağı",
+      "Kamyon",
+      "Otoyol",
+      "Kamyon",
+      "Sollama yasağı",
+      "Sinyal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kamyon sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Otoyollarda yasak olduğu halde kamyonun illegal sollaması.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Tramvay rayında sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "Tramvay rayı",
+      "Tramvay rayı",
+      "Yasakta sürüş",
+      "Özel şeritler",
+      "Tramvay rayları"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "İşaretli yön okunu görmezden gelerek şerit disiplinini ihlal",
+    "fine_chf": 100,
+    "keywords": [
+      "Şerit disiplini",
+      "Yön oku",
+      "Yol işareti",
+      "Şerit disiplini",
+      "İşaretli ok",
+      "Görmezden gelme"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Şerit oklarını/disiplinini görmezden gelme.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Trafik ışığı sisteminin kontur okunu görmezden gelerek şerit disiplinini ihlal",
+    "fine_chf": 100,
+    "keywords": [
+      "Şerit disiplini",
+      "Kontur oku",
+      "Trafik ışığı sistemi",
+      "Trafik ışığı",
+      "Sinyal oku",
+      "Şerit disiplini"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Trafik ışıklarında gösterilen yön okunu görmezden gelme.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Ok yönünde sürmeye devam etmeme (aynı yönde şeritleri ayıran güvenlik çizgisini geçmeyi de içerebilir [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Ok yönü",
+      "Sürmeye devam etmeme",
+      "Güvenlik çizgisi",
+      "Zorunlu yön",
+      "Sürekli çizgi",
+      "Geçiş"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Okla gösterilen zorunlu şerit yönüne uymama (kaçınmak için sürekli çizgiyi geçmeyi de içerir).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Zipper birleşimini görmezden gelerek şerit disiplinini ihlal",
+    "fine_chf": 100,
+    "keywords": [
+      "Şerit disiplini",
+      "Zipper birleşimi",
+      "Birleşme",
+      "Zipper birleşimi",
+      "Şerit sonu",
+      "Görmezden gelme"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Şeritler sona erdiğinde zipper birleşimini yapmama.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Otobüs şeridinde sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "Otobüs şeridi",
+      "Otobüs şeridi",
+      "Özel şerit",
+      "Yetkisiz kullanım"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü (otobüs hariç)"
+    ],
+    "conditions": null,
+    "notes": "İşaretli otobüs şeridinde sürüş.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Otobüs yolunda sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "Otobüs yolu",
+      "Otobüs yolu",
+      "Özel şerit",
+      "Yetkisiz kullanım"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü (otobüs hariç)"
+    ],
+    "conditions": null,
+    "notes": "Belirlenmiş otobüs yolu/şeridinde sürüş (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Dur işaretlerinde eksik durma (kayma durması) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Dur işareti",
+      "Kayma durması",
+      "Dur",
+      "Dur işareti",
+      "Durmama",
+      "Sinyal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Araç dur çizgisinde tam olarak durmadan geçen 'kayma durması'.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Trafik ışığını gözlemlememe",
+    "fine_chf": 250,
+    "keywords": [
+      "Trafik ışığı",
+      "Kırmızı ışık",
+      "Trafik ışığı",
+      "Görmezden gelme",
+      "Kırmızı ışık",
+      "Sinyal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kırmızı ışık geçme veya eşdeğer trafik sinyali ihlali için genel suç.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "“Alternatif yanıp sönen ışık sinyali” (3.20) veya “basit yanıp sönen ışık sinyali” (3.21) gözlemlememe",
+    "fine_chf": 250,
+    "keywords": [
+      "Alternatif yanıp sönen ışık sinyali",
+      "Basit yanıp sönen ışık sinyali",
+      "Yanıp sönen sinyal",
+      "Demiryolu geçidi",
+      "Düzey geçidi",
+      "Sinyal 3.20",
+      "Sinyal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Genellikle demiryolu geçitlerinde veya kritik tehlike noktalarında kullanılan yanıp sönen uyarıları görmezden gelme.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Sürekli çizgiyle işaretlenmiş bisiklet yolunu geçmek",
+    "fine_chf": 60,
+    "keywords": [
+      "Bisiklet yolu",
+      "Sürekli çizgi",
+      "Bisiklet yolu",
+      "Sürekli çizgi",
+      "Geçiş yasaktır",
+      "Geçiş"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü (bisikletler hariç)"
+    ],
+    "conditions": null,
+    "notes": "Sürekli beyaz çizgiyle işaretlenmiş bir bisiklet yolunu geçmek veya üzerinde sürmek.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

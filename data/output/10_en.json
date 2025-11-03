@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "for vehicles and vehicle combinations with a total weight or total towing weight of not more than 3500 kg, exceeding by more than 100 kg but not more than 5 percent.",
+    "fine_chf": 200,
+    "keywords": [
+      "gross weight",
+      "overload",
+      "vehicle combination",
+      "permitted weight",
+      "overload",
+      "gross weight"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver",
+      "Vehicle combination"
+    ],
+    "conditions": null,
+    "notes": "Overweight: >100 kg, but <= 5% over maximum gross weight (<= 3500 kg). Fine applies to item 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "for vehicles and vehicle combinations with a total weight or total towing weight of more than 3500 kg, by more than 100 kg up to 5 percent, but not more than 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "gross weight",
+      "overload",
+      "vehicle combination",
+      "heavy traffic",
+      "overload",
+      "HGV"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver",
+      "Heavy vehicles"
+    ],
+    "conditions": null,
+    "notes": "Overweight: >100 kg and <= 1000 kg, but <= 5% over maximum gross weight (> 3500 kg). Fine applies to item 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "by not more than 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "axle load",
+      "overload",
+      "permitted weight",
+      "axle load",
+      "overload"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Exceeding permitted axle load (after deduction of measuring tolerance), up to 100 kg. Fine applies to item 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "for vehicles with a total weight of more than 3500 kg, exceeding by more than 100 kg, but not more than 2 percent.",
+    "fine_chf": 250,
+    "keywords": [
+      "axle load",
+      "overload",
+      "heavy traffic",
+      "axle load",
+      "HGV",
+      "overload"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver",
+      "Heavy vehicles"
+    ],
+    "conditions": null,
+    "notes": "Exceeding permitted axle load (>100 kg, but <= 2% over limit) for vehicles > 3500 kg. Fine applies to item 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "by more than 2 percent, but not more than 5 percent",
+    "fine_chf": 40,
+    "keywords": [
+      "permitted weight",
+      "overload",
+      "axle load",
+      "gross weight",
+      "axle load",
+      "vehicle combination"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Exceeding permitted total weight/combination weight (after deduction of measuring tolerance) by >2% but <=5%. Fine applies to item 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "by more than 5 percent",
+    "fine_chf": 100,
+    "keywords": [
+      "permitted weight",
+      "overload",
+      "axle load",
+      "gross weight",
+      "axle load",
+      "vehicle combination"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Exceeding permitted total weight/combination weight (after deduction of measuring tolerance) by >5%. Fine applies to item 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Riding a motorcycle on a sidewalk",
+    "fine_chf": 100,
+    "keywords": [
+      "motorcycle",
+      "sidewalk",
+      "footpath",
+      "riding",
+      "Motorcycle",
+      "sidewalk"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorcycle rider"
+    ],
+    "conditions": null,
+    "notes": "Riding a motorcycle on a sidewalk.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Failure to keep one's place by a motorcycle rider within the column when traffic is stopped.",
+    "fine_chf": 60,
+    "keywords": [
+      "motorcycle rider",
+      "column",
+      "place",
+      "traffic stopped",
+      "Motorcycle",
+      "traffic jam",
+      "lane splitting"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorcycle rider"
+    ],
+    "conditions": null,
+    "notes": "Motorcycle rider not keeping their place within the column when traffic is halted (e.g., lane filtering/splitting when stopped).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "by 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "inner city",
+      "Astra",
+      "speeding",
+      "built-up area"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding inside built-up areas, 1-5 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "by 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "inner city",
+      "Astra",
+      "speeding",
+      "built-up area"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding inside built-up areas, 6-10 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "by 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "inner city",
+      "Astra",
+      "speeding",
+      "built-up area"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding inside built-up areas, 11-15 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "by 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "outside built-up area",
+      "motorway",
+      "speeding",
+      "outside built-up area",
+      "motorway"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding outside built-up areas or on motorways/semi-motorways, 1-5 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "by 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "outside built-up area",
+      "motorway",
+      "speeding",
+      "outside built-up area",
+      "motorway"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding outside built-up areas or on motorways/semi-motorways, 6-10 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "by 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "outside built-up area",
+      "motorway",
+      "speeding",
+      "outside built-up area",
+      "motorway"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding outside built-up areas or on motorways/semi-motorways, 11-15 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "by 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "speed",
+      "exceeding",
+      "outside built-up area",
+      "motorway",
+      "speeding",
+      "outside built-up area",
+      "motorway"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Speeding outside built-up areas or on motorways/semi-motorways, 16-20 km/h over the limit (after deduction of measuring tolerance). Fine applies to item 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

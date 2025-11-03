@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Kesintisiz bir uzunlamasına çizgi yanında, en az 3 m genişliğinde bir geçiş serbest bırakılmadığında park etme (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "park",
+      "uzunlamasına çizgi",
+      "geçiş",
+      "3 m'den az",
+      "park",
+      "uzunlamasına çizgi",
+      "3 m'den az geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Kesintisiz bir uzunlamasına çizgi yanında park etme, 3 m'den az bir geçişi engelleme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Kesintisiz bir uzunlamasına çizgi yanında, en az 3 m genişliğinde bir geçiş serbest bırakılmadığında durma (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "uzunlamasına çizgi",
+      "geçiş",
+      "3 m'den az",
+      "durma",
+      "uzunlamasına çizgi",
+      "3 m'den az geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kesintisiz bir uzunlamasına çizgi yanında durma, 3 m'den az bir geçişi engelleme.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Çift çizgi yanında, en az 3 m genişliğinde bir geçiş serbest bırakılmadığında park etme (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "park",
+      "çift çizgi",
+      "geçiş",
+      "3 m'den az",
+      "park",
+      "çift çizgi",
+      "3 m'den az geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Çift çizgi yanında park etme, 3 m'den az bir geçişi engelleme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Çift çizgi yanında, en az 3 m genişliğinde bir geçiş serbest bırakılmadığında durma (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "çift çizgi",
+      "geçiş",
+      "3 m'den az",
+      "durma",
+      "çift çizgi",
+      "3 m'den az geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çift çizgi yanında durma, 3 m'den az bir geçişi engelleme.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Bir yol kavşağında park etme (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "park",
+      "yol kavşağı",
+      "kavşak",
+      "park",
+      "kavşak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Kavşakta park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Bir yol kavşağında durma (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "yol kavşağı",
+      "kavşak",
+      "durma",
+      "kavşak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kavşakta durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Karşı yoldan yol kavşağının önünde 5 m'den az bir mesafede park etme (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "park",
+      "yol kavşağı",
+      "karşı yol",
+      "5 m",
+      "park",
+      "kavşak",
+      "karşı yol",
+      "5 m'den az"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Karşı yoldan bir kavşağın önünde 5 m'den az bir mesafede park etme.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Karşı yoldan yol kavşağının önünde 5 m'den az bir mesafede durma (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "durma",
+      "yol kavşağı",
+      "karşı yol",
+      "5 m",
+      "durma",
+      "kavşak",
+      "karşı yol",
+      "5 m'den az"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Karşı yoldan bir kavşağın önünde 5 m'den az bir mesafede durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Karşı yoldan yol kavşağından 5 m'den az bir mesafede sonra park etme (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "park",
+      "yol kavşağı",
+      "karşı yol",
+      "5 m",
+      "park",
+      "kavşak",
+      "karşı yol",
+      "5 m'den az"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Karşı yoldan bir kavşağın ardından 5 m'den az bir mesafede park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Karşı yoldan yol kavşağından 5 m'den az bir mesafede sonra durma (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "yol kavşağı",
+      "karşı yol",
+      "5 m",
+      "durma",
+      "kavşak",
+      "karşı yol",
+      "5 m'den az"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Karşı yoldan bir kavşağın ardından 5 m'den az bir mesafede durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Yaya geçidinde park etme (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 80,
+    "keywords": [
+      "park",
+      "yaya geçidi",
+      "park",
+      "yaya geçidi",
+      "zebra geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Yaya geçidinde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Yaya geçidinde durma (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "yaya geçidi",
+      "durma",
+      "yaya geçidi",
+      "zebra geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya geçidinde durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Yaya geçidine bitişik park etme (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) 60 dakikaya kadar",
+    "fine_chf": 80,
+    "keywords": [
+      "park",
+      "yaya geçidi",
+      "bitişik",
+      "park",
+      "yaya geçidi",
+      "bitişik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Yaya geçidine bitişik park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Yaya geçidine bitişik durma (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "yaya geçidi",
+      "bitişik",
+      "durma",
+      "yaya geçidi",
+      "bitişik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya geçidine bitişik durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Demiryolu geçidinde durma (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "demiryolu geçidi",
+      "durma",
+      "demiryolu geçidi",
+      "seviye geçidi"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Demiryolu geçidinde durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Alt geçitte durma (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "alt geçit",
+      "durma",
+      "alt geçit"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Alt geçitte durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Kamu taşıma durak işaretinin önünde 10 m'den az bir mesafede park etme (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "durak",
+      "toplu taşıma",
+      "10 m",
+      "park",
+      "otobüs durağı",
+      "toplu taşıma",
+      "10 m'den az"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kamu taşıma durak işaretinin önünde 10 m'den az bir mesafede park etme.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Kamu taşıma durak işaretinin önünde 10 m'den az bir mesafede insanları içeri/ dışarı alırken engelleyici durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "durak",
+      "toplu taşıma",
+      "10 m",
+      "engel",
+      "durma",
+      "otobüs durağı",
+      "toplu taşıma",
+      "10 m'den az",
+      "engel"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kamu taşıma durak işaretinin önünde 10 m'den az bir mesafede insanları içeri/ dışarı alırken engelleyici durma.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

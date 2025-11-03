@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autostrady (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autostrada",
+      "Półautostrada",
+      "Użycie",
+      "VRV 50a",
+      "Ograniczenie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawnione korzystanie z półautostrad (często dotyczy konkretnych typów pojazdów lub urządzeń).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Omijanie, wspinanie się nad lub przeczołgiwanie się pod barierami lub półbarierami",
+    "fine_chf": 20,
+    "keywords": [
+      "Bariery",
+      "Półbariery",
+      "Bariery",
+      "Przejazd kolejowy",
+      "Przejazd na poziomie",
+      "Omijanie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Użytkownik drogi"
+    ],
+    "conditions": null,
+    "notes": "Omijanie, wspinanie się nad lub przeczołgiwanie się pod barierami lub półbarierami.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Korzystanie z ścieżki rowerowej przez pieszych, gdy\n1. jest chodnik",
+    "fine_chf": 10,
+    "keywords": [
+      "Pieszy",
+      "Ścieżka rowerowa",
+      "Chodnik",
+      "Chodnik",
+      "Pieszy",
+      "Ścieżka rowerowa"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piesi"
+    ],
+    "conditions": "Obecny chodnik",
+    "notes": "Korzystanie ze ścieżki rowerowej, gdy dostępny jest chodnik.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Korzystanie z ścieżki rowerowej przez pieszych, gdy\n2. jest ścieżka piesza",
+    "fine_chf": 10,
+    "keywords": [
+      "Pieszy",
+      "Ścieżka rowerowa",
+      "Ścieżka piesza",
+      "Chodnik",
+      "Pieszy",
+      "Ścieżka rowerowa"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piesi"
+    ],
+    "conditions": "Obecna ścieżka piesza",
+    "notes": "Korzystanie ze ścieżki rowerowej, gdy dostępna jest dedykowana ścieżka piesza.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Jazda bez świateł",
+    "fine_chf": 20,
+    "keywords": [
+      "Światło",
+      "Oświetlenie",
+      "Jazda",
+      "E-skuter",
+      "Urządzenia przypominające pojazdy",
+      "Wyposażenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operator urządzeń (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez wymaganego oświetlenia (dotyczy głównie e-skuterów/podobnych urządzeń).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Utrudnianie korzystania z obszarów ruchu przeznaczonych dla pieszych",
+    "fine_chf": 20,
+    "keywords": [
+      "Pieszy",
+      "Obszary ruchu",
+      "Zablokowanie",
+      "Chodnik",
+      "Utrudnianie",
+      "Urządzenia VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Urządzenia (VRV 50a)",
+      "Użytkownicy dróg"
+    ],
+    "conditions": null,
+    "notes": "Utrudnianie korzystania z obszarów ruchu przeznaczonych dla pieszych.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Utrudnianie korzystania z jezdni na drogach drugorzędowych z uspokojonym ruchem",
+    "fine_chf": 20,
+    "keywords": [
+      "Drogi drugorzędowe",
+      "Jezdnia",
+      "Zablokowanie",
+      "Przepływ ruchu",
+      "Droga drugorzędowa",
+      "Urządzenia (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Urządzenia (VRV 50a)",
+      "Użytkownicy dróg"
+    ],
+    "conditions": null,
+    "notes": "Utrudnianie przepływu ruchu na drogach drugorzędowych z uspokojonym ruchem.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorowanie sygnału 'Zakaz dla urządzeń przypominających pojazdy'",
+    "fine_chf": 20,
+    "keywords": [
+      "Sygnał",
+      "Zakaz",
+      "Urządzenia przypominające pojazdy",
+      "E-skuter",
+      "Sygnalizacja",
+      "Znak drogowy"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator urządzeń przypominających pojazdy"
+    ],
+    "conditions": null,
+    "notes": "Ignorowanie konkretnego znaku drogowego zakazującego urządzeń przypominających pojazdy.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Używanie urządzeń przypominających pojazdy w nieuprawnionych obszarach ruchu",
+    "fine_chf": 20,
+    "keywords": [
+      "Urządzenia przypominające pojazdy",
+      "E-skuter",
+      "Obszary ruchu",
+      "Nieuprawnione użycie",
+      "Ograniczenie"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator urządzeń przypominających pojazdy"
+    ],
+    "conditions": null,
+    "notes": "Używanie urządzeń (takich jak e-skutery) w obszarach ruchu, gdzie nie są dozwolone.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Nieustąpienie pierwszeństwa pieszym",
+    "fine_chf": 30,
+    "keywords": [
+      "Prawo pierwszeństwa",
+      "Pieszy",
+      "Priorytet",
+      "Priorytet",
+      "Pieszy",
+      "Urządzenia (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator urządzeń przypominających pojazdy"
+    ],
+    "conditions": null,
+    "notes": "Nieustąpienie pierwszeństwa pieszym (dotyczy użytkowników specjalnych urządzeń).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

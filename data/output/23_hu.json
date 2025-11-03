@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autópályák (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 és 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autópálya",
+      "Félautópálya",
+      "Használat",
+      "VRV 50a",
+      "Korlátozás"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Fél-autópályák jogosulatlan használata (gyakran bizonyos járműtípusokra vagy eszközökre vonatkozik).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Akadályok vagy félaakadályok megkerülése, átmászása vagy alulmászása",
+    "fine_chf": 20,
+    "keywords": [
+      "Akadályok",
+      "Félaakadályok",
+      "Akadályok",
+      "Vasúti átkelő",
+      "Szintátkelő",
+      "Megkerülés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Közúti felhasználó"
+    ],
+    "conditions": null,
+    "notes": "Akadályok vagy félaakadályok megkerülése, átmászása vagy alulmászása.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Gyalogosok kerékpárúton való használata, ha\n1. járda áll rendelkezésre",
+    "fine_chf": 10,
+    "keywords": [
+      "Gyalogos",
+      "Kerékpárút",
+      "Járda",
+      "Járda",
+      "Gyalogos",
+      "Kerékpárút"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogosok"
+    ],
+    "conditions": "Járda jelen van",
+    "notes": "Kerékpárút használata, ha járda áll rendelkezésre.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Gyalogosok kerékpárúton való használata, ha\n2. gyalogút áll rendelkezésre",
+    "fine_chf": 10,
+    "keywords": [
+      "Gyalogos",
+      "Kerékpárút",
+      "Gyalogút",
+      "Járda",
+      "Gyalogos",
+      "Kerékpárút"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Gyalogosok"
+    ],
+    "conditions": "Gyalogút áll rendelkezésre",
+    "notes": "Kerékpárút használata, ha különálló gyalogút áll rendelkezésre.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Fények nélküli vezetés",
+    "fine_chf": 20,
+    "keywords": [
+      "Fény",
+      "Világítás",
+      "Vezetés",
+      "E-roller",
+      "Járműszerű eszközök",
+      "Felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Eszközök kezelője (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Fények nélküli vezetés a kötelező világítás nélkül (elsősorban e-rollerre/hasonló eszközökre vonatkozik).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Gyalogosok számára kijelölt közlekedési területek használatának akadályozása",
+    "fine_chf": 20,
+    "keywords": [
+      "Gyalogos",
+      "Közlekedési területek",
+      "Akadályozás",
+      "Járda",
+      "Akadályozás",
+      "VRV 50a eszközök"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Eszközök (VRV 50a)",
+      "Közúti felhasználók"
+    ],
+    "conditions": null,
+    "notes": "Gyalogosok számára kijelölt közlekedési területek használatának akadályozása.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Közlekedéscsillapított mellékutakon a közúti sáv használatának akadályozása",
+    "fine_chf": 20,
+    "keywords": [
+      "Mellékutak",
+      "Közúti sáv",
+      "Akadályozás",
+      "Közlekedés áramlása",
+      "Mellékút",
+      "Eszközök (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Eszközök (VRV 50a)",
+      "Közúti felhasználók"
+    ],
+    "conditions": null,
+    "notes": "Közlekedés áramlásának akadályozása a közlekedéscsillapított mellékutakon.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "A 'Járműszerű eszközök tilalma' jelzés figyelmen kívül hagyása",
+    "fine_chf": 20,
+    "keywords": [
+      "Jelzés",
+      "Tiltás",
+      "Járműszerű eszközök",
+      "E-roller",
+      "Jelzés",
+      "Közlekedési jel"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Járműszerű eszközök kezelője"
+    ],
+    "conditions": null,
+    "notes": "A járműszerű eszközök tilalmát jelző közlekedési jel figyelmen kívül hagyása.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Járműszerű eszközök használata jogosulatlan közlekedési területeken",
+    "fine_chf": 20,
+    "keywords": [
+      "Járműszerű eszközök",
+      "E-roller",
+      "Közlekedési területek",
+      "Jogosulatlan használat",
+      "Korlátozás"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Járműszerű eszközök kezelője"
+    ],
+    "conditions": null,
+    "notes": "Eszközök (például e-roller) használata olyan közlekedési területeken, ahol nem megengedett.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "A gyalogosoknak való elsőbbség megadásának elmulasztása",
+    "fine_chf": 30,
+    "keywords": [
+      "Elsőbbség",
+      "Gyalogos",
+      "Elsőbbség",
+      "Elsőbbség",
+      "Gyalogos",
+      "Eszközök (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Járműszerű eszközök kezelője"
+    ],
+    "conditions": null,
+    "notes": "A gyalogosoknak elsőbbség biztosításának elmulasztása (különleges eszközök felhasználóira vonatkozik).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

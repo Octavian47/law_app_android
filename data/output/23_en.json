@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Motorways (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Motorway",
+      "Semi-Motorway",
+      "Use",
+      "VRV 50a",
+      "Restriction"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized use of semi-motorways (often applies to specific vehicle types or devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Circumventing, climbing over or crawling under barriers or half-barriers",
+    "fine_chf": 20,
+    "keywords": [
+      "Barriers",
+      "Half-barriers",
+      "Barriers",
+      "Rail crossing",
+      "Level crossing",
+      "Circumventing"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Road user"
+    ],
+    "conditions": null,
+    "notes": "Circumventing, climbing over, or crawling under barriers or half-barriers.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Use of a cycle path by pedestrians, when\n1. a sidewalk is present",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedestrian",
+      "Cycle path",
+      "Sidewalk",
+      "Sidewalk",
+      "Pedestrian",
+      "Cycle path"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrians"
+    ],
+    "conditions": "Sidewalk present",
+    "notes": "Using the cycle path when a sidewalk is available.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Use of a cycle path by pedestrians, when\n2. a footpath is present",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedestrian",
+      "Cycle path",
+      "Footpath",
+      "Sidewalk",
+      "Pedestrian",
+      "Cycle path"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrians"
+    ],
+    "conditions": "Footpath present",
+    "notes": "Using the cycle path when a dedicated footpath is available.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Driving without lights",
+    "fine_chf": 20,
+    "keywords": [
+      "Light",
+      "Lighting",
+      "Driving",
+      "E-Scooter",
+      "Vehicle-like devices",
+      "Equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operator of devices (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Driving without required lighting (applies primarily to e-scooters/similar devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Impeding use of traffic areas designated for pedestrians",
+    "fine_chf": 20,
+    "keywords": [
+      "Pedestrian",
+      "Traffic areas",
+      "Obstruction",
+      "Sidewalk",
+      "Impeding",
+      "VRV 50a devices"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Devices (VRV 50a)",
+      "Road users"
+    ],
+    "conditions": null,
+    "notes": "Impeding use of traffic areas designated for pedestrians.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Impeding use of the roadway on traffic-calmed secondary roads",
+    "fine_chf": 20,
+    "keywords": [
+      "Secondary roads",
+      "Roadway",
+      "Obstruction",
+      "Traffic flow",
+      "Secondary road",
+      "Devices (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Devices (VRV 50a)",
+      "Road users"
+    ],
+    "conditions": null,
+    "notes": "Impeding traffic flow on traffic-calmed secondary roads.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignoring the signal 'Prohibition for vehicle-like devices'",
+    "fine_chf": 20,
+    "keywords": [
+      "Signal",
+      "Prohibition",
+      "Vehicle-like devices",
+      "E-Scooter",
+      "Signaling",
+      "Traffic sign"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the specific road sign prohibiting vehicle-like devices.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Use of vehicle-like devices on unauthorized traffic areas",
+    "fine_chf": 20,
+    "keywords": [
+      "Vehicle-like devices",
+      "E-Scooter",
+      "Traffic areas",
+      "Unauthorized use",
+      "Restriction"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Using devices (like e-scooters) on traffic areas where they are not permitted.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Failing to give priority to pedestrians",
+    "fine_chf": 30,
+    "keywords": [
+      "Right of way",
+      "Pedestrian",
+      "Priority",
+      "Priority",
+      "Pedestrian",
+      "Devices (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operator of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Failing to grant priority to pedestrians (applies to users of special devices).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

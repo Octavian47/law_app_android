@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Niezgłoszenie uszkodzenia, awarii, utraty lub kradzieży karty tachografu kierowcy",
+    "fine_chf": 20,
+    "keywords": [
+      "karta tachografu kierowcy",
+      "zgłoszenie",
+      "uszkodzenie",
+      "kradzież",
+      "ARV",
+      "karta tachografu",
+      "zgłaszanie"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy karty cyfrowego tachografu używanej przez kierowców zawodowych.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Niezwrócenie karty kierowcy",
+    "fine_chf": 20,
+    "keywords": [
+      "karta kierowcy",
+      "zwrot",
+      "ARV",
+      "karta tachografu",
+      "zwrot"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca zawodowy",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy karty cyfrowego tachografu używanej przez kierowców zawodowych.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Niezwrócenie karty warsztatowej",
+    "fine_chf": 20,
+    "keywords": [
+      "karta warsztatowa",
+      "zwrot",
+      "ARV",
+      "karta warsztatowa",
+      "zwrot",
+      "tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personel warsztatowy"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy karty warsztatowej tachografu, niezbędnej dla przepisów dotyczących kierowców zawodowych.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Przekroczenie dozwolonego czasu parkowania\n  a. do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "czas parkowania",
+      "przekroczenie",
+      "parkowanie",
+      "czas parkowania",
+      "przekroczenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za przekroczenie dozwolonego czasu parkowania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Przekroczenie dozwolonego czasu parkowania\n  b. o więcej niż 2, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "czas parkowania",
+      "przekroczenie",
+      "parkowanie",
+      "czas parkowania",
+      "przekroczenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "więcej niż 2, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za przekroczenie dozwolonego czasu parkowania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Przekroczenie dozwolonego czasu parkowania\n  c. o więcej niż 4, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "czas parkowania",
+      "przekroczenie",
+      "parkowanie",
+      "czas parkowania",
+      "przekroczenie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "więcej niż 4, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za przekroczenie dozwolonego czasu parkowania.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Niezamocowanie lub niewidoczne wyeksponowanie dysku parkingowego na pojeździe",
+    "fine_chf": 40,
+    "keywords": [
+      "dysk parkingowy",
+      "umieszczenie",
+      "widoczność",
+      "dysk parkingowy",
+      "umieszczenie",
+      "widoczność",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za nieprawidłowe umieszczenie lub słabą widoczność dysku parkingowego.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Niezamocowanie lub niewidoczne wyeksponowanie biletu parkingowego na pojeździe",
+    "fine_chf": 40,
+    "keywords": [
+      "bilet parkingowy",
+      "bilet parkingowy",
+      "umieszczenie",
+      "widoczność",
+      "bilet parkingowy",
+      "umieszczenie",
+      "widoczność",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za nieprawidłowe umieszczenie lub słabą widoczność biletu parkingowego.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Niezamocowanie lub niewidoczne wyeksponowanie zezwolenia parkingowego dla osób niepełnosprawnych na pojeździe",
+    "fine_chf": 40,
+    "keywords": [
+      "zezwolenie parkingowe",
+      "niepełnosprawny",
+      "umieszczenie",
+      "widoczność",
+      "parking dla niepełnosprawnych",
+      "identyfikator",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za nieprawidłowe umieszczenie lub słabą widoczność identyfikatora parkingowego dla niepełnosprawnych.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Ustawienie nieprawidłowego czasu przyjazdu na dysku parkingowym",
+    "fine_chf": 40,
+    "keywords": [
+      "dysk parkingowy",
+      "czas przyjazdu",
+      "nieprawidłowy",
+      "ustawianie",
+      "dysk parkingowy",
+      "czas przyjazdu",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za ustawienie nieprawidłowego czasu przyjazdu na dysku parkingowym.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Zmiana ustawionego czasu przyjazdu bez przemieszczenia pojazdu",
+    "fine_chf": 40,
+    "keywords": [
+      "dysk parkingowy",
+      "czas przyjazdu",
+      "zmiana",
+      "odjazd",
+      "dysk parkingowy",
+      "czas przyjazdu",
+      "resetowanie",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za resetowanie czasu przyjazdu na dysku parkingowym bez przemieszczenia pojazdu (nielegalne „dokarmianie licznika”).",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manipulowanie licznikiem parkingowym",
+    "fine_chf": 40,
+    "keywords": [
+      "licznik parkingowy",
+      "manipulacja",
+      "uszkodzony",
+      "licznik parkingowy",
+      "manipulacja",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za unieruchomienie licznika parkingowego.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Zakazane przedpłacanie przed upływem czasu parkowania",
+    "fine_chf": 40,
+    "keywords": [
+      "płacić z góry",
+      "czas parkowania",
+      "przed wygaśnięciem",
+      "opłata parkingowa",
+      "doładowanie",
+      "z góry",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za płacenie dodatkowego czasu parkowania przed wygaśnięciem aktualnie opłaconego czasu, w celu przedłużenia postoju.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Płacenie po wygaśnięciu czasu parkowania",
+    "fine_chf": 40,
+    "keywords": [
+      "płacić po",
+      "czas parkowania",
+      "wygaśnięty",
+      "opłata parkingowa",
+      "doładowanie",
+      "wygaśnięty",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za płacenie dodatkowego czasu parkowania po wygaśnięciu dozwolonego czasu.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Zatrzymywanie się w miejscach o słabej widoczności, szczególnie w obszarze zakrętów i wzniesień",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie się",
+      "słaba widoczność",
+      "zakręty",
+      "wzniesienia",
+      "zatrzymywanie się",
+      "widoczność",
+      "zakręty",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za zatrzymywanie się w miejscach o słabej widoczności, takich jak w pobliżu zakrętów lub wzniesień.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zatrzymywanie się w wąskich gardłach",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie się",
+      "wąskie gardła",
+      "zatrzymywanie się",
+      "wąskie gardło",
+      "wąski",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za zatrzymywanie się w wąskich gardłach lub wąskich przejściach.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Zatrzymywanie się obok przeszkody na jezdni",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie się",
+      "przeszkoda",
+      "jezdnia",
+      "zatrzymywanie się",
+      "przeszkoda",
+      "jezdnia",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za zatrzymywanie się obok przeszkody na pasie ruchu, co utrudnia ruch.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na odcinku jednokierunkowym (Art. 18 Abs. 2 Bst. c i 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "jednokierunkowy",
+      "parkowanie",
+      "jednokierunkowy",
+      "wąskie gardło",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Mandat za parkowanie w odcinku, w którym ruch jest ograniczony do jednego pasa (np. z powodu tymczasowej przeszkody).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zatrzymywanie się na odcinku jednokierunkowym",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie się",
+      "jednokierunkowy",
+      "zatrzymywanie się",
+      "jednokierunkowy",
+      "wąskie gardło",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Mandat za zatrzymywanie się w odcinku, w którym ruch jest ograniczony do jednego pasa (np. z powodu tymczasowej przeszkody).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkowanie przy linii bezpieczeństwa, jeśli nie pozostawiono co najmniej 3 m szerokiego przejścia",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "linia bezpieczeństwa",
+      "przejście",
+      "parkowanie",
+      "linia bezpieczeństwa",
+      "pas przejazdowy",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "jeśli nie pozostawiono co najmniej 3 m szerokiego przejścia",
+    "notes": "Mandat za parkowanie przy linii bezpieczeństwa (linii zakazu wyprzedzania), jeśli pozostaje mniej niż 3 m wolnej przestrzeni dla ruchu.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zatrzymywanie się przy linii bezpieczeństwa, jeśli nie pozostawiono co najmniej 3 m szerokiego przejścia",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymywanie się",
+      "linia bezpieczeństwa",
+      "przejście",
+      "zatrzymywanie się",
+      "linia bezpieczeństwa",
+      "pas przejazdowy",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego",
+      "Kierowca"
+    ],
+    "conditions": "jeśli nie pozostawiono co najmniej 3 m szerokiego przejścia",
+    "notes": "Mandat za zatrzymywanie się przy linii bezpieczeństwa (linii zakazu wyprzedzania), jeśli pozostaje mniej niż 3 m wolnej przestrzeni dla ruchu.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

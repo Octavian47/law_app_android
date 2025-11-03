@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie vedľa nepretržitej dlžkovej čiary, keď nie je zachovaný voľný priechod aspoň 3 m široký (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovanie",
+      "dlžková čiara",
+      "priechod",
+      "menej 3 m",
+      "parkovanie",
+      "dlžková čiara",
+      "priechod menej 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie vedľa nepretržitej dlžkovej čiary, ktoré bráni priechodu kratšiemu ako 3 m, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zastavenie vedľa nepretržitej dlžkovej čiary, keď nie je zachovaný voľný priechod aspoň 3 m široký (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "dlžková čiara",
+      "priechod",
+      "menej 3 m",
+      "zastavenie",
+      "dlžková čiara",
+      "priechod menej 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie vedľa nepretržitej dlžkovej čiary, ktoré bráni priechodu kratšiemu ako 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie vedľa dvojitej čiary, keď nie je zachovaný voľný priechod aspoň 3 m široký (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovanie",
+      "dvojitá čiara",
+      "priechod",
+      "menej 3 m",
+      "parkovanie",
+      "dvojitá čiara",
+      "priechod menej 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie vedľa dvojitej čiary, ktoré bráni priechodu kratšiemu ako 3 m, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zastavenie vedľa dvojitej čiary, keď nie je zachovaný voľný priechod aspoň 3 m široký (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "dvojitá čiara",
+      "priechod",
+      "menej 3 m",
+      "zastavenie",
+      "dvojitá čiara",
+      "priechod menej 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie vedľa dvojitej čiary, ktoré bráni priechodu kratšiemu ako 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na križovatke (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovanie",
+      "križovatka",
+      "priesečník",
+      "parkovanie",
+      "križovatka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na priesečníku, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zastavenie na križovatke (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "križovatka",
+      "priesečník",
+      "zastavenie",
+      "križovatka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na priesečníku.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie menej ako 5 m pred križovatkou z priesečníka (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parkovanie",
+      "križovatka",
+      "priesečník",
+      "5 m",
+      "parkovanie",
+      "priesečník",
+      "priesečník",
+      "menej 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie menej ako 5 m pred priesečníkom z priesečníka.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zastavenie menej ako 5 m pred križovatkou z priesečníka (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "zastavenie",
+      "križovatka",
+      "priesečník",
+      "5 m",
+      "zastavenie",
+      "priesečník",
+      "priesečník",
+      "menej 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie menej ako 5 m pred priesečníkom z priesečníka.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie menej ako 5 m po križovatke z priesečníka (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovanie",
+      "križovatka",
+      "priesečník",
+      "5 m",
+      "parkovanie",
+      "priesečník",
+      "priesečník",
+      "menej 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie menej ako 5 m po priesečníku z priesečníka, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zastavenie menej ako 5 m po križovatke z priesečníka (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "križovatka",
+      "priesečník",
+      "5 m",
+      "zastavenie",
+      "priesečník",
+      "priesečník",
+      "menej 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie menej ako 5 m po priesečníku z priesečníka.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na prechode pre chodcov (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 80,
+    "keywords": [
+      "parkovanie",
+      "prechod pre chodcov",
+      "parkovanie",
+      "prechod pre chodcov",
+      "zebra prechod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na prechode pre chodcov, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zastavenie na prechode pre chodcov (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "prechod pre chodcov",
+      "zastavenie",
+      "prechod pre chodcov",
+      "zebra prechod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na prechode pre chodcov.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie pri prechode pre chodcov (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) až do 60 minút",
+    "fine_chf": 80,
+    "keywords": [
+      "parkovanie",
+      "prechod pre chodcov",
+      "prilehlý",
+      "parkovanie",
+      "prechod pre chodcov",
+      "prilehlý"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie pri prechode pre chodcov, až do 60 minút.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zastavenie pri prechode pre chodcov (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "prechod pre chodcov",
+      "prilehlý",
+      "zastavenie",
+      "prechod pre chodcov",
+      "prilehlý"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie pri prechode pre chodcov.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zastavenie na železničnom prechode (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "železničný prechod",
+      "zastavenie",
+      "železničný prechod",
+      "úrovňový prechod"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na železničnom prechode.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zastavenie v podchode (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "podchod",
+      "zastavenie",
+      "podchod"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie v podchode.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie menej ako 10 m pred značkou zastávky verejnej dopravy (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "zastávka",
+      "verejná doprava",
+      "10 m",
+      "parkovanie",
+      "zastávka autobusu",
+      "verejná doprava",
+      "menej 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie menej ako 10 m pred značkou zastávky verejnej dopravy.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavenie brániace výstup a nástup ľudí menej ako 10 m pred značkou zastávky verejnej dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "zastávka",
+      "verejná doprava",
+      "10 m",
+      "prekážka",
+      "zastavenie",
+      "zastávka autobusu",
+      "verejná doprava",
+      "menej 10 m",
+      "prekážka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie brániace výstup a nástup ľudí menej ako 10 m pred značkou zastávky verejnej dopravy.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

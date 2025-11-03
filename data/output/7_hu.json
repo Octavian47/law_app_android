@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Megállás a járdán a gyalogátkelőhely előtt, a megállási tilalom vonal mellett",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Parkolás",
+      "Járda",
+      "Gyalogátkelőhely",
+      "Megállás tilos vonal",
+      "megállás",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a járdán a 'Megállás tilos' vonal mellett a gyalogátkelőhely előtt.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkolás a járdán kevesebb mint 5 m-re egy gyalogátkelőhelytől, ahol nincs megállási tilalom vonal (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Járda",
+      "Gyalogátkelőhely",
+      "Megállás tilos vonal",
+      "Távolság",
+      "parkolás",
+      "járda",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a járdán kevesebb mint 5 m-re egy gyalogátkelőhelytől, ahol nincs 'Megállás tilos' vonal.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parkolás a járdán kevesebb mint 5 m-re egy gyalogátkelőhelytől, ahol nincs megállási tilalom vonal",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkolás",
+      "Járda",
+      "Gyalogátkelőhely",
+      "Megállás tilos vonal",
+      "Távolság",
+      "parkolás",
+      "járda",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Parkolás a járdán kevesebb mint 5 m-re egy gyalogátkelőhelytől, ahol nincs 'Megállás tilos' vonal.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parkolás korlátozott területen",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Korlátozott terület",
+      "Megállás",
+      "Korlátozott zóna",
+      "parkolás",
+      "hálózott",
+      "parkolás tilos terület"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Parkolás a határolt/megjelölt korlátozott területen.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Megállás korlátozott területen",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkolás",
+      "Korlátozott terület",
+      "Megállás",
+      "Korlátozott zóna",
+      "megállás",
+      "hálózott",
+      "megállás tilos terület"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a határolt/megjelölt korlátozott területen.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parkolás cikkcakkvonalon",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Cikkcakkvonal",
+      "Megállás",
+      "Váróhely",
+      "parkolás",
+      "cikkcakkvonal",
+      "rakodóhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás cikkcakkvonalon (gyakran buszmegállók vagy rakodóhelyek esetén).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Megállás akadályozása cikkcakkvonalon az utasok fel- és leszállása érdekében",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Cikkcakkvonal",
+      "Felszállás",
+      "Leszállás",
+      "Akadályozás",
+      "megállás",
+      "cikkcakkvonal",
+      "akadályozás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás akadályozása cikkcakkvonalon az emberek fel- és leszállítása céljából.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Megállás cikkcakkvonalon áruk kezelése céljából",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Cikkcakkvonal",
+      "Áruk kezelése",
+      "Kiszállítási zóna",
+      "megállás",
+      "cikkcakkvonal",
+      "áruk rakodása"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás cikkcakkvonalon áruk fel- és lepakolása céljából.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Jogosulatlan jármű parkolása a mozgáskorlátozottak számára fenntartott parkolóhelyen",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Mozgáskorlátozott",
+      "Parkolóhely",
+      "Kerekesszék",
+      "Jogosulatlan",
+      "parkolás",
+      "fogyatékos",
+      "handikap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Jogosulatlan parkolás a fogyatékosok számára fenntartott helyen.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "A “Parkolókártya fogyatékosok számára” jogosulatlan használata",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolókártya",
+      "Mozgáskorlátozott",
+      "Visszaélés",
+      "Jogosulatlan",
+      "Engedély",
+      "parkolókártya",
+      "fogyatékos",
+      "helytelen használat"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A ‘Parkolási engedély fogyatékosok számára’ jogosulatlan használata.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkolás a megállás tilos vonalon",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Megállás tilos vonal",
+      "Tiltás",
+      "parkolás",
+      "megállás tilos vonal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a ‘Megállás tilos’ vonalon.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Megállás a megállás tilos vonalon",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Megállás tilos vonal",
+      "Tiltás",
+      "megállás",
+      "megállás tilos vonal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a ‘Megállás tilos’ vonalon.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkolás főúton a településen kívül: legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Településen kívül",
+      "Út szélén",
+      "parkolás",
+      "főút",
+      "településen kívül"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Parkolás főúton a településen kívül, legfeljebb 2 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkolás főúton a településen kívül: több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Településen kívül",
+      "Út szélén",
+      "parkolás",
+      "főút",
+      "településen kívül"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Parkolás főúton a településen kívül, több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkolás főúton a településen kívül: több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Településen kívül",
+      "Út szélén",
+      "parkolás",
+      "főút",
+      "településen kívül"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Parkolás főúton a településen kívül, több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához: legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Városban",
+      "Kereszteződés",
+      "Akadályozás",
+      "parkolás",
+      "főút",
+      "városban",
+      "átmenet"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához, legfeljebb 2 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához: több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Városban",
+      "Kereszteződés",
+      "Akadályozás",
+      "parkolás",
+      "főút",
+      "városban",
+      "átmenet"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "több mint 2, de legfeljebb 4 óra",
+    "notes": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához, több mint 2, de legfeljebb 4 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához: több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Főút",
+      "Városban",
+      "Kereszteződés",
+      "Akadályozás",
+      "parkolás",
+      "főút",
+      "városban",
+      "átmenet"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "több mint 4, de legfeljebb 10 óra",
+    "notes": "Parkolás főúton a településen belül, ha nincs elegendő hely két gépjármű áthaladásához, több mint 4, de legfeljebb 10 óra.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

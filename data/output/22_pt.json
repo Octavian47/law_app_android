@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Condição defeituosa do pneu por roda",
+    "fine_chf": 20,
+    "keywords": [
+      "pneu",
+      "condição",
+      "defeituoso",
+      "VTS",
+      "roda",
+      "pneu",
+      "equipamento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por roda",
+    "notes": "Relaciona-se ao item 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Não uso do cinto de segurança pelo passageiro",
+    "fine_chf": 60,
+    "keywords": [
+      "cintos de segurança",
+      "obrigação de cinto",
+      "passageiro",
+      "passageiro",
+      "cinto de segurança",
+      "passageiro"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passageiro",
+      "Passageiro"
+    ],
+    "conditions": null,
+    "notes": "Seção 800.1: Não uso de cintos de segurança pelos passageiros.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Não uso de capacete de proteção pelos passageiros em motocicletas, veículos leves, pequenos e de três rodas",
+    "fine_chf": 60,
+    "keywords": [
+      "capacete",
+      "dever de capacete",
+      "passageiro",
+      "motocicleta",
+      "capacete",
+      "passageiro"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Passageiro",
+      "Motocicletas"
+    ],
+    "conditions": null,
+    "notes": "Seção 800.2: Não uso de capacete pelos passageiros em motocicletas/veículos de três rodas.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Empurrar um veículo ou objeto por um passageiro",
+    "fine_chf": 20,
+    "keywords": [
+      "empurrar",
+      "veículo",
+      "objeto",
+      "passageiro",
+      "empurrar",
+      "objeto",
+      "passageiro"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passageiro"
+    ],
+    "conditions": null,
+    "notes": "Seção 801.1: Empurrar um veículo ou objeto por um passageiro (provavelmente comportamento proibido enquanto em movimento/no trânsito).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Puxar um veículo ou objeto por um passageiro",
+    "fine_chf": 20,
+    "keywords": [
+      "puxar",
+      "veículo",
+      "objeto",
+      "passageiro",
+      "puxar",
+      "objeto",
+      "passageiro"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passageiro"
+    ],
+    "conditions": null,
+    "notes": "Seção 801.2: Puxar um veículo ou objeto por um passageiro.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Rebocar um veículo ou objeto por um passageiro",
+    "fine_chf": 20,
+    "keywords": [
+      "rebocar",
+      "veículo",
+      "objeto",
+      "passageiro",
+      "rebocar",
+      "objeto",
+      "passageiro"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passageiro"
+    ],
+    "conditions": null,
+    "notes": "Seção 801.3: Rebocar/arrastar um veículo ou objeto por um passageiro.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Não uso da calçada",
+    "fine_chf": 10,
+    "keywords": [
+      "calçada",
+      "passarela",
+      "não uso",
+      "pedestre",
+      "calçada",
+      "pedestre"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": null,
+    "notes": "Não uso da calçada quando disponível.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Não uso da faixa de pedestres, se estiver a menos de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "faixa de pedestres",
+      "faixa zebra",
+      "não uso",
+      "50m",
+      "faixa de pedestres"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": "se estiver a menos de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Não uso da passarela, se estiver a menos de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "passarela",
+      "ponte pedonal",
+      "não uso",
+      "50m",
+      "passarela pedonal"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": "se estiver a menos de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Não uso da passagem subterrânea, se estiver a menos de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "passagem subterrânea",
+      "túnel pedonal",
+      "não uso",
+      "50m",
+      "passagem subterrânea"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": "se estiver a menos de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Não observar o sinal 'Proibido pedestres' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "proibição",
+      "pedestre",
+      "sinal",
+      "não observância",
+      "restrição",
+      "pedestre",
+      "placa"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Não observar o sinal 'Caminho pedestre' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "caminho pedestre",
+      "sinal",
+      "não observância",
+      "caminho pedestre",
+      "placa"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestre"
+    ],
+    "conditions": null,
+    "notes": "Não cumprimento da placa de caminho pedestre.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Não observar um sinal luminoso",
+    "fine_chf": 20,
+    "keywords": [
+      "sinal luminoso",
+      "pedestre",
+      "sinal",
+      "não observância",
+      "semáforo",
+      "pedestre"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestre",
+      "Usuário de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Passar no sinal vermelho (como pedestre/usuário de dispositivo de mobilidade).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Não observar um 'sinal luminoso intermitente alternado' (3.20) ou um 'sinal luminoso intermitente simples' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "sinal luminoso intermitente",
+      "luz intermitente alternada",
+      "sinal",
+      "passagem de nível",
+      "luz de aviso",
+      "passagem de nível"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestre",
+      "Usuário de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Ignorar luzes de aviso intermitentes (por exemplo, em passagens de nível).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Entrar em autoestradas",
+    "fine_chf": 20,
+    "keywords": [
+      "autoestrada",
+      "entrada",
+      "pedestre",
+      "proibição",
+      "autoestrada",
+      "acesso",
+      "proibido"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestre",
+      "Usuário de dispositivos semelhantes a veículos"
+    ],
+    "conditions": null,
+    "notes": "Entrar ou caminhar em autoestradas (que geralmente são restritas ao tráfego motorizado).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkování méně než 20 m od železničního přejezdu",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "železniční přejezd",
+      "vzdálenost",
+      "20m",
+      "Parkování",
+      "železniční přejezd",
+      "vzdálenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování méně než 20 m od železničního přejezdu až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkování méně než 20 m od železničního přejezdu",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "železniční přejezd",
+      "vzdálenost",
+      "20m",
+      "Parkování",
+      "železniční přejezd",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování méně než 20 m od železničního přejezdu více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkování méně než 20 m od železničního přejezdu",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "železniční přejezd",
+      "vzdálenost",
+      "20m",
+      "Parkování",
+      "železniční přejezd",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování méně než 20 m od železničního přejezdu více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkování na mostě",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "most",
+      "zakázáno",
+      "Parkování",
+      "most",
+      "zakázáno"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování na mostě až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkování na mostě",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "most",
+      "zakázáno",
+      "Parkování",
+      "most",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování na mostě více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkování na mostě",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "most",
+      "zakázáno",
+      "Parkování",
+      "most",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování na mostě více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné budovy",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "budova",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "budova"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování před vstupem do jiné budovy až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné budovy",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "budova",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování před vstupem do jiné budovy více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné budovy",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "budova",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování před vstupem do jiné budovy více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné nemovitosti",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "nemovitost",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "nemovitost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování před vstupem do jiné nemovitosti až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné nemovitosti",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "nemovitost",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování před vstupem do jiné nemovitosti více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkování před vstupem do jiné nemovitosti",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "vstup",
+      "nemovitost",
+      "vstup",
+      "Parkování",
+      "vstup",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování před vstupem do jiné nemovitosti více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkování na chodníku, kde signály nebo značení výslovně neumožňují, pokud zůstane alespoň 1.5 m široký prostor pro chodce",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "chodník",
+      "chodník",
+      "minimální vzdálenost",
+      "chodec",
+      "1.5m",
+      "Parkování",
+      "chodník",
+      "chodec"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování na chodníku bez výslovných značek/označení, i když je ponecháno 1.5 m pro chodce, až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkování na chodníku, kde signály nebo značení výslovně neumožňují, pokud zůstane alespoň 1.5 m široký prostor pro chodce",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "chodník",
+      "chodník",
+      "minimální vzdálenost",
+      "chodec",
+      "Parkování",
+      "chodník",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování na chodníku bez výslovných značek/označení, i když je ponecháno 1.5 m pro chodce, více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkování na chodníku, kde signály nebo značení výslovně neumožňují, pokud zůstane alespoň 1.5 m široký prostor pro chodce",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "chodník",
+      "chodník",
+      "minimální vzdálenost",
+      "chodec",
+      "Parkování",
+      "chodník",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování na chodníku bez výslovných značek/označení, i když je ponecháno 1.5 m pro chodce, více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkování v oblasti označeného zákazu parkování (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "zakázáno",
+      "značení",
+      "Parkování",
+      "zakázáno",
+      "značka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování v oblasti označené 'Parkování zakázáno' (Značka 2.50) až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkování v oblasti označeného zákazu parkování (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "zakázáno",
+      "značení",
+      "Parkování",
+      "zakázáno",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování v oblasti označené 'Parkování zakázáno' (Značka 2.50) více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkování v oblasti označeného zákazu parkování (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "zakázáno",
+      "značení",
+      "Parkování",
+      "zakázáno",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování v oblasti označené 'Parkování zakázáno' (Značka 2.50) více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkování v setkávací zóně na neoznačených místech",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "setkávací zóna",
+      "značení",
+      "Parkování",
+      "setkávací zóna",
+      "označený prostor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování v 'setkávací zóně' (Begegnungszone) na neoznačených místech až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkování v setkávací zóně na neoznačených místech",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "setkávací zóna",
+      "značení",
+      "Parkování",
+      "setkávací zóna",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování v 'setkávací zóně' (Begegnungszone) na neoznačených místech více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkování v setkávací zóně na neoznačených místech",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "setkávací zóna",
+      "značení",
+      "Parkování",
+      "setkávací zóna",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování v 'setkávací zóně' (Begegnungszone) na neoznačených místech více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkování v parkovacích místech",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "parkovací místo",
+      "značení",
+      "Parkování",
+      "parkovací místo",
+      "značení"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování v označeném parkovacím místě až 2 hodiny (naznačuje nedodržení pravidel parkovacího pole, pravděpodobně překročení časového limitu nebo podobně).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkování v parkovacích místech",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "parkovací místo",
+      "značení",
+      "Parkování",
+      "parkovací místo",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 2, ale ne více než 4 hodin",
+    "notes": "Pokuta za parkování v označeném parkovacím místě více než 2 až 4 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkování v parkovacích místech",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "parkovací místo",
+      "značení",
+      "Parkování",
+      "parkovací místo",
+      "doba"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "více než 4, ale ne více než 10 hodin",
+    "notes": "Pokuta za parkování v označeném parkovacím místě více než 4 až 10 hodin.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkování vozidla v parkovacím místě, pokud není vhodné pro typ vozidla",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "parkovací místo",
+      "typ vozidla",
+      "velikost",
+      "Parkování",
+      "typ vozidla",
+      "velikost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až 2 hodiny",
+    "notes": "Pokuta za parkování vozidla v prostoru, který není určen pro jeho velikost/typ, až 2 hodiny.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

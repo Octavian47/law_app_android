@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Nerespectarea introducerii informațiilor necesare în fișa săptămânală",
+    "fine_chf": 40,
+    "keywords": [
+      "fișă săptămânală",
+      "informație",
+      "introducere",
+      "ARV 2",
+      "timp de lucru",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea introducerii informațiilor necesare în fișa săptămânală pentru conducătorii profesioniști.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Nerespectarea introducerii informațiilor necesare în fișa zilnică",
+    "fine_chf": 40,
+    "keywords": [
+      "fișă zilnică",
+      "informație",
+      "introducere",
+      "ARV 2",
+      "timp de lucru",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea introducerii informațiilor necesare în fișa zilnică pentru conducătorii profesioniști.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nerespectarea introducerii informațiilor necesare în cardul de control pentru șoferii de taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "card de control",
+      "șofer de taxi",
+      "informație",
+      "introducere",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Șofer de taxi"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea introducerii informațiilor necesare în cardul de control pentru șoferii de taxi (referințe atât la ARV 2, cât și la ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nerespectarea introducerii informațiilor necesare în tahograful digital",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "digital",
+      "informație",
+      "introducere",
+      "ARV",
+      "conducător profesionist",
+      "tahograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea introducerii informațiilor necesare în tahograful digital.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Nerespectarea etichetării foii tahografului",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "foaie",
+      "etichetă",
+      "neetichetat",
+      "foaie tahograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea etichetării foii tahografului (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nerespectarea etichetării tipăririi",
+    "fine_chf": 40,
+    "keywords": [
+      "tipărire",
+      "etichetă",
+      "neetichetat",
+      "tipărire tahograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea etichetării tipăririi din tahograf.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Etichetare incompletă a foii tahografului",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "foaie",
+      "incomplet",
+      "etichetă",
+      "foaie tahograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Etichetare incompletă a foii tahografului.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etichetare incompletă a tipăririi",
+    "fine_chf": 40,
+    "keywords": [
+      "tipărire",
+      "incomplet",
+      "etichetă",
+      "tipărire tahograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Etichetare incompletă a tipăririi tahografului.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Etichetare falsă/înșelătoare a foii tahografului",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "foaie",
+      "fals",
+      "înșelător",
+      "etichetare",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Etichetare falsă/înșelătoare a foii tahografului.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etichetare falsă/înșelătoare a tipăririi",
+    "fine_chf": 40,
+    "keywords": [
+      "tipărire",
+      "fals",
+      "înșelător",
+      "etichetare",
+      "ARV",
+      "tipărire tahograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Etichetare falsă/înșelătoare a tipăririi tahografului.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Utilizarea unei foi tahograf care nu este aprobată ca tip",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "foaie",
+      "neaprobat ca tip",
+      "neaprobat",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei foi tahograf care nu este aprobată ca tip.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Utilizarea unei foi tahograf care nu corespunde dispozitivului tahograf",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "foaie",
+      "neadecvat",
+      "incorect",
+      "neconcordant",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei foi tahograf care nu corespunde dispozitivului tahograf specific.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Utilizarea hârtiei de imprimantă incorecte",
+    "fine_chf": 40,
+    "keywords": [
+      "hârtie de imprimantă",
+      "neadecvat",
+      "incorect",
+      "hârtie de imprimantă",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea hârtiei de imprimantă incorecte pentru tahograful digital/dispozitivul de control.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nerespectarea deținerii certificatului de instruire pentru încărcături de mărfuri periculoase",
+    "fine_chf": 20,
+    "keywords": [
+      "mărfuri periculoase",
+      "încărcătură",
+      "certificat de instruire",
+      "ADR",
+      "SDR",
+      "mărfuri periculoase",
+      "documente"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea deținerii certificatului de instruire pentru transportul de mărfuri periculoase, știind că există o încărcătură periculoasă.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nerespectarea deținerii documentului de transport pentru încărcături de mărfuri periculoase",
+    "fine_chf": 140,
+    "keywords": [
+      "mărfuri periculoase",
+      "încărcătură",
+      "document de transport",
+      "ADR",
+      "SDR",
+      "mărfuri periculoase",
+      "document de transport"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea deținerii documentului de transport pentru mărfuri periculoase, știind că există o încărcătură periculoasă. Această amendă este semnificativ mai mare.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nerespectarea deținerii instrucțiunii scrise (fișa de accident) pentru încărcături de mărfuri periculoase",
+    "fine_chf": 40,
+    "keywords": [
+      "mărfuri periculoase",
+      "încărcătură",
+      "instrucțiune scrisă",
+      "fișă de accident",
+      "ADR",
+      "SDR",
+      "instrucțiuni de urgență"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea deținerii instrucțiunilor scrise (fișa de urgență/accident) pentru mărfuri periculoase, știind că există o încărcătură periculoasă.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Nerespectarea îndepărtării sau acoperirii plăcilor portocalii când nu se transportă mărfuri periculoase",
+    "fine_chf": 60,
+    "keywords": [
+      "mărfuri periculoase",
+      "placă portocalie",
+      "îndepărtare",
+      "acoperire",
+      "SDR",
+      "afișare",
+      "placă"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea îndepărtării sau acoperirii plăcilor portocalii (indicând mărfuri periculoase) când vehiculul NU transportă mărfuri periculoase (gol/curat).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Nerespectarea raportării sau raportării la timp a faptelor care necesită modificarea sau înlocuirea unei licențe sau autorizații",
+    "fine_chf": 20,
+    "keywords": [
+      "obligație de raportare",
+      "licență",
+      "autorizație",
+      "schimbare",
+      "înlocuire",
+      "VZV",
+      "raportare"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Deținător de licență/autorizatie"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea raportării sau raportării tardive a faptelor care necesită modificarea sau înlocuirea unei licențe de conducere sau autorizație.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Nerespectarea raportării sau raportării la timp a schimbării de reședință la o nouă adresă elvețiană",
+    "fine_chf": 20,
+    "keywords": [
+      "schimbare de reședință",
+      "adresă",
+      "raportare",
+      "VZV",
+      "raportare",
+      "schimbare de reședință"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Deținător de licență"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea raportării sau raportării tardive a unei schimbări la o nouă adresă de reședință elvețiană.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Nerespectarea raportării modificărilor pe cardurile tahograf",
+    "fine_chf": 20,
+    "keywords": [
+      "card tahograf",
+      "modificare",
+      "raportare",
+      "ARV",
+      "card tahograf",
+      "raportare"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Deținător de card de șofer"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea raportării modificărilor legate de cardul tahograf al șoferului.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

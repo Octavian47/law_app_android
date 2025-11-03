@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Gerekli kontrol plakası(ları) olmadan sürüş, bayi plakaları hariç (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrol plakası",
+      "plaka",
+      "plaka",
+      "sürüş",
+      "eksik",
+      "sürücü"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Gerekli plaka(lar) olmadan sürüş (ticari plakalar hariç).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Maksimum hız işareti olmadan sürüş (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksimum hız",
+      "işaret",
+      "maksimum hız işareti",
+      "eksik",
+      "sürüş"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Zorunlu hız işareti gereken ancak bulunmayan bir araç sürme.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Arka işaret plakası olmadan sürüş (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "arka işaret plakası",
+      "arka işaret plakası",
+      "eksik",
+      "sürüş"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Zorunlu arka işaret plakası gereken ancak bulunmayan bir araç sürme (örneğin yavaş araçlar).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Kalıcı takılı yansıtıcıları olmayan bir motosiklet kullanma (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motosiklet",
+      "yansıtıcı",
+      "yansıtıcı",
+      "motosiklet",
+      "eksik"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Sürücü (motosiklet)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Eksik, eksik olmayan veya uyumsuz ekipman bileşeniyle tehlikeli madde taşımacılığı yapma (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "tehlikeli madde",
+      "ADR",
+      "tehlikeli madde",
+      "ekipman",
+      "profesyonel sürücü",
+      "eksik"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Sürücü (tehlikeli madde taşımacılığı)"
+    ],
+    "conditions": null,
+    "notes": "Tehlikeli madde taşımacılığı sırasında eksik, eksik olmayan veya uyumsuz ekipman.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "İzin veya yetki değişikliği veya yenilenmesini gerektiren durumları bildirmeme veya zamanında bildirmeme (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "raporlama",
+      "izin",
+      "yetki",
+      "değişiklik",
+      "bildirim",
+      "evrak",
+      "araç sahibi"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahip/taşıyıcının belge değişikliği veya yenilenmesini gerektiren değişiklikleri bildirmemesi.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Zorunlu emisyon hizmeti için belirlenen sürenin 1 aya kadar aşılması",
+    "fine_chf": 40,
+    "keywords": [
+      "emisyon hizmeti",
+      "emisyon hizmeti",
+      "gecikmiş",
+      "son tarih",
+      "bakım",
+      "araç sahibi"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": "1 aya kadar",
+    "notes": "Zorunlu emisyon hizmeti 1 aya kadar gecikmiş.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Zorunlu emisyon hizmeti için belirlenen sürenin 1 aydan fazla ancak 3 ayı geçmemesi",
+    "fine_chf": 100,
+    "keywords": [
+      "emisyon hizmeti",
+      "emisyon hizmeti",
+      "gecikmiş",
+      "son tarih",
+      "bakım",
+      "araç sahibi"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": "1 aydan fazla ancak 3 ayı geçmemesi",
+    "notes": "Zorunlu emisyon hizmeti 1 ile 3 ay arasında gecikmiş.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Zorunlu emisyon hizmeti için belirlenen sürenin 3 aydan fazla ancak 6 ayı geçmemesi",
+    "fine_chf": 200,
+    "keywords": [
+      "emisyon hizmeti",
+      "emisyon hizmeti",
+      "gecikmiş",
+      "son tarih",
+      "bakım",
+      "araç sahibi"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": "3 aydan fazla ancak 6 ayı geçmemesi",
+    "notes": "Zorunlu emisyon hizmeti 3 ile 6 ay arasında gecikmiş.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Arızalı bir lastikle motorlu aracı dolaşıma sokma (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "lastik",
+      "arızalı",
+      "lastik",
+      "hatalı",
+      "dolaşıma sokma",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin arızalı lastiklerle motorlu aracı dolaşıma sokmasına izin vermesi.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Arızalı bir lastikle römorku dolaşıma sokma (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "lastik",
+      "arızalı",
+      "römork",
+      "römork",
+      "dolaşıma sokma",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin arızalı lastiklerle römorku dolaşıma sokmasına izin vermesi.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Çivili lastik kullanılan bir araçta hız işaretini takmama (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "hız işareti",
+      "çivili lastik",
+      "çivili lastik",
+      "hız işareti",
+      "eksik",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin çivili lastik kullanıldığında gerekli hız işaretini takmaması.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Çivili lastik kullanılan bir araçta hız işaretinin hatalı kurulumu (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "hız işareti",
+      "çivili lastik",
+      "çivili lastik",
+      "hız işareti",
+      "kurulum",
+      "uyumsuz"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Çivili lastik kullanıldığında hız işaretinin uyumsuz takılması.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Çivili lastik kullanılmadığında hız işaretini kaldırmama (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "hız işareti",
+      "çivili lastik",
+      "hız işareti",
+      "kaldırma",
+      "kaldırma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin çivili lastikler artık kullanılmadığında hız işaretini kaldırmaması.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Gerekli kontrol plakası(ları) takmama, bayi plakaları hariç (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrol plakası",
+      "plaka",
+      "plaka",
+      "kurulum",
+      "eksik",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin gerekli plaka(ları) takmaması (ticari plakalar hariç).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Kontrol plakalarının hatalı kurulumu (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakası",
+      "plaka",
+      "plaka",
+      "kurulum",
+      "uyumsuz",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Plaka takma yönteminin uyumsuz olması.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Maksimum hız işaretini takmama (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksimum hız",
+      "işaret",
+      "maksimum hız işareti",
+      "kurulum",
+      "eksik",
+      "araç sahibi"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sahibi"
+    ],
+    "conditions": null,
+    "notes": "Sahibinin zorunlu hız işaretini takmaması.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Švicanski zakoni",
+    "loading": "Učitavanje...",
+    "error": "Greška",
+    "ok": "U redu",
+    "cancel": "Otkaži",
+    "save": "Spremi",
+    "delete": "Izbriši",
+    "search": "Pretraži",
+    "close": "Zatvori"
+  },
+  "tabs": {
+    "laws": "Zakoni",
+    "search": "Pretraživanje",
+    "favorites": "Omiljeno"
+  },
+  "home": {
+    "title": "Švicanski zakoni",
+    "subtitle": "Saznajte svoja prava u prometu!",
+    "categories": "Kategorije",
+    "currentlyAvailable": "Trenutno dostupno",
+    "tips": "Savjeti",
+    "roadTrafficAct": "Zakon o cestovnom prometu (SR 741.01)",
+    "articlesIndexed": "{{count}} članaka potpuno indeksirano",
+    "finesIndexed": "420 prometnih kazni indeksirano",
+    "languagesAvailable": "Dostupno na 18 jezika",
+    "offlineAccess": "Izvanmrežni pristup i pretraživanje",
+    "tipContent": "Koristite funkciju pretraživanja za brzo pronalaženje određenih članaka ili tema.",
+    "tipDescription": "Koristite karticu pretraživanja za pronalaženje kazni prema ključnoj riječi, iznosu ili referenci članka. Dodirnite ikonu zvijezde za spremanje kazni kao omiljene."
+  },
+  "search": {
+    "title": "Pretraži kazne",
+    "subtitle": "420 prometnih kazni za pretraživanje",
+    "placeholder": "Čl. 27, parkiranje, CHF 40...",
+    "resultsFound": "{{count}} kazna pronađena",
+    "resultsFound_other": "{{count}} kazni pronađeno",
+    "filters": {
+      "traffic": "Promet",
+      "criminal": "Kazneno",
+      "fines": "Kazne",
+      "quick": "Brzo"
+    },
+    "emptyState": {
+      "title": "Pretraži prometne kazne",
+      "description": "Pretraži po broju članka, ključnoj riječi ili iznosu CHF"
+    },
+    "noResults": {
+      "title": "Nema rezultata",
+      "description": "Nijedna kazna nije pronađena za \"{{query}}\". Pokušajte s drugim ključnim riječima ili iznosima."
+    },
+    "tips": {
+      "title": "Savjeti za pretraživanje",
+      "article": "Čl. 27 - Pretraži po broju članka",
+      "keyword": "parkiranje - Pretraži po ključnoj riječi",
+      "amount": "CHF 40 - Pretraži po iznosu kazne"
+    },
+    "inDevelopment": {
+      "title": "U razvoju",
+      "description": "Funkcija pretraživanja se trenutno implementira.\n\nPretraživanje za: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Omiljeno",
+    "subtitle": "Vaše spremljene kazne",
+    "resultsCount": "{{count}} omiljeno",
+    "resultsCount_other": "{{count}} omiljenih",
+    "emptyState": {
+      "title": "Još nema omiljenih",
+      "description": "Spremite važne kazne kao omiljene za brzi pristup"
+    },
+    "howTo": {
+      "title": "Kako dodati omiljene",
+      "step1": "Otvorite kaznu",
+      "step2": "Dodirnite ikonu zvijezde",
+      "step3": "Kazna će se pojaviti ovdje"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Kazna nije pronađena",
+    "articleInformation": "Informacije o članku",
+    "violationDescription": "Opis kršenja",
+    "appliesTo": "Primjenjuje se na",
+    "conditions": "Uvjeti",
+    "notes": "Napomene",
+    "keywords": "Ključne riječi",
+    "labels": {
+      "article": "Članak:",
+      "law": "Zakon:",
+      "category": "Kategorija:"
+    },
+    "source": "Izvor: Stranica {{page}}, Redak {{line}}",
+    "laws": {
+      "svg": "Zakon o prometu",
+      "vrv": "Pravilnik o prometnim pravilima",
+      "arv1": "Pravilnik o radnom vremenu 1",
+      "arv2": "Pravilnik o radnom vremenu 2",
+      "ssv": "Pravilnik o prometnim znakovima"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Zakon o prometu",
+      "description": "Registar cestovnog prometa i zakon o prometu"
+    },
+    "criminal": {
+      "name": "Kazneni zakon",
+      "description": "Kazneni kodeks i kazneni postupak"
+    },
+    "civil": {
+      "name": "Obični zakon",
+      "description": "Obični kodeks i obveze"
+    },
+    "commercial": {
+      "name": "Trgovački zakon",
+      "description": "Trgovački registar i zakon o trgovanju"
+    },
+    "administrative": {
+      "name": "Upravni zakon",
+      "description": "Upravni postupci i javno pravo"
+    },
+    "constitutional": {
+      "name": "Ustavni zakon",
+      "description": "Savezni ustav i temeljna prava"
+    }
+  },
+  "settings": {
+    "title": "Postavke",
+    "language": "Jezik",
+    "theme": "Tema",
+    "about": "O programu"
+  }
+}

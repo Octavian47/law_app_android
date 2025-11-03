@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zastavenie na núdzovom pruhu diaľnice, okrem núdzového zastavenia.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "núdzový pruh",
+      "diaľnica",
+      "núdzové zastavenie",
+      "zastavenie",
+      "núdzový pruh",
+      "diaľnica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na pevnom kraji diaľnice, okrem núdze.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkovanie na chodníku, kde signály alebo značenie výslovne nepovoľujú, bez ponechania 1,5 m širokého priestoru pre chodcov.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "chodník",
+      "chodec",
+      "1,5 m",
+      "voľný priestor",
+      "parkovanie",
+      "chodník",
+      "chodec"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na chodníku bez výslovného povolenia a ponechanie menej ako 1,5 m voľného priestoru pre chodcov.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Zastavenie na chodníku bez ponechania 1,5 m širokého priestoru pre chodcov.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "chodník",
+      "chodec",
+      "1,5 m",
+      "voľný priestor",
+      "zastavenie",
+      "chodník",
+      "chodec"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na chodníku a ponechanie menej ako 1,5 m voľného priestoru pre chodcov.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkovanie na dlhých pruhoch pre chodcov, ktoré bráni chodcovej premávke.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "dlhý pruh",
+      "chodec",
+      "prekážka",
+      "parkovanie",
+      "dlhý pruh",
+      "chodec",
+      "prístup pre zdravotne postihnutých"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na dlhých pruhoch pre chodcov so zdravotným postihnutím, ktoré bráni chodcovej premávke.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Zastavenie na dlhých pruhoch pre chodcov, ktoré bráni chodcovej premávke.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "dlhý pruh",
+      "chodec",
+      "prekážka",
+      "zastavenie",
+      "dlhý pruh",
+      "chodec",
+      "prístup pre zdravotne postihnutých"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na dlhých pruhoch pre chodcov so zdravotným postihnutím, ktoré bráni chodcovej premávke.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie v označenej zóne, kde je zakázané zastavovať.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "zákaz zastavovania",
+      "značka",
+      "parkovanie",
+      "zákaz zastavovania",
+      "označená zóna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie v označenej zóne, kde je zakázané zastavovať.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Zastavenie v označenej zóne, kde je zakázané zastavovať.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "zákaz zastavovania",
+      "značka",
+      "zastavenie",
+      "zákaz zastavovania",
+      "označená zóna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie v označenej zóne, kde je zakázané zastavovať.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkovanie v autobusovej jazdnej pruhu.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "autobusová jazdná pruh",
+      "autobus",
+      "parkovanie",
+      "autobusová jazdná pruh"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie v autobusovej jazdnej pruhu.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Zastavenie v autobusovej jazdnej pruhu.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "autobusová jazdná pruh",
+      "autobus",
+      "zastavenie",
+      "autobusová jazdná pruh"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie v autobusovej jazdnej pruhu.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkovanie v výstavnej oblasti.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "výstavná oblasť",
+      "parkovanie",
+      "výstavná oblasť",
+      "výstava vozidiel"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie v oblasti výstavy vozidiel.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Zastavenie v výstavnej oblasti.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "výstavná oblasť",
+      "zastavenie",
+      "výstavná oblasť",
+      "výstava vozidiel"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie v oblasti výstavy vozidiel.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkovanie na odpočívadle pre nefunkčné vozidlá.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "odpočívadlo",
+      "nefunkčné vozidlá",
+      "parkovanie",
+      "odpočívadlo",
+      "nefunkčné vozidlá"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na odpočívadle/určenej oblasti pre nefunkčné vozidlá.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Zastavenie na odpočívadle pre nefunkčné vozidlá.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "odpočívadlo",
+      "nefunkčné vozidlá",
+      "zastavenie",
+      "odpočívadlo",
+      "nefunkčné vozidlá"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na odpočívadle/určenej oblasti pre nefunkčné vozidlá.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na čiare zákazu zastavovania pred prechodom pre chodcov.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "čiara zákazu zastavovania",
+      "prechod pre chodcov",
+      "parkovanie",
+      "čiara zákazu zastavovania",
+      "prechod pre chodcov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na čiare zákazu zastavovania pred prechodom pre chodcov.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zastavenie na čiare zákazu zastavovania pred prechodom pre chodcov.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "čiara zákazu zastavovania",
+      "prechod pre chodcov",
+      "zastavenie",
+      "čiara zákazu zastavovania",
+      "prechod pre chodcov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na čiare zákazu zastavovania pred prechodom pre chodcov.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na ceste menej ako 5 m pred prechodom pre chodcov, kde nie je nainštalovaná čiara zákazu zastavovania.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "cesta",
+      "5 m",
+      "prechod pre chodcov",
+      "parkovanie",
+      "cesta",
+      "prechod pre chodcov",
+      "voľný priestor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na ceste menej ako 5 m pred prechodom pre chodcov, kde nie je čiara zákazu zastavovania.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zastavenie na ceste menej ako 5 m pred prechodom pre chodcov, kde nie je nainštalovaná čiara zákazu zastavovania.",
+    "fine_chf": 80,
+    "keywords": [
+      "zastavenie",
+      "cesta",
+      "5 m",
+      "prechod pre chodcov",
+      "zastavenie",
+      "cesta",
+      "prechod pre chodcov",
+      "voľný priestor"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na ceste menej ako 5 m pred prechodom pre chodcov, kde nie je čiara zákazu zastavovania.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie na chodníku pred prechodom pre chodcov vedľa čiary zákazu zastavovania.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkovanie",
+      "chodník",
+      "prechod pre chodcov",
+      "čiara zákazu zastavovania",
+      "parkovanie",
+      "chodník",
+      "prechod pre chodcov",
+      "čiara zákazu zastavovania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na chodníku pred prechodom pre chodcov vedľa čiary zákazu zastavovania.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

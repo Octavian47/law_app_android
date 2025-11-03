@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "regarding markings (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Markings",
+      "Signals",
+      "VRV",
+      "SSV",
+      "road markings",
+      "violation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Implies violation of road marking rules.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Failure to give priority at pedestrian crossing (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Priority",
+      "Pedestrian crossing",
+      "Zebra crossing",
+      "SVG",
+      "VRV",
+      "priority",
+      "pedestrian crossing"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Using a phone without a hands‑free device while driving (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Phone",
+      "Mobile phone",
+      "Hands‑free device",
+      "Driving",
+      "Distraction",
+      "mobile phone",
+      "driving"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Exceeding the general or signaled maximum speed by riders of motorbikes after accounting for the device and measurement uncertainty established by ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Speed",
+      "Maximum speed",
+      "Motorbike",
+      "Moped",
+      "SVG",
+      "speed violation"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Motorbike driver"
+    ],
+    "conditions": null,
+    "notes": "Fixed fine for minor speeding (likely up to 5 km/h excess) on mopeds/motorized bicycles.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Using a motorbike or an electric rickshaw without a registration plate or without a valid vignette while having insurance (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "registration plate",
+      "Vignette",
+      "Motorbike",
+      "Electric rickshaw",
+      "registration plate",
+      "sticker",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorbike driver",
+      "Electric rickshaw driver"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Using a motorbike or an electric rickshaw without the required vehicle license (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "vehicle license",
+      "Motorbike",
+      "Electric rickshaw",
+      "SVG",
+      "vehicle license",
+      "documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Motorbike driver",
+      "Electric rickshaw driver"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Using a motorbike without existing insurance (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "insurance",
+      "Motorbike",
+      "VZV",
+      "insurance",
+      "moped",
+      "mandatory"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Motorbike driver"
+    ],
+    "conditions": null,
+    "notes": "Offense is committed by the user (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Lending a motorbike or an electric rickshaw without a registration plate or without a valid vignette while having insurance for use (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Lending",
+      "registration plate",
+      "Vignette",
+      "Motorbike",
+      "Electric rickshaw",
+      "lending",
+      "plate",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Owner",
+      "Lender"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Lending a motorbike or an electric rickshaw without the required vehicle license for use (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Lending",
+      "vehicle license",
+      "Motorbike",
+      "Electric rickshaw",
+      "VZV",
+      "lending",
+      "vehicle documents"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Owner",
+      "Lender"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Lending a motorbike without existing insurance for use (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Lending",
+      "insurance",
+      "Motorbike",
+      "VZV",
+      "lending",
+      "insurance"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Owner",
+      "Lender"
+    ],
+    "conditions": null,
+    "notes": "Offense committed by the owner/lender (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Driving with a registration plate that is not easily readable (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "registration plate",
+      "readability",
+      "Driving",
+      "VRV",
+      "VTS",
+      "license plate",
+      "readability",
+      "dirty plate"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Driving without the required bell on motorbikes (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "bell",
+      "Motorbike",
+      "equipment",
+      "VTS",
+      "moped",
+      "bell",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorbike driver"
+    ],
+    "conditions": null,
+    "notes": "Driving a moped/motorized bicycle without the required bell.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Driving without permanently attached reflectors (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "reflector",
+      "reflector",
+      "equipment",
+      "VTS",
+      "reflector",
+      "equipment",
+      "missing"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving without fixed reflectors (applies generally to vehicles requiring them, often bicycles/mopeds in this section).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

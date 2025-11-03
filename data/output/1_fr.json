@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Défaut de port du permis de conduire",
+    "fine_chf": 20,
+    "keywords": [
+      "permis de conduire",
+      "port du permis",
+      "défaut de port",
+      "conducteur",
+      "inspection",
+      "permis de conduire",
+      "documents de route"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Défaut de port du permis d'apprenti",
+    "fine_chf": 20,
+    "keywords": [
+      "permis d'apprenti",
+      "port du permis",
+      "défaut de port",
+      "permis d'apprenti",
+      "conducteur"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule (apprenti)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Défaut de port de l'immatriculation du véhicule",
+    "fine_chf": 20,
+    "keywords": [
+      "immatriculation du véhicule",
+      "port de l'immatriculation",
+      "défaut de port",
+      "immatriculation du véhicule",
+      "documents de route"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Défaut de port du permis pour transports spéciaux",
+    "fine_chf": 20,
+    "keywords": [
+      "transports spéciaux",
+      "permis",
+      "défaut de port",
+      "transport spécial",
+      "permis"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Permis pour transports spéciaux ou surdimensionnés.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Défaut de port du document d'entretien des émissions",
+    "fine_chf": 20,
+    "keywords": [
+      "document d'entretien des émissions",
+      "défaut de port",
+      "document d'entretien des émissions",
+      "inspection"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Défaut de port du permis d'exemption pour une réglementation signalée",
+    "fine_chf": 20,
+    "keywords": [
+      "permis d'exemption",
+      "signalée",
+      "réglementation",
+      "défaut de port",
+      "permis d'exemption",
+      "panneaux de signalisation"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Permis d'exception pour une règle ou un panneau de signalisation spécifique.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Défaut de port du certificat de qualification du conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "certificat de qualification du conducteur",
+      "défaut de port",
+      "certificat de compétence",
+      "certificat de qualification du conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Preuve de la qualification du conducteur professionnel.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Défaut de port de la feuille d'insertion du jour précédent",
+    "fine_chf": 140,
+    "keywords": [
+      "feuille d'insertion",
+      "jour précédent",
+      "défaut de port",
+      "tachygraphe",
+      "feuille de tachygraphe",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Concernant l'utilisation du tachygraphe analogique pour les conducteurs professionnels (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Défaut de port de l'impression du jour précédent",
+    "fine_chf": 140,
+    "keywords": [
+      "impression",
+      "jour précédent",
+      "défaut de port",
+      "tachygraphe",
+      "impression du tachygraphe numérique",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Concernant l'utilisation du tachygraphe numérique pour les conducteurs professionnels (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Défaut de port des autres feuilles d'insertion requises",
+    "fine_chf": 60,
+    "keywords": [
+      "feuilles d'insertion",
+      "défaut de port",
+      "tachygraphe",
+      "conducteur professionnel",
+      "feuilles"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": "tarif forfaitaire par 7 jours",
+    "notes": "L'amende s'applique par période de 7 jours pour les feuilles de tachygraphe non quotidiennes manquantes.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Défaut de port des autres impressions requises",
+    "fine_chf": 60,
+    "keywords": [
+      "impressions",
+      "défaut de port",
+      "tachygraphe",
+      "conducteur professionnel",
+      "impressions"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": "tarif forfaitaire par 7 jours",
+    "notes": "L'amende s'applique par période de 7 jours pour les impressions de tachygraphe non quotidiennes manquantes.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Défaut de port de la carte conducteur",
+    "fine_chf": 140,
+    "keywords": [
+      "carte conducteur",
+      "défaut de port",
+      "carte conducteur",
+      "tachygraphe",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Carte conducteur pour le tachygraphe numérique. ARV 1 concerne les heures de travail suisses pour *certains* conducteurs professionnels.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Défaut de port des dossiers de tachygraphe de remplacement ou du lot hebdomadaire",
+    "fine_chf": 40,
+    "keywords": [
+      "dossiers de tachygraphe de remplacement",
+      "lot hebdomadaire",
+      "défaut de port",
+      "dossiers de tachygraphe",
+      "conducteur professionnel",
+      "lot"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Dossiers de tachygraphe de remplacement ou lots hebdomadaires (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Défaut de port du papier d'imprimante de remplacement",
+    "fine_chf": 40,
+    "keywords": [
+      "papier d'imprimante de remplacement",
+      "défaut de port",
+      "papier d'imprimante",
+      "tachygraphe numérique",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Défaut de port du papier d'imprimante de remplacement pour le tachygraphe numérique.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Défaut de port de la feuille d'insertion du jour précédent",
+    "fine_chf": 40,
+    "keywords": [
+      "feuille d'insertion",
+      "jour précédent",
+      "défaut de port",
+      "tachygraphe",
+      "feuille de tachygraphe",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Concernant l'utilisation du tachygraphe analogique pour les conducteurs professionnels (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Défaut de port du carnet de travail",
+    "fine_chf": 40,
+    "keywords": [
+      "carnet de travail",
+      "défaut de port",
+      "carnet de travail",
+      "conducteur professionnel",
+      "registre"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Concernant les conducteurs professionnels travaillant sous les règles ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Défaut de port des rapports quotidiens internes de la semaine en cours ou du double",
+    "fine_chf": 40,
+    "keywords": [
+      "rapports quotidiens",
+      "semaine",
+      "défaut de port",
+      "rapports quotidiens",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": "tarif forfaitaire",
+    "notes": "Rapports quotidiens internes pour les conducteurs professionnels (ARV 2). L'amende est fixe pour la semaine/période.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Défaut de port du permis d'exemption de tenue du carnet de travail",
+    "fine_chf": 40,
+    "keywords": [
+      "permis",
+      "carnet de travail",
+      "exemption",
+      "défaut de port",
+      "permis d'exemption"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel"
+    ],
+    "conditions": null,
+    "notes": "Permis exemptant le conducteur de tenir un carnet de travail (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Défaut de port de la carte de contrôle pour les conducteurs de taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "carte de contrôle",
+      "conducteur de taxi",
+      "défaut de port",
+      "conducteur de taxi",
+      "carte de contrôle",
+      "conducteur professionnel"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Conducteur de taxi"
+    ],
+    "conditions": null,
+    "notes": "Carte de contrôle pour les conducteurs de taxi (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

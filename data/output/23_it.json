@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autostrade (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autostrada",
+      "Semi-autostrada",
+      "Uso",
+      "VRV 50a",
+      "Restrizione"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso non autorizzato di semi-autostrade (spesso si applica a tipi specifici di veicoli o dispositivi).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Elusione, scalata o strisciamento sotto barriere o semibarriere",
+    "fine_chf": 20,
+    "keywords": [
+      "Barriere",
+      "Semibarriere",
+      "Barriere",
+      "Passaggio a livello ferroviario",
+      "Attraversamento a livello",
+      "Elusione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Utente della strada"
+    ],
+    "conditions": null,
+    "notes": "Elusione, scalata o strisciamento sotto barriere o semibarriere.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso della pista ciclabile da parte dei pedoni, quando\n1. è presente un marciapiede",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedone",
+      "Pista ciclabile",
+      "Marciapiede",
+      "Marciapiede",
+      "Pedone",
+      "Pista ciclabile"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedoni"
+    ],
+    "conditions": "Marciapiede presente",
+    "notes": "Uso della pista ciclabile quando è disponibile un marciapiede.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso della pista ciclabile da parte dei pedoni, quando\n2. è presente un sentiero pedonale",
+    "fine_chf": 10,
+    "keywords": [
+      "Pedone",
+      "Pista ciclabile",
+      "Sentiero pedonale",
+      "Marciapiede",
+      "Pedone",
+      "Pista ciclabile"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedoni"
+    ],
+    "conditions": "Sentiero pedonale presente",
+    "notes": "Uso della pista ciclabile quando è disponibile un sentiero pedonale dedicato.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Guida senza luci",
+    "fine_chf": 20,
+    "keywords": [
+      "Luce",
+      "Illuminazione",
+      "Guida",
+      "E-scooter",
+      "Dispositivi simili a veicoli",
+      "Attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operatore di dispositivi (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Guida senza l'illuminazione richiesta (si applica principalmente a e-scooter/dispositivi simili).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Ostruzione dell'uso di aree di traffico destinate ai pedoni",
+    "fine_chf": 20,
+    "keywords": [
+      "Pedone",
+      "Aree di traffico",
+      "Ostruzione",
+      "Marciapiede",
+      "Impedimento",
+      "Dispositivi VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Dispositivi (VRV 50a)",
+      "Utenti della strada"
+    ],
+    "conditions": null,
+    "notes": "Ostruzione dell'uso di aree di traffico destinate ai pedoni.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Ostruzione dell'uso della carreggiata su strade secondarie a traffico calmato",
+    "fine_chf": 20,
+    "keywords": [
+      "Strade secondarie",
+      "Carreggiata",
+      "Ostruzione",
+      "Flusso di traffico",
+      "Strada secondaria",
+      "Dispositivi (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Dispositivi (VRV 50a)",
+      "Utenti della strada"
+    ],
+    "conditions": null,
+    "notes": "Ostruzione del flusso di traffico su strade secondarie a traffico calmato.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorare il segnale 'Divieto per dispositivi simili a veicoli'",
+    "fine_chf": 20,
+    "keywords": [
+      "Segnale",
+      "Divieto",
+      "Dispositivi simili a veicoli",
+      "E-scooter",
+      "Segnalazione",
+      "Segnale stradale"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operatore di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale stradale specifico che vieta i dispositivi simili a veicoli.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Uso di dispositivi simili a veicoli in aree di traffico non autorizzate",
+    "fine_chf": 20,
+    "keywords": [
+      "Dispositivi simili a veicoli",
+      "E-scooter",
+      "Aree di traffico",
+      "Uso non autorizzato",
+      "Restrizione"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operatore di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Uso di dispositivi (come e-scooter) in aree di traffico dove non sono consentiti.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Mancata concessione della precedenza ai pedoni",
+    "fine_chf": 30,
+    "keywords": [
+      "Diritto di precedenza",
+      "Pedone",
+      "Priorità",
+      "Priorità",
+      "Pedone",
+      "Dispositivi (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operatore di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Mancata concessione della precedenza ai pedoni (si applica agli utenti di dispositivi speciali).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

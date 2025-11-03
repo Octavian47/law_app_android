@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Il conducente apprendista guida senza esporre la targa L",
+    "fine_chf": 20,
+    "keywords": [
+      "targa L",
+      "guida apprendista",
+      "scuola guida",
+      "targa apprendista",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente apprendista"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Mancata rimozione della targa L quando non è in corso una guida apprendista",
+    "fine_chf": 20,
+    "keywords": [
+      "targa L",
+      "guida apprendista",
+      "targa apprendista",
+      "rimozione",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Mancato utilizzo dell'indicatore di svolta",
+    "fine_chf": 100,
+    "keywords": [
+      "indicatore di svolta",
+      "indicatore",
+      "indicatore di svolta",
+      "segnalazione",
+      "omissione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Mancata disattivazione dell'indicatore di svolta dopo un cambiamento di direzione",
+    "fine_chf": 100,
+    "keywords": [
+      "indicatore di svolta",
+      "indicatore",
+      "indicatore di svolta",
+      "reimpostazione",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Mancata presenza della bandierina di segnalazione quando richiesta",
+    "fine_chf": 40,
+    "keywords": [
+      "bandierina di segnalazione",
+      "bandierina di segnale",
+      "dispositivo di segnalazione",
+      "attrezzatura",
+      "trasporto"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle è una bandierina di segnalazione, tipicamente richiesta per alcuni veicoli grandi o lenti, o per manovre specifiche.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Uso improprio dei segnali di avvertimento",
+    "fine_chf": 40,
+    "keywords": [
+      "segnale di avvertimento",
+      "clacson",
+      "clacson",
+      "uso improprio",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci durante il giorno",
+    "fine_chf": 40,
+    "keywords": [
+      "luce",
+      "guida senza luci",
+      "luci diurne",
+      "giorno",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida senza le luci richieste durante il giorno.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci su una strada illuminata di notte",
+    "fine_chf": 60,
+    "keywords": [
+      "luce",
+      "guida senza luci",
+      "guida notturna",
+      "strada illuminata",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida senza le luci richieste di notte su una strada illuminata.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci in un tunnel illuminato",
+    "fine_chf": 60,
+    "keywords": [
+      "luce",
+      "guida senza luci",
+      "tunnel",
+      "tunnel illuminato",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida senza le luci richieste in un tunnel illuminato.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Guida con luci di parcheggio o luci diurne su una strada illuminata di notte",
+    "fine_chf": 40,
+    "keywords": [
+      "luce di parcheggio",
+      "luce diurna",
+      "luce",
+      "guida notturna",
+      "attrezzatura",
+      "illuminazione insufficiente"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di illuminazione insufficiente (luce di parcheggio o luce diurna) al posto dei fari richiesti di notte su una strada illuminata.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Guida con luci di parcheggio o luci diurne in un tunnel illuminato",
+    "fine_chf": 40,
+    "keywords": [
+      "luce di parcheggio",
+      "luce diurna",
+      "luce",
+      "tunnel",
+      "attrezzatura",
+      "illuminazione insufficiente"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di illuminazione insufficiente (luce di parcheggio o luce diurna) al posto dei fari richiesti in un tunnel illuminato.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso improprio dei fari fendinebbia",
+    "fine_chf": 40,
+    "keywords": [
+      "faro fendinebbia",
+      "faro fendinebbia",
+      "uso improprio",
+      "attrezzatura",
+      "illuminazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso improprio dei fari fendinebbia posteriori",
+    "fine_chf": 40,
+    "keywords": [
+      "faro fendinebbia posteriore",
+      "faro fendinebbia posteriore",
+      "uso improprio",
+      "attrezzatura",
+      "illuminazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso improprio dei fari di ricerca",
+    "fine_chf": 40,
+    "keywords": [
+      "faro di ricerca",
+      "faro di ricerca",
+      "uso improprio",
+      "attrezzatura",
+      "illuminazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso improprio delle luci di lavoro",
+    "fine_chf": 40,
+    "keywords": [
+      "luce di lavoro",
+      "luce di lavoro",
+      "uso improprio",
+      "attrezzatura",
+      "illuminazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Riscaldamento inutile del motore di un veicolo fermo",
+    "fine_chf": 80,
+    "keywords": [
+      "motore",
+      "preriscaldamento",
+      "marcia al minimo",
+      "riscaldamento del motore",
+      "rumore",
+      "ambiente"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Fermo inutile del motore di un veicolo fermo",
+    "fine_chf": 80,
+    "keywords": [
+      "motore",
+      "funzionamento",
+      "marcia al minimo",
+      "motore in funzione",
+      "rumore",
+      "ambiente"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Uso di autostrada o superstrada con una motocicletta con cilindrata fino a 50 cm³ o potenza fino a 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autostrada",
+      "superstrada",
+      "motocicletta",
+      "cilindrata",
+      "potenza",
+      "superstrada",
+      "veicolo limitato"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Le motociclette/mopeds al di sotto delle specifiche minime richieste (50 cc o 4 kW) sono vietate sulle autostrade.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Uso di autostrada o superstrada con un altro veicolo a motore non consentito su di essa",
+    "fine_chf": 140,
+    "keywords": [
+      "autostrada",
+      "superstrada",
+      "veicolo a motore",
+      "non autorizzato",
+      "superstrada",
+      "veicolo limitato"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di un veicolo su un'autostrada non consentito (ad esempio veicoli lenti, veicoli agricoli).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Uso di autostrada o superstrada con pneumatici chiodati",
+    "fine_chf": 60,
+    "keywords": [
+      "autostrada",
+      "superstrada",
+      "pneumatici chiodati",
+      "pneumatici chiodati",
+      "attrezzatura",
+      "superstrada"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Traino su autostrada o superstrada oltre la prossima uscita",
+    "fine_chf": 140,
+    "keywords": [
+      "autostrada",
+      "superstrada",
+      "traino",
+      "traino",
+      "emergenza",
+      "prossima uscita"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Il traino è consentito sulle autostrade solo fino alla prossima uscita disponibile.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

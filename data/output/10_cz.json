@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pro vozidla a soupravy vozidel s celkovou hmotností nebo celkovou tažnou hmotností nejvýše 3500 kg, překračující o více než 100 kg, ale ne více než 5 procent.",
+    "fine_chf": 200,
+    "keywords": [
+      "hrubá hmotnost",
+      "přetížení",
+      "souprava vozidel",
+      "povolená hmotnost",
+      "přetížení",
+      "hrubá hmotnost"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla",
+      "Souprava vozidel"
+    ],
+    "conditions": null,
+    "notes": "Přetížení: >100 kg, ale ≤ 5 % nad maximální hrubou hmotnost (≤ 3500 kg). Pokuta se vztahuje na položku 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pro vozidla a soupravy vozidel s celkovou hmotností nebo celkovou tažnou hmotností vyšší než 3500 kg, o více než 100 kg až 5 procent, ale ne více než 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "hrubá hmotnost",
+      "přetížení",
+      "souprava vozidel",
+      "těžký provoz",
+      "přetížení",
+      "těžké nákladní vozidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla",
+      "Těžká vozidla"
+    ],
+    "conditions": null,
+    "notes": "Přetížení: >100 kg a ≤ 1000 kg, ale ≤ 5 % nad maximální hrubou hmotnost (> 3500 kg). Pokuta se vztahuje na položku 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "ne více než 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "zatížení nápravy",
+      "přetížení",
+      "povolená hmotnost",
+      "zatížení nápravy",
+      "přetížení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení povoleného zatížení nápravy (po odečtení měřicí tolerance) až do 100 kg. Pokuta se vztahuje na položku 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pro vozidla s celkovou hmotností vyšší než 3500 kg, překračující o více než 100 kg, ale ne více než 2 procent.",
+    "fine_chf": 250,
+    "keywords": [
+      "zatížení nápravy",
+      "přetížení",
+      "těžký provoz",
+      "zatížení nápravy",
+      "těžké nákladní vozidlo",
+      "přetížení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla",
+      "Těžká vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení povoleného zatížení nápravy (>100 kg, ale ≤ 2 % nad limit) pro vozidla > 3500 kg. Pokuta se vztahuje na položku 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "o více než 2 procent, ale ne více než 5 procent",
+    "fine_chf": 40,
+    "keywords": [
+      "povolená hmotnost",
+      "přetížení",
+      "zatížení nápravy",
+      "hrubá hmotnost",
+      "zatížení nápravy",
+      "souprava vozidel"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení povolené celkové hmotnosti/hmotnosti soupravy (po odečtení měřicí tolerance) o >2 % ale ≤5 %. Pokuta se vztahuje na položku 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "o více než 5 procent",
+    "fine_chf": 100,
+    "keywords": [
+      "povolená hmotnost",
+      "přetížení",
+      "zatížení nápravy",
+      "hrubá hmotnost",
+      "zatížení nápravy",
+      "souprava vozidel"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení povolené celkové hmotnosti/hmotnosti soupravy (po odečtení měřicí tolerance) o >5 %. Pokuta se vztahuje na položku 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Jízda na motorce po chodníku",
+    "fine_chf": 100,
+    "keywords": [
+      "motocykl",
+      "chodník",
+      "chodník",
+      "jízda",
+      "Motocykl",
+      "chodník"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Jezdec na motorce"
+    ],
+    "conditions": null,
+    "notes": "Jízda na motorce po chodníku.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Neschopnost jezdcem na motorce zachovat si místo ve sloupci, když je provoz zastaven.",
+    "fine_chf": 60,
+    "keywords": [
+      "jezdec na motorce",
+      "sloupec",
+      "místo",
+      "zastavený provoz",
+      "Motocykl",
+      "dopravní zácpa",
+      "průnik mezi pruhy"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Jezdec na motorce"
+    ],
+    "conditions": null,
+    "notes": "Jezdec na motorce si neudržuje místo ve sloupci, když je provoz zastaven (např. filtrování/překračování pruhů při zastavení).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "vnitřní město",
+      "Astra",
+      "překročení rychlosti",
+      "zastavěná oblast"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti v zastavěných oblastech, o 1–5 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "vnitřní město",
+      "Astra",
+      "překročení rychlosti",
+      "zastavěná oblast"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti v zastavěných oblastech, o 6–10 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "vnitřní město",
+      "Astra",
+      "překročení rychlosti",
+      "zastavěná oblast"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti v zastavěných oblastech, o 11–15 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "mimo zastavěnou oblast",
+      "dálnice",
+      "překročení rychlosti",
+      "mimo zastavěnou oblast",
+      "dálnice"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti mimo zastavěné oblasti nebo na dálnicích/polodálnicích, o 1–5 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "mimo zastavěnou oblast",
+      "dálnice",
+      "překročení rychlosti",
+      "mimo zastavěnou oblast",
+      "dálnice"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti mimo zastavěné oblasti nebo na dálnicích/polodálnicích, o 6–10 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "mimo zastavěnou oblast",
+      "dálnice",
+      "překročení rychlosti",
+      "mimo zastavěnou oblast",
+      "dálnice"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti mimo zastavěné oblasti nebo na dálnicích/polodálnicích, o 11–15 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "rychlost",
+      "překročení",
+      "mimo zastavěnou oblast",
+      "dálnice",
+      "překročení rychlosti",
+      "mimo zastavěnou oblast",
+      "dálnice"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení rychlosti mimo zastavěné oblasti nebo na dálnicích/polodálnicích, o 16–20 km/h nad limit (po odečtení měřicí tolerance). Pokuta se vztahuje na položku 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

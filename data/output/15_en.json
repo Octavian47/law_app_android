@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Driving on the emergency lane of motorways or expressways",
+    "fine_chf": 140,
+    "keywords": [
+      "emergency lane",
+      "motorway",
+      "expressway",
+      "emergency lane",
+      "motorway"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Use of the outermost left lane on motorways with at least three lanes in the same direction by motor vehicles that may not exceed 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "left lane",
+      "motorway",
+      "speed",
+      "100 km/h",
+      "lane use",
+      "motorway"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motor vehicles"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Failure to create a rescue lane",
+    "fine_chf": 100,
+    "keywords": [
+      "rescue lane",
+      "obligation",
+      "emergency corridor",
+      "emergency vehicle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Obstructive driving on the longitudinal strip for pedestrians",
+    "fine_chf": 60,
+    "keywords": [
+      "pedestrians",
+      "longitudinal strip",
+      "obstruction",
+      "pedestrian strip",
+      "obstruction"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with control plates that are not easily readable",
+    "fine_chf": 60,
+    "keywords": [
+      "control plates",
+      "license plate",
+      "readable",
+      "registration plate",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Carrying a person exceeding the permitted number of seats",
+    "fine_chf": 60,
+    "keywords": [
+      "excess passenger",
+      "seats",
+      "overcapacity",
+      "passenger",
+      "capacity"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "One passenger over the permitted number of seats.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Disregarding the night driving ban\na. up to one hour",
+    "fine_chf": 100,
+    "keywords": [
+      "night driving ban",
+      "night driving ban",
+      "Transport",
+      "duration"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver (heavy motor vehicles)"
+    ],
+    "conditions": "up to one hour",
+    "notes": "Night driving ban violation for heavy goods vehicles (usually).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Disregarding the night driving ban\nb. for more than one, but not more than 2 hours",
+    "fine_chf": 200,
+    "keywords": [
+      "night driving ban",
+      "night driving ban",
+      "Transport",
+      "duration"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver (heavy motor vehicles)"
+    ],
+    "conditions": "more than 1 hour, but not more than 2 hours",
+    "notes": "Night driving ban violation for heavy goods vehicles (usually).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured control plate(s) due to\n1. cargo",
+    "fine_chf": 60,
+    "keywords": [
+      "control plate",
+      "obscured",
+      "cargo",
+      "cargo",
+      "obscured",
+      "registration plate"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Registration plate obscured by cargo.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured control plate(s) due to\n2. load carrier",
+    "fine_chf": 60,
+    "keywords": [
+      "control plate",
+      "obscured",
+      "load carrier",
+      "bike rack",
+      "obscured",
+      "carrier"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Registration plate obscured by load carrier (e.g., bike rack).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured control plate(s) due to\n3. tools and the like",
+    "fine_chf": 60,
+    "keywords": [
+      "control plate",
+      "obscured",
+      "tools",
+      "tools",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Registration plate obscured by attached working tools.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured lighting device(s) due to\n1. cargo",
+    "fine_chf": 60,
+    "keywords": [
+      "lighting",
+      "obscured",
+      "cargo",
+      "lights",
+      "obscured",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Lighting device obscured by cargo.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured lighting device(s) due to\n2. load carrier",
+    "fine_chf": 60,
+    "keywords": [
+      "lighting",
+      "obscured",
+      "load carrier",
+      "lights",
+      "obscured",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Lighting device obscured by load carrier.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Driving with obscured lighting device(s) due to\n3. tools and the like",
+    "fine_chf": 60,
+    "keywords": [
+      "lighting",
+      "obscured",
+      "tools",
+      "lights",
+      "obscured",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Lighting device obscured by attached working tools.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Stopping on a pedestrian crossing during congested traffic",
+    "fine_chf": 60,
+    "keywords": [
+      "stopping",
+      "pedestrian crossing",
+      "congested traffic",
+      "pedestrian crossing",
+      "stopping",
+      "congestion"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "during congested traffic",
+    "notes": "Blocking a crosswalk during traffic congestion.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Stopping at a road junction on the carriageway for cross traffic during congested traffic",
+    "fine_chf": 60,
+    "keywords": [
+      "stopping",
+      "junction",
+      "cross traffic",
+      "congested traffic",
+      "junction",
+      "stopping"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "during congested traffic",
+    "notes": "Blocking the junction area intended for cross traffic during congestion.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Failure to yield right-of-way at a pedestrian crossing",
+    "fine_chf": 140,
+    "keywords": [
+      "right-of-way",
+      "pedestrian crossing",
+      "right-of-way",
+      "priority",
+      "pedestrian crossing"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to yield to pedestrians on a marked crossing.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Unauthorized carrying of a person on vehicles for goods transport and on agricultural and forestry vehicles",
+    "fine_chf": 60,
+    "keywords": [
+      "carrying",
+      "goods transport",
+      "agricultural vehicles",
+      "agricultural vehicles",
+      "passenger transport"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Carrying unauthorized passengers on vehicles meant for goods or forestry/agriculture.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Driving on a pedestrian area with a motorized wheelchair or an electric stand scooter by a non-disabled person",
+    "fine_chf": 40,
+    "keywords": [
+      "pedestrian zone",
+      "motorized wheelchair",
+      "electric stand scooter",
+      "E-Scooter",
+      "mobility impairment",
+      "pedestrian area"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Non-disabled person"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized use of assistive devices (wheelchair/e-scooter) on pedestrian paths by non-disabled individuals.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje pored neprekinute dužinske linije kada prolaz širok najmanje 3 m nije slobodan (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkiranje",
+      "dužinska linija",
+      "prolaz",
+      "manje od 3 m",
+      "parkiranje",
+      "dužinska linija",
+      "prolaz manji od 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje pored neprekinute dužinske linije, ometajući prolaz manji od 3 m, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zaustavljanje pored neprekinute dužinske linije kada prolaz širok najmanje 3 m nije slobodan (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "dužinska linija",
+      "prolaz",
+      "manje od 3 m",
+      "zaustavljanje",
+      "dužinska linija",
+      "prolaz manji od 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje pored neprekinute dužinske linije, ometajući prolaz manji od 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje pored duple linije kada prolaz širok najmanje 3 m nije slobodan (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkiranje",
+      "dupla linija",
+      "prolaz",
+      "manje od 3 m",
+      "parkiranje",
+      "dupla linija",
+      "prolaz manji od 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje pored duple linije, ometajući prolaz manji od 3 m, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zaustavljanje pored duple linije kada prolaz širok najmanje 3 m nije slobodan (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "dupla linija",
+      "prolaz",
+      "manje od 3 m",
+      "zaustavljanje",
+      "dupla linija",
+      "prolaz manji od 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje pored duple linije, ometajući prolaz manji od 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na raskrsnici (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkiranje",
+      "raskrsnica",
+      "raskrsnica",
+      "parkiranje",
+      "raskrsnica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na raskrsnici, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zaustavljanje na raskrsnici (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "raskrsnica",
+      "raskrsnica",
+      "zaustavljanje",
+      "raskrsnica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na raskrsnici.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje manje od 5 m pre raskrsnice sa ukrštenog puta (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parkiranje",
+      "raskrsnica",
+      "ukršteni put",
+      "5 m",
+      "parkiranje",
+      "raskrsnica",
+      "ukršteni put",
+      "manje od 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje manje od 5 m pre raskrsnice sa ukrštenog puta.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zaustavljanje manje od 5 m pre raskrsnice sa ukrštenog puta (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "zaustavljanje",
+      "raskrsnica",
+      "ukršteni put",
+      "5 m",
+      "zaustavljanje",
+      "raskrsnica",
+      "ukršteni put",
+      "manje od 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje manje od 5 m pre raskrsnice sa ukrštenog puta.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje manje od 5 m posle raskrsnice sa ukrštenog puta (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 40,
+    "keywords": [
+      "parkiranje",
+      "raskrsnica",
+      "ukršteni put",
+      "5 m",
+      "parkiranje",
+      "raskrsnica",
+      "ukršteni put",
+      "manje od 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje manje od 5 m posle raskrsnice sa ukrštenog puta, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zaustavljanje manje od 5 m posle raskrsnice sa ukrštenog puta (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "raskrsnica",
+      "ukršteni put",
+      "5 m",
+      "zaustavljanje",
+      "raskrsnica",
+      "ukršteni put",
+      "manje od 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje manje od 5 m posle raskrsnice sa ukrštenog puta.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje na pešačkom prelazu (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 80,
+    "keywords": [
+      "parkiranje",
+      "pešački prelaz",
+      "parkiranje",
+      "pešački prelaz",
+      "zebra prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na pešačkom prelazu, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zaustavljanje na pešačkom prelazu (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "pešački prelaz",
+      "zaustavljanje",
+      "pešački prelaz",
+      "zebra prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na pešačkom prelazu.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje pored pešačkog prelaza (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) do 60 minuta",
+    "fine_chf": 80,
+    "keywords": [
+      "parkiranje",
+      "pešački prelaz",
+      "pored",
+      "parkiranje",
+      "pešački prelaz",
+      "pored"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje pored pešačkog prelaza, do 60 minuta.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zaustavljanje pored pešačkog prelaza (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "pešački prelaz",
+      "pored",
+      "zaustavljanje",
+      "pešački prelaz",
+      "pored"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje pored pešačkog prelaza.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zaustavljanje na železničkom prelazu (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "železnički prelaz",
+      "zaustavljanje",
+      "železnički prelaz",
+      "razvodni prelaz"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na železničkom prelazu.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zaustavljanje u podzemnom prolazu (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "podzemni prolaz",
+      "zaustavljanje",
+      "podzemni prolaz"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje u podzemnom prolazu.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje manje od 10 m pre znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parkiranje",
+      "stop znak",
+      "javni prevoz",
+      "10 m",
+      "parkiranje",
+      "autobuska stanica",
+      "javni prevoz",
+      "manje od 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje manje od 10 m pre znaka zaustavljanja javnog prevoza.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Ometajuće zaustavljanje radi upuštanja/iskrcavanja osoba manje od 10 m pre znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zaustavljanje",
+      "stop znak",
+      "javni prevoz",
+      "10 m",
+      "ometanje",
+      "zaustavljanje",
+      "autobuska stanica",
+      "javni prevoz",
+      "manje od 10 m",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ometajuće zaustavljanje radi upuštanja/iskrcavanja osoba manje od 10 m pre znaka zaustavljanja javnog prevoza.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

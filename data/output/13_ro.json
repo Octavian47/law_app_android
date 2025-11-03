@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Utilizarea unui telefon fără dispozitiv hands‑free în timpul conducerii (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "telefon mobil",
+      "dispozitiv hands‑free",
+      "în timpul conducerii",
+      "conducere",
+      "telefon mobil"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unui telefon fără dispozitiv hands‑free în timpul conducerii.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Neportul centurii de siguranță de către conducător (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "centură de siguranță",
+      "centură",
+      "fixare",
+      "conducător de vehicul",
+      "centură de siguranță",
+      "conducător"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Neportul centurii de siguranță de către conducător.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Transportul unui copil nesecurizat sub 12 ani (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "copil",
+      "siguranță",
+      "scaun pentru copil",
+      "transport",
+      "dispozitiv de siguranță",
+      "copii"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Transportul unui copil nesecurizat sub 12 ani.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Neportul căștii de protecție de către conducătorul motocicletelor, vehiculelor ușoare, mici și cu trei roți (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "cască de protecție",
+      "cască",
+      "motocicletă",
+      "vehicul cu motor",
+      "conducător",
+      "cască",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Conducătorul vehiculului motocicletă/ușor/mic/ cu trei roți nu poartă cască de protecție.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Transportul unui copil sub 12 ani fără cască pe motociclete, vehicule ușoare, mici și cu trei roți (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "copil",
+      "cască",
+      "motocicletă",
+      "transport",
+      "cască de protecție",
+      "copii",
+      "motocicletă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Transportul unui copil sub 12 ani fără cască pe o motocicletă/vehicul ușor/mic/ cu trei roți.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Neutilizarea benzii din extrema dreaptă pe drumurile cu mai multe benzi, cu excepția depășirii, îmbinării, conducerii în coloane paralele sau în zone construite (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "bandă",
+      "conducere pe dreapta",
+      "bandă cea mai exterioară",
+      "depășire",
+      "utilizare bandă",
+      "menținere pe dreapta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Neutilizarea benzii din extrema dreaptă pe drumurile cu mai multe benzi, cu excepția depășirii, îmbinării, conducerii în coloane paralele sau în zona construită.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Depășire pe partea dreaptă prin deviere și reintrare pe drumurile cu mai multe benzi în zone construite (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "depășire pe dreapta",
+      "în zona construită",
+      "schimbare de bandă",
+      "depășire pe dreapta",
+      "zonă construită",
+      "schimbare de bandă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășire pe partea dreaptă prin deviere și reintrare pe drumurile cu mai multe benzi în zone construite.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Depășire pe partea dreaptă prin deviere și reintrare pe autostrăzi și drumuri expres cu mai multe benzi (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "depășire pe dreapta",
+      "drum expres",
+      "autostradă",
+      "schimbare de bandă",
+      "depășire pe dreapta",
+      "autostradă",
+      "autostradă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășire pe partea dreaptă prin deviere și reintrare pe drumuri cu mai multe benzi semi-autostrăzi și autostrăzi.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Schimbarea pe o altă bandă pentru a depăși pe un drum cu o singură bandă (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "depășire",
+      "schimbare de bandă",
+      "drum cu o singură bandă",
+      "depășire",
+      "schimbare de bandă",
+      "drum cu o singură bandă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Schimbarea benzilor pentru a depăși pe o secțiune de drum cu o singură bandă.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Oprirea sau parcarea pe partea stângă a drumului, deși nu există linii de tramvai, nu există semnalizare de interdicție de parcare sau oprire și drumul este larg (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "oprire",
+      "parcare",
+      "partea stângă a drumului",
+      "parcare",
+      "oprire",
+      "parte greșită"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprirea sau parcarea pe partea stângă a drumului, în ciuda absenței liniilor de tramvai, semnelor de interdicție de parcare/oprire și a faptului că drumul este larg.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Părăsirea vehiculului fără a scoate cheia de aprindere (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "părăsirea vehiculului",
+      "cheia de aprindere",
+      "cheie",
+      "cheia de aprindere",
+      "părăsirea vehiculului"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Părăsirea vehiculului fără a scoate cheia de aprindere.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Neinstalarea triunghiului de avertizare în caz de pană (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "semnal de pană",
+      "triunghi de avertizare",
+      "instalare",
+      "triunghi de avertizare",
+      "pană"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Neinstalarea triunghiului de avertizare (semnal de pană).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Instalarea incorectă a triunghiului de avertizare în caz de pană (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "semnal de pană",
+      "triunghi de avertizare",
+      "instalare",
+      "neconform",
+      "triunghi de avertizare",
+      "pană"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Instalarea triunghiului de avertizare (semnal de pană) contrar reglementărilor (de ex., prea aproape).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Utilizare abuzivă a luminilor de avarie pe un vehicul staționar (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "lumini de avarie",
+      "lumini de avarie",
+      "utilizare necorespunzătoare",
+      "vehicul staționar",
+      "lumini de avarie",
+      "vehicul staționar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizare necorespunzătoare a luminilor de avarie pe un vehicul staționar.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Utilizare abuzivă a luminilor de avarie pe un vehicul în mișcare (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "lumini de avarie",
+      "lumini de avarie",
+      "utilizare necorespunzătoare",
+      "vehicul în mișcare",
+      "lumini de avarie",
+      "vehicul în mișcare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizare necorespunzătoare a luminilor de avarie pe un vehicul în mișcare.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Neatașarea triunghiului de avertizare în caz de pană la partea din spate a unui vehicul remorcat (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "semnal de pană",
+      "vehicul remorcat",
+      "partea din spate",
+      "triunghi de avertizare",
+      "vehicul remorcat",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Neatașarea triunghiului de avertizare la partea din spate a vehiculului remorcat.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

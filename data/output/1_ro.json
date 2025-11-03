@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nerespectarea purtării permisului de conducere",
+    "fine_chf": 20,
+    "keywords": [
+      "permis de conducere",
+      "purtarea permisului",
+      "nepurtare",
+      "conducător",
+      "inspecție",
+      "permis de conducere",
+      "documente de drum"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nerespectarea purtării permisului de învățare",
+    "fine_chf": 20,
+    "keywords": [
+      "permis de învățare",
+      "purtarea permisului",
+      "nepurtare",
+      "permis de învățare",
+      "conducător"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul (învățăcel)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nerespectarea purtării certificatului de înmatriculare a vehiculului",
+    "fine_chf": 20,
+    "keywords": [
+      "înmatriculare a vehiculului",
+      "purtarea înmatriculării",
+      "nepurtare",
+      "înmatriculare a vehiculului",
+      "documente de drum"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nerespectarea purtării autorizației pentru transporturi speciale",
+    "fine_chf": 20,
+    "keywords": [
+      "transporturi speciale",
+      "autorizație",
+      "nepurtare",
+      "transport special",
+      "autorizație"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Autorizație pentru transporturi speciale sau supradimensionate.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Nerespectarea purtării documentului de întreținere a emisiilor",
+    "fine_chf": 20,
+    "keywords": [
+      "document de întreținere a emisiilor",
+      "nepurtare",
+      "document de întreținere a emisiilor",
+      "inspecție"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Nerespectarea purtării autorizației de exceptare pentru o reglementare semnalizată",
+    "fine_chf": 20,
+    "keywords": [
+      "autorizație de exceptare",
+      "semnalizat",
+      "reglementare",
+      "nepurtare",
+      "autorizație de exceptare",
+      "semne de circulație"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Autorizație de exceptare pentru o regulă/semn de circulație specifică.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nerespectarea purtării certificatului de calificare a conducătorului",
+    "fine_chf": 20,
+    "keywords": [
+      "certificat de calificare a conducătorului",
+      "nepurtare",
+      "certificat de competență",
+      "certificat de calificare a conducătorului profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Dovadă a calificării conducătorului profesionist.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nerespectarea purtării foii de inserție a zilei precedente",
+    "fine_chf": 140,
+    "keywords": [
+      "foaie de inserție",
+      "ziua precedentă",
+      "nepurtare",
+      "tachograf",
+      "foaie de tachograf",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Legat de utilizarea tachografului analog pentru conducătorii profesioniști (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nerespectarea purtării tipăririi zilei precedente",
+    "fine_chf": 140,
+    "keywords": [
+      "tipărire",
+      "ziua precedentă",
+      "nepurtare",
+      "tachograf",
+      "tipărire de tachograf digital",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Legat de utilizarea tachografului digital pentru conducătorii profesioniști (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nerespectarea purtării celorlalte foi de inserție necesare",
+    "fine_chf": 60,
+    "keywords": [
+      "foi de inserție",
+      "nepurtare",
+      "tachograf",
+      "conducător profesionist",
+      "foi"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": "taxă fixă pe 7 zile",
+    "notes": "Amenda se aplică pe perioade de 7 zile pentru lipsa foilor de tachograf care nu sunt zilnice.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nerespectarea purtării celorlalte tipăriri necesare",
+    "fine_chf": 60,
+    "keywords": [
+      "tipăriri",
+      "nepurtare",
+      "tachograf",
+      "conducător profesionist",
+      "tipăriri"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": "taxă fixă pe 7 zile",
+    "notes": "Amenda se aplică pe perioade de 7 zile pentru lipsa tipăririlor de tachograf care nu sunt zilnice.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Nerespectarea purtării cardului de conducător",
+    "fine_chf": 140,
+    "keywords": [
+      "card de conducător",
+      "nepurtare",
+      "card de conducător",
+      "tachograf",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Card de conducător pentru tachograf digital. ARV 1 reprezintă orele de lucru elvețiene pentru *unii* conducători profesioniști.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nerespectarea purtării înlocuirii înregistrărilor tachografului sau a pachetului săptămânal",
+    "fine_chf": 40,
+    "keywords": [
+      "înlocuirea înregistrărilor tachografului",
+      "pachet săptămânal",
+      "nepurtare",
+      "înregistrări tachograf",
+      "conducător profesionist",
+      "pachet"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Înlocuirea înregistrărilor tachografului sau pachetele săptămânale (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Nerespectarea purtării hârtiei de imprimantă de înlocuire",
+    "fine_chf": 40,
+    "keywords": [
+      "hârtie de imprimantă de înlocuire",
+      "nepurtare",
+      "hârtie de imprimantă",
+      "tachograf digital",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea purtării hârtiei de imprimantă de înlocuire pentru tachograful digital.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nerespectarea purtării foii de inserție a zilei precedente",
+    "fine_chf": 40,
+    "keywords": [
+      "foaie de inserție",
+      "ziua precedentă",
+      "nepurtare",
+      "tachograf",
+      "foaie de tachograf",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Legat de utilizarea tachografului analog pentru conducătorii profesioniști (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Nerespectarea purtării carnetului de lucru",
+    "fine_chf": 40,
+    "keywords": [
+      "carnet de lucru",
+      "nepurtare",
+      "carnet de lucru",
+      "conducător profesionist",
+      "registru de lucru"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Legat de conducătorii profesioniști care lucrează conform regulilor ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nerespectarea purtării rapoartelor zilnice interne ale săptămânii curente sau dublul acestora",
+    "fine_chf": 40,
+    "keywords": [
+      "rapoarte zilnice",
+      "săptămână",
+      "nepurtare",
+      "rapoarte zilnice",
+      "conducător profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": "taxă fixă",
+    "notes": "Rapoarte zilnice interne pentru conducătorii profesioniști (ARV 2). Amenda este fixă pentru săptămână/perioadă.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nerespectarea purtării autorizației de exceptare de la păstrarea carnetului de lucru",
+    "fine_chf": 40,
+    "keywords": [
+      "autorizație",
+      "carnet de lucru",
+      "exceptare",
+      "nepurtare",
+      "autorizație de exceptare"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist"
+    ],
+    "conditions": null,
+    "notes": "Autorizație care exonerează conducătorul de păstrarea unui carnet de lucru (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Nerespectarea purtării cardului de control pentru șoferii de taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "card de control",
+      "șofer de taxi",
+      "nepurtare",
+      "șofer de taxi",
+      "card de control",
+      "conducător profesionist"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Șofer de taxi"
+    ],
+    "conditions": null,
+    "notes": "Card de control pentru șoferii de taxi (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

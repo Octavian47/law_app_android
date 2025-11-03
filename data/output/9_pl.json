@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "przez ponad 2, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Miejsce parkingowe",
+      "Przekroczenie czasu",
+      "Oznakowanie",
+      "Czas parkowania",
+      "parkowanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 2 a 4 godzinami",
+    "notes": "Rozszerzenie mandatu 254.b za parkowanie pojazdu w obszarze parkingowym oznaczonym znakami lub gdzie parking jest zarezerwowany dla określonej kategorii pojazdów, przekraczając dozwolony czas.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "przez ponad 4, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Miejsce parkingowe",
+      "Przekroczenie czasu",
+      "Oznakowanie",
+      "Czas parkowania",
+      "parkowanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 4 a 10 godzinami",
+    "notes": "Rozszerzenie mandatu 254.c za parkowanie pojazdu w obszarze parkingowym oznaczonym znakami lub gdzie parking jest zarezerwowany dla określonej kategorii pojazdów, przekraczając dozwolony czas.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkowanie na linii zakazu parkowania\\na. do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "Linia zakazu parkowania",
+      "Przekroczenie czasu",
+      "Żółta linia",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Parkowanie na linii zakazu parkowania (zwykle żółta) do 2 godzin.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "przez ponad 2, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Linia zakazu parkowania",
+      "Przekroczenie czasu",
+      "Żółta linia",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 2 a 4 godzinami",
+    "notes": "Rozszerzenie mandatu 255.b za parkowanie na linii zakazu parkowania.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "przez ponad 4, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Linia zakazu parkowania",
+      "Przekroczenie czasu",
+      "Żółta linia",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 4 a 10 godzinami",
+    "notes": "Rozszerzenie mandatu 255.c za parkowanie na linii zakazu parkowania.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkowanie w strefie zakazu parkowania\\na. do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "Strefa zakazu parkowania",
+      "Przekroczenie czasu",
+      "strefa zakazu parkowania",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Parkowanie w strefie zakazu parkowania (zwykle oznaczonej żółtą kratką lub podobnym oznakowaniem) do 2 godzin.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "przez ponad 2, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Strefa zakazu parkowania",
+      "Przekroczenie czasu",
+      "strefa zakazu parkowania",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 2 a 4 godzinami",
+    "notes": "Rozszerzenie mandatu 256.b za parkowanie w strefie zakazu parkowania.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "przez ponad 4, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Strefa zakazu parkowania",
+      "Przekroczenie czasu",
+      "strefa zakazu parkowania",
+      "Zakaz parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 4 a 10 godzinami",
+    "notes": "Rozszerzenie mandatu 256.c za parkowanie w strefie zakazu parkowania.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Uciążliwe parkowanie na ścieżce rowerowej pojazdem, który nie jest tam dozwolony (2.60; Art. 37 ust. 2 i 43 ust. 2 SVG) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Ścieżka rowerowa",
+      "Utrudnienie",
+      "Pojazd",
+      "Rower",
+      "ścieżka rowerowa",
+      "utrudnienie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Uciążliwe parkowanie na ścieżce rowerowej pojazdem, który nie jest tam dozwolony, do 60 minut.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Uciążliwe zatrzymanie na ścieżce rowerowej pojazdem, który nie jest tam dozwolony (2.60; Art. 37 ust. 2 i 43 ust. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Ścieżka rowerowa",
+      "Utrudnienie",
+      "Pojazd",
+      "Rower",
+      "ścieżka rowerowa",
+      "utrudnienie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": null,
+    "notes": "Uciążliwe zatrzymanie na ścieżce rowerowej pojazdem, który nie jest tam dozwolony.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Uciążliwe parkowanie na ścieżce pieszej pojazdem, który nie jest tam dozwolony (2.61; Art. 37 ust. 2 SVG, Art. 33 ust. 2 SSV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Ścieżka piesza",
+      "Utrudnienie",
+      "Pojazd",
+      "ścieżka piesza",
+      "utrudnienie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Uciążliwe parkowanie na ścieżce pieszej pojazdem, który nie jest tam dozwolony, do 60 minut.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Uciążliwe zatrzymanie na ścieżce pieszej pojazdem, który nie jest tam dozwolony (2.61; Art. 37 ust. 2 SVG, Art. 33 ust. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Ścieżka piesza",
+      "Utrudnienie",
+      "Pojazd",
+      "ścieżka piesza",
+      "utrudnienie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": null,
+    "notes": "Uciążliwe zatrzymanie na ścieżce pieszej pojazdem, który nie jest tam dozwolony.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkowanie w strefie pieszej na nieoznaczonych miejscach\\na. do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "Strefa piesza",
+      "Przekroczenie czasu",
+      "strefa piesza",
+      "nieoznaczone miejsce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Parkowanie w strefie pieszej na nieoznaczonym miejscu do 2 godzin.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "przez ponad 2, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Strefa piesza",
+      "Przekroczenie czasu",
+      "strefa piesza",
+      "nieoznaczone miejsce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 2 a 4 godzinami",
+    "notes": "Rozszerzenie mandatu 259.b za parkowanie w strefie pieszej na nieoznaczonym miejscu.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "przez ponad 4, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Strefa piesza",
+      "Przekroczenie czasu",
+      "strefa piesza",
+      "nieoznaczone miejsce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "pomiędzy 4 a 10 godzinami",
+    "notes": "Rozszerzenie mandatu 259.c za parkowanie w strefie pieszej na nieoznaczonym miejscu.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Przekroczenie dopuszczalnej masy po odliczeniu urządzenia i niepewności pomiaru ustalonej przez Federalny Urząd Dróg (ASTRA)\\na. nie więcej niż 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Masa",
+      "Przekroczenie",
+      "Dopuszczalna masa",
+      "ASTRA",
+      "Pojazd silnikowy",
+      "przeciążenie",
+      "ładunek"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu silnikowego"
+    ],
+    "conditions": "do 100 kg przekroczenia masy",
+    "notes": "Przekroczenie dopuszczalnego limitu masy dla pojazdów silnikowych, po odliczeniu tolerancji i niepewności pomiaru, o maksymalnie 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

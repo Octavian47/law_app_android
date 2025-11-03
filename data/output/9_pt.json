@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "durante mais de 2, mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Espaço de estacionamento",
+      "Tempo excedente",
+      "Sinalização",
+      "Duração do estacionamento",
+      "estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 2 e 4 horas",
+    "notes": "Extensão da multa 254.b para estacionamento de um veículo em área de estacionamento indicada por sinais ou onde o estacionamento é reservado para uma determinada categoria de veículos, excedendo o tempo permitido.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "durante mais de 4, mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Espaço de estacionamento",
+      "Tempo excedente",
+      "Sinalização",
+      "Duração do estacionamento",
+      "estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 4 e 10 horas",
+    "notes": "Extensão da multa 254.c para estacionamento de um veículo em área de estacionamento indicada por sinais ou onde o estacionamento é reservado para uma determinada categoria de veículos, excedendo o tempo permitido.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Estacionamento em linha de proibição\\na. até 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "Linha de proibição de estacionamento",
+      "Tempo excedente",
+      "linha amarela",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Estacionamento em linha de proibição (geralmente amarela) por até 2 horas.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "durante mais de 2, mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Linha de proibição de estacionamento",
+      "Tempo excedente",
+      "linha amarela",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 2 e 4 horas",
+    "notes": "Extensão da multa 255.b para estacionamento em linha de proibição.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "durante mais de 4, mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Linha de proibição de estacionamento",
+      "Tempo excedente",
+      "linha amarela",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 4 e 10 horas",
+    "notes": "Extensão da multa 255.c para estacionamento em linha de proibição.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Estacionamento em zona de proibição\\na. até 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "Zona de proibição de estacionamento",
+      "Tempo excedente",
+      "zona de proibição de estacionamento",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Estacionamento em área de proibição (geralmente marcada com cruzamento amarelo ou similar) por até 2 horas.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "durante mais de 2, mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Zona de proibição de estacionamento",
+      "Tempo excedente",
+      "zona de proibição de estacionamento",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 2 e 4 horas",
+    "notes": "Extensão da multa 256.b para estacionamento em área de proibição.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "durante mais de 4, mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Zona de proibição de estacionamento",
+      "Tempo excedente",
+      "zona de proibição de estacionamento",
+      "proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 4 e 10 horas",
+    "notes": "Extensão da multa 256.c para estacionamento em área de proibição.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Estacionamento obstrutivo em ciclovia com um veículo não permitido lá (2.60; Art. 37 párr. 2 e 43 párr. 2 SVG) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Ciclovia",
+      "Obstrução",
+      "Veículo",
+      "Bicicleta",
+      "ciclovia",
+      "obstrução"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento obstrutivo em ciclovia com um veículo não permitido lá, por até 60 minutos.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Parada obstrutiva em ciclovia com um veículo não permitido lá (2.60; Art. 37 párr. 2 e 43 párr. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Ciclovia",
+      "Obstrução",
+      "Veículo",
+      "Bicicleta",
+      "ciclovia",
+      "obstrução"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva em ciclovia com um veículo não permitido lá.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Estacionamento obstrutivo em caminho pedonal com um veículo não permitido lá (2.61; Art. 37 párr. 2 SVG, Art. 33 párr. 2 SSV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Caminho pedonal",
+      "Obstrução",
+      "Veículo",
+      "caminho pedonal",
+      "obstrução"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento obstrutivo em caminho pedonal com um veículo não permitido lá, por até 60 minutos.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Parada obstrutiva em caminho pedonal com um veículo não permitido lá (2.61; Art. 37 párr. 2 SVG, Art. 33 párr. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Caminho pedonal",
+      "Obstrução",
+      "Veículo",
+      "caminho pedonal",
+      "obstrução"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva em caminho pedonal com um veículo não permitido lá.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Estacionamento em zona pedonal em locais não marcados\\na. até 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "Zona pedonal",
+      "Tempo excedente",
+      "zona pedonal",
+      "local não marcado"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Estacionamento em zona pedonal em local não marcado por até 2 horas.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "durante mais de 2, mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Zona pedonal",
+      "Tempo excedente",
+      "zona pedonal",
+      "local não marcado"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 2 e 4 horas",
+    "notes": "Extensão da multa 259.b para estacionamento em zona pedonal em local não marcado.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "durante mais de 4, mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Zona pedonal",
+      "Tempo excedente",
+      "zona pedonal",
+      "local não marcado"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "entre 4 e 10 horas",
+    "notes": "Extensão da multa 259.c para estacionamento em zona pedonal em local não marcado.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Exceder o peso permitido após dedução do dispositivo e da incerteza de medição estabelecida pela Agência Federal de Estradas (ASTRA)\\na. em até 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Peso",
+      "Excedente",
+      "Peso permitido",
+      "ASTRA",
+      "Veículo motorizado",
+      "sobrepeso",
+      "carga"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo motorizado"
+    ],
+    "conditions": "até 100 kg de sobrepeso",
+    "notes": "Exceder o limite de peso permitido para veículos motorizados, após dedução de tolerância e incerteza de medição, em até 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

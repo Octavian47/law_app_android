@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale, relativa al veicolo o segnalata, dopo la deduzione del dispositivo e della sicurezza di misura stabiliti da ASTRA sulle autostrade",
+    "fine_chf": 20,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "autostrada",
+      "sicurezza di misura",
+      "eccesso di velocità",
+      "autostrada",
+      "autostrade",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "di 1–5 km/h",
+    "notes": "Eccesso di velocità di 1-5 km/h dopo la deduzione della tolleranza.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale, relativa al veicolo o segnalata, dopo la deduzione del dispositivo e della sicurezza di misura stabiliti da ASTRA sulle autostrade",
+    "fine_chf": 60,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "autostrada",
+      "sicurezza di misura",
+      "eccesso di velocità",
+      "autostrada",
+      "autostrade",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "di 6–10 km/h",
+    "notes": "Eccesso di velocità di 6-10 km/h dopo la deduzione della tolleranza.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale, relativa al veicolo o segnalata, dopo la deduzione del dispositivo e della sicurezza di misura stabiliti da ASTRA sulle autostrade",
+    "fine_chf": 120,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "autostrada",
+      "sicurezza di misura",
+      "eccesso di velocità",
+      "autostrada",
+      "autostrade",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "di 11–15 km/h",
+    "notes": "Eccesso di velocità di 11-15 km/h dopo la deduzione della tolleranza.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale, relativa al veicolo o segnalata, dopo la deduzione del dispositivo e della sicurezza di misura stabiliti da ASTRA sulle autostrade",
+    "fine_chf": 180,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "autostrada",
+      "sicurezza di misura",
+      "eccesso di velocità",
+      "autostrada",
+      "autostrade",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "di 16–20 km/h",
+    "notes": "Eccesso di velocità di 16-20 km/h dopo la deduzione della tolleranza.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale, relativa al veicolo o segnalata, dopo la deduzione del dispositivo e della sicurezza di misura stabiliti da ASTRA sulle autostrade",
+    "fine_chf": 260,
+    "keywords": [
+      "velocità",
+      "superamento",
+      "autostrada",
+      "sicurezza di misura",
+      "eccesso di velocità",
+      "autostrada",
+      "autostrade",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "di 21–25 km/h",
+    "notes": "Eccesso di velocità di 21-25 km/h dopo la deduzione della tolleranza.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto di traffico generale in entrambe le direzioni' (2.01; Art. 27 para. 1 SVG e Art. 18 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto di traffico",
+      "entrambe le direzioni",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di accesso",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di accesso per tutti i veicoli in entrambe le direzioni'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Ingresso vietato' (2.02; Art. 27 para. 1 SVG, Art. 37 para. 3 VRV e Art. 18 para. 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ingresso vietato",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di accesso",
+      "segnale stradale",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di accesso'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto per veicoli a motore' (2.03; Art. 27 para. 1 SVG e Art. 19 para. 1 lettera a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto",
+      "veicolo a motore",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di veicoli a motore",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente di veicoli a motore"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di veicoli a motore'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto per motocicli' (2.04; Art. 27 para. 1 SVG e Art. 19 para. 1 lettera b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto",
+      "motocicli",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di motocicli",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motociclista"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di motocicli'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto per camion' (2.07; Art. 27 para. 1 SVG e Art. 19 para. 1 lettera d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto",
+      "camion",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di camion",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente di camion"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di camion'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto per autobus' (2.08; Art. 27 para. 1 SVG e Art. 19 para. 1 lettera e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto",
+      "autobus",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di autobus",
+      "autobus",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente di autobus"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di autobus'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto per rimorchi' (2.09; Art. 27 para. 1 SVG e Art. 19 para. 1 lettera f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto",
+      "rimorchi",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di rimorchi",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo con rimorchio"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di rimorchi'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Direzione destra' (2.32; Art. 27 para. 1 SVG e Art. 24 para. 1 lettera a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "direzione destra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "direzione destra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Direzione destra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Direzione sinistra' (2.33; Art. 27 para. 1 SVG e Art. 24 para. 1 lettera b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "direzione sinistra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "direzione sinistra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Direzione sinistra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Passare ostacolo a destra' (2.34; Art. 27 para. 1 SVG e Art. 24 para. 1 lettera c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "passare ostacolo",
+      "destra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "passare a destra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Passare ostacolo a destra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Passare ostacolo a sinistra' (2.35; Art. 27 para. 1 SVG e Art. 24 para. 1 lettera d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "passare ostacolo",
+      "sinistra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "passare a sinistra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Passare ostacolo a sinistra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Proseguire dritto' (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG e Art. 24 para. 1 lettera i e 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "proseguire dritto",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "dritto",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Proseguire dritto' (varie forme 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Svoltare a destra' (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG e Art. 24 para. 2 e 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "svoltare a destra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "svoltare a destra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Svoltare a destra' (varie forme 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Svoltare a sinistra' (2.38, 2.39, 2.41; Art. 27 para. 1 SVG e Art. 24 para. 2 e 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "svoltare a sinistra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "svoltare a sinistra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Svoltare a sinistra' (varie forme 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Rotatoria' (2.41.1; Art. 27 para. 1 SVG e Art. 24 para. 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "rotatoria",
+      "rotatoria",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "rotatoria",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Rotatoria'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto di svolta a destra' (2.42; Art. 27 para. 1 SVG e Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto di svolta a destra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di svolta a destra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di svolta a destra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare 'Divieto di svolta a sinistra' (2.43; Art. 27 para. 1 SVG e Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "divieto di svolta a sinistra",
+      "segnale regolamentare",
+      "mancata osservanza",
+      "divieto di svolta a sinistra",
+      "segnale stradale",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare il segnale 'Divieto di svolta a sinistra'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

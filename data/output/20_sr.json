@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Korišćenje trotoara bez siđanja",
+    "fine_chf": 30,
+    "keywords": [
+      "trotoar",
+      "siđanje",
+      "bicikl",
+      "Velo",
+      "pešački put",
+      "siđanje"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vozač bicikla",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje trotoara/pešačkog puta bez siđanja (važi za bicikliste).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Korišćenje biciklističke staze u zabranjenom smeru",
+    "fine_chf": 30,
+    "keywords": [
+      "biciklistička staza",
+      "zabranjen smer",
+      "Velo",
+      "suprotni smer",
+      "biciklistička staza"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vozač bicikla",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje biciklističke staze u pogrešnom smeru.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Korišćenje biciklističke trake u zabranjenom smeru",
+    "fine_chf": 30,
+    "keywords": [
+      "biciklistička traka",
+      "zabranjen smer",
+      "Velo",
+      "suprotni smer",
+      "biciklistička traka"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vozač bicikla",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje biciklističke trake u pogrešnom smeru.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Neuspeh da se potpuno zaustavi na signalima zaustavljanja (rolajući zaustav) (3.01; Art. 27 para. 1 SVG and Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "signal zaustavljanja",
+      "rolajući zaustav",
+      "zaustavljanje",
+      "saobraćajna pravila",
+      "znak zaustavljanja",
+      "neuspeh zaustavljanja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se potpuno zaustavi (rolajući zaustav).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Neuspeh da se poštuje signal semafora",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlosni signal",
+      "nepoštovanje",
+      "crveno svetlo",
+      "semafor",
+      "neuspeh poštovanja",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje semafora (često se odnosi na prelazak na crveno/žuto).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Neuspeh da se poštuje 'naizmenični bljeskajući signal' (3.20) ili 'jednostavni bljeskajući signal' (3.21; Art. 28 SVG, Art. 68 para. 1 et seq. and Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "naizmenični bljeskajući signal",
+      "jednostavni bljeskajući signal",
+      "nepoštovanje",
+      "bljeskajuće svetlo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se poštuju posebni bljeskajući signali (npr. železnički prelazi).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Prekršaj pravila jednosmerne trake nepoštovanjem označene strelice pravca i konturirane strelice semafora",
+    "fine_chf": 30,
+    "keywords": [
+      "pravilo jednosmerne trake",
+      "strelica pravca",
+      "konturirana strelica",
+      "nepoštovanje",
+      "disciplinu trake",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekršaj discipline trake nepoštovanjem označenih strelica pravca ili konturiranih strelica blizu semafora.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Neuspeh da se nastavi vožnja u smeru strelice",
+    "fine_chf": 30,
+    "keywords": [
+      "smer strelice",
+      "nastaviti vožnju",
+      "traka",
+      "smer trake",
+      "saobraćajni tok"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se nastavi vožnja u naznačenom smeru strelice trake.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Neuspeh da se da ručni signal ili pokazivanje pravca pri skretanju desno",
+    "fine_chf": 20,
+    "keywords": [
+      "ručni signal",
+      "pokazivanje pravca",
+      "skretanje desno",
+      "signal skretanja",
+      "signalizacija",
+      "skretanje desno"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se signalizira pri skretanju desno.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Neuspeh da se da ručni signal ili pokazivanje pravca pri skretanju levo",
+    "fine_chf": 30,
+    "keywords": [
+      "ručni signal",
+      "pokazivanje pravca",
+      "skretanje levo",
+      "signal skretanja",
+      "signalizacija",
+      "skretanje levo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se signalizira pri skretanju levo.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Neuspeh da se da ručni signal ili pokazivanje pravca pri preticanju",
+    "fine_chf": 20,
+    "keywords": [
+      "ručni signal",
+      "pokazivanje pravca",
+      "preticanje",
+      "signal skretanja",
+      "signalizacija",
+      "preticanje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila",
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh da se signalizira pri preticanju.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Vožnja preko ili prelazak sigurnosne linije u naseljenom području",
+    "fine_chf": 40,
+    "keywords": [
+      "sigurnosna linija",
+      "vožnja preko",
+      "prelazak",
+      "u naseljenom području",
+      "čvrsta linija",
+      "saobraćajna disciplina"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prelazak čvrste bele linije (zabranjeno preticanje/prelazak) u naseljenom području.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Vožnja po rezervisanoj autobuskoj traci bez odobrenja",
+    "fine_chf": 30,
+    "keywords": [
+      "autobuska traka",
+      "vožnja",
+      "zabranjeno",
+      "autobuska traka",
+      "ograničen pristup"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila (neovlašćen)"
+    ],
+    "conditions": null,
+    "notes": "Vožnja po rezervisanoj autobuskoj traci bez odobrenja.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Vožnja po putu koji nije pogodan za bicikle, motocikle i električne rikšae ili očigledno nije namenjen njima",
+    "fine_chf": 30,
+    "keywords": [
+      "upotreba puta",
+      "nepogodan",
+      "bicikl",
+      "motocikl",
+      "električni rikša",
+      "nepogodan put",
+      "ograničen pristup"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Biciklista",
+      "Vozač motocikla",
+      "Vozač električne rikše"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje puta jasno nepogodnog ili ne namenjenog za bicikle/mopedove/električne rikšae.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Neuspeh da se koristi biciklistička staza",
+    "fine_chf": 30,
+    "keywords": [
+      "biciklistička staza",
+      "neupotreba",
+      "obavezna upotreba",
+      "obavezna upotreba",
+      "biciklistička staza"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh u korišćenju obavezne biciklističke staze.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Neuspeh da se koristi biciklistička traka",
+    "fine_chf": 30,
+    "keywords": [
+      "biciklistička traka",
+      "neupotreba",
+      "obavezna upotreba",
+      "obavezna upotreba",
+      "biciklistička traka"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Biciklista"
+    ],
+    "conditions": null,
+    "notes": "Neuspeh u korišćenju obavezne biciklističke trake.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parkiranje ili zaustavljanje bicikla, motocikla ili električne rikše gde je zaustavljanje ili parkiranje zabranjeno opštim saobraćajnim pravilima",
+    "fine_chf": 20,
+    "keywords": [
+      "zabranjeno parkiranje",
+      "zabranjeno zaustavljanje",
+      "bicikl",
+      "motocikl",
+      "električni rikša",
+      "zabrana parkiranja",
+      "opšta saobraćajna pravila"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Biciklista",
+      "Vozač motocikla",
+      "Vozač električne rikše"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje/zaustavljanje zabranjeno opštim pravilima (ne znakovima).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parkiranje ili zaustavljanje bicikla, motocikla ili električne rikše gde je zaustavljanje ili parkiranje zabranjeno signalima",
+    "fine_chf": 20,
+    "keywords": [
+      "zabranjeno parkiranje",
+      "zabranjeno zaustavljanje",
+      "signali",
+      "bicikl",
+      "motocikl",
+      "električni rikša",
+      "zabrana parkiranja",
+      "znakovi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Biciklista",
+      "Vozač motocikla",
+      "Vozač električne rikše"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje/zaustavljanje zabranjeno specifičnim saobraćajnim znakovima.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavení pro nakládku zboží do 10 m před značkou zastavení veřejné dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Nakládka zboží",
+      "Značka zastavení",
+      "veřejná doprava",
+      "zastavení",
+      "zboží",
+      "zastavení veřejné dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení pro nakládání/vykládání zboží do 10 m před značkou zastavení veřejné dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkování do 10 m za značkou zastavení veřejné dopravy (Art. 18 Abs. 3 a 19 Abs. 2 a VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "zastavovací značka",
+      "veřejná doprava",
+      "60 minut",
+      "parkování",
+      "zastavení veřejné dopravy",
+      "časový limit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování do 10 m za značkou zastavení veřejné dopravy, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavení bránící nastupování a výstup osob do 10 m za značkou zastavení veřejné dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Bránící",
+      "nastupování/výstup",
+      "zastavovací značka",
+      "zastavení",
+      "bránící",
+      "zastavení veřejné dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení bránící nastupování a výstup osob do 10 m za značkou zastavení veřejné dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavení pro nakládku zboží do 10 m za značkou zastavení veřejné dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Nakládka zboží",
+      "Značka zastavení",
+      "veřejná doprava",
+      "zastavení",
+      "zboží",
+      "zastavení veřejné dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení pro nakládání/vykládání zboží do 10 m za značkou zastavení veřejné dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkování před prostory požární stanice a skladů požární techniky (Art. 18 Abs. 3 a Art. 19 Abs. 2 a VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "požární stanice",
+      "sklad",
+      "požární technika",
+      "60 minut",
+      "parkování",
+      "požární stanice",
+      "požární technika"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování před prostory požární stanice/techniky, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavení pro nakládku zboží před prostory požární stanice nebo skladů požární techniky (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Nakládka zboží",
+      "požární stanice",
+      "požární technika",
+      "zastavení",
+      "zboží",
+      "požární stanice"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení pro nakládání/vykládání zboží před prostory požární stanice/techniky.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavení bránící nastupování a výstup osob před prostory požární stanice a skladů požární techniky (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Bránící",
+      "nastupování/výstup",
+      "požární stanice",
+      "zastavení",
+      "bránící",
+      "požární stanice"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení bránící nastupování a výstup osob před prostory požární stanice/techniky.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Zastavení bránící nakládku zboží vedle vozidel zaparkovaných podél okraje vozovky (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Bránící",
+      "Nakládka zboží",
+      "podél",
+      "zaparkováno",
+      "zastavení",
+      "bránící",
+      "zboží",
+      "dvojité parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení bránící nakládání/vykládání zboží vedle vozidel zaparkovaných podél okraje vozovky (dvojité parkování pro zboží).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkování na cyklistickém pruhu (Art. 19 Abs. 2 d VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "cyklistický pruh",
+      "cyklistický pruh",
+      "60 minut",
+      "parkování",
+      "cyklistický pruh",
+      "cyklistický pruh"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování na cyklistickém pruhu, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Zastavení na cyklistickém pruhu, pokud brání cyklistickému provozu (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "cyklistický pruh",
+      "cyklistický provoz",
+      "bránící",
+      "zastavení",
+      "cyklistický pruh",
+      "bránící"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení na cyklistickém pruhu, pokud brání cyklistickému provozu.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkování na vozovce vedle cyklistického pruhu (Art. 19 Abs. 2 d VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "vozovka",
+      "cyklistický pruh",
+      "vedle",
+      "60 minut",
+      "parkování",
+      "vozovka",
+      "cyklistický pruh"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování na vozovce vedle cyklistického pruhu, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkování na tramvajových kolejích (Art. 19 Abs. 2 a a 25 Abs. 5 VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "tramvajové koleje",
+      "tramvajové koleje",
+      "60 minut",
+      "parkování",
+      "tramvajové koleje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování na tramvajových kolejích, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zastavení na tramvajových kolejích (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "tramvajové koleje",
+      "tramvajové koleje",
+      "zastavení",
+      "tramvajové koleje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení na tramvajových kolejích.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 a und 25 Abs. 5 VRV",
+    "law_text": "Parkování méně než 1,5 m vedle nejbližší koleje tramvaje (Art. 19 Abs. 2 a a 25 Abs. 5 VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "tramvajová kolej",
+      "tramvajové koleje",
+      "1,5 m",
+      "60 minut",
+      "parkování",
+      "tramvajová kolej",
+      "vzdálenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování méně než 1,5 m od nejbližší tramvajové koleje, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zastavení méně než 1,5 m vedle nejbližší tramvajové koleje (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "tramvajová kolej",
+      "tramvajové koleje",
+      "1,5 m",
+      "zastavení",
+      "tramvajová kolej",
+      "vzdálenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení méně než 1,5 m od nejbližší tramvajové koleje.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkování na nouzovém pruhu dálnice (Art. 36 Abs. 3 VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "nouzový pruh",
+      "dálnice",
+      "60 minut",
+      "parkování",
+      "nouzový pruh",
+      "dálnice"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování na nouzovém pruhu dálnice, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zastavení na nouzovém pruhu dálnice, kromě nouzového zastavení (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "nouzový pruh",
+      "dálnice",
+      "nouzové zastavení",
+      "zastavení",
+      "nouzový pruh",
+      "dálnice",
+      "nouzové"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "kromě nouzového zastavení",
+    "notes": "Zastavení na nouzovém pruhu dálnice, kromě nouzových zastávek.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkování na nouzovém pruhu rychlostní silnice (Art. 36 Abs. 3 VRV) až 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "nouzový pruh",
+      "rychlostní silnice",
+      "60 minut",
+      "parkování",
+      "nouzový pruh",
+      "rychlostní silnice"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "až 60 minut",
+    "notes": "Parkování na nouzovém pruhu rychlostní silnice, až 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

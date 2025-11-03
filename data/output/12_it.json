@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Inversione a U vietata (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Inversione a U vietata",
+      "Inversione a U proibita",
+      "Segnale 2.46",
+      "Svolta",
+      "Segnale regolamentare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Catene da neve obbligatorie (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Catene da neve",
+      "obbligatorio",
+      "Catene da neve",
+      "obbligatorio",
+      "Segnale 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Zona pedonale (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zona pedonale",
+      "zona pedonale",
+      "Divieto di accesso",
+      "Segnale 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ingresso non autorizzato nella zona pedonale.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Corsia ciclabile (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Corsia ciclabile",
+      "corsia ciclabile",
+      "guida vietata",
+      "Segnale 2.60",
+      "Guida proibita"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo (esclusi le biciclette)"
+    ],
+    "conditions": null,
+    "notes": "Utilizzo di una pista riservata esclusivamente alle biciclette.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Percorso pedonale (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Percorso pedonale",
+      "percorso pedonale",
+      "guida vietata",
+      "Segnale 2.61",
+      "Guida proibita"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo (esclusi i pedoni)"
+    ],
+    "conditions": null,
+    "notes": "Utilizzo di un percorso riservato esclusivamente ai pedoni.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Percorso per biciclette e pedoni (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Percorso per biciclette e pedoni",
+      "percorso combinato",
+      "guida vietata",
+      "Segnale 2.63",
+      "Guida proibita"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo (esclusi biciclette/pedoni)"
+    ],
+    "conditions": null,
+    "notes": "Utilizzo di una pista riservata a biciclette e pedoni.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Divieto di rimorchio, eccetto per rimorchi a sella e a asse centrale (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Divieto di rimorchio",
+      "Divieto di rimorchio",
+      "Rimorchio a sella",
+      "Rimorchio a asse centrale",
+      "Segnale 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo (con rimorchio)"
+    ],
+    "conditions": null,
+    "notes": "Guida con un tipo di rimorchio proibito.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Mancata osservanza del segnale regolamentare “Divieto di sorpasso per camion” sulle autostrade (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Divieto di sorpasso",
+      "Camion",
+      "Autostrada",
+      "Camion",
+      "divieto di sorpasso",
+      "Segnale 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente di camion"
+    ],
+    "conditions": null,
+    "notes": "Sorpasso illegale da parte di un camion sulle autostrade dove è vietato.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Guida su binario del tram",
+    "fine_chf": 60,
+    "keywords": [
+      "Binario del tram",
+      "Binario del tram",
+      "guida vietata",
+      "corsie speciali",
+      "binari del tram"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Violazione della disciplina di corsia ignorando la freccia di direzione segnata",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina di corsia",
+      "Freccia di direzione",
+      "Segnaletica stradale",
+      "Disciplina di corsia",
+      "freccia segnata",
+      "Disprezzo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare le frecce di corsia/disciplina.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Violazione della disciplina di corsia ignorando la freccia di contorno del sistema semaforico",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina di corsia",
+      "Freccia di contorno",
+      "Sistema semaforico",
+      "semaforo",
+      "freccia del segnale",
+      "Disciplina di corsia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare la freccia di direzione mostrata nei semafori.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Mancata prosecuzione della guida nella direzione della freccia (incluso il possibile attraversamento di una linea di sicurezza che separa le corsie nella stessa direzione [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Direzione della freccia",
+      "Mancata prosecuzione della guida",
+      "Linea di sicurezza",
+      "direzione obbligatoria",
+      "linea continua",
+      "Attraversamento"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancato rispetto della direzione obbligatoria della corsia indicata da una freccia (incluso l'attraversamento di una linea continua per evitarla).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Violazione della disciplina di corsia ignorando la fusione a cerniera",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina di corsia",
+      "Fusione a cerniera",
+      "fusione",
+      "fusione a cerniera",
+      "fine corsia",
+      "Ignoranza"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata esecuzione della fusione a cerniera quando le corsie terminano.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Guida nella corsia dei bus",
+    "fine_chf": 60,
+    "keywords": [
+      "Corsia bus",
+      "Corsia bus",
+      "Corsia speciale",
+      "uso non autorizzato"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo (esclusi i bus)"
+    ],
+    "conditions": null,
+    "notes": "Guida in una corsia bus segnata.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Guida su una corsia bus",
+    "fine_chf": 60,
+    "keywords": [
+      "Corsia bus",
+      "Corsia bus",
+      "Corsia speciale",
+      "uso non autorizzato"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo (esclusi i bus)"
+    ],
+    "conditions": null,
+    "notes": "Guida su una strada/pista designata per i bus (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Fermata incompleta ai segnali di stop (stop rotolante) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Segnale di stop",
+      "Stop rotolante",
+      "Fermata",
+      "Segnale di stop",
+      "mancata fermata",
+      "Segnale 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uno 'stop rotolante' in cui il veicolo non si ferma completamente alla linea di arresto.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Mancata osservanza del semaforo",
+    "fine_chf": 250,
+    "keywords": [
+      "Semaforo",
+      "Luce rossa",
+      "Semaforo",
+      "Ignoranza",
+      "Luce rossa",
+      "Segnale"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Infrazione generale per il passaggio con il rosso o violazione equivalente del segnale semaforico.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Mancata osservanza di un “segnale lampeggiante alternato” (3.20) o di un “segnale lampeggiante semplice” (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Segnale lampeggiante alternato",
+      "Segnale lampeggiante semplice",
+      "segnale lampeggiante",
+      "passaggio a livello ferroviario",
+      "passaggio a livello",
+      "Segnale 3.20",
+      "Segnale 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare gli avvisi lampeggianti, tipicamente usati ai passaggi a livello ferroviari o punti di pericolo critici.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Attraversamento di una corsia ciclabile segnata da una linea continua",
+    "fine_chf": 60,
+    "keywords": [
+      "Corsia ciclabile",
+      "linea continua",
+      "Corsia ciclabile",
+      "linea solida",
+      "attraversamento vietato",
+      "Attraversamento"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo (esclusi le biciclette)"
+    ],
+    "conditions": null,
+    "notes": "Attraversamento o guida su una corsia ciclabile segnata da una linea bianca continua.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Falta de ingresar la información requerida en la hoja semanal",
+    "fine_chf": 40,
+    "keywords": [
+      "hoja semanal",
+      "información",
+      "ingresar",
+      "ARV 2",
+      "tiempo de trabajo",
+      "conductor profesional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de ingresar la información requerida en la hoja semanal para conductores profesionales.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Falta de ingresar la información requerida en la hoja diaria",
+    "fine_chf": 40,
+    "keywords": [
+      "hoja diaria",
+      "información",
+      "ingresar",
+      "ARV 2",
+      "tiempo de trabajo",
+      "conductor profesional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de ingresar la información requerida en la hoja diaria para conductores profesionales.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Falta de ingresar la información requerida en la tarjeta de control para conductores de taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "tarjeta de control",
+      "conductor de taxi",
+      "información",
+      "ingresar",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Conductor de taxi"
+    ],
+    "conditions": null,
+    "notes": "Falta de ingresar la información requerida en la tarjeta de control para conductores de taxi (referencias tanto a ARV 2 como a ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Falta de ingresar la información requerida en el tacógrafo digital",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "digital",
+      "información",
+      "ingresar",
+      "ARV",
+      "conductor profesional",
+      "tacógrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de ingresar la información requerida en el tacógrafo digital.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Falta de rotular la hoja del tacógrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "hoja",
+      "rotular",
+      "sin etiquetar",
+      "hoja del tacógrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de rotular la hoja del tacógrafo (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Falta de rotular la impresión",
+    "fine_chf": 40,
+    "keywords": [
+      "impresión",
+      "rotular",
+      "sin etiquetar",
+      "impresión del tacógrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de rotular la impresión del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Rotulado incompleto de la hoja del tacógrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "hoja",
+      "incompleto",
+      "rotular",
+      "hoja del tacógrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Rotulado incompleto de la hoja del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Rotulado incompleto de la impresión",
+    "fine_chf": 40,
+    "keywords": [
+      "impresión",
+      "incompleto",
+      "rotular",
+      "impresión del tacógrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Rotulado incompleto de la impresión del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Rotulado falso/inexacto de la hoja del tacógrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "hoja",
+      "falso",
+      "inexacto",
+      "rotular",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Rotulado falso/inexacto de la hoja del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Rotulado falso/inexacto de la impresión",
+    "fine_chf": 40,
+    "keywords": [
+      "impresión",
+      "falso",
+      "inexacto",
+      "rotular",
+      "ARV",
+      "impresión del tacógrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Rotulado falso/inexacto de la impresión del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Uso de una hoja del tacógrafo que no está aprobada por tipo",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "hoja",
+      "no aprobado por tipo",
+      "no aprobado",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de una hoja del tacógrafo que no está aprobada por tipo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Uso de una hoja del tacógrafo que no coincide con el dispositivo del tacógrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tacógrafo",
+      "hoja",
+      "no adecuado",
+      "incorrecto",
+      "desajustado",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de una hoja del tacógrafo que no coincide con el dispositivo específico del tacógrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Uso de papel de impresora incorrecto",
+    "fine_chf": 40,
+    "keywords": [
+      "papel de impresora",
+      "no adecuado",
+      "incorrecto",
+      "papel de impresora",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de papel de impresora incorrecto para el tacógrafo digital/dispositivo de control.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Falta de portar el certificado de formación para cargas de mercancías peligrosas",
+    "fine_chf": 20,
+    "keywords": [
+      "mercancías peligrosas",
+      "carga",
+      "certificado de formación",
+      "ADR",
+      "SDR",
+      "mercancías peligrosas",
+      "documentos"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de portar el certificado de formación para el transporte de mercancías peligrosas, sabiendo que hay una carga peligrosa presente.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Falta de portar el documento de transporte para cargas de mercancías peligrosas",
+    "fine_chf": 140,
+    "keywords": [
+      "mercancías peligrosas",
+      "carga",
+      "documento de transporte",
+      "ADR",
+      "SDR",
+      "mercancías peligrosas",
+      "documento de transporte"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de portar el documento de transporte para mercancías peligrosas, sabiendo que hay una carga peligrosa presente. Esta multa es notablemente más alta.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Falta de portar la instrucción escrita (hoja de accidente) para cargas de mercancías peligrosas",
+    "fine_chf": 40,
+    "keywords": [
+      "mercancías peligrosas",
+      "carga",
+      "instrucción escrita",
+      "hoja de accidente",
+      "ADR",
+      "SDR",
+      "instrucciones de emergencia"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de portar las instrucciones escritas (hoja de emergencia/accidente) para mercancías peligrosas, sabiendo que hay una carga peligrosa presente.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Falta de retirar o cubrir los rótulos naranjas al no transportar mercancías peligrosas",
+    "fine_chf": 60,
+    "keywords": [
+      "mercancías peligrosas",
+      "rótulo naranja",
+      "retirar",
+      "cubrir",
+      "SDR",
+      "exhibir",
+      "rótulo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta de retirar o cubrir los rótulos naranjas (que indican mercancías peligrosas) cuando el vehículo NO transporta mercancías peligrosas (vacío/limpio).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Falta de informar o de informar a tiempo los hechos que requieren un cambio o sustitución de una licencia o permiso",
+    "fine_chf": 20,
+    "keywords": [
+      "obligación de informar",
+      "licencia",
+      "permiso",
+      "cambio",
+      "sustituir",
+      "VZV",
+      "informar"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Titular de licencia/permiso"
+    ],
+    "conditions": null,
+    "notes": "Falta de informar o informe tardío de hechos que requieren la modificación o sustitución de una licencia de conducir o permiso.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Falta de informar o de informar a tiempo un cambio de residencia a una nueva dirección suiza",
+    "fine_chf": 20,
+    "keywords": [
+      "cambio de residencia",
+      "dirección",
+      "informar",
+      "VZV",
+      "informar",
+      "cambio de residencia"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conductor de vehículo",
+      "Titular de licencia"
+    ],
+    "conditions": null,
+    "notes": "Falta de informar o informe tardío de un cambio a una nueva dirección de residencia suiza.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Falta de informar cambios en las tarjetas del tacógrafo",
+    "fine_chf": 20,
+    "keywords": [
+      "tarjeta de tacógrafo",
+      "cambio",
+      "informar",
+      "ARV",
+      "tarjeta de tacógrafo",
+      "informar"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Titular de tarjeta de conductor"
+    ],
+    "conditions": null,
+    "notes": "Falta de informar cambios relacionados con la tarjeta de tacógrafo del conductor.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

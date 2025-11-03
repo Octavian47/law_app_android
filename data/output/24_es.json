@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Uso de una carretera nacional de primera o segunda clase sin la viñeta requerida para el período de validez",
+    "fine_chf": 200,
+    "keywords": [
+      "Carretera nacional",
+      "Viñeta",
+      "Viñeta faltante",
+      "Emisión",
+      "Pegatina de peaje",
+      "Autopista"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Conducción en carreteras nacionales sin la viñeta de peaje requerida.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Uso de una carretera nacional de primera o segunda clase con la viñeta adhesiva requerida para el período de validez que no está colocada, o no está colocada en el lugar prescrito directamente sobre el vehículo, o está dañada",
+    "fine_chf": 200,
+    "keywords": [
+      "Viñeta",
+      "Viñeta adhesiva",
+      "Aplicación",
+      "Dañada",
+      "Adherencia",
+      "Colocación"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Conducción con una viñeta que está colocada incorrectamente (no directamente en el vehículo) o dañada.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

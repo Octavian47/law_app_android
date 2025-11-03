@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Vožnja bez potrebnih kontrolnih tabli, osim trgovinskih tabli (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolna tablica",
+      "registracijska tablica",
+      "registracijska tablica",
+      "vožnja",
+      "nedostaje",
+      "vozač"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez potrebnih registarskih tablica (osim trgovinskih tablica).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Vožnja bez znaka maksimalne brzine (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksimalna brzina",
+      "znak",
+      "znak maksimalne brzine",
+      "nedostaje",
+      "vožnja"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Vožnja vozila koje zahteva, ali nema obavezni znak brzine.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Vožnja bez zadnje označavajuće tablice (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "zadnja označavajuća tablica",
+      "zadnja označavajuća tablica",
+      "nedostaje",
+      "vožnja"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Vožnja vozila koje zahteva, ali nema obaveznu zadnju označavajuću tablicu (npr. spora vozila).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Upravljanje motociklom bez trajno pričvršćenih reflektora (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocikl",
+      "reflektor",
+      "reflektor",
+      "motocikl",
+      "nedostaje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač (motocikl)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Obavljanje transporta opasnih materija sa nedostajućom, nepotpunom ili neusklađenom komponentom opreme (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "opasne materije",
+      "ADR",
+      "opasne materije",
+      "oprema",
+      "profesionalni vozač",
+      "nedostaje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač (transport opasnih materija)"
+    ],
+    "conditions": null,
+    "notes": "Nedostajuća, nepotpuna ili neusklađena oprema tokom transporta opasnih materija.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Neprijavljivanje ili nepravovremeno prijavljivanje činjenica koje zahtevaju promenu ili zamenu dozvole ili ovlašćenja (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "prijavljivanje",
+      "dozvola",
+      "ovlašćenje",
+      "promena",
+      "obaveštenje",
+      "papirna dokumentacija",
+      "vlasnik vozila"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Neprijavljivanje od strane vlasnika/državača promena koje zahtevaju izmenu ili zamenu dokumentacije.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekoračenje propisanog roka za obaveznu uslugu emisija: do 1 mesec",
+    "fine_chf": 40,
+    "keywords": [
+      "usluga emisija",
+      "usluga emisija",
+      "kasnjenje",
+      "rok",
+      "održavanje",
+      "vlasnik vozila"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": "do 1 mesec",
+    "notes": "Obavezna usluga emisija kasni do 1 mesec.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekoračenje propisanog roka za obaveznu uslugu emisija: više od 1 meseca, ali ne više od 3 meseca",
+    "fine_chf": 100,
+    "keywords": [
+      "usluga emisija",
+      "usluga emisija",
+      "kasnjenje",
+      "rok",
+      "održavanje",
+      "vlasnik vozila"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": "više od 1 meseca, ali ne više od 3 meseca",
+    "notes": "Obavezna usluga emisija kasni između 1 i 3 meseca.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Prekoračenje propisanog roka za obaveznu uslugu emisija: više od 3 meseca, ali ne više od 6 meseci",
+    "fine_chf": 200,
+    "keywords": [
+      "usluga emisija",
+      "usluga emisija",
+      "kasnjenje",
+      "rok",
+      "održavanje",
+      "vlasnik vozila"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": "više od 3 meseca, ali ne više od 6 meseci",
+    "notes": "Obavezna usluga emisija kasni između 3 i 6 meseci.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Stavljanje motornih vozila u promet sa neispravnom gumom (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "guma",
+      "neispravna",
+      "guma",
+      "neispravna",
+      "puštanje u promet",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Vlasnik dozvoljava motorno vozilo sa neispravnim gumama da bude pušteno u promet.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Stavljanje prikolice u promet sa neispravnom gumom (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "guma",
+      "neispravna",
+      "prikolica",
+      "prikolica",
+      "puštanje u promet",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Vlasnik dozvoljava prikolicu sa neispravnim gumama da bude puštena u promet.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nedostatak postavljanja znaka brzine pri korišćenju vozila sa šipkastim gumama (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak brzine",
+      "šipkaste gume",
+      "šipkaste gume",
+      "znak brzine",
+      "nedostaje",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Vlasnik ne postavlja obavezni znak brzine kada se koriste šipkaste gume.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nepravilna instalacija znaka brzine pri korišćenju vozila sa šipkastim gumama (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak brzine",
+      "šipkaste gume",
+      "šipkaste gume",
+      "znak brzine",
+      "instalacija",
+      "neusklađeno"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Neusklađeno postavljanje znaka brzine kada se koriste šipkaste gume.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Nedostatak uklanjanja znaka brzine iako se ne koriste šipkaste gume (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "znak brzine",
+      "šipkaste gume",
+      "znak brzine",
+      "uklanjanje",
+      "uklanjanje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Vlasnik ne uklanja znak brzine kada se šipkaste gume više ne koriste.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nedostatak postavljanja potrebnih kontrolnih tabli, osim trgovinskih tabli (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolna tablica",
+      "registracijska tablica",
+      "registracijska tablica",
+      "instalacija",
+      "nedostaje",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Nepravilno postavljanje potrebnih registarskih tablica od strane vlasnika (osim trgovinskih tabli).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nepravilna instalacija kontrolnih tabli (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolna tablica",
+      "registracijska tablica",
+      "registracijska tablica",
+      "instalacija",
+      "neusklađeno",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Neusklađen način postavljanja registarskih tablica.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Nedostatak postavljanja znaka maksimalne brzine (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maksimalna brzina",
+      "znak",
+      "znak maksimalne brzine",
+      "instalacija",
+      "nedostaje",
+      "vlasnik vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlasnik vozila"
+    ],
+    "conditions": null,
+    "notes": "Nepravilno postavljanje obaveznog znaka brzine od strane vlasnika.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

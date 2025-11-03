@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Stehenbleiben mit einem Motorfahrzeug auf Autobahnen und Autostrassen, wenn das Motorfahrzeug auf dem Pannenstreifen oder auf einem Abstellplatz für Pannenfahrzeuge wegen Mangel an Treibstoff oder elektrischer Energie zum Stillstand gekommen ist",
+    "fine_chf": 120,
+    "keywords": [
+      "Autobahn",
+      "Autostrasse",
+      "Pannenstreifen",
+      "Treibstoffmangel",
+      "Stillstand",
+      "emergency lane",
+      "out of fuel"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorfahrzeug"
+    ],
+    "conditions": null,
+    "notes": "Stopping due to lack of fuel or electrical energy.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Überfahren oder Überqueren einer Sicherheitslinie innerorts",
+    "fine_chf": 140,
+    "keywords": [
+      "Sicherheitslinie",
+      "Überqueren",
+      "innerorts",
+      "solid line",
+      "built-up area"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Crossing a solid safety line within a built-up area.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Überfahren oder Überqueren einer Sperrfläche innerorts",
+    "fine_chf": 140,
+    "keywords": [
+      "Sperrfläche",
+      "Überqueren",
+      "innerorts",
+      "restricted area",
+      "built-up area"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Crossing a marked restricted area (Sperrfläche) within a built-up area.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Nichtmitführen des Pannendreiecks",
+    "fine_chf": 40,
+    "keywords": [
+      "Nichtmitführen",
+      "Pannendreieck",
+      "Ausrüstung",
+      "equipment",
+      "warning triangle"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Nichtmitführen des Unterlegkeils bei schweren Motorwagen",
+    "fine_chf": 40,
+    "keywords": [
+      "Nichtmitführen",
+      "Unterlegkeil",
+      "schwere Motorwagen",
+      "Ausrüstung",
+      "wheel chock",
+      "heavy vehicle"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Schwere Motorwagen"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Nichtmitführen der Bordapotheke bei Gesellschaftswagen",
+    "fine_chf": 40,
+    "keywords": [
+      "Nichtmitführen",
+      "Bordapotheke",
+      "Gesellschaftswagen",
+      "Reisebus",
+      "first aid kit",
+      "coach bus"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Gesellschaftswagen"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Nichtmitführen eines vorgeschriebenen Feuerlöschers",
+    "fine_chf": 40,
+    "keywords": [
+      "Nichtmitführen",
+      "Feuerlöscher",
+      "ADR",
+      "Gefahrgut",
+      "Ausrüstung",
+      "fire extinguisher"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Gefahrguttransporte"
+    ],
+    "conditions": null,
+    "notes": "Often relevant for commercial or hazardous goods transport.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Nichtmitführen des Unterlegkeils bei Anhängern, deren Gesamtgewicht 0,75 t übersteigt",
+    "fine_chf": 40,
+    "keywords": [
+      "Nichtmitführen",
+      "Unterlegkeil",
+      "Anhänger",
+      "Gesamtgewicht",
+      "trailer",
+      "wheel chock"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Anhänger > 0.75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Führen oder Abstellen eines Fahrzeugs mit nicht vorschriftsgemäss angebrachten Kontrollschildern",
+    "fine_chf": 60,
+    "keywords": [
+      "Kontrollschilder",
+      "Nummernschild",
+      "Anbringung",
+      "Abstellen",
+      "license plate",
+      "improperly mounted"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Parkiertes Fahrzeug"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Führen eines Motorfahrzeugs mit einem mangelhaften Reifen",
+    "fine_chf": 100,
+    "keywords": [
+      "Motorfahrzeug",
+      "mangelhafter Reifen",
+      "Reifen",
+      "defective tire",
+      "maintenance",
+      "Fahrzeugmangel"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorfahrzeug"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Mitführen eines Anhängers mit einem mangelhaften Reifen",
+    "fine_chf": 100,
+    "keywords": [
+      "Anhänger",
+      "mangelhafter Reifen",
+      "Reifen",
+      "defective tire",
+      "trailer",
+      "maintenance"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Anhänger"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Fahren mit Spikesreifen ohne oder mit nicht vorschriftsgemässer Geschwindigkeitstafel",
+    "fine_chf": 20,
+    "keywords": [
+      "Spikesreifen",
+      "Geschwindigkeitstafel",
+      "Winterreifen",
+      "studded tires",
+      "speed plate",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Missing or incorrect speed sticker/plate required when using studded tires.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Verwenden von Spikesreifen ausserhalb der Zeit, während der sie gestattet sind",
+    "fine_chf": 60,
+    "keywords": [
+      "Spikesreifen",
+      "Verwenden",
+      "ausserhalb Zeit",
+      "Verbot",
+      "studded tires",
+      "seasonal rule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Using studded tires outside the legally permitted season.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Fahren mit der Geschwindigkeitstafel, obwohl keine Spikes verwendet werden",
+    "fine_chf": 20,
+    "keywords": [
+      "Spikesreifen",
+      "Geschwindigkeitstafel",
+      "falsche Ausrüstung",
+      "equipment violation",
+      "speed plate"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Displaying the speed sticker required for studded tires when the vehicle is not equipped with them.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Verwenden eines Fahrzeugs mit einer unerlaubten akustischen Warnvorrichtung",
+    "fine_chf": 40,
+    "keywords": [
+      "akustische Warnvorrichtung",
+      "Hupe",
+      "unerlaubt",
+      "siren",
+      "horn",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Fahrzeug"
+    ],
+    "conditions": null,
+    "notes": "Using a vehicle with a non-approved horn or warning device.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

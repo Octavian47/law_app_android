@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parcare la o distanță mai mică de 20 m de o trecere de cale ferată",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "trecere de cale ferată",
+      "distanță",
+      "20m",
+      "parcare",
+      "trecere de cale ferată",
+      "distanță"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare la o distanță mai mică de 20 m de o trecere de cale ferată, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parcare la o distanță mai mică de 20 m de o trecere de cale ferată",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "trecere de cale ferată",
+      "distanță",
+      "20m",
+      "parcare",
+      "trecere de cale ferată",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare la o distanță mai mică de 20 m de o trecere de cale ferată, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parcare la o distanță mai mică de 20 m de o trecere de cale ferată",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "trecere de cale ferată",
+      "distanță",
+      "20m",
+      "parcare",
+      "trecere de cale ferată",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare la o distanță mai mică de 20 m de o trecere de cale ferată, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parcare pe un pod",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "pod",
+      "interdicție",
+      "parcare",
+      "pod",
+      "interdicție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare pe un pod, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parcare pe un pod",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "pod",
+      "interdicție",
+      "parcare",
+      "pod",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare pe un pod, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parcare pe un pod",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "pod",
+      "interdicție",
+      "parcare",
+      "pod",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare pe un pod, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă clădire",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "clădire",
+      "intrare",
+      "parcare",
+      "acces",
+      "clădire"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă clădire, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă clădire",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "clădire",
+      "intrare",
+      "parcare",
+      "acces",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă clădire, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă clădire",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "clădire",
+      "intrare",
+      "parcare",
+      "acces",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă clădire, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă proprietate",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "proprietate",
+      "intrare",
+      "parcare",
+      "acces",
+      "proprietate"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă proprietate, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă proprietate",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "proprietate",
+      "intrare",
+      "parcare",
+      "acces",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă proprietate, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parcare în fața unui acces către o altă proprietate",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "acces",
+      "proprietate",
+      "intrare",
+      "parcare",
+      "acces",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare în fața unui acces către o altă proprietate, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parcare pe trotuar unde semnalele sau marcajele nu permit explicit, dacă rămâne cel puțin un spațiu de 1.5 m pentru pietoni",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "trotuar",
+      "trotuar",
+      "distanță minimă",
+      "pieton",
+      "1.5m",
+      "parcare",
+      "trotuar",
+      "pieton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare pe trotuar fără semne/marcaje explicite, chiar dacă rămâne 1.5 m pentru pietoni, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parcare pe trotuar unde semnalele sau marcajele nu permit explicit, dacă rămâne cel puțin un spațiu de 1.5 m pentru pietoni",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "trotuar",
+      "trotuar",
+      "distanță minimă",
+      "pieton",
+      "parcare",
+      "trotuar",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare pe trotuar fără semne/marcaje explicite, chiar dacă rămâne 1.5 m pentru pietoni, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parcare pe trotuar unde semnalele sau marcajele nu permit explicit, dacă rămâne cel puțin un spațiu de 1.5 m pentru pietoni",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "trotuar",
+      "trotuar",
+      "distanță minimă",
+      "pieton",
+      "parcare",
+      "trotuar",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare pe trotuar fără semne/marcaje explicite, chiar dacă rămâne 1.5 m pentru pietoni, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parcare în zona semnalizată de interdicție de parcare (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "interdicție",
+      "semnalizare",
+      "parcare",
+      "interdicție",
+      "semn"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare într-o zonă semnalizată cu „Parcare interzisă” (Semnul 2.50), pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parcare în zona semnalizată de interdicție de parcare (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "interdicție",
+      "semnalizare",
+      "parcare",
+      "interdicție",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare într-o zonă semnalizată cu „Parcare interzisă” (Semnul 2.50), pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parcare în zona semnalizată de interdicție de parcare (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "interdicție",
+      "semnalizare",
+      "parcare",
+      "interdicție",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare într-o zonă semnalizată cu „Parcare interzisă” (Semnul 2.50), pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parcare într-o zonă de întâlnire în locuri neamenajate pentru aceasta",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "zonă de întâlnire",
+      "marcaj",
+      "parcare",
+      "zonă de întâlnire",
+      "spațiu marcat"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare într-o „Zonă de întâlnire” (Begegnungszone) în spații neamenajate, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parcare într-o zonă de întâlnire în locuri neamenajate pentru aceasta",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "zonă de întâlnire",
+      "marcaj",
+      "parcare",
+      "zonă de întâlnire",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare într-o „Zonă de întâlnire” (Begegnungszone) în spații neamenajate, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parcare într-o zonă de întâlnire în locuri neamenajate pentru aceasta",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "zonă de întâlnire",
+      "marcaj",
+      "parcare",
+      "zonă de întâlnire",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare într-o „Zonă de întâlnire” (Begegnungszone) în spații neamenajate, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parcare în spații de parcare",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "spațiu de parcare",
+      "marcaj",
+      "parcare",
+      "spațiu de parcare",
+      "marcaj"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare într-un spațiu de parcare marcat, pentru până la 2 ore (presupunând nerespectarea regulilor de parcare, probabil depășirea limitei de timp sau similar).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parcare în spații de parcare",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "spațiu de parcare",
+      "marcaj",
+      "parcare",
+      "spațiu de parcare",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 2 dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru parcare într-un spațiu de parcare marcat, pentru mai mult de 2 până la 4 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parcare în spații de parcare",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "spațiu de parcare",
+      "marcaj",
+      "parcare",
+      "spațiu de parcare",
+      "durată"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pentru mai mult de 4 dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru parcare într-un spațiu de parcare marcat, pentru mai mult de 4 până la 10 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parcare a unui vehicul într-un spațiu de parcare necorespunzător tipului său",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "spațiu de parcare",
+      "tip vehicul",
+      "dimensiune",
+      "parcare",
+      "tip vehicul",
+      "dimensiune"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru parcare a unui vehicul într-un spațiu neamenajat pentru dimensiunea/ tipul său, pentru până la 2 ore.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

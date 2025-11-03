@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Swiss Laws",
+    "loading": "Loading...",
+    "error": "Error",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "search": "Search",
+    "close": "Close"
+  },
+  "tabs": {
+    "laws": "Laws",
+    "search": "Search",
+    "favorites": "Favorites"
+  },
+  "home": {
+    "title": "Swiss Laws",
+    "subtitle": "Know your rights in road traffic!",
+    "categories": "Categories",
+    "currentlyAvailable": "Currently Available",
+    "tips": "Tips",
+    "roadTrafficAct": "Road Traffic Act (SR 741.01)",
+    "articlesIndexed": "{{count}} articles fully indexed",
+    "finesIndexed": "420 traffic fines indexed",
+    "languagesAvailable": "Available in 18 languages",
+    "offlineAccess": "Offline access & search",
+    "tipContent": "Use the search function to quickly find specific articles or topics.",
+    "tipDescription": "Use the search tab to find fines by keyword, amount, or article reference. Tap the star icon to save fines as favorites."
+  },
+  "search": {
+    "title": "Search Fines",
+    "subtitle": "420 traffic fines searchable",
+    "placeholder": "Art. 27, parking, CHF 40...",
+    "resultsFound": "{{count}} fine found",
+    "resultsFound_other": "{{count}} fines found",
+    "filters": {
+      "traffic": "Traffic",
+      "criminal": "Criminal",
+      "fines": "Fines",
+      "quick": "Quick"
+    },
+    "emptyState": {
+      "title": "Search Traffic Fines",
+      "description": "Search by article number, keyword, or CHF amount"
+    },
+    "noResults": {
+      "title": "No Results",
+      "description": "No fines found for \"{{query}}\". Try different keywords or amounts."
+    },
+    "tips": {
+      "title": "Search Tips",
+      "article": "Art. 27 - Search by article number",
+      "keyword": "parking - Search by keyword",
+      "amount": "CHF 40 - Search by fine amount"
+    },
+    "inDevelopment": {
+      "title": "In Development",
+      "description": "The search function is currently being implemented.\n\nSearching for: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favorites",
+    "subtitle": "Your saved fines",
+    "resultsCount": "{{count}} Favorite",
+    "resultsCount_other": "{{count}} Favorites",
+    "emptyState": {
+      "title": "No Favorites Yet",
+      "description": "Save important fines as favorites for quick access"
+    },
+    "howTo": {
+      "title": "How to Add Favorites",
+      "step1": "Open a fine",
+      "step2": "Tap the star icon",
+      "step3": "The fine will appear here"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Fine not found",
+    "articleInformation": "Article Information",
+    "violationDescription": "Violation Description",
+    "appliesTo": "Applies To",
+    "conditions": "Conditions",
+    "notes": "Notes",
+    "keywords": "Keywords",
+    "labels": {
+      "article": "Article:",
+      "law": "Law:",
+      "category": "Category:"
+    },
+    "source": "Source: Page {{page}}, Line {{line}}",
+    "laws": {
+      "svg": "Road Traffic Act",
+      "vrv": "Traffic Rules Ordinance",
+      "arv1": "Working Hours Ordinance 1",
+      "arv2": "Working Hours Ordinance 2",
+      "ssv": "Road Signs Ordinance"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Traffic Law",
+      "description": "Road Traffic Register and Traffic Law"
+    },
+    "criminal": {
+      "name": "Criminal Law",
+      "description": "Criminal Code and Criminal Procedure"
+    },
+    "civil": {
+      "name": "Civil Law",
+      "description": "Civil Code and Obligations"
+    },
+    "commercial": {
+      "name": "Commercial Law",
+      "description": "Commercial Register and Trade Law"
+    },
+    "administrative": {
+      "name": "Administrative Law",
+      "description": "Administrative Procedures and Public Law"
+    },
+    "constitutional": {
+      "name": "Constitutional Law",
+      "description": "Federal Constitution and Fundamental Rights"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "about": "About"
+  }
+}

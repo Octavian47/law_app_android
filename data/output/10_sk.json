@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pre vozidlá a vozidlové kombinácie s celkovou hmotnosťou alebo celkovou ťahovou hmotnosťou najviac 3500 kg, prekračujúcou viac ako 100 kg, ale nie viac ako 5 percent.",
+    "fine_chf": 200,
+    "keywords": [
+      "hrubá hmotnosť",
+      "preťaženie",
+      "kombinácia vozidla",
+      "povolená hmotnosť",
+      "preťaženie",
+      "hrubá hmotnosť"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla",
+      "Kombinácia vozidla"
+    ],
+    "conditions": null,
+    "notes": "Preťaženie: >100 kg, ale <= 5 % nad maximálnou hrubou hmotnosťou (<= 3500 kg). Pokuta sa vzťahuje na položku 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pre vozidlá a vozidlové kombinácie s celkovou hmotnosťou alebo celkovou ťahovou hmotnosťou viac ako 3500 kg, o viac ako 100 kg až do 5 percent, ale nie viac ako 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "hrubá hmotnosť",
+      "preťaženie",
+      "kombinácia vozidla",
+      "ťažká premávka",
+      "preťaženie",
+      "Ťažké nákladné vozidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla",
+      "Ťažké vozidlá"
+    ],
+    "conditions": null,
+    "notes": "Preťaženie: >100 kg a <= 1000 kg, ale <= 5 % nad maximálnou hrubou hmotnosťou (> 3500 kg). Pokuta sa vzťahuje na položku 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "nepresahuje 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "nápravná zaťaženosť",
+      "preťaženie",
+      "povolená hmotnosť",
+      "nápravná zaťaženosť",
+      "preťaženie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie povolenej nápravnej zaťaženosti (po odpočítaní meracej tolerancie) až do 100 kg. Pokuta sa vzťahuje na položku 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pre vozidlá s celkovou hmotnosťou viac ako 3500 kg, prekračujúcou viac ako 100 kg, ale nie viac ako 2 percent.",
+    "fine_chf": 250,
+    "keywords": [
+      "nápravná zaťaženosť",
+      "preťaženie",
+      "ťažká premávka",
+      "nápravná zaťaženosť",
+      "Ťažké nákladné vozidlo",
+      "preťaženie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla",
+      "Ťažké vozidlá"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie povolenej nápravnej zaťaženosti (>100 kg, ale <= 2 % nad limit) pre vozidlá > 3500 kg. Pokuta sa vzťahuje na položku 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "presahuje viac ako 2 percent, ale nie viac ako 5 percent",
+    "fine_chf": 40,
+    "keywords": [
+      "povolená hmotnosť",
+      "preťaženie",
+      "nápravná zaťaženosť",
+      "hrubá hmotnosť",
+      "nápravná zaťaženosť",
+      "kombinácia vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie povolenej celkovej hmotnosti/kombinačnej hmotnosti (po odpočítaní meracej tolerancie) o >2 % ale <=5 %. Pokuta sa vzťahuje na položku 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "presahuje viac ako 5 percent",
+    "fine_chf": 100,
+    "keywords": [
+      "povolená hmotnosť",
+      "preťaženie",
+      "nápravná zaťaženosť",
+      "hrubá hmotnosť",
+      "nápravná zaťaženosť",
+      "kombinácia vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie povolenej celkovej hmotnosti/kombinačnej hmotnosti (po odpočítaní meracej tolerancie) o >5 %. Pokuta sa vzťahuje na položku 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Jazda na motorke po chodníku",
+    "fine_chf": 100,
+    "keywords": [
+      "motorka",
+      "chodník",
+      "pešia cesta",
+      "jazda",
+      "Motorka",
+      "chodník"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Jazdec na motorke"
+    ],
+    "conditions": null,
+    "notes": "Jazda na motorke po chodníku.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Nedodržanie miesta jazdca na motorke v stĺpci, keď je premávka zastavená.",
+    "fine_chf": 60,
+    "keywords": [
+      "jazdec na motorke",
+      "stĺpec",
+      "miesto",
+      "zastavená premávka",
+      "Motorka",
+      "dopravná zápcha",
+      "prechod medzi jazdnými pruhmi"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Jazdec na motorke"
+    ],
+    "conditions": null,
+    "notes": "Jazdec na motorke nedodržiava svoje miesto v stĺpci, keď je premávka zastavená (napr. filtrovanie/priechod medzi pruhmi pri zastavení).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "presahuje o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mestské centrum",
+      "Astra",
+      "prekročenie rýchlosti",
+      "zastavaná oblasť"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti v zastavaných oblastiach, o 1-5 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "presahuje o 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mestské centrum",
+      "Astra",
+      "prekročenie rýchlosti",
+      "zastavaná oblasť"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti v zastavaných oblastiach, o 6-10 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "presahuje o 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mestské centrum",
+      "Astra",
+      "prekročenie rýchlosti",
+      "zastavaná oblasť"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti v zastavaných oblastiach, o 11-15 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "presahuje o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mimo zastavanej oblasti",
+      "diaľnica",
+      "prekročenie rýchlosti",
+      "mimo zastavanej oblasti",
+      "diaľnica"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti mimo zastavanej oblasti alebo na diaľniciach/polodiaľniciach, o 1-5 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "presahuje o 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mimo zastavanej oblasti",
+      "diaľnica",
+      "prekročenie rýchlosti",
+      "mimo zastavanej oblasti",
+      "diaľnica"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti mimo zastavanej oblasti alebo na diaľniciach/polodiaľniciach, o 6-10 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "presahuje o 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mimo zastavanej oblasti",
+      "diaľnica",
+      "prekročenie rýchlosti",
+      "mimo zastavanej oblasti",
+      "diaľnica"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti mimo zastavanej oblasti alebo na diaľniciach/polodiaľniciach, o 11-15 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "presahuje o 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "mimo zastavanej oblasti",
+      "diaľnica",
+      "prekročenie rýchlosti",
+      "mimo zastavanej oblasti",
+      "diaľnica"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie rýchlosti mimo zastavanej oblasti alebo na diaľniciach/polodiaľniciach, o 16-20 km/h nad limit (po odpočítaní meracej tolerancie). Pokuta sa vzťahuje na položku 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

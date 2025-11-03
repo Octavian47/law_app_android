@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Swiss Laws",
+    "loading": "Carregando...",
+    "error": "Erro",
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "search": "Buscar",
+    "close": "Fechar"
+  },
+  "tabs": {
+    "laws": "Leis",
+    "search": "Buscar",
+    "favorites": "Favoritos"
+  },
+  "home": {
+    "title": "Swiss Laws",
+    "subtitle": "Conheça seus direitos no trânsito!",
+    "categories": "Categorias",
+    "currentlyAvailable": "Atualmente Disponível",
+    "tips": "Dicas",
+    "roadTrafficAct": "Lei de Tráfego Rodoviário (SR 741.01)",
+    "articlesIndexed": "{{count}} artigos totalmente indexados",
+    "finesIndexed": "420 multas de trânsito indexadas",
+    "languagesAvailable": "Disponível em 18 idiomas",
+    "offlineAccess": "Acesso offline e busca",
+    "tipContent": "Use a função de busca para encontrar rapidamente artigos ou tópicos específicos.",
+    "tipDescription": "Use a aba de busca para encontrar multas por palavra-chave, valor ou referência de artigo. Toque no ícone de estrela para salvar multas como favoritos."
+  },
+  "search": {
+    "title": "Buscar multas",
+    "subtitle": "420 multas de trânsito pesquisáveis",
+    "placeholder": "Art. 27, estacionamento, CHF 40...",
+    "resultsFound": "{{count}} multa encontrada",
+    "resultsFound_other": "{{count}} multas encontradas",
+    "filters": {
+      "traffic": "Tráfego",
+      "criminal": "Criminal",
+      "fines": "Multas",
+      "quick": "Rápido"
+    },
+    "emptyState": {
+      "title": "Buscar multas de trânsito",
+      "description": "Buscar por número do artigo, palavra-chave ou valor CHF"
+    },
+    "noResults": {
+      "title": "Sem resultados",
+      "description": "Nenhuma multa encontrada para \"{{query}}\". Tente outras palavras-chave ou valores."
+    },
+    "tips": {
+      "title": "Dicas de Busca",
+      "article": "Art. 27 - Buscar por número do artigo",
+      "keyword": "estacionamento - Buscar por palavra-chave",
+      "amount": "CHF 40 - Buscar por valor da multa"
+    },
+    "inDevelopment": {
+      "title": "Em Desenvolvimento",
+      "description": "A função de busca está sendo implementada.\n\nProcurando por: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "subtitle": "Suas multas salvas",
+    "resultsCount": "{{count}} Favorito",
+    "resultsCount_other": "{{count}} Favoritos",
+    "emptyState": {
+      "title": "Ainda sem Favoritos",
+      "description": "Salve multas importantes como favoritos para acesso rápido"
+    },
+    "howTo": {
+      "title": "Como Adicionar Favoritos",
+      "step1": "Abra uma multa",
+      "step2": "Toque no ícone de estrela",
+      "step3": "A multa aparecerá aqui"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Multa não encontrada",
+    "articleInformation": "Informações do artigo",
+    "violationDescription": "Descrição da violação",
+    "appliesTo": "Aplica-se a",
+    "conditions": "Condições",
+    "notes": "Notas",
+    "keywords": "Palavras-chave",
+    "labels": {
+      "article": "Artigo:",
+      "law": "Lei:",
+      "category": "Categoria:"
+    },
+    "source": "Fonte: Página {{page}}, Linha {{line}}",
+    "laws": {
+      "svg": "Lei de Trânsito",
+      "vrv": "Portaria de Regras de Trânsito",
+      "arv1": "Portaria de Horas de Trabalho 1",
+      "arv2": "Portaria de Horas de Trabalho 2",
+      "ssv": "Portaria de Sinais de Trânsito"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Direito de Tráfego",
+      "description": "Registro de Tráfego Rodoviário e Lei de Tráfego"
+    },
+    "criminal": {
+      "name": "Direito Penal",
+      "description": "Código Penal e Processo Penal"
+    },
+    "civil": {
+      "name": "Direito Civil",
+      "description": "Código Civil e Obrigações"
+    },
+    "commercial": {
+      "name": "Direito Comercial",
+      "description": "Registro Comercial e Lei Comercial"
+    },
+    "administrative": {
+      "name": "Direito Administrativo",
+      "description": "Procedimentos Administrativos e Direito Público"
+    },
+    "constitutional": {
+      "name": "Direito Constitucional",
+      "description": "Constituição Federal e Direitos Fundamentais"
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "theme": "Tema",
+    "about": "Sobre"
+  }
+}

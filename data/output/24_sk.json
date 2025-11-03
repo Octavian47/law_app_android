@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Použitie národnej cesty prvej alebo druhej triedy bez požadovanej vinietky platnej pre obdobie platnosti",
+    "fine_chf": 200,
+    "keywords": [
+      "Národná cesta",
+      "Vinieta",
+      "Chýbajúca vinieta",
+      "Vydanie",
+      "Mýtny štítok",
+      "Diaľnica"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda na národných cestách bez požadovanej vinietky.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Použitie národnej cesty prvej alebo druhej triedy s požadovanou lepiacou vinietkou platnou pre obdobie platnosti, ktorá nie je pripevnená, alebo nie je pripevnená na predpísanom mieste priamo na vozidle, alebo je poškodená",
+    "fine_chf": 200,
+    "keywords": [
+      "Vinieta",
+      "Lepiaca vinieta",
+      "Aplikácia",
+      "Poškodená",
+      "Priľnavosť",
+      "Umiestnenie"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda s vinietkou, ktorá je nesprávne pripevnená (nie priamo na vozidle) alebo je poškodená.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Utilisation d'un trottoir sans se désengager",
+    "fine_chf": 30,
+    "keywords": [
+      "trottoir",
+      "descendre",
+      "vélo",
+      "Vélo",
+      "chemin piéton",
+      "descente"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Usager de vélo",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un trottoir/chemin piéton sans descendre (s'applique aux cyclistes).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilisation d'une piste cyclable dans le sens interdit",
+    "fine_chf": 30,
+    "keywords": [
+      "piste cyclable",
+      "sens interdit",
+      "Vélo",
+      "contre-courant",
+      "piste cyclable"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Usager de vélo",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'une piste cyclable dans le mauvais sens.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilisation d'une voie cyclable dans le sens interdit",
+    "fine_chf": 30,
+    "keywords": [
+      "voie cyclable",
+      "sens interdit",
+      "Vélo",
+      "contre-courant",
+      "voie cyclable"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Usager de vélo",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'une voie cyclable dans le mauvais sens.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Défaut d'arrêt complet aux signaux d'arrêt (arrêt roulant) (3.01 ; Art. 27 para. 1 SVG et Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "signal d'arrêt",
+      "arrêt roulant",
+      "arrêt",
+      "règles de circulation",
+      "panneau d'arrêt",
+      "défaut d'arrêt"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'arrêt complet (arrêt roulant).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Défaut d'obéir à un feu de circulation",
+    "fine_chf": 60,
+    "keywords": [
+      "signal lumineux",
+      "non-respect",
+      "feu rouge",
+      "feu de circulation",
+      "défaut d'obéissance",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer un feu de circulation (souvent en traversant au rouge/ambre).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Défaut d'obéir à un 'signal lumineux clignotant alterné' (3.20) ou à un 'signal lumineux clignotant simple' (3.21 ; Art. 28 SVG, Art. 68 para. 1 et seq. et Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "signal lumineux clignotant alterné",
+      "signal lumineux clignotant simple",
+      "non-respect",
+      "lumière clignotante",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'obéir aux signaux lumineux clignotants spéciaux (p. ex., passages à niveau).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Violation de l'ordre à voie unique en ignorant la flèche de direction marquée et la flèche de contour du système de feu de circulation",
+    "fine_chf": 30,
+    "keywords": [
+      "ordre à voie unique",
+      "flèche de direction",
+      "flèche de contour",
+      "non-respect",
+      "discipline de voie",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Violation de la discipline de voie en ignorant les flèches de direction ou de contour près des feux de circulation.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Défaut de poursuivre la conduite dans la direction de la flèche",
+    "fine_chf": 30,
+    "keywords": [
+      "direction de la flèche",
+      "continuer à conduire",
+      "voie",
+      "direction de voie",
+      "flux de trafic"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de poursuivre la conduite dans la direction indiquée par la flèche de voie.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Défaut de donner un signal manuel ou une indication de direction lors d'un virage à droite",
+    "fine_chf": 20,
+    "keywords": [
+      "signal manuel",
+      "indication de direction",
+      "virage à droite",
+      "signal de virage",
+      "signalisation",
+      "tourner à droite"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Défaut de signaler lors d'un virage à droite.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Défaut de donner un signal manuel ou une indication de direction lors d'un virage à gauche",
+    "fine_chf": 30,
+    "keywords": [
+      "signal manuel",
+      "indication de direction",
+      "virage à gauche",
+      "signal de virage",
+      "signalisation",
+      "tourner à gauche"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Défaut de signaler lors d'un virage à gauche.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Défaut de donner un signal manuel ou une indication de direction lors d'un dépassement",
+    "fine_chf": 20,
+    "keywords": [
+      "signal manuel",
+      "indication de direction",
+      "dépassement",
+      "signal de dépassement",
+      "signalisation",
+      "dépassement"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Défaut de signaler lors d'un dépassement.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Conduite au-dessus ou traversée d'une ligne de sécurité en zone urbaine",
+    "fine_chf": 40,
+    "keywords": [
+      "ligne de sécurité",
+      "conduite au-dessus",
+      "traversée",
+      "dans zone urbaine",
+      "ligne continue",
+      "discipline de trafic"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Traversée d'une ligne blanche continue (interdiction de dépasser/traverser) en zone urbaine.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Conduite sur une voie de bus réservée sans autorisation",
+    "fine_chf": 30,
+    "keywords": [
+      "voie de bus",
+      "conduite",
+      "interdit",
+      "voie de bus",
+      "accès restreint"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule (non autorisé)"
+    ],
+    "conditions": null,
+    "notes": "Conduite sur une voie de bus réservée sans autorisation.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Conduite sur un chemin inadapté aux vélos, motos et rickshaws électriques ou manifestement non destiné à ceux-ci",
+    "fine_chf": 30,
+    "keywords": [
+      "utilisation du chemin",
+      "inadapté",
+      "vélo",
+      "moto",
+      "rickshaw électrique",
+      "chemin inadapté",
+      "accès restreint"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cycliste",
+      "Conducteur de moto",
+      "Conducteur de rickshaw électrique"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un chemin clairement inadapté ou non destiné aux vélos/mopeds/rickshaws électriques.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Défaut d'utiliser la piste cyclable",
+    "fine_chf": 30,
+    "keywords": [
+      "piste cyclable",
+      "non-utilisation",
+      "utilisation obligatoire",
+      "utilisation obligatoire",
+      "piste cyclable"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'utiliser une piste cyclable obligatoire.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Défaut d'utiliser la voie cyclable",
+    "fine_chf": 30,
+    "keywords": [
+      "voie cyclable",
+      "non-utilisation",
+      "utilisation obligatoire",
+      "utilisation obligatoire",
+      "voie cyclable"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cycliste"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'utiliser une voie cyclable obligatoire.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Stationnement ou arrêt d'un vélo, d'une moto ou d'un rickshaw électrique où le stationnement ou l'arrêt est interdit par les règles générales de circulation",
+    "fine_chf": 20,
+    "keywords": [
+      "stationnement interdit",
+      "arrêt interdit",
+      "vélo",
+      "moto",
+      "rickshaw électrique",
+      "interdiction de stationnement",
+      "règles générales de circulation"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Cycliste",
+      "Conducteur de moto",
+      "Conducteur de rickshaw électrique"
+    ],
+    "conditions": null,
+    "notes": "Stationnement/arrêt interdit par les règles générales (pas de panneaux).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Stationnement ou arrêt d'un vélo, d'une moto ou d'un rickshaw électrique où le stationnement ou l'arrêt est interdit par les signaux",
+    "fine_chf": 20,
+    "keywords": [
+      "stationnement interdit",
+      "arrêt interdit",
+      "signaux",
+      "vélo",
+      "moto",
+      "rickshaw électrique",
+      "interdiction de stationnement",
+      "panneaux"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Cycliste",
+      "Conducteur de moto",
+      "Conducteur de rickshaw électrique"
+    ],
+    "conditions": null,
+    "notes": "Stationnement/arrêt interdit par des panneaux de signalisation spécifiques.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

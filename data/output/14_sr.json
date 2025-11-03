@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Učenik vozi bez prikazivanja L-ploče",
+    "fine_chf": 20,
+    "keywords": [
+      "L-ploča",
+      "vožnja učenika",
+      "autoškola",
+      "ploča učenika",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Učenik vozač"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Ne uklanjanje L-ploče kada nije u toku vožnja učenika",
+    "fine_chf": 20,
+    "keywords": [
+      "L-ploča",
+      "vožnja učenika",
+      "ploča učenika",
+      "uklanjanje",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nedostatak korišćenja pokazivača pravca",
+    "fine_chf": 100,
+    "keywords": [
+      "pokazivač pravca",
+      "indikator",
+      "pokazivač pravca",
+      "signalizacija",
+      "izostanak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Ne isključivanje pokazivača pravca nakon promene smera",
+    "fine_chf": 100,
+    "keywords": [
+      "pokazivač pravca",
+      "indikator",
+      "pokazivač pravca",
+      "resetovanje",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Ne nošenje signalnog štapa kada je to potrebno",
+    "fine_chf": 40,
+    "keywords": [
+      "signalni štap",
+      "signalni štap",
+      "signalni uređaj",
+      "oprema",
+      "nošenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle je signalni štap, tipično potreban za određena velika ili spora vozila, ili specifične manevre.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Nepravilna upotreba upozoravajućih signala",
+    "fine_chf": 40,
+    "keywords": [
+      "upozoravajući signal",
+      "sirena",
+      "sirena",
+      "nepravilna upotreba",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala tokom dana",
+    "fine_chf": 40,
+    "keywords": [
+      "svetlo",
+      "vožnja bez svetala",
+      "dnevna svetla",
+      "dan",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez potrebnih svetala tokom dana.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala na osvetljenoj cesti noću",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlo",
+      "vožnja bez svetala",
+      "noćna vožnja",
+      "osvetljena cesta",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez potrebnih svetala noću na osvetljenoj cesti.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Vožnja bez svetala u osvetljenom tunelu",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlo",
+      "vožnja bez svetala",
+      "tunel",
+      "osvetljeni tunel",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja bez potrebnih svetala u osvetljenom tunelu.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Vožnja sa parkirnim svetlima ili dnevnim svetlima na osvetljenoj cesti noću",
+    "fine_chf": 40,
+    "keywords": [
+      "parkirno svetlo",
+      "dnevno svetlo",
+      "svetlo",
+      "noćna vožnja",
+      "oprema",
+      "nedovoljno osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje nedovoljnog osvetljenja (parkirno svetlo ili dnevno svetlo) umesto potrebnih farova noću na osvetljenoj cesti.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Vožnja sa parkirnim svetlima ili dnevnim svetlima u osvetljenom tunelu",
+    "fine_chf": 40,
+    "keywords": [
+      "parkirno svetlo",
+      "dnevno svetlo",
+      "svetlo",
+      "tunel",
+      "oprema",
+      "nedovoljno osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje nedovoljnog osvetljenja (parkirno svetlo ili dnevno svetlo) umesto potrebnih farova u osvetljenom tunelu.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nepravilna upotreba svetala za maglu",
+    "fine_chf": 40,
+    "keywords": [
+      "svetlo za maglu",
+      "svetlo za maglu",
+      "nepravilna upotreba",
+      "oprema",
+      "osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nepravilna upotreba zadnjih svetala za maglu",
+    "fine_chf": 40,
+    "keywords": [
+      "zadnje svetlo za maglu",
+      "zadnje svetlo za maglu",
+      "nepravilna upotreba",
+      "oprema",
+      "osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nepravilna upotreba tražilica",
+    "fine_chf": 40,
+    "keywords": [
+      "tražilica",
+      "tražilica",
+      "nepravilna upotreba",
+      "oprema",
+      "osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nepravilna upotreba radnih svetala",
+    "fine_chf": 40,
+    "keywords": [
+      "radno svetlo",
+      "radno svetlo",
+      "nepravilna upotreba",
+      "oprema",
+      "osvetljenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Neopravdano predgrevanje motora stacionarnog vozila",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "predgrevanje",
+      "rad na prazno",
+      "zagrijavanje motora",
+      "buka",
+      "okolina"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Neopravdano držanje motora u radu na prazno kod stacionarnog vozila",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "rad",
+      "rad na prazno",
+      "motor u radu",
+      "buka",
+      "okolina"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Korišćenje autoputa ili magistrale motociklom sa zapreminom motora do 50 cm³ ili snagom do 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autoput",
+      "magistrala",
+      "motocikl",
+      "zapremina motora",
+      "snaga",
+      "magistrala",
+      "ograničeno vozilo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Motocikli/mopedovi ispod minimalnih zahtevanih specifikacija (50 cm³ ili 4 kW) su zabranjeni na autoputu.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Korišćenje autoputa ili magistrale drugim motornim vozilom koje nije dozvoljeno na njima",
+    "fine_chf": 140,
+    "keywords": [
+      "autoput",
+      "magistrala",
+      "motorno vozilo",
+      "neovlašćeno",
+      "magistrala",
+      "ograničeno vozilo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje vozila na autoputu koje nije dozvoljeno (npr. spora vozila, poljoprivredna vozila).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Korišćenje autoputa ili magistrale sa šipkastim gumama",
+    "fine_chf": 60,
+    "keywords": [
+      "autoput",
+      "magistrala",
+      "šipkaste gume",
+      "šipkaste gume",
+      "oprema",
+      "magistrala"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Vučnja na autoputu ili magistrali izvan sledećeg izlaza",
+    "fine_chf": 140,
+    "keywords": [
+      "autoput",
+      "magistrala",
+      "vučenje",
+      "vučenje",
+      "vanredna situacija",
+      "sledeći izlaz"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vučnja je dozvoljena na autoputu samo do sledećeg izlaza.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

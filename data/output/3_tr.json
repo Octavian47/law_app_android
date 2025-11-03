@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Sürücü takograf kartının hasar, arıza, kayıp veya hırsızlığını raporlamama",
+    "fine_chf": 20,
+    "keywords": [
+      "sürücü takograf kartı",
+      "rapor",
+      "hasar",
+      "hırsızlık",
+      "ARV",
+      "takograf kartı",
+      "raporlama"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler tarafından kullanılan dijital takograf kartıyla ilgilidir.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Sürücü kartını iade etmeme",
+    "fine_chf": 20,
+    "keywords": [
+      "sürücü kartı",
+      "iade",
+      "ARV",
+      "takograf kartı",
+      "iade"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesyonel sürücü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücüler tarafından kullanılan dijital takograf kartıyla ilgilidir.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Atölye kartını iade etmeme",
+    "fine_chf": 20,
+    "keywords": [
+      "atölye kartı",
+      "iade",
+      "ARV",
+      "Atölye kartı",
+      "iade",
+      "takograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Atölye personeli"
+    ],
+    "conditions": null,
+    "notes": "Profesyonel sürücü düzenlemeleri için gerekli takograf atölye kartıyla ilgilidir.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "İzin verilen park süresini aşma\n  a. en fazla 2 saat",
+    "fine_chf": 40,
+    "keywords": [
+      "park süresi",
+      "fazla kalma",
+      "park",
+      "park süresi",
+      "fazla kalma",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "en fazla 2 saat",
+    "notes": "İzin verilen park süresini aşma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "İzin verilen park süresini aşma\n  b. 2 saatten fazla, ancak 4 saate kadar",
+    "fine_chf": 60,
+    "keywords": [
+      "park süresi",
+      "fazla kalma",
+      "park",
+      "park süresi",
+      "fazla kalma",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "2 saatten fazla, ancak 4 saate kadar",
+    "notes": "İzin verilen park süresini aşma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "İzin verilen park süresini aşma\n  c. 4 saatten fazla, ancak 10 saate kadar",
+    "fine_chf": 100,
+    "keywords": [
+      "park süresi",
+      "fazla kalma",
+      "park",
+      "park süresi",
+      "fazla kalma",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "4 saatten fazla, ancak 10 saate kadar",
+    "notes": "İzin verilen park süresini aşma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Araçta park diskini takmama veya görünür şekilde göstermeme",
+    "fine_chf": 40,
+    "keywords": [
+      "park diski",
+      "yerleştirme",
+      "görünürlük",
+      "park diski",
+      "yerleştirme",
+      "görünürlük",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Park diskinin hatalı gösterimi veya düşük görünürlüğü için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Araçta park bileti takmama veya görünür şekilde göstermeme",
+    "fine_chf": 40,
+    "keywords": [
+      "park bileti",
+      "park bileti",
+      "yerleştirme",
+      "görünürlük",
+      "park bileti",
+      "yerleştirme",
+      "görünürlük",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Park biletinin hatalı gösterimi veya düşük görünürlüğü için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Araçta engelli kişilerin park iznini takmama veya görünür şekilde göstermeme",
+    "fine_chf": 40,
+    "keywords": [
+      "park izni",
+      "engelli",
+      "yerleştirme",
+      "görünürlük",
+      "engelli parkı",
+      "rozet",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Engelli park rozeti hatalı gösterimi veya düşük görünürlüğü için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Park diskinde hatalı varış zamanı ayarlama",
+    "fine_chf": 40,
+    "keywords": [
+      "park diski",
+      "varış zamanı",
+      "hatalı",
+      "ayar",
+      "park diski",
+      "varış zamanı",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Park diskinde hatalı varış zamanı ayarlama için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Araç hareket ettirilmeden ayarlanan varış zamanını değiştirme",
+    "fine_chf": 40,
+    "keywords": [
+      "park diski",
+      "varış zamanı",
+      "değiştirme",
+      "araç hareket ettirme",
+      "park diski",
+      "varış zamanı",
+      "sıfırlama",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Araç hareket ettirilmeden park diskinin varış zamanını sıfırlama için ceza (yasadışı 'metre besleme').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Park metreye müdahale",
+    "fine_chf": 40,
+    "keywords": [
+      "park metre",
+      "müdahale",
+      "arızalı",
+      "park metre",
+      "müdahale",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Park metreyi çalışmaz hâle getirme için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Park süresi dolmadan ön ödeme yapılması yasaktır",
+    "fine_chf": 40,
+    "keywords": [
+      "ön ödeme",
+      "park süresi",
+      "süre dolmadan önce",
+      "park ücreti",
+      "yeniden doldurma",
+      "önceden",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Mevcut ödenen sürenin bitmeden ek park süresi için ödeme yapma (kalma süresini uzatma) için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Park süresi dolduktan sonra ödeme",
+    "fine_chf": 40,
+    "keywords": [
+      "sonra ödeme",
+      "park süresi",
+      "süre dolmuş",
+      "park ücreti",
+      "yeniden doldurma",
+      "süre dolmuş",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "İzin verilen sürenin zaten dolmuş olması durumunda ek park süresi için ödeme yapma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Görüşün zor olduğu yerlerde, özellikle viraj ve tepe bölgelerinde durma",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "zayıf görüş",
+      "virajlar",
+      "tepeler",
+      "durma",
+      "görüş",
+      "virajlar",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Viraj veya tepe gibi görüşün zor olduğu yerlerde durma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Tıkanıklıklarda durma",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "tıkanıklıklar",
+      "durma",
+      "tıkanıklık",
+      "dar",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Tıkanıklıklar veya dar geçitlerde durma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Yol üzerindeki bir engelin yanına durma",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "engel",
+      "yol",
+      "durma",
+      "engel",
+      "yol",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Şerit içinde bir engelin yanına durma, trafiği engellemesi nedeniyle ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Tek şeritli bölümde park etme (Art. 18 Abs. 2 Bst. c ve 19 Abs. 2 Bst. a VRV) en fazla 60 dakika",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "tek şerit",
+      "park",
+      "tek şerit",
+      "tıkanıklık",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "en fazla 60 dakika",
+    "notes": "Tek şeritle sınırlı bir bölümde (örneğin geçici bir engel nedeniyle) park etme için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Tek şeritli bölümde durma",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "tek şerit",
+      "durma",
+      "tek şerit",
+      "tıkanıklık",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Tek şeritle sınırlı bir bölümde (örneğin geçici bir engel nedeniyle) durma için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Güvenlik çizgisinin yanına park etme, eğer en az 3 m genişliğinde bir geçiş bırakılmamışsa",
+    "fine_chf": 120,
+    "keywords": [
+      "park",
+      "güvenlik çizgisi",
+      "geçiş",
+      "park",
+      "güvenlik çizgisi",
+      "geçiş şeridi",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "eğer en az 3 m genişliğinde bir geçiş bırakılmamışsa",
+    "notes": "Görüşün zor olduğu bir güvenlik çizgisi (geçiş yasağı çizgisi) yanına, trafik için 3 m'den az boşluk kalmışsa park etme için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Güvenlik çizgisinin yanına park etme, eğer en az 3 m genişliğinde bir geçiş bırakılmamışsa",
+    "fine_chf": 80,
+    "keywords": [
+      "durma",
+      "güvenlik çizgisi",
+      "geçiş",
+      "durma",
+      "güvenlik çizgisi",
+      "geçiş şeridi",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorlu taşıt sürücüsü",
+      "Sürücü"
+    ],
+    "conditions": "eğer en az 3 m genişliğinde bir geçiş bırakılmamışsa",
+    "notes": "Görüşün zor olduğu bir güvenlik çizgisi (geçiş yasağı çizgisi) yanına, trafik için 3 m'den az boşluk kalmışsa park etme için ceza.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

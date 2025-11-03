@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Zaustavljanje motornog vozila na autoputu i magistrali kada motorno vozilo stane na traku za hitne slučajeve ili parking mesto za pokvarena vozila zbog nedostatka goriva ili električne energije.",
+    "fine_chf": 120,
+    "keywords": [
+      "autoput",
+      "magistrala",
+      "traka za hitne slučajeve",
+      "nedostatak goriva",
+      "stajanje",
+      "traka za hitne slučajeve",
+      "bez goriva"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorno vozilo"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje zbog nedostatka goriva ili električne energije.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Vožnja preko ili prelazak sigurnosne linije u naseljenim područjima.",
+    "fine_chf": 140,
+    "keywords": [
+      "sigurnosna linija",
+      "prelazak",
+      "naseljeno područje",
+      "čvrsta linija",
+      "naseljeno područje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prelazak čvrste sigurnosne linije unutar naseljenog područja.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Vožnja preko ili prelazak zabranjenog područja u naseljenim područjima.",
+    "fine_chf": 140,
+    "keywords": [
+      "zabranjeno područje",
+      "prelazak",
+      "naseljeno područje",
+      "zabranjeno područje",
+      "naseljeno područje"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prelazak označene zabranjene zone (Sperrfläche) unutar naseljenog područja.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Nedostatak upozoravajućeg trougla.",
+    "fine_chf": 40,
+    "keywords": [
+      "neprenošenje",
+      "upozoravajući trougao",
+      "oprema",
+      "oprema",
+      "upozoravajući trougao"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Neprenošenje klina za točak na teškim motornih vozila.",
+    "fine_chf": 40,
+    "keywords": [
+      "neprenošenje",
+      "klina za točak",
+      "teško vozilo",
+      "oprema",
+      "klina za točak",
+      "teško vozilo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Teška motorna vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Neprenošenje priručnog kompleta prve pomoći u autobusu.",
+    "fine_chf": 40,
+    "keywords": [
+      "neprenošenje",
+      "komplet prve pomoći",
+      "autobus",
+      "autobus",
+      "komplet prve pomoći",
+      "autobus"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "autobus"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Neprenošenje obaveznog aparata za gašenje požara.",
+    "fine_chf": 40,
+    "keywords": [
+      "neprenošenje",
+      "aparat za gašenje požara",
+      "ADR",
+      "opasna roba",
+      "oprema",
+      "aparat za gašenje požara"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila",
+      "transport opasne robe"
+    ],
+    "conditions": null,
+    "notes": "Često relevantno za komercijalni ili transport opasne robe.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Neprenošenje klina za točak na prikolicama čija ukupna težina premašuje 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "neprenošenje",
+      "klina za točak",
+      "prikolica",
+      "ukupna težina",
+      "prikolica",
+      "klina za točak"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Prikolica > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Upravljanje ili parkiranje vozila sa kontrolnim tablicama koje nisu postavljene prema propisima.",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolne tablice",
+      "registracijska tablica",
+      "montaža",
+      "parkiranje",
+      "registracijska tablica",
+      "nepravilno postavljeno"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila",
+      "Parkirano vozilo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Upravljanje motornim vozilom sa oštećenom gumom.",
+    "fine_chf": 100,
+    "keywords": [
+      "motorno vozilo",
+      "oštećena guma",
+      "guma",
+      "oštećena guma",
+      "održavanje",
+      "defekt vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorno vozilo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Vožnja prikolice sa oštećenom gumom.",
+    "fine_chf": 100,
+    "keywords": [
+      "prikolica",
+      "oštećena guma",
+      "guma",
+      "oštećena guma",
+      "prikolica",
+      "održavanje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Prikolica"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Vožnja sa šipkastim gumama bez ili sa nepravilno postavljenom brzinskom pločom.",
+    "fine_chf": 20,
+    "keywords": [
+      "šipkaste gume",
+      "brzinska ploča",
+      "zimske gume",
+      "šipkaste gume",
+      "brzinska ploča",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostaje ili je nepravilna brzinska nalepnica/ploča koja je potrebna pri korišćenju šipkastih guma.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Korišćenje šipkastih guma van perioda kada su dozvoljene.",
+    "fine_chf": 60,
+    "keywords": [
+      "šipkaste gume",
+      "upotreba",
+      "van vremena",
+      "zabranjeno",
+      "šipkaste gume",
+      "sezonsko pravilo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje šipkastih guma van zakonom dozvoljene sezone.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Vožnja sa brzinskom pločom iako se ne koriste šipkaste gume.",
+    "fine_chf": 20,
+    "keywords": [
+      "šipkaste gume",
+      "brzinska ploča",
+      "pogrešna oprema",
+      "prekršaj opreme",
+      "brzinska ploča"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prikazivanje brzinske nalepnice potrebne za šipkaste gume kada vozilo nije opremljeno njima.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Korišćenje vozila sa neovlašćenim akustičnim upozoravajućim uređajem.",
+    "fine_chf": 40,
+    "keywords": [
+      "akustični upozoravajući uređaj",
+      "sirena",
+      "neovlašćen",
+      "sirena",
+      "sirena",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje vozila sa neodobrenom sirenom ili upozoravajućim uređajem.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

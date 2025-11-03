@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Conducător de începător conduce fără a afișa plăcuța L",
+    "fine_chf": 20,
+    "keywords": [
+      "placă L",
+      "conducere de începător",
+      "școală de șoferi",
+      "placă de începător",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de începător"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Nerespectarea îndepărtării plăcii L în absența conducerii de începător",
+    "fine_chf": 20,
+    "keywords": [
+      "placă L",
+      "conducere de începător",
+      "placă de începător",
+      "îndepărtare",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nerespectarea utilizării semnalizatorului de viraj",
+    "fine_chf": 100,
+    "keywords": [
+      "semnal de viraj",
+      "indicator",
+      "semnal de viraj",
+      "semnalizare",
+      "omisiune"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Nerespectarea opririi semnalului de viraj după schimbarea direcției",
+    "fine_chf": 100,
+    "keywords": [
+      "semnal de viraj",
+      "indicator",
+      "semnal de viraj",
+      "resetare",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Nerespectarea transportului plăcii de semnalizare când este necesară",
+    "fine_chf": 40,
+    "keywords": [
+      "placă de semnalizare",
+      "placă de semnal",
+      "dispozitiv de semnalizare",
+      "echipament",
+      "transport"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle este o placă de semnalizare, de obicei necesară pentru anumite vehicule mari sau lente, sau manevre specifice.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Utilizare necorespunzătoare a semnalelor de avertizare",
+    "fine_chf": 40,
+    "keywords": [
+      "semnal de avertizare",
+      "claxon",
+      "claxon",
+      "utilizare necorespunzătoare",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini în timpul zilei",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină",
+      "conducere fără lumini",
+      "lumini de circulație de zi",
+      "zi",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducere fără luminile necesare în timpul zilei.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini pe o șosea iluminată noaptea",
+    "fine_chf": 60,
+    "keywords": [
+      "lumină",
+      "conducere fără lumini",
+      "conducere pe timp de noapte",
+      "șosea iluminată",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducere fără luminile necesare noaptea pe o șosea iluminată.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conducere fără lumini într-un tunel iluminat",
+    "fine_chf": 60,
+    "keywords": [
+      "lumină",
+      "conducere fără lumini",
+      "tunel",
+      "tunel iluminat",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducere fără luminile necesare într-un tunel iluminat.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conducere cu lumini de parcare sau lumini de circulație de zi pe o șosea iluminată noaptea",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină de parcare",
+      "lumină de circulație de zi",
+      "lumină",
+      "conducere pe timp de noapte",
+      "echipament",
+      "iluminare insuficientă"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea iluminării insuficiente (lumină de parcare sau DRL) în locul farurilor necesare noaptea pe o șosea iluminată.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conducere cu lumini de parcare sau lumini de circulație de zi într-un tunel iluminat",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină de parcare",
+      "lumină de circulație de zi",
+      "lumină",
+      "tunel",
+      "echipament",
+      "iluminare insuficientă"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea iluminării insuficiente (lumină de parcare sau DRL) în locul farurilor necesare într-un tunel iluminat.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Utilizare necorespunzătoare a luminilor de ceață",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină de ceață",
+      "lumină de ceață",
+      "utilizare necorespunzătoare",
+      "echipament",
+      "iluminare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Utilizare necorespunzătoare a luminilor de ceață spate",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină de ceață spate",
+      "lumină de ceață spate",
+      "utilizare necorespunzătoare",
+      "echipament",
+      "iluminare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Utilizare necorespunzătoare a luminilor de căutare",
+    "fine_chf": 40,
+    "keywords": [
+      "lumina de căutare",
+      "lumina de căutare",
+      "utilizare necorespunzătoare",
+      "echipament",
+      "iluminare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Utilizare necorespunzătoare a luminilor de lucru",
+    "fine_chf": 40,
+    "keywords": [
+      "lumină de lucru",
+      "lumină de lucru",
+      "utilizare necorespunzătoare",
+      "echipament",
+      "iluminare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Încălzire inutilă a motorului unui vehicul staționar",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "încălzire prealabilă",
+      "funcționare în ralanti",
+      "încălzire a motorului",
+      "zgomot",
+      "mediu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Funcționare în ralanti inutilă a motorului unui vehicul staționar",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "funcționare",
+      "în ralanti",
+      "funcționare a motorului",
+      "zgomot",
+      "mediu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Utilizarea unei autostrăzi sau drum expres cu o motocicletă cu cilindree până la 50 cm³ sau putere până la 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autostradă",
+      "drum expres",
+      "motocicletă",
+      "cilindree",
+      "putere",
+      "drum expres",
+      "vehicul restricționat"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Motocicletele/mopedele sub specificațiile minime necesare (50 cm³ sau 4 kW) sunt interzise pe autostrăzi.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Utilizarea unei autostrăzi sau drum expres cu un alt vehicul motorizat nepermis pe aceasta",
+    "fine_chf": 140,
+    "keywords": [
+      "autostradă",
+      "drum expres",
+      "vehicul motorizat",
+      "neautorizat",
+      "drum expres",
+      "vehicul restricționat"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unui vehicul pe o autostradă care nu este permis (de ex., vehicule lente, vehicule agricole).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Utilizarea unei autostrăzi sau drum expres cu anvelope cu țepi",
+    "fine_chf": 60,
+    "keywords": [
+      "autostradă",
+      "drum expres",
+      "anvelope cu țepi",
+      "anvelope cu țepi",
+      "echipament",
+      "drum expres"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Tragere pe o autostradă sau drum expres dincolo de următoarea ieșire",
+    "fine_chf": 140,
+    "keywords": [
+      "autostradă",
+      "drum expres",
+      "tragere",
+      "tragere",
+      "urgență",
+      "următoarea ieșire"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Tragerea este permisă pe autostrăzi doar până la următoarea ieșire disponibilă.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

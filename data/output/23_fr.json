@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autoroutes (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 et 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autoroute",
+      "Semi-autoroute",
+      "Utilisation",
+      "VRV 50a",
+      "Restriction"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation non autorisée des semi-autoroutes (s'applique souvent à des types de véhicules ou dispositifs spécifiques).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Contourner, grimper par-dessus ou ramper sous des barrières ou demi-barrières",
+    "fine_chf": 20,
+    "keywords": [
+      "Barrières",
+      "Demi-barrières",
+      "Barrières",
+      "Passage à niveau ferroviaire",
+      "Passage à niveau",
+      "Contourner"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Usager de la route"
+    ],
+    "conditions": null,
+    "notes": "Contourner, franchir ou ramper sous des barrières ou demi-barrières.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Utilisation d'une piste cyclable par les piétons, lorsque\n1. un trottoir est présent",
+    "fine_chf": 10,
+    "keywords": [
+      "Piéton",
+      "Piste cyclable",
+      "Trottoir",
+      "Trottoir",
+      "Piéton",
+      "Piste cyclable"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piétons"
+    ],
+    "conditions": "Trottoir présent",
+    "notes": "Utilisation de la piste cyclable lorsqu'un trottoir est disponible.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Utilisation d'une piste cyclable par les piétons, lorsque\n2. un sentier piéton est présent",
+    "fine_chf": 10,
+    "keywords": [
+      "Piéton",
+      "Piste cyclable",
+      "Sentier piéton",
+      "Trottoir",
+      "Piéton",
+      "Piste cyclable"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piétons"
+    ],
+    "conditions": "Sentier piéton présent",
+    "notes": "Utilisation de la piste cyclable lorsqu'un sentier piéton dédié est disponible.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Conduite sans éclairage",
+    "fine_chf": 20,
+    "keywords": [
+      "Lumière",
+      "Éclairage",
+      "Conduite",
+      "Trottinette électrique",
+      "Dispositifs similaires à des véhicules",
+      "Équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Opérateur de dispositifs (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Conduite sans éclairage requis (s'applique principalement aux trottinettes électriques/dispositifs similaires).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Entrave à l'utilisation des zones de circulation réservées aux piétons",
+    "fine_chf": 20,
+    "keywords": [
+      "Piéton",
+      "Zones de circulation",
+      "Obstruction",
+      "Trottoir",
+      "Entrave",
+      "Dispositifs VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Dispositifs (VRV 50a)",
+      "Usagers de la route"
+    ],
+    "conditions": null,
+    "notes": "Entrave à l'utilisation des zones de circulation réservées aux piétons.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Entrave à l'utilisation de la chaussée sur les routes secondaires à trafic apaisé",
+    "fine_chf": 20,
+    "keywords": [
+      "Routes secondaires",
+      "Chaussée",
+      "Obstruction",
+      "Flux de trafic",
+      "Route secondaire",
+      "Dispositifs (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Dispositifs (VRV 50a)",
+      "Usagers de la route"
+    ],
+    "conditions": null,
+    "notes": "Entrave au flux de trafic sur les routes secondaires à trafic apaisé.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorer le signal 'Interdiction pour les dispositifs similaires à des véhicules'",
+    "fine_chf": 20,
+    "keywords": [
+      "Signal",
+      "Interdiction",
+      "Dispositifs similaires à des véhicules",
+      "Trottinette électrique",
+      "Signalisation",
+      "Panneau de signalisation"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Opérateur de dispositifs similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau routier spécifique interdisant les dispositifs similaires à des véhicules.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Utilisation de dispositifs similaires à des véhicules sur des zones de circulation non autorisées",
+    "fine_chf": 20,
+    "keywords": [
+      "Dispositifs similaires à des véhicules",
+      "Trottinette électrique",
+      "Zones de circulation",
+      "Utilisation non autorisée",
+      "Restriction"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Opérateur de dispositifs similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Utilisation de dispositifs (comme les trottinettes électriques) sur des zones de circulation où ils ne sont pas autorisés.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Ne pas accorder la priorité aux piétons",
+    "fine_chf": 30,
+    "keywords": [
+      "Priorité de passage",
+      "Piéton",
+      "Priorité",
+      "Priorité",
+      "Piéton",
+      "Dispositifs (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Opérateur de dispositifs similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Ne pas accorder la priorité aux piétons (s'applique aux utilisateurs de dispositifs spéciaux).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

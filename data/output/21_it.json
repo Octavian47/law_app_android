@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "riguardo alle marcature (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Marcature",
+      "Segnali",
+      "VRV",
+      "SSV",
+      "marcature stradali",
+      "violazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Implica violazione delle norme sulle marcature stradali.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Mancata precedenza al attraversamento pedonale (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Priorità",
+      "Attraversamento pedonale",
+      "Attraversamento zebra",
+      "SVG",
+      "VRV",
+      "priorità",
+      "attraversamento pedonale"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Uso di un telefono senza dispositivo vivavoce durante la guida (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefono",
+      "Telefono cellulare",
+      "Dispositivo vivavoce",
+      "Guida",
+      "Distrazione",
+      "telefono cellulare",
+      "guida"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Superamento della velocità massima generale o segnalata da parte dei conducenti di motocicli, tenendo conto del dispositivo e dell'incertezza di misura stabiliti da ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Velocità",
+      "Velocità massima",
+      "Motocicletta",
+      "Ciclomotore",
+      "SVG",
+      "violazione di velocità"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Multa fissa per eccesso di velocità minore (probabilmente fino a 5 km/h di eccesso) su ciclomotori/biciclette a motore.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Uso di una motocicletta o di un risciò elettrico senza targa di immatricolazione o senza vignetta valida pur avendo assicurazione (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "targa",
+      "Vignetta",
+      "Motocicletta",
+      "Risciò elettrico",
+      "targa",
+      "adesivo",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente di motocicletta",
+      "Conducente di risciò elettrico"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dall'utente (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Uso di una motocicletta o di un risciò elettrico senza la licenza veicolare richiesta (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "licenza veicolare",
+      "Motocicletta",
+      "Risciò elettrico",
+      "SVG",
+      "licenza veicolare",
+      "documenti"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducente di motocicletta",
+      "Conducente di risciò elettrico"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dall'utente (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Uso di una motocicletta senza assicurazione esistente (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "assicurazione",
+      "Motocicletta",
+      "VZV",
+      "assicurazione",
+      "ciclomotore",
+      "obbligatorio"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dall'utente (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Prestare una motocicletta o un risciò elettrico senza targa di immatricolazione o senza vignetta valida pur avendo assicurazione per l'uso (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Prestito",
+      "targa",
+      "Vignetta",
+      "Motocicletta",
+      "Risciò elettrico",
+      "prestito",
+      "targa",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietario",
+      "Prestante"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dal proprietario/prestante (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Prestare una motocicletta o un risciò elettrico senza la licenza veicolare richiesta per l'uso (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Prestito",
+      "licenza veicolare",
+      "Motocicletta",
+      "Risciò elettrico",
+      "VZV",
+      "prestito",
+      "documenti veicolari"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietario",
+      "Prestante"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dal proprietario/prestante (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Prestare una motocicletta senza assicurazione esistente per l'uso (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Prestito",
+      "assicurazione",
+      "Motocicletta",
+      "VZV",
+      "prestito",
+      "assicurazione"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Proprietario",
+      "Prestante"
+    ],
+    "conditions": null,
+    "notes": "L'infrazione è commessa dal proprietario/prestante (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Guidare con una targa di immatricolazione non facilmente leggibile (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "targa",
+      "leggibilità",
+      "Guida",
+      "VRV",
+      "VTS",
+      "targa",
+      "leggibilità",
+      "targa sporca"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Guidare senza il campanello richiesto sulle motociclette (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "campanello",
+      "Motocicletta",
+      "attrezzatura",
+      "VTS",
+      "ciclomotore",
+      "campanello",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente di motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Guidare un ciclomotore/bicicletta a motore senza il campanello richiesto.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Guidare senza riflettori fissamente installati (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "riflettore",
+      "riflettore",
+      "attrezzatura",
+      "VTS",
+      "riflettore",
+      "attrezzatura",
+      "mancante"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guidare senza riflettori fissi (si applica generalmente ai veicoli che li richiedono, spesso biciclette/ciclomotori in questa sezione).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

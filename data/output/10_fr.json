@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pour les véhicules et les ensembles de véhicules dont le poids total ou le poids total tracté ne dépasse pas 3500 kg, dépassant de plus de 100 kg mais pas plus de 5 %.",
+    "fine_chf": 200,
+    "keywords": [
+      "poids brut",
+      "surcharge",
+      "ensemble de véhicules",
+      "poids autorisé",
+      "surcharge",
+      "poids brut"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Ensemble de véhicules"
+    ],
+    "conditions": null,
+    "notes": "Surcharge : >100 kg, mais ≤ 5 % au-dessus du poids brut maximal (≤ 3500 kg). L'amende s'applique à l'item 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pour les véhicules et les ensembles de véhicules dont le poids total ou le poids total tracté dépasse 3500 kg, de plus de 100 kg jusqu'à 5 %, mais pas plus de 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "poids brut",
+      "surcharge",
+      "ensemble de véhicules",
+      "trafic lourd",
+      "surcharge",
+      "poids lourd"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Véhicules lourds"
+    ],
+    "conditions": null,
+    "notes": "Surcharge : >100 kg et ≤ 1000 kg, mais ≤ 5 % au-dessus du poids brut maximal (> 3500 kg). L'amende s'applique à l'item 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "de pas plus de 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "charge d'essieu",
+      "surcharge",
+      "poids autorisé",
+      "charge d'essieu",
+      "surcharge"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dépasser la charge d'essieu autorisée (après déduction de la tolérance de mesure), jusqu'à 100 kg. L'amende s'applique à l'item 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pour les véhicules dont le poids total dépasse 3500 kg, dépassant de plus de 100 kg, mais pas plus de 2 %.",
+    "fine_chf": 250,
+    "keywords": [
+      "charge d'essieu",
+      "surcharge",
+      "trafic lourd",
+      "charge d'essieu",
+      "poids lourd",
+      "surcharge"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Véhicules lourds"
+    ],
+    "conditions": null,
+    "notes": "Dépasser la charge d'essieu autorisée (>100 kg, mais ≤ 2 % au-dessus de la limite) pour les véhicules > 3500 kg. L'amende s'applique à l'item 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "de plus de 2 %, mais pas plus de 5 %",
+    "fine_chf": 40,
+    "keywords": [
+      "poids autorisé",
+      "surcharge",
+      "charge d'essieu",
+      "poids brut",
+      "charge d'essieu",
+      "ensemble de véhicules"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dépasser le poids total/poids d'ensemble autorisé (après déduction de la tolérance de mesure) de >2 % mais ≤5 %. L'amende s'applique à l'item 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "de plus de 5 %",
+    "fine_chf": 100,
+    "keywords": [
+      "poids autorisé",
+      "surcharge",
+      "charge d'essieu",
+      "poids brut",
+      "charge d'essieu",
+      "ensemble de véhicules"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Dépasser le poids total/poids d'ensemble autorisé (après déduction de la tolérance de mesure) de >5 %. L'amende s'applique à l'item 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Conduire une moto sur un trottoir",
+    "fine_chf": 100,
+    "keywords": [
+      "moto",
+      "trottoir",
+      "chemin piéton",
+      "conduite",
+      "Moto",
+      "trottoir"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motard"
+    ],
+    "conditions": null,
+    "notes": "Conduire une moto sur un trottoir.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Défaut de garder sa place par un motard au sein de la colonne lorsque le trafic est arrêté.",
+    "fine_chf": 60,
+    "keywords": [
+      "motard",
+      "colonne",
+      "place",
+      "trafic arrêté",
+      "Moto",
+      "embouteillage",
+      "fractionnement de voie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motard"
+    ],
+    "conditions": null,
+    "notes": "Motard ne gardant pas sa place au sein de la colonne lorsque le trafic est arrêté (par ex., filtrage/coupure de voie lorsqu'il est à l'arrêt).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "de 1 à 5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "centre-ville",
+      "Astra",
+      "excès de vitesse",
+      "zone urbaine"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse en zone urbaine, de 1 à 5 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "de 6 à 10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "centre-ville",
+      "Astra",
+      "excès de vitesse",
+      "zone urbaine"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse en zone urbaine, de 6 à 10 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "de 11 à 15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "centre-ville",
+      "Astra",
+      "excès de vitesse",
+      "zone urbaine"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse en zone urbaine, de 11 à 15 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "de 1 à 5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "hors zone urbaine",
+      "autoroute",
+      "excès de vitesse",
+      "hors zone urbaine",
+      "autoroute"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse hors zone urbaine ou sur autoroutes/semi-autoroutes, de 1 à 5 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "de 6 à 10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "hors zone urbaine",
+      "autoroute",
+      "excès de vitesse",
+      "hors zone urbaine",
+      "autoroute"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse hors zone urbaine ou sur autoroutes/semi-autoroutes, de 6 à 10 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "de 11 à 15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "hors zone urbaine",
+      "autoroute",
+      "excès de vitesse",
+      "hors zone urbaine",
+      "autoroute"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse hors zone urbaine ou sur autoroutes/semi-autoroutes, de 11 à 15 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "de 16 à 20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "vitesse",
+      "dépassant",
+      "hors zone urbaine",
+      "autoroute",
+      "excès de vitesse",
+      "hors zone urbaine",
+      "autoroute"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Excès de vitesse hors zone urbaine ou sur autoroutes/semi-autoroutes, de 16 à 20 km/h au-dessus de la limite (après déduction de la tolérance de mesure). L'amende s'applique à l'item 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "État défectueux du pneu par roue",
+    "fine_chf": 20,
+    "keywords": [
+      "pneu",
+      "état",
+      "défectueux",
+      "VTS",
+      "roue",
+      "pneu",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "par roue",
+    "notes": "Se rapporte à l'élément 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Non port de la ceinture de sécurité par le passager",
+    "fine_chf": 60,
+    "keywords": [
+      "ceintures de sécurité",
+      "obligation de ceinture",
+      "passager",
+      "passager",
+      "ceinture de sécurité",
+      "passager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passager",
+      "Passager"
+    ],
+    "conditions": null,
+    "notes": "Section 800.1 : Non-port des ceintures de sécurité par les passagers.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Non port du casque de protection par les passagers sur motos, véhicules légers, petits et tricycles",
+    "fine_chf": 60,
+    "keywords": [
+      "casque",
+      "obligation de casque",
+      "passager",
+      "moto",
+      "casque",
+      "passager"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Passager",
+      "Motos"
+    ],
+    "conditions": null,
+    "notes": "Section 800.2 : Non-port du casque par les passagers sur motos/véhicules à trois roues.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Pousser un véhicule ou un objet par un passager",
+    "fine_chf": 20,
+    "keywords": [
+      "poussée",
+      "véhicule",
+      "objet",
+      "passager",
+      "pousser",
+      "objet",
+      "passager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passager"
+    ],
+    "conditions": null,
+    "notes": "Section 801.1 : Pousser un véhicule ou un objet par un passager (comportement probablement interdit en mouvement/dans la circulation).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tirer un véhicule ou un objet par un passager",
+    "fine_chf": 20,
+    "keywords": [
+      "tirage",
+      "véhicule",
+      "objet",
+      "passager",
+      "tirer",
+      "objet",
+      "passager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passager"
+    ],
+    "conditions": null,
+    "notes": "Section 801.2 : Tirer un véhicule ou un objet par un passager.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Remorquer un véhicule ou un objet par un passager",
+    "fine_chf": 20,
+    "keywords": [
+      "remorquage",
+      "véhicule",
+      "objet",
+      "passager",
+      "remorquer",
+      "objet",
+      "passager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passager"
+    ],
+    "conditions": null,
+    "notes": "Section 801.3 : Remorquage/tractage d'un véhicule ou d'un objet par un passager.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Non utilisation du trottoir",
+    "fine_chf": 10,
+    "keywords": [
+      "trottoir",
+      "chemin piéton",
+      "non-utilisation",
+      "piéton",
+      "trottoir",
+      "piéton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": null,
+    "notes": "Non utilisation du trottoir lorsqu'il est disponible.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Non utilisation du passage piéton, si à moins de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "passage piéton",
+      "passage piéton zébré",
+      "non-utilisation",
+      "50m",
+      "passage piéton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": "si à moins de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Non utilisation d'un passage supérieur, si à moins de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "passerelle",
+      "pont piéton",
+      "non-utilisation",
+      "50m",
+      "passerelle piétonne"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": "si à moins de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Non utilisation d'un passage souterrain, si à moins de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "sous-passage",
+      "tunnel piéton",
+      "non-utilisation",
+      "50m",
+      "sous-passage piéton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": "si à moins de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Non respect du signal 'Pas de piétons autorisés' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "interdiction",
+      "piéton",
+      "signal",
+      "non-respect",
+      "restriction",
+      "piéton",
+      "panneau"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Non respect du signal 'Chemin piéton' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "chemin piéton",
+      "signal",
+      "non-respect",
+      "chemin piéton",
+      "panneau"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Piéton"
+    ],
+    "conditions": null,
+    "notes": "Non-conformité au panneau dédié au chemin piéton.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Non respect d'un signal lumineux",
+    "fine_chf": 20,
+    "keywords": [
+      "signal lumineux",
+      "piéton",
+      "signal",
+      "non-respect",
+      "feu de circulation",
+      "piéton"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Piéton",
+      "Utilisateur d'appareils similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Franchir un feu rouge (en tant que piéton/utilisateur d'appareil de mobilité).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Non respect d'un 'signal lumineux clignotant alterné' (3.20) ou d'un 'signal lumineux clignotant simple' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "signal lumineux clignotant",
+      "lumière clignotante alternée",
+      "signal",
+      "passage à niveau",
+      "lumière d'avertissement",
+      "passage à niveau"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Piéton",
+      "Utilisateur d'appareils similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Ignorer les feux d'avertissement clignotants (par ex., aux passages à niveau).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Entrée sur les autoroutes",
+    "fine_chf": 20,
+    "keywords": [
+      "autoroute",
+      "entrée",
+      "piéton",
+      "interdiction",
+      "Autoroute",
+      "accès",
+      "interdit"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Piéton",
+      "Utilisateur d'appareils similaires à des véhicules"
+    ],
+    "conditions": null,
+    "notes": "Entrée ou marche sur les autoroutes (qui sont généralement réservées au trafic motorisé).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

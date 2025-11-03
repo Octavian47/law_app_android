@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "dla pojazdów i kombinacji pojazdów o łącznej masie lub masie holowania nieprzekraczającej 3500 kg, przekraczającej o więcej niż 100 kg, ale nie więcej niż 5 procent.",
+    "fine_chf": 200,
+    "keywords": [
+      "masa całkowita",
+      "przeciążenie",
+      "kombinacja pojazdów",
+      "dozwolona masa",
+      "przeciążenie",
+      "masa całkowita"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Kombinacja pojazdów"
+    ],
+    "conditions": null,
+    "notes": "Przeciążenie: >100 kg, ale <= 5% ponad maksymalną masę całkowitą (<= 3500 kg). Mandat dotyczy pozycji 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "dla pojazdów i kombinacji pojazdów o łącznej masie lub masie holowania powyżej 3500 kg, przekraczającej o więcej niż 100 kg do 5 procent, ale nie więcej niż 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "masa całkowita",
+      "przeciążenie",
+      "kombinacja pojazdów",
+      "ruch ciężki",
+      "przeciążenie",
+      "Pojazd ciężarowy"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Pojazdy ciężkie"
+    ],
+    "conditions": null,
+    "notes": "Przeciążenie: >100 kg i <= 1000 kg, ale <= 5% ponad maksymalną masę całkowitą (> 3500 kg). Mandat dotyczy pozycji 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "nie więcej niż 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "obciążenie osi",
+      "przeciążenie",
+      "dozwolona masa",
+      "obciążenie osi",
+      "przeciążenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie dopuszczalnego obciążenia osi (po odjęciu tolerancji pomiarowej), do 100 kg. Mandat dotyczy pozycji 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "dla pojazdów o łącznej masie powyżej 3500 kg, przekraczającej o więcej niż 100 kg, ale nie więcej niż 2 procent.",
+    "fine_chf": 250,
+    "keywords": [
+      "obciążenie osi",
+      "przeciążenie",
+      "ruch ciężki",
+      "obciążenie osi",
+      "Pojazd ciężarowy",
+      "przeciążenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Pojazdy ciężkie"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie dopuszczalnego obciążenia osi (>100 kg, ale <= 2% ponad limit) dla pojazdów > 3500 kg. Mandat dotyczy pozycji 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "przekraczającej o więcej niż 2 procent, ale nie więcej niż 5 procent",
+    "fine_chf": 40,
+    "keywords": [
+      "dozwolona masa",
+      "przeciążenie",
+      "obciążenie osi",
+      "masa całkowita",
+      "obciążenie osi",
+      "kombinacja pojazdów"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie dopuszczalnej łącznej masy/masy kombinacji (po odjęciu tolerancji pomiarowej) o >2% ale <=5%. Mandat dotyczy pozycji 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "przekraczającej o więcej niż 5 procent",
+    "fine_chf": 100,
+    "keywords": [
+      "dozwolona masa",
+      "przeciążenie",
+      "obciążenie osi",
+      "masa całkowita",
+      "obciążenie osi",
+      "kombinacja pojazdów"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie dopuszczalnej łącznej masy/masy kombinacji (po odjęciu tolerancji pomiarowej) o >5%. Mandat dotyczy pozycji 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Jazda motocyklem po chodniku",
+    "fine_chf": 100,
+    "keywords": [
+      "motocykl",
+      "chodnik",
+      "chodnik",
+      "jazda",
+      "Motocykl",
+      "chodnik"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Jazda motocyklem po chodniku.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Nieutrzymanie miejsca przez kierowcę motocykla w kolumnie, gdy ruch jest zatrzymany.",
+    "fine_chf": 60,
+    "keywords": [
+      "kierowca motocykla",
+      "kolumna",
+      "miejsce",
+      "zatrzymany ruch",
+      "Motocykl",
+      "korek",
+      "przejeżdżanie między pasami"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Kierowca motocykla nie utrzymuje swojego miejsca w kolumnie, gdy ruch jest zatrzymany (np. przejeżdżanie między pasami przy zatrzymaniu).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar miejski",
+      "Astra",
+      "przekroczenie prędkości",
+      "obszar zabudowany"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości w obszarach zabudowanych, 1-5 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar miejski",
+      "Astra",
+      "przekroczenie prędkości",
+      "obszar zabudowany"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości w obszarach zabudowanych, 6-10 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "o 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar miejski",
+      "Astra",
+      "przekroczenie prędkości",
+      "obszar zabudowany"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości w obszarach zabudowanych, 11-15 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar poza zabudowany",
+      "autostrada",
+      "przekroczenie prędkości",
+      "obszar poza zabudowany",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości poza obszarami zabudowanymi lub na autostradach/półautostradach, 1-5 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar poza zabudowany",
+      "autostrada",
+      "przekroczenie prędkości",
+      "obszar poza zabudowany",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości poza obszarami zabudowanymi lub na autostradach/półautostradach, 6-10 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar poza zabudowany",
+      "autostrada",
+      "przekroczenie prędkości",
+      "obszar poza zabudowany",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości poza obszarami zabudowanymi lub na autostradach/półautostradach, 11-15 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "o 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "prędkość",
+      "przekroczenie",
+      "obszar poza zabudowany",
+      "autostrada",
+      "przekroczenie prędkości",
+      "obszar poza zabudowany",
+      "autostrada"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przekroczenie prędkości poza obszarami zabudowanymi lub na autostradach/półautostradach, 16-20 km/h ponad limit (po odjęciu tolerancji pomiarowej). Mandat dotyczy pozycji 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

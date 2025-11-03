@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Používanie telefónu bez hands‑free zariadenia počas jazdy (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefón",
+      "mobilný telefón",
+      "hands‑free zariadenie",
+      "počas jazdy",
+      "jazda",
+      "mobilný telefón"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič"
+    ],
+    "conditions": null,
+    "notes": "Používanie telefónu bez hands‑free zariadenia počas jazdy.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Nezaväzovanie bezpečnostných pásov vodičom (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "bezpečnostný pás",
+      "pás",
+      "zaväzovanie",
+      "vodič vozidla",
+      "bezpečnostný pás",
+      "vodič"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nezaväzovanie bezpečnostného pásu vodičom.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Preprava neviazaného dieťaťa do 12 rokov (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dieťa",
+      "bezpečnosť",
+      "detská sedačka",
+      "preprava",
+      "bezpečnostné zariadenie",
+      "deti"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Preprava neviazaného dieťaťa do 12 rokov.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Nezaväzovanie ochranných prilieb vodičom motocyklov, ľahkých, malých a trojkolových motorových vozidiel (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "ochranná prilba",
+      "prilba",
+      "motocykl",
+      "motorové vozidlo",
+      "vodič",
+      "prilba",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Vodič motocykla/ľahkého/malého/trojkolového vozidla nepoužíva ochrannú prilbu.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Preprava dieťaťa do 12 rokov bez prilby na motocykloch, ľahkých, malých a trojkolových motorových vozidlách (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dieťa",
+      "prilba",
+      "motocykl",
+      "preprava",
+      "ochranná prilba",
+      "deti",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Preprava dieťaťa do 12 rokov bez prilby na motocykli/ľahkom/malom/trojkolovom vozidle.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Nevyužívanie najvzdialenejšej pravej jazdnej pruhy na viacpruhových cestách, okrem predjíždenia, spájania, jazdy v paralelných stĺpcoch alebo v obývaných oblastiach (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "jazdný pruh",
+      "jazda vpravo",
+      "najvzdialenejší pruh",
+      "predjíždenie",
+      "používanie pruhu",
+      "držanie vpravo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nevyužívanie najvzdialenejšej pravej jazdnej pruhy na viacpruhových cestách, okrem predjíždenia, spájania, jazdy v paralelných stĺpcoch alebo jazdy v obývanej oblasti.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Predjíždenie vpravo výkrikom a návratom na viacpruhových cestách v obývaných oblastiach (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "predjíždenie vpravo",
+      "v obývanej oblasti",
+      "zmena jazdného pruhu",
+      "predjíždenie vpravo",
+      "obývaná oblasť",
+      "zmena jazdného pruhu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Predjíždenie vpravo výkrikom a návratom na viacpruhových cestách v obývaných oblastiach.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Predjíždenie vpravo výkrikom a návratom na diaľniciach a rýchlostných cestách s viacerými pruhmi (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "predjíždenie vpravo",
+      "rýchlostná cesta",
+      "diaľnica",
+      "zmena jazdného pruhu",
+      "predjíždenie vpravo",
+      "diaľnica",
+      "diaľnica"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Predjíždenie vpravo výkrikom a návratom na viacpruhových polodiaľniciach a diaľniciach.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Zmena jazdného pruhu na predjíždenie na jednopruhovej ceste (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "predjíždenie",
+      "zmena jazdného pruhu",
+      "jednopruhová cesta",
+      "predjíždenie",
+      "zmena jazdného pruhu",
+      "jednopruhová cesta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zmena jazdného pruhu na predjíždenie na jednopruhovom úseku cesty.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Zastavenie alebo parkovanie na ľavej strane cesty, aj keď nevedú električkové koľaje, nie je signalizovaný zákaz parkovania alebo zastavenia a cesta je široká (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "zastavenie",
+      "parkovanie",
+      "ľavá strana cesty",
+      "parkovanie",
+      "zastavenie",
+      "nesprávna strana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie alebo parkovanie na ľavej strane cesty napriek neprítomnosti električkových koľají, značiek zakazujúcich parkovanie/zastavenie a širokej ceste.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Opustenie vozidla bez odobratia zapalovacieho kľúča (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "opustenie vozidla",
+      "zapalovací kľúč",
+      "kľúč",
+      "zapalovací kľúč",
+      "opustenie vozidla"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Opustenie vozidla bez odobratia zapalovacieho kľúča.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Nenasadenie výstražného trojuholníka pri poruche (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "signál poruchy",
+      "výstražný trojuholník",
+      "nasadenie",
+      "výstražný trojuholník",
+      "porucha"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nenasadenie výstražného trojuholníka (signál poruchy).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Nesprávne nasadenie výstražného trojuholníka pri poruche (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signál poruchy",
+      "výstražný trojuholník",
+      "nasadenie",
+      "nevyhovujúci",
+      "výstražný trojuholník",
+      "porucha"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nasadenie výstražného trojuholníka (signál poruchy) v rozpore s predpismi (napr. príliš blízko).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Zneužívanie výstražných svetiel na stojacom vozidle (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "výstražné svetlá",
+      "výstražné svetlá",
+      "zneužívanie",
+      "stojace vozidlo",
+      "výstražné svetlá",
+      "stojace vozidlo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zneužívanie výstražných svetiel na stojacom vozidle.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Zneužívanie výstražných svetiel na jazdiacom vozidle (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "výstražné svetlá",
+      "výstražné svetlá",
+      "zneužívanie",
+      "jazdiace vozidlo",
+      "výstražné svetlá",
+      "jazdiace vozidlo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zneužívanie výstražných svetiel na jazdiacom vozidle.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Nepripevnenie výstražného trojuholníka k zadnej časti ťahaného vozidla (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signál poruchy",
+      "ťahané vozidlo",
+      "zadná časť",
+      "výstražný trojuholník",
+      "ťahané vozidlo",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nepripevnenie výstražného trojuholníka k zadnej časti ťahaného vozidla.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

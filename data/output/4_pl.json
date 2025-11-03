@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie przy nieprzerwanej linii podłużnej, gdy nie jest utrzymany wolny przejazd o szerokości co najmniej 3 m (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 40,
+    "keywords": [
+      "parkowanie",
+      "linia podłużna",
+      "przejazd",
+      "mniej niż 3 m",
+      "parkowanie",
+      "linia podłużna",
+      "przejazd krótszy niż 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie przy nieprzerwanej linii podłużnej, utrudniające przejazd krótszy niż 3 m, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zatrzymanie przy nieprzerwanej linii podłużnej, gdy nie jest utrzymany wolny przejazd o szerokości co najmniej 3 m (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "linia podłużna",
+      "przejazd",
+      "mniej niż 3 m",
+      "zatrzymanie",
+      "linia podłużna",
+      "przejazd krótszy niż 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie przy nieprzerwanej linii podłużnej, utrudniające przejazd krótszy niż 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie przy podwójnej linii, gdy nie jest utrzymany wolny przejazd o szerokości co najmniej 3 m (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 40,
+    "keywords": [
+      "parkowanie",
+      "linia podwójna",
+      "przejazd",
+      "mniej niż 3 m",
+      "parkowanie",
+      "linia podwójna",
+      "przejazd krótszy niż 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie przy podwójnej linii, utrudniające przejazd krótszy niż 3 m, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Zatrzymanie przy podwójnej linii, gdy nie jest utrzymany wolny przejazd o szerokości co najmniej 3 m (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "linia podwójna",
+      "przejazd",
+      "mniej niż 3 m",
+      "zatrzymanie",
+      "linia podwójna",
+      "przejazd krótszy niż 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie przy podwójnej linii, utrudniające przejazd krótszy niż 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na skrzyżowaniu (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 40,
+    "keywords": [
+      "parkowanie",
+      "skrzyżowanie",
+      "skrzyżowanie",
+      "parkowanie",
+      "skrzyżowanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na skrzyżowaniu, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zatrzymanie na skrzyżowaniu (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "skrzyżowanie",
+      "skrzyżowanie",
+      "zatrzymanie",
+      "skrzyżowanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie na skrzyżowaniu.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie mniej niż 5 m przed skrzyżowaniem od drogi poprzecznej (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parkowanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "5 m",
+      "parkowanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "mniej niż 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie mniej niż 5 m przed skrzyżowaniem od drogi poprzecznej.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zatrzymanie mniej niż 5 m przed skrzyżowaniem od drogi poprzecznej (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "zatrzymanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "5 m",
+      "zatrzymanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "mniej niż 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie mniej niż 5 m przed skrzyżowaniem od drogi poprzecznej.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie mniej niż 5 m po skrzyżowaniu od drogi poprzecznej (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 40,
+    "keywords": [
+      "parkowanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "5 m",
+      "parkowanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "mniej niż 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie mniej niż 5 m po skrzyżowaniu od drogi poprzecznej, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Zatrzymanie mniej niż 5 m po skrzyżowaniu od drogi poprzecznej (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "5 m",
+      "zatrzymanie",
+      "skrzyżowanie",
+      "droga poprzeczna",
+      "mniej niż 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie mniej niż 5 m po skrzyżowaniu od drogi poprzecznej.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie na przejściu dla pieszych (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 80,
+    "keywords": [
+      "parkowanie",
+      "przejście dla pieszych",
+      "parkowanie",
+      "przejście dla pieszych",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na przejściu dla pieszych, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zatrzymanie na przejściu dla pieszych (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "przejście dla pieszych",
+      "zatrzymanie",
+      "przejście dla pieszych",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie na przejściu dla pieszych.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie obok przejścia dla pieszych (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) do 60 minut",
+    "fine_chf": 80,
+    "keywords": [
+      "parkowanie",
+      "przejście dla pieszych",
+      "obok",
+      "parkowanie",
+      "przejście dla pieszych",
+      "obok"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie obok przejścia dla pieszych, do 60 minut.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Zatrzymanie obok przejścia dla pieszych (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "przejście dla pieszych",
+      "obok",
+      "zatrzymanie",
+      "przejście dla pieszych",
+      "obok"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie obok przejścia dla pieszych.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zatrzymanie na przejeździe kolejowym (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "przejazd kolejowy",
+      "zatrzymanie",
+      "przejazd kolejowy",
+      "przejazd kolejowy"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie na przejeździe kolejowym.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Zatrzymanie w przejściu podziemnym (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "przejazd podziemny",
+      "zatrzymanie",
+      "przejazd podziemny"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie w przejściu podziemnym.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie mniej niż 10 m przed znakiem przystanku transportu publicznego (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parkowanie",
+      "przystanek",
+      "transport publiczny",
+      "10 m",
+      "parkowanie",
+      "przystanek autobusowy",
+      "transport publiczny",
+      "mniej niż 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie mniej niż 10 m przed znakiem przystanku transportu publicznego.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Uciążliwe zatrzymanie w celu wsiadania lub wysiadania pasażerów mniej niż 10 m przed znakiem przystanku transportu publicznego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "zatrzymanie",
+      "przystanek",
+      "transport publiczny",
+      "10 m",
+      "przeszkoda",
+      "zatrzymanie",
+      "przystanek autobusowy",
+      "transport publiczny",
+      "mniej niż 10 m",
+      "przeszkoda"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Uciążliwe zatrzymanie w celu wsiadania lub wysiadania pasażerów mniej niż 10 m przed znakiem przystanku transportu publicznego.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Motorlu taşıtla otoyol ve karayollarında, motorlu taşıtın yakıt ya da elektrik enerjisi eksikliği nedeniyle acil şeritte ya da arızalı araçlar için park alanında durması.",
+    "fine_chf": 120,
+    "keywords": [
+      "otoyol",
+      "karayolu",
+      "acil şerit",
+      "yakıt sıkıntısı",
+      "durma",
+      "acil şerit",
+      "yakıtı bitmiş"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorlu taşıt"
+    ],
+    "conditions": null,
+    "notes": "Yakıt veya elektrik enerjisi eksikliği nedeniyle durma.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Yerleşim alanlarında güvenlik çizgisini geçmek veya üzerine sürmek.",
+    "fine_chf": 140,
+    "keywords": [
+      "güvenlik çizgisi",
+      "geçiş",
+      "yerleşim alanı",
+      "katı çizgi",
+      "yerleşim alanı"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanı içinde katı bir güvenlik çizgisini geçmek.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Yerleşim alanlarında kısıtlı bir alanı geçmek veya üzerine sürmek.",
+    "fine_chf": 140,
+    "keywords": [
+      "kısıtlı alan",
+      "geçiş",
+      "yerleşim alanı",
+      "kısıtlı alan",
+      "yerleşim alanı"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanı içinde işaretlenmiş bir kısıtlı alanı (Sperrfläche) geçmek.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Uyarı üçgeni taşıma eksikliği.",
+    "fine_chf": 40,
+    "keywords": [
+      "taşıma eksikliği",
+      "uyarı üçgeni",
+      "ekipman",
+      "ekipman",
+      "uyarı üçgeni"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Ağır motorlu taşıtlarda tekerlek takozu taşıma eksikliği.",
+    "fine_chf": 40,
+    "keywords": [
+      "taşıma eksikliği",
+      "tekerlek takozu",
+      "ağır araç",
+      "ekipman",
+      "tekerlek takozu",
+      "ağır araç"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Ağır motorlu taşıtlar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Otobüslerde yerleşik ilk yardım kitini taşıma eksikliği.",
+    "fine_chf": 40,
+    "keywords": [
+      "taşıma eksikliği",
+      "ilk yardım kiti",
+      "otobüs",
+      "otobüs",
+      "ilk yardım kiti",
+      "otobüs"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "otobüs"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Gerekli yangın söndürücü taşıma eksikliği.",
+    "fine_chf": 40,
+    "keywords": [
+      "taşıma eksikliği",
+      "yangın söndürücü",
+      "ADR",
+      "tehlikeli maddeler",
+      "ekipman",
+      "yangın söndürücü"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü",
+      "tehlikeli madde taşımacılığı"
+    ],
+    "conditions": null,
+    "notes": "Genellikle ticari veya tehlikeli madde taşımacılığı için geçerlidir.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Toplam ağırlığı 0,75 t'yi aşan römorklarda tekerlek takozu taşıma eksikliği.",
+    "fine_chf": 40,
+    "keywords": [
+      "taşıma eksikliği",
+      "tekerlek takozu",
+      "römork",
+      "toplam ağırlık",
+      "römork",
+      "tekerlek takozu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Römork > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Araç kontrol plakaları düzenlemelere uygun şekilde takılmadığında aracı kullanma veya park etme.",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakaları",
+      "plaka",
+      "montaj",
+      "park",
+      "plaka",
+      "yanlış takılmış"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Park edilmiş araç"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Arızalı bir lastikle motorlu taşıt kullanma.",
+    "fine_chf": 100,
+    "keywords": [
+      "motorlu taşıt",
+      "arızalı lastik",
+      "lastik",
+      "arızalı lastik",
+      "bakım",
+      "araç arızası"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorlu taşıt"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Arızalı bir lastikle römork taşıma.",
+    "fine_chf": 100,
+    "keywords": [
+      "römork",
+      "arızalı lastik",
+      "lastik",
+      "arızalı lastik",
+      "römork",
+      "bakım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Römork"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Çivili lastiklerle, hız plakası olmadan veya hatalı takılmış şekilde sürme.",
+    "fine_chf": 20,
+    "keywords": [
+      "çivili lastikler",
+      "hız plakası",
+      "kış lastikleri",
+      "çivili lastikler",
+      "hız plakası",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çivili lastik kullanırken gerekli olan hız etiketi/plakası eksik veya hatalı.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "İzin verilen dönem dışında çivili lastik kullanımı.",
+    "fine_chf": 60,
+    "keywords": [
+      "çivili lastikler",
+      "kullanım",
+      "izin verilen sürenin dışında",
+      "yasak",
+      "çivili lastikler",
+      "mevsimsel kural"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çivili lastiklerin yasal olarak izin verilen mevsim dışında kullanılması.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Çivili lastik kullanılmadığı halde hız plakası takılı olarak sürme.",
+    "fine_chf": 20,
+    "keywords": [
+      "çivili lastikler",
+      "hız plakası",
+      "yanlış ekipman",
+      "ekipman ihlali",
+      "hız plakası"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Araç çivili lastiklerle donatılmadığı halde çivili lastiklerde gerekli olan hız etiketini gösterme.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Yetkisiz akustik uyarı cihazı bulunan bir araç kullanımı.",
+    "fine_chf": 40,
+    "keywords": [
+      "akustik uyarı cihazı",
+      "korna",
+      "yetkisiz",
+      "sirene",
+      "korna",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": null,
+    "notes": "Onaylanmamış bir korna veya uyarı cihazı bulunan aracın kullanılması.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

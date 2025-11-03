@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Neispravno stanje gume po točku",
+    "fine_chf": 20,
+    "keywords": [
+      "guma",
+      "stanje",
+      "neispravno",
+      "VTS",
+      "točak",
+      "guma",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozilo"
+    ],
+    "conditions": "po točku",
+    "notes": "Odnosi se na stavku 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Ne nošenje sigurnosnih pojaseva od strane putnika",
+    "fine_chf": 60,
+    "keywords": [
+      "sigurnosni pojasevi",
+      "obaveza pojasa",
+      "putnik",
+      "putnik",
+      "sigurnosni pojas",
+      "putnik"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Putnik",
+      "Putnik"
+    ],
+    "conditions": null,
+    "notes": "Odeljak 800.1: Neupotreba sigurnosnih pojaseva od strane putnika.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Ne nošenje zaštitne kacige od strane putnika na motociklima, lakim, malim i trotočnim motornih vozila",
+    "fine_chf": 60,
+    "keywords": [
+      "kaciga",
+      "obaveza kacige",
+      "putnik",
+      "motocikl",
+      "kaciga",
+      "putnik"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Putnik",
+      "Motocikli"
+    ],
+    "conditions": null,
+    "notes": "Odeljak 800.2: Neupotreba kacige od strane putnika na motociklima/trotočnim vozilima.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Guranje vozila ili predmeta od strane putnika",
+    "fine_chf": 20,
+    "keywords": [
+      "guranje",
+      "vozilo",
+      "predmet",
+      "putnik",
+      "gurati",
+      "predmet",
+      "putnik"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Putnik"
+    ],
+    "conditions": null,
+    "notes": "Odeljak 801.1: Guranje vozila ili predmeta od strane putnika (verovatno zabranjeno ponašanje tokom kretanja/u saobraćaju).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Vlačenje vozila ili predmeta od strane putnika",
+    "fine_chf": 20,
+    "keywords": [
+      "vlačenje",
+      "vozilo",
+      "predmet",
+      "putnik",
+      "vlačiti",
+      "predmet",
+      "putnik"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Putnik"
+    ],
+    "conditions": null,
+    "notes": "Odeljak 801.2: Vlačenje vozila ili predmeta od strane putnika.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Vučanje vozila ili predmeta od strane putnika",
+    "fine_chf": 20,
+    "keywords": [
+      "vučenje",
+      "vozilo",
+      "predmet",
+      "putnik",
+      "vući",
+      "predmet",
+      "putnik"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Putnik"
+    ],
+    "conditions": null,
+    "notes": "Odeljak 801.3: Vučanje/povlačenje vozila ili predmeta od strane putnika.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Neupotreba trotoara",
+    "fine_chf": 10,
+    "keywords": [
+      "trotoar",
+      "pešački put",
+      "neupotreba",
+      "pešak",
+      "trotoar",
+      "pešak"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": null,
+    "notes": "Neupotreba trotoara kada je dostupan.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Neupotreba pešačkog prelaza, ako je udaljen manje od 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "pešački prelaz",
+      "zebra prelaz",
+      "neupotreba",
+      "50m",
+      "pešački prelaz"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": "ako je udaljen manje od 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Neupotreba nadvožnjaka, ako je udaljen manje od 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "nadvožnjak",
+      "pešački most",
+      "neupotreba",
+      "50m",
+      "pešački nadvožnjak"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": "ako je udaljen manje od 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Neupotreba podvožnjaka, ako je udaljen manje od 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "podvožnjak",
+      "pešački tunel",
+      "neupotreba",
+      "50m",
+      "pešački podvožnjak"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": "ako je udaljen manje od 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Nepridržavanje signala 'Zabranjeno pešacima' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "zabranjenje",
+      "pešak",
+      "signal",
+      "nepridržavanje",
+      "ograničenje",
+      "pešak",
+      "znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Nepridržavanje signala 'Pešački put' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "pešački put",
+      "signal",
+      "nepridržavanje",
+      "pešački put",
+      "znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pešak"
+    ],
+    "conditions": null,
+    "notes": "Nepoštovanje posebnog znaka za pešački put.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Nepridržavanje svetlosnog signala",
+    "fine_chf": 20,
+    "keywords": [
+      "svetlosni signal",
+      "pešak",
+      "signal",
+      "nepridržavanje",
+      "saobraćajno svetlo",
+      "pešak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pešak",
+      "Korisnik uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Prelazak crvenog svetla (kao pešak/korisnik uređaja za mobilnost).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Nepridržavanje 'naizmeničnog treptavog svetlosnog signala' (3.20) ili 'jednostavnog treptavog svetlosnog signala' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "treptavi svetlosni signal",
+      "naizmenični treptavi svetlo",
+      "signal",
+      "pruga",
+      "upozoravajuće svetlo",
+      "pruga"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pešak",
+      "Korisnik uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Ignorisanje treptavih upozoravajućih svetala (npr. na prugama).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Uđite na autoput",
+    "fine_chf": 20,
+    "keywords": [
+      "autoput",
+      "ulazak",
+      "pešak",
+      "zabranjeno",
+      "Autoput",
+      "pristup",
+      "zabranjeno"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pešak",
+      "Korisnik uređaja sličnih vozilu"
+    ],
+    "conditions": null,
+    "notes": "Uđite ili hodite po autoputu (što je generalno ograničeno na motorni saobraćaj).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

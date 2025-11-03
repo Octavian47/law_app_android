@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Stopping on the sidewalk in front of a pedestrian crossing next to a no‑stopping line",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Parking",
+      "Sidewalk",
+      "Pedestrian crossing",
+      "No stopping line",
+      "stopping",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the sidewalk next to a 'No Stopping' line before a pedestrian crossing.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parking on the sidewalk less than 5 m from a pedestrian crossing where no no‑stopping line is installed (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "Sidewalk",
+      "Pedestrian crossing",
+      "No stopping line",
+      "Distance",
+      "parking",
+      "sidewalk",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on the sidewalk less than 5m from a pedestrian crossing, where there's no 'No Stopping' line.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parking on the sidewalk less than 5 m from a pedestrian crossing where no no‑stopping line is installed",
+    "fine_chf": 80,
+    "keywords": [
+      "Parking",
+      "Sidewalk",
+      "Pedestrian crossing",
+      "No stopping line",
+      "Distance",
+      "parking",
+      "sidewalk",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Parking on the sidewalk less than 5m from a pedestrian crossing, where there's no 'No Stopping' line.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parking on a restricted area",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "Restricted area",
+      "Stopping",
+      "Restricted zone",
+      "parking",
+      "hatching",
+      "no parking area"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Parking on a hatched/marked restricted area.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Stopping on a restricted area",
+    "fine_chf": 80,
+    "keywords": [
+      "Parking",
+      "Restricted area",
+      "Stopping",
+      "Restricted zone",
+      "stopping",
+      "hatching",
+      "no stopping area"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a hatched/marked restricted area.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parking on a zigzag line",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "Zigzag line",
+      "Stopping",
+      "Waiting area",
+      "parking",
+      "zigzag line",
+      "loading zone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on a zigzag line (often for bus stops or loading zones).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Obstructing stopping on a zigzag line for the purpose of boarding and alighting passengers",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Zigzag line",
+      "Boarding",
+      "Alighting",
+      "Obstruction",
+      "stopping",
+      "zigzag line",
+      "obstructing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Obstructing stopping on a zigzag line for the purpose of picking up/dropping off people.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Stopping on a zigzag line for goods handling",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "Zigzag line",
+      "Goods handling",
+      "Delivery zone",
+      "stopping",
+      "zigzag line",
+      "loading goods"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a zigzag line for the purpose of loading/unloading goods.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parking of an unauthorized vehicle in a parking space reserved for mobility‑impaired persons",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "Mobility impaired",
+      "Parking space",
+      "Wheelchair",
+      "Unauthorized",
+      "parking",
+      "disabled",
+      "handicap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Unauthorized parking in a spot reserved for disabled persons.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Unauthorized use of the “Parking card for disabled persons”",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking card",
+      "Mobility impaired",
+      "Abuse",
+      "Unauthorized",
+      "Permit",
+      "parking card",
+      "disabled",
+      "misuse"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized use of the 'Parking permit for disabled persons'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parking on a no‑stopping line",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking",
+      "No stopping line",
+      "Prohibition",
+      "parking",
+      "no stopping line"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 60 minutes",
+    "notes": "Parking on a 'No Stopping' line.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Stopping on a no‑stopping line",
+    "fine_chf": 80,
+    "keywords": [
+      "Stopping",
+      "No stopping line",
+      "Prohibition",
+      "stopping",
+      "no stopping line"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a 'No Stopping' line.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parking on a main road outside built-up areas: up to 2 hours",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "outside built-up area",
+      "Roadside",
+      "parking",
+      "main road",
+      "outside built-up area"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Parking on a main road outside built-up areas, up to 2 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parking on a main road outside built-up areas: for more than 2 but not more than 4 hours",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "outside built-up area",
+      "Roadside",
+      "parking",
+      "main road",
+      "outside built-up area"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "more than 2 but not more than 4 hours",
+    "notes": "Parking on a main road outside built-up areas, for more than 2 but not more than 4 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parking on a main road outside built-up areas: for more than 4 but not more than 10 hours",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "outside built-up area",
+      "Roadside",
+      "parking",
+      "main road",
+      "outside built-up area"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "more than 4 but not more than 10 hours",
+    "notes": "Parking on a main road outside built-up areas, for more than 4 but not more than 10 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parking on a main road inside built-up areas when there is insufficient space for two motor vehicles to pass: up to 2 hours",
+    "fine_chf": 40,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "in town",
+      "Crossing",
+      "Obstruction",
+      "parking",
+      "main road",
+      "in town",
+      "passing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "up to 2 hours",
+    "notes": "Parking on a main road inside built-up areas, if there's not enough room for two motor vehicles to pass, up to 2 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parking on a main road inside built-up areas when there is insufficient space for two motor vehicles to pass: for more than 2 but not more than 4 hours",
+    "fine_chf": 60,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "in town",
+      "Crossing",
+      "Obstruction",
+      "parking",
+      "main road",
+      "in town",
+      "passing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "more than 2 but not more than 4 hours",
+    "notes": "Parking on a main road inside built-up areas, if there's not enough room for two motor vehicles to pass, for more than 2 but not more than 4 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parking on a main road inside built-up areas when there is insufficient space for two motor vehicles to pass: for more than 4 but not more than 10 hours",
+    "fine_chf": 100,
+    "keywords": [
+      "Parking",
+      "Main road",
+      "in town",
+      "Crossing",
+      "Obstruction",
+      "parking",
+      "main road",
+      "in town",
+      "passing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": "more than 4 but not more than 10 hours",
+    "notes": "Parking on a main road inside built-up areas, if there's not enough room for two motor vehicles to pass, for more than 4 but not more than 10 hours.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

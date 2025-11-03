@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Neinstalace zadní značkové desky",
+    "fine_chf": 20,
+    "keywords": [
+      "zadní značková deska",
+      "značková deska",
+      "VTS",
+      "vybavení",
+      "zadní značení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Týká se zadních značkových desek, obvykle pro specifická vozidla/náklady.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Vjezd motocyklu do provozu bez trvale připevněných reflexních odrazek",
+    "fine_chf": 60,
+    "keywords": [
+      "motocykl",
+      "reflektor",
+      "reflektor",
+      "VTS",
+      "vybavení",
+      "uvádění do provozu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Majitel",
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Vjezd motocyklu do provozu bez pevných reflexních odrazek.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Uvolnění řídícího zařízení",
+    "fine_chf": 20,
+    "keywords": [
+      "řídící zařízení",
+      "bez rukou",
+      "řídící zařízení",
+      "ovládání",
+      "kolo",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Uvolnění řídícího zařízení (např. jízda bez rukou). Platí pro motocykly a kola.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Nenosení ochranné helmy řidiči motocyklů",
+    "fine_chf": 30,
+    "keywords": [
+      "ochranná helma",
+      "helma",
+      "motocykl",
+      "helma",
+      "bezpečnostní vybavení",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič",
+      "Cestující"
+    ],
+    "conditions": null,
+    "notes": "Nenosení ochranné helmy na motorce.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zastavení na přechodu pro chodce při dopravní zácpě",
+    "fine_chf": 20,
+    "keywords": [
+      "přechod pro chodce",
+      "zebra přechod",
+      "přechod pro chodce",
+      "dopravní zácpa",
+      "zastavení"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavení na přechodu pro chodce během dopravní zácpy.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Zbytečný volnoběh motoru stacionárního motorového kola",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "volnoběh",
+      "zbytečný volnoběh",
+      "motorové kolo",
+      "moped",
+      "emise"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zbytečný volnoběh stacionárního motorového kola/mopedu.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jízda bez světel: na osvětlené silnici v noci",
+    "fine_chf": 40,
+    "keywords": [
+      "světlo",
+      "noční jízda",
+      "osvětlení",
+      "reflektor",
+      "osvětlená silnice"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "V noci, na osvětlené silnici.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jízda bez světel: na neosvětlené silnici v noci",
+    "fine_chf": 60,
+    "keywords": [
+      "světlo",
+      "noční jízda",
+      "neosvětlená silnice",
+      "reflektor",
+      "tma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "V noci, na neosvětlené silnici.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jízda bez světel: v osvětleném tunelu",
+    "fine_chf": 20,
+    "keywords": [
+      "světlo",
+      "tunel",
+      "reflektor",
+      "jízda v tunelu",
+      "osvětlení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "V osvětleném tunelu.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jízda bez světel: během dne",
+    "fine_chf": 20,
+    "keywords": [
+      "světlo",
+      "den",
+      "denní světlo",
+      "reflektor",
+      "den"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "Během dne (platí pro vozidla, kde jsou denní světla povinná).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Neoprávněná jízda po chodníku",
+    "fine_chf": 40,
+    "keywords": [
+      "chodník",
+      "chodník",
+      "nelegální jízda",
+      "kolo",
+      "použití silnice",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kolo",
+      "Moped",
+      "E-Scooter"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněná jízda po chodníku.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Obstrukční jízda po pěších podélných pruzích",
+    "fine_chf": 40,
+    "keywords": [
+      "chodec",
+      "podélný pruh",
+      "cesta",
+      "překážka",
+      "pěší cesta"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jízda po pěších podélných pruzích způsobující překážku chodcům.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Přenášení předmětů, které znemožňují signalizaci",
+    "fine_chf": 20,
+    "keywords": [
+      "zavazadla",
+      "náklad",
+      "signalizace",
+      "signalizace",
+      "přenášení předmětů",
+      "ruční signál"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Přenášení předmětů, které znemožňují signalizaci (ruční signály).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Umístění se před čekající frontu motorových vozidel",
+    "fine_chf": 20,
+    "keywords": [
+      "předjíždění",
+      "fronta",
+      "vozidlová fronta",
+      "rozdělení jízdního pruhu",
+      "vstup do fronty"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Umístění se před čekající frontu aut (obvykle přejetím mezi vozidly).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Předjíždění čekající fronty vozidel slalomovou jízdou",
+    "fine_chf": 20,
+    "keywords": [
+      "slalomová jízda",
+      "předjíždění",
+      "fronta",
+      "vozidlová fronta",
+      "předjíždění",
+      "kroucení"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Předjíždění čekající fronty aut pomocí cik-cak/slalomové jízdy.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakázaná souběžná jízda: více kol",
+    "fine_chf": 20,
+    "keywords": [
+      "souběžná jízda",
+      "kolo",
+      "souběžná jízda na kolech",
+      "kola"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jezdec kola"
+    ],
+    "conditions": null,
+    "notes": "Nelegální souběžná jízda: více kol.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakázaná souběžná jízda: více motorových kol",
+    "fine_chf": 20,
+    "keywords": [
+      "souběžná jízda",
+      "motorová kola",
+      "moped",
+      "E-Scooter",
+      "mopedy"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Jezdec mopedu"
+    ],
+    "conditions": null,
+    "notes": "Nelegální souběžná jízda: více motorových kol (Mofas/E-Scootery).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakázaná souběžná jízda: více elektrických rikš",
+    "fine_chf": 20,
+    "keywords": [
+      "souběžná jízda",
+      "elektrické rikše",
+      "e-rikša",
+      "souběžná"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič rikše"
+    ],
+    "conditions": null,
+    "notes": "Nelegální souběžná jízda: více elektrických rikš.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakázaná souběžná jízda: kombinace kol, motorových kol nebo elektrických rikš",
+    "fine_chf": 20,
+    "keywords": [
+      "souběžná jízda",
+      "smíšená kombinace",
+      "kolo",
+      "moped",
+      "rikša",
+      "souběžná"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Nelegální souběžná jízda: smíšené kombinace kol, mopedů nebo e-rikš.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Povolení si být odtahován",
+    "fine_chf": 20,
+    "keywords": [
+      "být odtahován",
+      "být odtahován",
+      "odtahování",
+      "SVG",
+      "bezpečnost",
+      "kolo",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Povolení si být tažen/odtahován (např. jiným vozidlem nebo osobou).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Povolení si být tažen",
+    "fine_chf": 20,
+    "keywords": [
+      "být tažen",
+      "být odtahován",
+      "odtahování",
+      "SVG",
+      "bezpečnost",
+      "kolo",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Povolení si být odtahován (podobně jako 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Povolení si být tlačen",
+    "fine_chf": 20,
+    "keywords": [
+      "být tlačen",
+      "být tlačen",
+      "bezpečnost",
+      "asistence",
+      "kolo",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Povolení si být tlačen.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Neoprávněné přepravování: osoba",
+    "fine_chf": 20,
+    "keywords": [
+      "přeprava",
+      "cestující",
+      "osoba",
+      "přeprava",
+      "neoprávněné",
+      "spolucestující"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněná přeprava osoby (např. přeprava pasažéra ve vozidle, které k tomu není určeno, nebo kde není povoleno).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Neoprávněná přeprava: dítě bez bezpečného dětského sedadla",
+    "fine_chf": 40,
+    "keywords": [
+      "dětské sedadlo",
+      "dětské sedadlo",
+      "dítě",
+      "bezpečnost",
+      "přeprava",
+      "kolo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kolo",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněná přeprava dítěte bez bezpečného dětského sedadla (kde je povinné).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

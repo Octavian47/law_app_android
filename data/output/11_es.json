@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Exceso de la velocidad máxima general, relacionada con el vehículo o señalizada, después de la deducción del dispositivo y la seguridad de medición establecida por ASTRA en autopistas",
+    "fine_chf": 20,
+    "keywords": [
+      "velocidad",
+      "exceso",
+      "autopista",
+      "seguridad de medición",
+      "exceso de velocidad",
+      "autopista",
+      "autopistas",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "por 1–5 km/h",
+    "notes": "Exceso de velocidad de 1-5 km/h después de la deducción de la tolerancia.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Exceso de la velocidad máxima general, relacionada con el vehículo o señalizada, después de la deducción del dispositivo y la seguridad de medición establecida por ASTRA en autopistas",
+    "fine_chf": 60,
+    "keywords": [
+      "velocidad",
+      "exceso",
+      "autopista",
+      "seguridad de medición",
+      "exceso de velocidad",
+      "autopista",
+      "autopistas",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "por 6–10 km/h",
+    "notes": "Exceso de velocidad de 6-10 km/h después de la deducción de la tolerancia.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Exceso de la velocidad máxima general, relacionada con el vehículo o señalizada, después de la deducción del dispositivo y la seguridad de medición establecida por ASTRA en autopistas",
+    "fine_chf": 120,
+    "keywords": [
+      "velocidad",
+      "exceso",
+      "autopista",
+      "seguridad de medición",
+      "exceso de velocidad",
+      "autopista",
+      "autopistas",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "por 11–15 km/h",
+    "notes": "Exceso de velocidad de 11-15 km/h después de la deducción de la tolerancia.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Exceso de la velocidad máxima general, relacionada con el vehículo o señalizada, después de la deducción del dispositivo y la seguridad de medición establecida por ASTRA en autopistas",
+    "fine_chf": 180,
+    "keywords": [
+      "velocidad",
+      "exceso",
+      "autopista",
+      "seguridad de medición",
+      "exceso de velocidad",
+      "autopista",
+      "autopistas",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "por 16–20 km/h",
+    "notes": "Exceso de velocidad de 16-20 km/h después de la deducción de la tolerancia.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Exceso de la velocidad máxima general, relacionada con el vehículo o señalizada, después de la deducción del dispositivo y la seguridad de medición establecida por ASTRA en autopistas",
+    "fine_chf": 260,
+    "keywords": [
+      "velocidad",
+      "exceso",
+      "autopista",
+      "seguridad de medición",
+      "exceso de velocidad",
+      "autopista",
+      "autopistas",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "por 21–25 km/h",
+    "notes": "Exceso de velocidad de 21-25 km/h después de la deducción de la tolerancia.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición general de tráfico en ambas direcciones'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición de tráfico",
+      "ambas direcciones",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a todos los vehículos en ambas direcciones'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "No observar la señal reguladora 'Entrada prohibida'",
+    "fine_chf": 100,
+    "keywords": [
+      "entrada prohibida",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso",
+      "señal de carretera",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Entrada prohibida'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición para vehículos motorizados'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición",
+      "vehículo motorizado",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso a vehículos motorizados",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo motorizado"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a vehículos motorizados'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición para motocicletas'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición",
+      "motocicletas",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso a motocicletas",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motociclista"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a motocicletas'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición para camiones'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición",
+      "camiones",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso a camiones",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de camión"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a camiones'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición para autocares'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición",
+      "autocares",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso a autobuses",
+      "autocares",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de autobús"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a autocares/autobuses'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "No observar la señal reguladora 'Prohibición para remolques'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibición",
+      "remolques",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido el paso a remolques",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo con remolque"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido el paso a remolques'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "No observar la señal reguladora 'Dirección derecha'",
+    "fine_chf": 100,
+    "keywords": [
+      "dirección derecha",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "dirección derecha",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Dirección derecha'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "No observar la señal reguladora 'Dirección izquierda'",
+    "fine_chf": 100,
+    "keywords": [
+      "dirección izquierda",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "dirección izquierda",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Dirección izquierda'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "No observar la señal reguladora 'Pasar obstáculo a la derecha'",
+    "fine_chf": 100,
+    "keywords": [
+      "pasar obstáculo",
+      "derecha",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "pasar a la derecha",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Pasar obstáculo a la derecha'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "No observar la señal reguladora 'Pasar obstáculo a la izquierda'",
+    "fine_chf": 100,
+    "keywords": [
+      "pasar obstáculo",
+      "izquierda",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "pasar a la izquierda",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Pasar obstáculo a la izquierda'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "No observar la señal reguladora 'Continuar recto'",
+    "fine_chf": 100,
+    "keywords": [
+      "continuar recto",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "recto",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Continuar recto' (varias formas 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "No observar la señal reguladora 'Giro a la derecha'",
+    "fine_chf": 100,
+    "keywords": [
+      "giro a la derecha",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "giro a la derecha",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Giro a la derecha' (varias formas 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "No observar la señal reguladora 'Giro a la izquierda'",
+    "fine_chf": 100,
+    "keywords": [
+      "giro a la izquierda",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "giro a la izquierda",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Giro a la izquierda' (varias formas 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "No observar la señal reguladora 'Rotonda'",
+    "fine_chf": 100,
+    "keywords": [
+      "rotonda",
+      "rotonda",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "rotonda",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Rotonda'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "No observar la señal reguladora 'Prohibido girar a la derecha'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibido girar a la derecha",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido girar a la derecha",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido girar a la derecha'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "No observar la señal reguladora 'Prohibido girar a la izquierda'",
+    "fine_chf": 100,
+    "keywords": [
+      "prohibido girar a la izquierda",
+      "señal reguladora",
+      "incumplimiento de la observancia",
+      "prohibido girar a la izquierda",
+      "señal de carretera",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorando la señal 'Prohibido girar a la izquierda'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

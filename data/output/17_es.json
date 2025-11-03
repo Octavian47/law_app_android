@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Conducción sin la(s) placa(s) de control requerida(s) excepto placas de distribuidor (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "placa de control",
+      "placa de matrícula",
+      "placa de matrícula",
+      "conducción",
+      "faltante",
+      "conductor"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Conducción sin las placas de matrícula requeridas (excluyendo placas comerciales).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Conducción sin señal de velocidad máxima (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "velocidad máxima",
+      "señal",
+      "señal de velocidad máxima",
+      "faltante",
+      "conducción"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Conducción de un vehículo que requiere pero carece de la señal de velocidad obligatoria.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Conducción sin placa de marcaje trasera (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "placa de marcaje trasera",
+      "placa de marcaje trasera",
+      "faltante",
+      "conducción"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor"
+    ],
+    "conditions": null,
+    "notes": "Conducción de un vehículo que requiere pero carece de la placa de marcaje trasera obligatoria (p. ej., vehículos lentos).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Operar una motocicleta sin reflectores permanentemente fijados (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocicleta",
+      "reflector",
+      "reflector",
+      "motocicleta",
+      "faltante"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conductor (motocicleta)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Realizar un transporte de mercancías peligrosas con un componente de equipo faltante, incompleto o no conforme (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "mercancías peligrosas",
+      "ADR",
+      "mercancías peligrosas",
+      "equipo",
+      "conductor profesional",
+      "faltante"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conductor (transporte de mercancías peligrosas)"
+    ],
+    "conditions": null,
+    "notes": "Equipo faltante, incompleto o no conforme durante el transporte de mercancías peligrosas.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Falta de informar o de informar a tiempo los hechos que requieren un cambio o sustitución de un permiso o autorización (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "informar",
+      "permiso",
+      "autorización",
+      "cambio",
+      "notificación",
+      "trámites",
+      "propietario del vehículo"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta del propietario/titular de informar cambios que requieren la modificación o sustitución de documentos.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Superar el plazo prescrito para el servicio obligatorio de emisiones: hasta 1 mes",
+    "fine_chf": 40,
+    "keywords": [
+      "servicio de emisiones",
+      "servicio de emisiones",
+      "vencido",
+      "plazo",
+      "mantenimiento",
+      "propietario del vehículo"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": "hasta 1 mes",
+    "notes": "Servicio obligatorio de emisiones vencido hasta 1 mes.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Superar el plazo prescrito para el servicio obligatorio de emisiones: más de 1 mes pero no más de 3 meses",
+    "fine_chf": 100,
+    "keywords": [
+      "servicio de emisiones",
+      "servicio de emisiones",
+      "vencido",
+      "plazo",
+      "mantenimiento",
+      "propietario del vehículo"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": "más de 1 mes pero no más de 3 meses",
+    "notes": "Servicio obligatorio de emisiones vencido entre 1 y 3 meses.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Superar el plazo prescrito para el servicio obligatorio de emisiones: más de 3 pero no más de 6 meses",
+    "fine_chf": 200,
+    "keywords": [
+      "servicio de emisiones",
+      "servicio de emisiones",
+      "vencido",
+      "plazo",
+      "mantenimiento",
+      "propietario del vehículo"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": "más de 3 pero no más de 6 meses",
+    "notes": "Servicio obligatorio de emisiones vencido entre 3 y 6 meses.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Poner un vehículo a motor en circulación con un neumático defectuoso (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "neumático",
+      "defectuoso",
+      "neumático",
+      "defectuoso",
+      "puesta en circulación",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Propietario que permite que un vehículo a motor con neumáticos defectuosos sea puesto en circulación.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Poner un remolque en circulación con un neumático defectuoso (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "neumático",
+      "defectuoso",
+      "remolque",
+      "remolque",
+      "puesta en circulación",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Propietario que permite que un remolque con neumáticos defectuosos sea puesto en circulación.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Falta de colocar la señal de velocidad al usar un vehículo con neumáticos con clavos (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "señal de velocidad",
+      "neumáticos con clavos",
+      "neumáticos con clavos",
+      "señal de velocidad",
+      "faltante",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Propietario que no coloca la señal de velocidad requerida cuando se usan neumáticos con clavos.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Instalación incorrecta de la señal de velocidad al usar un vehículo con neumáticos con clavos (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "señal de velocidad",
+      "neumáticos con clavos",
+      "neumáticos con clavos",
+      "señal de velocidad",
+      "instalación",
+      "no conforme"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Colocación no conforme de la señal de velocidad cuando se usan neumáticos con clavos.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Falta de retirar la señal de velocidad aunque no se usen neumáticos con clavos (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "señal de velocidad",
+      "neumáticos con clavos",
+      "señal de velocidad",
+      "remoción",
+      "remoción"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Propietario que no retira la señal de velocidad cuando ya no se usan neumáticos con clavos.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Falta de colocar la(s) placa(s) de control requerida(s) excepto placas de distribuidor (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "placa de control",
+      "placa de matrícula",
+      "placa de matrícula",
+      "instalación",
+      "faltante",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta del propietario de colocar las placas de matrícula requeridas (excluyendo placas comerciales).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Instalación incorrecta de las placas de control (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "placa de control",
+      "placa de matrícula",
+      "placa de matrícula",
+      "instalación",
+      "no conforme",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Método no conforme de colocar las placas de matrícula.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Falta de colocar la señal de velocidad máxima (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "velocidad máxima",
+      "señal",
+      "señal de velocidad máxima",
+      "instalación",
+      "faltante",
+      "propietario del vehículo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Propietario del vehículo"
+    ],
+    "conditions": null,
+    "notes": "Falta del propietario de colocar la señal de velocidad obligatoria.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

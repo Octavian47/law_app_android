@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Parkolóhely",
+      "Időtúllépés",
+      "Közlekedési jelzés",
+      "Parkolási idő",
+      "parkolás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "2 és 4 óra között",
+    "notes": "A 254.b bírság kiterjesztése olyan esetben, amikor egy járművet a jelzésekkel jelölt parkolóhelyen vagy egy adott járműkategóriára fenntartott parkolóhelyen parkolnak, és meghaladják a megengedett időt.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Parkolóhely",
+      "Időtúllépés",
+      "Közlekedési jelzés",
+      "Parkolási idő",
+      "parkolás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "4 és 10 óra között",
+    "notes": "A 254.c bírság kiterjesztése olyan esetben, amikor egy járművet a jelzésekkel jelölt parkolóhelyen vagy egy adott járműkategóriára fenntartott parkolóhelyen parkolnak, és meghaladják a megengedett időt.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkolás a tiltott parkolási vonalon\\na. legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási vonal",
+      "Időtúllépés",
+      "sárga vonal",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Parkolás a tiltott parkolási vonalon (általában sárga) legfeljebb 2 óráig.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási vonal",
+      "Időtúllépés",
+      "sárga vonal",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "2 és 4 óra között",
+    "notes": "A 255.b bírság kiterjesztése a tiltott parkolási vonalon történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási vonal",
+      "Időtúllépés",
+      "sárga vonal",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "4 és 10 óra között",
+    "notes": "A 255.c bírság kiterjesztése a tiltott parkolási vonalon történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkolás a tiltott parkolási zónában\\na. legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási zóna",
+      "Időtúllépés",
+      "tiltott parkolási zóna",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Parkolás egy tiltott parkolási területen (általában sárga keresztmintával vagy hasonlóval jelölt) legfeljebb 2 óráig.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási zóna",
+      "Időtúllépés",
+      "tiltott parkolási zóna",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "2 és 4 óra között",
+    "notes": "A 256.b bírság kiterjesztése a tiltott parkolási területen történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Tiltott parkolási zóna",
+      "Időtúllépés",
+      "tiltott parkolási zóna",
+      "parkolási tilalom"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "4 és 10 óra között",
+    "notes": "A 256.c bírság kiterjesztése a tiltott parkolási területen történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Zavaró parkolás kerékpárúton olyan járművel, amely ott nem megengedett (2.60; Art. 37 Abs. 2 és 43 Abs. 2 SVG) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Kerékpárút",
+      "Zavarás",
+      "Jármű",
+      "Kerékpár",
+      "Kerékpárút",
+      "zavarás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Zavaró parkolás kerékpárúton olyan járművel, amely ott nem megengedett, legfeljebb 60 percig.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Zavaró megállás kerékpárúton olyan járművel, amely ott nem megengedett (2.60; Art. 37 Abs. 2 és 43 Abs. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Kerékpárút",
+      "Zavarás",
+      "Jármű",
+      "Kerékpár",
+      "Kerékpárút",
+      "zavarás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": null,
+    "notes": "Zavaró megállás kerékpárúton olyan járművel, amely ott nem megengedett.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Zavaró parkolás gyalogosúton olyan járművel, amely ott nem megengedett (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Gyalogos út",
+      "Zavarás",
+      "Jármű",
+      "gyalogos út",
+      "zavarás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Zavaró parkolás gyalogosúton olyan járművel, amely ott nem megengedett, legfeljebb 60 percig.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Zavaró megállás gyalogosúton olyan járművel, amely ott nem megengedett (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Gyalogos út",
+      "Zavarás",
+      "Jármű",
+      "gyalogos út",
+      "zavarás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": null,
+    "notes": "Zavaró megállás gyalogosúton olyan járművel, amely ott nem megengedett.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkolás a gyalogos zónában jelöletlen helyeken\\na. legfeljebb 2 óra",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkolás",
+      "Gyalogos zóna",
+      "Időtúllépés",
+      "gyalogos zóna",
+      "jelöletlen hely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "legfeljebb 2 óra",
+    "notes": "Parkolás a gyalogos zónában jelöletlen helyen legfeljebb 2 óráig.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "több mint 2, de legfeljebb 4 óra",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkolás",
+      "Gyalogos zóna",
+      "Időtúllépés",
+      "gyalogos zóna",
+      "jelöletlen hely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "2 és 4 óra között",
+    "notes": "A 259.b bírság kiterjesztése a gyalogos zónában jelöletlen helyen történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "több mint 4, de legfeljebb 10 óra",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkolás",
+      "Gyalogos zóna",
+      "Időtúllépés",
+      "gyalogos zóna",
+      "jelöletlen hely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Jármű"
+    ],
+    "conditions": "4 és 10 óra között",
+    "notes": "A 259.c bírság kiterjesztése a gyalogos zónában jelöletlen helyen történő parkolás esetén.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "A megengedett súly túllépése a Szövetségi Közúti Hivatal (ASTRA) által meghatározott eszköz és mérési bizonytalanság levonása után\\na. legfeljebb 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Súly",
+      "Túllépés",
+      "Megengedett súly",
+      "ASTRA",
+      "Motor jármű",
+      "túlsúly",
+      "teher"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motor járművezető"
+    ],
+    "conditions": "legfeljebb 100 kg túlsúly",
+    "notes": "A motor járművek megengedett súlykorlátjának túllépése, a tűrések és mérési bizonytalanság levonása után, legfeljebb 100 kg-mal.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Mancata installazione della targa di marcatura posteriore",
+    "fine_chf": 20,
+    "keywords": [
+      "targa di marcatura posteriore",
+      "targa di marcatura",
+      "VTS",
+      "attrezzatura",
+      "marcatura posteriore"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Riguarda le targhe di marcatura posteriore, solitamente per veicoli/carichi specifici.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Immissione di una motocicletta in circolazione senza riflettori fissati permanentemente",
+    "fine_chf": 60,
+    "keywords": [
+      "motocicletta",
+      "riflettore",
+      "riflettore",
+      "VTS",
+      "attrezzatura",
+      "messa in servizio"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Proprietario",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Immissione di una motocicletta in circolazione senza riflettori fissi.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Rilascio del dispositivo di sterzo",
+    "fine_chf": 20,
+    "keywords": [
+      "dispositivo di sterzo",
+      "mani libere",
+      "dispositivo di sterzo",
+      "controllo",
+      "bicicletta",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Rilascio del dispositivo di sterzo (ad es., guida a mani libere). Si applica a motociclette e biciclette.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Mancata indossatura di casco protettivo da parte di persone su motociclette",
+    "fine_chf": 30,
+    "keywords": [
+      "casco protettivo",
+      "casco",
+      "motocicletta",
+      "casco",
+      "attrezzatura di sicurezza",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente",
+      "Passeggero"
+    ],
+    "conditions": null,
+    "notes": "Mancata indossatura di casco protettivo su una motocicletta.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Fermata sull'attraversamento pedonale quando il traffico è congestionato",
+    "fine_chf": 20,
+    "keywords": [
+      "attraversamento pedonale",
+      "attraversamento zebra",
+      "attraversamento pedonale",
+      "ingorgo",
+      "fermata"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Fermata su un attraversamento pedonale durante la congestione del traffico.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Corsa al minimo non necessaria del motore di una bicicletta motorizzata ferma",
+    "fine_chf": 20,
+    "keywords": [
+      "motore",
+      "a regime minimo",
+      "corsa al minimo non necessaria",
+      "bicicletta motorizzata",
+      "ciclomotore",
+      "emissione"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Corsa al minimo non necessaria di una bicicletta motorizzata/ciclomotore ferma.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci: su una strada illuminata di notte",
+    "fine_chf": 40,
+    "keywords": [
+      "luce",
+      "guida notturna",
+      "illuminazione",
+      "faro",
+      "strada illuminata"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "Di notte, su una strada illuminata.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci: su una strada non illuminata di notte",
+    "fine_chf": 60,
+    "keywords": [
+      "luce",
+      "guida notturna",
+      "strada non illuminata",
+      "faro",
+      "oscurità"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "Di notte, su una strada non illuminata.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci: in un tunnel illuminato",
+    "fine_chf": 20,
+    "keywords": [
+      "luce",
+      "Tunnel",
+      "faro",
+      "guida in tunnel",
+      "illuminazione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "In un tunnel illuminato.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Guida senza luci: durante il giorno",
+    "fine_chf": 20,
+    "keywords": [
+      "luce",
+      "diurno",
+      "luce diurne",
+      "faro",
+      "giorno"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "Durante il giorno (si applica ai veicoli dove le luci diurne sono obbligatorie).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Guida non autorizzata sul marciapiede",
+    "fine_chf": 40,
+    "keywords": [
+      "marciapiede",
+      "marciapiede",
+      "guida illegale",
+      "bicicletta",
+      "uso della strada",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bicicletta",
+      "Ciclomotore",
+      "Monopattino elettrico"
+    ],
+    "conditions": null,
+    "notes": "Guida non autorizzata sul marciapiede.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Guida ostacolante su strisce longitudinali pedonali",
+    "fine_chf": 40,
+    "keywords": [
+      "pedone",
+      "striscia longitudinale",
+      "sentiero",
+      "ostacolo",
+      "sentiero pedonale"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Guida su strisce longitudinali pedonali in modo da ostacolare i pedoni.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Trasporto di oggetti che rendono impossibile la segnalazione",
+    "fine_chf": 20,
+    "keywords": [
+      "bagaglio",
+      "carico",
+      "segnalazione",
+      "segnalazione",
+      "oggetti di trasporto",
+      "segnale manuale"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Trasporto di oggetti che rendono impossibile la segnalazione (segnali manuali).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Posizionarsi davanti a una coda di veicoli in attesa",
+    "fine_chf": 20,
+    "keywords": [
+      "sorpasso",
+      "coda",
+      "coda di veicoli",
+      "splitting di corsia",
+      "tagliare la fila"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Posizionarsi davanti a una coda di auto in attesa (solitamente attraversando la coda).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Sorpassare una coda di veicoli in attesa con guida a slalom",
+    "fine_chf": 20,
+    "keywords": [
+      "guida a slalom",
+      "sorpasso",
+      "coda",
+      "coda di veicoli",
+      "sorpasso",
+      "zigzag"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Sorpassare una coda di auto in attesa zigzagando/guida a slalom.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Guida fianco a fianco proibita: più biciclette",
+    "fine_chf": 20,
+    "keywords": [
+      "guida fianco a fianco",
+      "bicicletta",
+      "ciclismo fianco a fianco",
+      "biciclette"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Guida illegale fianco a fianco: più biciclette.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Guida fianco a fianco proibita: più biciclette motorizzate",
+    "fine_chf": 20,
+    "keywords": [
+      "guida fianco a fianco",
+      "biciclette motorizzate",
+      "ciclomotore",
+      "Monopattino elettrico",
+      "ciclomotori"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Conducente di ciclomotore"
+    ],
+    "conditions": null,
+    "notes": "Guida illegale fianco a fianco: più biciclette motorizzate (Mofas/Monopattini elettrici).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Guida fianco a fianco proibita: più rickshaw elettrici",
+    "fine_chf": 20,
+    "keywords": [
+      "guida fianco a fianco",
+      "rickshaw elettrici",
+      "rickshaw elettrico",
+      "fianco a fianco"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di rickshaw"
+    ],
+    "conditions": null,
+    "notes": "Guida illegale fianco a fianco: più rickshaw elettrici.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Guida fianco a fianco proibita: combinazioni di biciclette, biciclette motorizzate o rickshaw elettrici",
+    "fine_chf": 20,
+    "keywords": [
+      "guida fianco a fianco",
+      "combinazione mista",
+      "bicicletta",
+      "ciclomotore",
+      "rickshaw",
+      "fianco a fianco"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Guida illegale fianco a fianco: combinazioni miste di biciclette, ciclomotori o rickshaw elettrici.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Consentire di essere trainato",
+    "fine_chf": 20,
+    "keywords": [
+      "essere trainato",
+      "essere trainato",
+      "traino",
+      "SVG",
+      "sicurezza",
+      "bicicletta",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Consentire di essere tirato/trainato (ad es., da un altro veicolo o persona).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Consentire di essere tirato",
+    "fine_chf": 20,
+    "keywords": [
+      "essere tirato",
+      "essere trainato",
+      "traino",
+      "SVG",
+      "sicurezza",
+      "bicicletta",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Consentire di essere trainato (simile a 608.1).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Consentire di essere spinto",
+    "fine_chf": 20,
+    "keywords": [
+      "essere spinto",
+      "essere spinto",
+      "sicurezza",
+      "assistenza",
+      "bicicletta",
+      "motocicletta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Consentire di essere spinto.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Trasporto non autorizzato: una persona",
+    "fine_chf": 20,
+    "keywords": [
+      "trasporto",
+      "passeggero",
+      "persona",
+      "trasporto",
+      "non autorizzato",
+      "co-passeggero"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Trasporto non autorizzato di una persona (ad es., trasporto di un passeggero su un veicolo non progettato per ciò, o dove non è consentito).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Trasporto non autorizzato: un bambino senza seggiolino per bambini sicuro",
+    "fine_chf": 40,
+    "keywords": [
+      "seggiolino per bambini",
+      "seggiolino per bambini",
+      "bambino",
+      "sicurezza",
+      "trasporto",
+      "bicicletta"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Bicicletta",
+      "Motocicletta"
+    ],
+    "conditions": null,
+    "notes": "Trasporto non autorizzato di un bambino senza un seggiolino per bambini sicuro (dove richiesto).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme, të lidhur me mjetin ose të shënuar me tabelë pas zbritjes së pajisjes dhe sigurisë së matjes të vendosur nga ASTRA në autostradë",
+    "fine_chf": 20,
+    "keywords": [
+      "shpejtësi",
+      "kalim",
+      "autostradë",
+      "siguri matjeje",
+      "shkelje e shpejtësisë",
+      "autostradë",
+      "autostradat",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "me 1–5 km/h",
+    "notes": "Shkelje e shpejtësisë me 1-5 km/h pas zbritjes së tolerancës.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme, të lidhur me mjetin ose të shënuar me tabelë pas zbritjes së pajisjes dhe sigurisë së matjes të vendosur nga ASTRA në autostradë",
+    "fine_chf": 60,
+    "keywords": [
+      "shpejtësi",
+      "kalim",
+      "autostradë",
+      "siguri matjeje",
+      "shkelje e shpejtësisë",
+      "autostradë",
+      "autostradat",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "me 6–10 km/h",
+    "notes": "Shkelje e shpejtësisë me 6-10 km/h pas zbritjes së tolerancës.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme, të lidhur me mjetin ose të shënuar me tabelë pas zbritjes së pajisjes dhe sigurisë së matjes të vendosur nga ASTRA në autostradë",
+    "fine_chf": 120,
+    "keywords": [
+      "shpejtësi",
+      "kalim",
+      "autostradë",
+      "siguri matjeje",
+      "shkelje e shpejtësisë",
+      "autostradë",
+      "autostradat",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "me 11–15 km/h",
+    "notes": "Shkelje e shpejtësisë me 11-15 km/h pas zbritjes së tolerancës.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme, të lidhur me mjetin ose të shënuar me tabelë pas zbritjes së pajisjes dhe sigurisë së matjes të vendosur nga ASTRA në autostradë",
+    "fine_chf": 180,
+    "keywords": [
+      "shpejtësi",
+      "kalim",
+      "autostradë",
+      "siguri matjeje",
+      "shkelje e shpejtësisë",
+      "autostradë",
+      "autostradat",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "me 16–20 km/h",
+    "notes": "Shkelje e shpejtësisë me 16-20 km/h pas zbritjes së tolerancës.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Kalimi i shpejtësisë maksimale të përgjithshme, të lidhur me mjetin ose të shënuar me tabelë pas zbritjes së pajisjes dhe sigurisë së matjes të vendosur nga ASTRA në autostradë",
+    "fine_chf": 260,
+    "keywords": [
+      "shpejtësi",
+      "kalim",
+      "autostradë",
+      "siguri matjeje",
+      "shkelje e shpejtësisë",
+      "autostradë",
+      "autostradat",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": "me 21–25 km/h",
+    "notes": "Shkelje e shpejtësisë me 21-25 km/h pas zbritjes së tolerancës.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje e përgjithshme e trafikut në të dyja drejtimet' (2.01; Art. 27 paragrafi 1 SVG dhe Art. 18 paragrafi 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje e trafikut",
+      "të dyja drejtimet",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet hyrja",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet hyrja për të gjitha mjetet në të dyja drejtimet'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Hyrja e ndaluar' (2.02; Art. 27 paragrafi 1 SVG, Art. 37 paragrafi 3 VRV dhe Art. 18 paragrafi 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "hyrja e ndaluar",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet hyrja",
+      "shenja rrugore",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet hyrja'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje për automjete' (2.03; Art. 27 paragrafi 1 SVG dhe Art. 19 paragrafi 1 shkronja a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje",
+      "automjet",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet automjete",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i automjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet automjete'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje për motoçikleta' (2.04; Art. 27 paragrafi 1 SVG dhe Art. 19 paragrafi 1 shkronja b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje",
+      "motoçikleta",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet motoçikleta",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motoçiklist"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet motoçikleta'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje për kamionë' (2.07; Art. 27 paragrafi 1 SVG dhe Art. 19 paragrafi 1 shkronja d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje",
+      "kamionë",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet kamionë",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i kamionit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet kamionë'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje për autobusë' (2.08; Art. 27 paragrafi 1 SVG dhe Art. 19 paragrafi 1 shkronja e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje",
+      "autobusë",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet autobusë",
+      "autobusë",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i autobusit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet autobusë'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Ndërprerje për trailerë' (2.09; Art. 27 paragrafi 1 SVG dhe Art. 19 paragrafi 1 shkronja f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ndërprerje",
+      "trailerë",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet trailerë",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit me trailer"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet trailerë'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Drejtimi djathtas' (2.32; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 1 shkronja a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "drejtimi djathtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "drejtimi djathtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Drejtimi djathtas'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Drejtimi majtas' (2.33; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 1 shkronja b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "drejtimi majtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "drejtimi majtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Drejtimi majtas'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Kaloni pengesën në të djathtë' (2.34; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 1 shkronja c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kaloni pengesën",
+      "djathtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "kaloni në të djathtë",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Kaloni pengesën në të djathtë'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Kaloni pengesën në të majtë' (2.35; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 1 shkronja d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kaloni pengesën",
+      "majtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "kaloni në të majtë",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Kaloni pengesën në të majtë'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Vazhdoni drejt përpara' (2.37, 2.39, 2.40, 2.41; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 1 shkronja i dhe 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "vazhdoni drejt përpara",
+      "shenja rregullatore",
+      "mosrespektim",
+      "drejt përpara",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Vazhdoni drejt përpara' (forma të ndryshme 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Kthehuni djathtas' (2.37, 2.39, 2.40, 2.41; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 2 dhe 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kthehuni djathtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "kthehuni djathtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Kthehuni djathtas' (forma të ndryshme 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Kthehuni majtas' (2.38, 2.39, 2.41; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 2 dhe 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kthehuni majtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "kthehuni majtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Kthehuni majtas' (forma të ndryshme 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Rrondis' (2.41.1; Art. 27 paragrafi 1 SVG dhe Art. 24 paragrafi 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "rrondis",
+      "rrondis",
+      "shenja rregullatore",
+      "mosrespektim",
+      "rrondis",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Rrondis'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Nuk lejohet kthim djathtas' (2.42; Art. 27 paragrafi 1 SVG dhe Art. 25 paragrafi 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "nuk lejohet kthim djathtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet kthim djathtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet kthim djathtas'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Mosrespektimi i shenjës rregullatore 'Nuk lejohet kthim majtas' (2.43; Art. 27 paragrafi 1 SVG dhe Art. 25 paragrafi 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "nuk lejohet kthim majtas",
+      "shenja rregullatore",
+      "mosrespektim",
+      "nuk lejohet kthim majtas",
+      "shenja rrugore",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i shenjës 'Nuk lejohet kthim majtas'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

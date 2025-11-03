@@ -1,0 +1,554 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej, vozidlom podmienenej alebo vyznačenej maximálnej rýchlosti po odpočítaní zariadenia a meracej bezpečnosti nastavených spoločnosťou ASTRA na diaľniciach",
+    "fine_chf": 20,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "diaľnica",
+      "meracia bezpečnosť",
+      "prekročenie rýchlosti",
+      "diaľnice",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "o 1–5 km/h",
+    "notes": "Prekročenie rýchlosti o 1-5 km/h po odpočítaní tolerancie.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej, vozidlom podmienenej alebo vyznačenej maximálnej rýchlosti po odpočítaní zariadenia a meracej bezpečnosti nastavených spoločnosťou ASTRA na diaľniciach",
+    "fine_chf": 60,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "diaľnica",
+      "meracia bezpečnosť",
+      "prekročenie rýchlosti",
+      "diaľnice",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "o 6–10 km/h",
+    "notes": "Prekročenie rýchlosti o 6-10 km/h po odpočítaní tolerancie.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej, vozidlom podmienenej alebo vyznačenej maximálnej rýchlosti po odpočítaní zariadenia a meracej bezpečnosti nastavených spoločnosťou ASTRA na diaľniciach",
+    "fine_chf": 120,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "diaľnica",
+      "meracia bezpečnosť",
+      "prekročenie rýchlosti",
+      "diaľnice",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "o 11–15 km/h",
+    "notes": "Prekročenie rýchlosti o 11-15 km/h po odpočítaní tolerancie.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej, vozidlom podmienenej alebo vyznačenej maximálnej rýchlosti po odpočítaní zariadenia a meracej bezpečnosti nastavených spoločnosťou ASTRA na diaľniciach",
+    "fine_chf": 180,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "diaľnica",
+      "meracia bezpečnosť",
+      "prekročenie rýchlosti",
+      "diaľnice",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "o 16–20 km/h",
+    "notes": "Prekročenie rýchlosti o 16-20 km/h po odpočítaní tolerancie.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.d."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej, vozidlom podmienenej alebo vyznačenej maximálnej rýchlosti po odpočítaní zariadenia a meracej bezpečnosti nastavených spoločnosťou ASTRA na diaľniciach",
+    "fine_chf": 260,
+    "keywords": [
+      "rýchlosť",
+      "prekročenie",
+      "diaľnica",
+      "meracia bezpečnosť",
+      "prekročenie rýchlosti",
+      "diaľnice",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "o 21–25 km/h",
+    "notes": "Prekročenie rýchlosti o 21-25 km/h po odpočítaní tolerancie.",
+    "source": {
+      "page": 13,
+      "line_hint": "3.e."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und Art. 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Všeobecný dopravný zákaz v oboch smeroch' (2.01; Art. 27 para. 1 SVG a Art. 18 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "dopravný zákaz",
+      "obidve smery",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázaný vstup",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázaný vstup pre všetky vozidlá v oboch smeroch'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 37 Abs. 3 VRV und Art. 18 Abs. 3 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Vstup zakázaný' (2.02; Art. 27 para. 1 SVG, Art. 37 para. 3 VRV a Art. 18 para. 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakázaný vstup",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázaný vstup",
+      "cestný znak",
+      "SVG",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázaný vstup'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. a SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zákaz pre motorové vozidlá' (2.03; Art. 27 para. 1 SVG a Art. 19 para. 1 písmeno a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz",
+      "motorové vozidlo",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané motorové vozidlá",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič motorového vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané motorové vozidlá'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. b SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zákaz pre motocykle' (2.04; Art. 27 para. 1 SVG a Art. 19 para. 1 písmeno b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz",
+      "motocykle",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané motocykle",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Motocyklista"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané motocykle'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. d SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zákaz pre nákladné vozidlá' (2.07; Art. 27 para. 1 SVG a Art. 19 para. 1 písmeno d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz",
+      "nákladné vozidlá",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané nákladné vozidlá",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič nákladného vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané nákladné vozidlá'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. e SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zákaz pre autobusy' (2.08; Art. 27 para. 1 SVG a Art. 19 para. 1 písmeno e SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz",
+      "autobusy",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané autobusy",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič autobusu"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané autobusy'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. f SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zákaz pre prívesy' (2.09; Art. 27 para. 1 SVG a Art. 19 para. 1 písmeno f SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz",
+      "prívesy",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané prívesy",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla s prívesom"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané prívesy'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Smer doprava' (2.32; Art. 27 para. 1 SVG a Art. 24 para. 1 písmeno a SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "smer doprava",
+      "regulačný znak",
+      "nedodržanie",
+      "smer doprava",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Smer doprava'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Smer doľava' (2.33; Art. 27 para. 1 SVG a Art. 24 para. 1 písmeno b SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "smer doľava",
+      "regulačný znak",
+      "nedodržanie",
+      "smer doľava",
+      "cestný znak",
+      "SVG",
+      "SSV"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Smer doľava'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Prejsť prekážku vpravo' (2.34; Art. 27 para. 1 SVG a Art. 24 para. 1 písmeno c SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "prechádzanie prekážky",
+      "vpravo",
+      "regulačný znak",
+      "nedodržanie",
+      "prechádzanie vpravo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Prejsť prekážku vpravo'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. d SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Prejsť prekážku vľavo' (2.35; Art. 27 para. 1 SVG a Art. 24 para. 1 písmeno d SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "prechádzanie prekážky",
+      "vľavo",
+      "regulačný znak",
+      "nedodržanie",
+      "prechádzanie vľavo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Prejsť prekážku vľavo'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. i und 3 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Pokračovať rovno' (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG a Art. 24 para. 1 písmeno i a 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "pokračovať rovno",
+      "regulačný znak",
+      "nedodržanie",
+      "rovno",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Pokračovať rovno' (rôzne formy 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Otočiť doprava' (2.37, 2.39, 2.40, 2.41; Art. 27 para. 1 SVG a Art. 24 para. 2 a 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "otočiť doprava",
+      "regulačný znak",
+      "nedodržanie",
+      "otočiť doprava",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Otočiť doprava' (rôzne formy 2.37, 2.39, 2.40, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Otočiť doľava' (2.38, 2.39, 2.41; Art. 27 para. 1 SVG a Art. 24 para. 2 a 3 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "otočiť doľava",
+      "regulačný znak",
+      "nedodržanie",
+      "otočiť doľava",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Otočiť doľava' (rôzne formy 2.38, 2.39, 2.41).",
+    "source": {
+      "page": 13,
+      "line_hint": "304.14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Kruhový objazd' (2.41.1; Art. 27 para. 1 SVG a Art. 24 para. 4 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "kruhový objazd",
+      "kruhový objazd",
+      "regulačný znak",
+      "nedodržanie",
+      "kruhový objazd",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Kruhový objazd'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zakázané odbočenie doprava' (2.42; Art. 27 para. 1 SVG a Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakázané odbočenie doprava",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané odbočenie doprava",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané odbočenie doprava'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "Nedodržanie regulačného znaku 'Zakázané odbočenie doľava' (2.43; Art. 27 para. 1 SVG a Art. 25 para. 1 SSV)",
+    "fine_chf": 100,
+    "keywords": [
+      "zakázané odbočenie doľava",
+      "regulačný znak",
+      "nedodržanie",
+      "zakázané odbočenie doľava",
+      "cestný znak"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie značky 'Zakázané odbočenie doľava'.",
+    "source": {
+      "page": 13,
+      "line_hint": "304.17."
+    }
+  }
+]

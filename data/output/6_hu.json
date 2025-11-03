@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Megállás a motorúton a vészhelyzeti sávon, kivéve vészhelyzetben való megállást.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "vészhelyzeti sáv",
+      "autópálya",
+      "vészmegállás",
+      "megállás",
+      "vészhelyzeti sáv",
+      "autópálya"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a motorúton a szilárd szélpadon, kivéve vészhelyzetben.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkolás a járdán, ahol a jelzések vagy jelölések kifejezetten nem engedélyezik, anélkül, hogy 1,5 m széles szabad helyet hagynának a gyalogosok számára.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "járda",
+      "gyalogos",
+      "1,5 m",
+      "távolság",
+      "parkolás",
+      "járda",
+      "gyalogos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a járdán kifejezett engedély nélkül, és kevesebb mint 1,5 m távolságot hagyva a gyalogosok számára.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Megállás a járdán anélkül, hogy 1,5 m széles szabad helyet hagynának a gyalogosok számára.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "járda",
+      "gyalogos",
+      "1,5 m",
+      "távolság",
+      "megállás",
+      "járda",
+      "gyalogos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a járdán, és kevesebb mint 1,5 m távolságot hagyva a gyalogosok számára.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkolás a gyalogosok számára kijelölt hosszanti sávokban, akadályozva a gyalogforgalmat.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "hosszanti sáv",
+      "gyalogos",
+      "akadályozás",
+      "parkolás",
+      "hosszanti sáv",
+      "gyalogos",
+      "mozgáskorlátozottak hozzáférése"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a mozgáskorlátozott gyalogosok számára kijelölt hosszanti sávokban, akadályozva a gyalogforgalmat.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Megállás a gyalogosok számára kijelölt hosszanti sávokban, akadályozva a gyalogforgalmat.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "hosszanti sáv",
+      "gyalogos",
+      "akadályozás",
+      "megállás",
+      "hosszanti sáv",
+      "gyalogos",
+      "mozgáskorlátozottak hozzáférése"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a mozgáskorlátozott gyalogosok számára kijelölt hosszanti sávokban, akadályozva a gyalogforgalmat.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás egy jelzéssel ellátott megállási tilalom zónában.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "megállási tilalom",
+      "jel",
+      "parkolás",
+      "megállási tilalom",
+      "jelzett zóna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás egy jelzett megállási tilalom zónában.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Megállás egy jelzéssel ellátott megállási tilalom zónában.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "megállási tilalom",
+      "jel",
+      "megállás",
+      "megállási tilalom",
+      "jelzett zóna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás egy jelzett megállási tilalom zónában.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkolás a buszsávban.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "buszsáv",
+      "busz",
+      "parkolás",
+      "buszsáv"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a buszsávban.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Megállás a buszsávban.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "buszsáv",
+      "busz",
+      "megállás",
+      "buszsáv"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a buszsávban.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkolás a kiállítási területen.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "kiállítási terület",
+      "parkolás",
+      "kiállítási terület",
+      "jármű kiállítás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás egy jármű kiállítási területen.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Megállás a kiállítási területen.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "kiállítási terület",
+      "megállás",
+      "kiállítási terület",
+      "jármű kiállítás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás egy jármű kiállítási területen.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkolás a hibás járművek számára kijelölt pihenőhelyen.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "pihenőhely",
+      "hibás járművek",
+      "parkolás",
+      "pihenőhely",
+      "hibás járművek"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás egy pihenőhelyen/kijelölt területen hibás járművek számára.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Megállás a hibás járművek számára kijelölt pihenőhelyen.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "pihenőhely",
+      "hibás járművek",
+      "megállás",
+      "pihenőhely",
+      "hibás járművek"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás egy pihenőhelyen/kijelölt területen hibás járművek számára.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás a gyalogátkelőhely előtti megállási tilalom vonalon.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "megállási tilalom vonal",
+      "gyalogátkelőhely",
+      "parkolás",
+      "megállási tilalom vonal",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a gyalogátkelőhely előtti megállási tilalom vonalon.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Megállás a gyalogátkelőhely előtti megállási tilalom vonalon.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "megállási tilalom vonal",
+      "gyalogátkelőhely",
+      "megállás",
+      "megállási tilalom vonal",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a gyalogátkelőhely előtti megállási tilalom vonalon.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás az úton kevesebb mint 5 m-re egy gyalogátkelőhely előtt, ahol nincs megállási tilalom vonal.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "úttest",
+      "5 m",
+      "gyalogátkelőhely",
+      "parkolás",
+      "úttest",
+      "gyalogátkelőhely",
+      "távolság"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás az úton kevesebb mint 5 m-re egy gyalogátkelőhely előtt, ahol nincs megállási tilalom vonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Megállás az úton kevesebb mint 5 m-re egy gyalogátkelőhely előtt, ahol nincs megállási tilalom vonal.",
+    "fine_chf": 80,
+    "keywords": [
+      "megállás",
+      "úttest",
+      "5 m",
+      "gyalogátkelőhely",
+      "megállás",
+      "úttest",
+      "gyalogátkelőhely",
+      "távolság"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás az úton kevesebb mint 5 m-re egy gyalogátkelőhely előtt, ahol nincs megállási tilalom vonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás a járdán egy gyalogátkelőhely előtt, a megállási tilalom vonal mellett.",
+    "fine_chf": 120,
+    "keywords": [
+      "parkolás",
+      "járda",
+      "gyalogátkelőhely",
+      "megállási tilalom vonal",
+      "parkolás",
+      "járda",
+      "gyalogátkelőhely",
+      "megállási tilalom vonal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a járdán egy gyalogátkelőhely előtt, a megállási tilalom vonal mellett.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

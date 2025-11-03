@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedodržení povinnosti mít řidičský průkaz",
+    "fine_chf": 20,
+    "keywords": [
+      "řidičský průkaz",
+      "nošení průkazu",
+      "nedodržení povinnosti mít",
+      "řidič",
+      "inspekce",
+      "řidičský průkaz",
+      "silniční dokumenty"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedodržení povinnosti mít učňovský průkaz",
+    "fine_chf": 20,
+    "keywords": [
+      "učňovský průkaz",
+      "nošení průkazu",
+      "nedodržení povinnosti mít",
+      "učňovský průkaz",
+      "řidič"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Řidič vozidla (žák)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedodržení povinnosti mít registraci vozidla",
+    "fine_chf": 20,
+    "keywords": [
+      "registrace vozidla",
+      "nošení registrace",
+      "nedodržení povinnosti mít",
+      "registrace vozidla",
+      "silniční dokumenty"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedodržení povinnosti mít povolení pro speciální přepravy",
+    "fine_chf": 20,
+    "keywords": [
+      "speciální přepravy",
+      "povolení",
+      "nedodržení povinnosti mít",
+      "speciální přeprava",
+      "povolení"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Povolení pro speciální nebo nadrozměrné přepravy.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Nedodržení povinnosti mít dokument o údržbě emisí",
+    "fine_chf": 20,
+    "keywords": [
+      "dokument o údržbě emisí",
+      "nedodržení povinnosti mít",
+      "dokument o údržbě emisí",
+      "inspekce"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Nedodržení povinnosti mít výjimečné povolení pro signalizovanou regulaci",
+    "fine_chf": 20,
+    "keywords": [
+      "výjimečné povolení",
+      "signalizovaný",
+      "regulace",
+      "nedodržení povinnosti mít",
+      "výjimečné povolení",
+      "dopravní značky"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Výjimečné povolení pro konkrétní dopravní předpis/znak.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Nedodržení povinnosti mít osvědčení o kvalifikaci řidiče",
+    "fine_chf": 20,
+    "keywords": [
+      "osvědčení o kvalifikaci řidiče",
+      "nedodržení povinnosti mít",
+      "osvědčení o způsobilosti",
+      "osvědčení o kvalifikaci profesionálního řidiče"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Doklad o kvalifikaci profesionálního řidiče.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nedodržení povinnosti mít vkládací list předchozího dne",
+    "fine_chf": 140,
+    "keywords": [
+      "vkládací list",
+      "předchozí den",
+      "nedodržení povinnosti mít",
+      "tachograf",
+      "tachografický list",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Související s používáním analogového tachografu pro profesionální řidiče (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nedodržení povinnosti mít výtisk předchozího dne",
+    "fine_chf": 140,
+    "keywords": [
+      "výtisk",
+      "předchozí den",
+      "nedodržení povinnosti mít",
+      "tachograf",
+      "digitální výtisk tachografu",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Související s používáním digitálního tachografu pro profesionální řidiče (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Nedodržení povinnosti mít ostatní požadované vkládací listy",
+    "fine_chf": 60,
+    "keywords": [
+      "vkládací listy",
+      "nedodržení povinnosti mít",
+      "tachograf",
+      "profesionální řidič",
+      "listy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": "paušální sazba za 7 dní",
+    "notes": "Pokuta se vztahuje na 7denní období za chybějící ne‑denní tachografické listy.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Nedodržení povinnosti mít ostatní požadované výtisky",
+    "fine_chf": 60,
+    "keywords": [
+      "výtisky",
+      "nedodržení povinnosti mít",
+      "tachograf",
+      "profesionální řidič",
+      "výtisky"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": "paušální sazba za 7 dní",
+    "notes": "Pokuta se vztahuje na 7denní období za chybějící ne‑denní tachografické výtisky.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Nedodržení povinnosti mít řidičskou kartu",
+    "fine_chf": 140,
+    "keywords": [
+      "řidičská karta",
+      "nedodržení povinnosti mít",
+      "řidičská karta",
+      "tachograf",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Řidičská karta pro digitální tachograf. ARV 1 je švýcarský předpis o pracovní době pro *některé* profesionální řidiče.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nedodržení povinnosti mít náhradní tachografické záznamy nebo týdenní svazek",
+    "fine_chf": 40,
+    "keywords": [
+      "náhradní tachografické záznamy",
+      "týdenní svazek",
+      "nedodržení povinnosti mít",
+      "tachografické záznamy",
+      "profesionální řidič",
+      "svazek"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Náhradní tachografické záznamy nebo týdenní svazky (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Nedodržení povinnosti mít náhradní papír do tiskárny",
+    "fine_chf": 40,
+    "keywords": [
+      "náhradní papír do tiskárny",
+      "nedodržení povinnosti mít",
+      "papír do tiskárny",
+      "digitální tachograf",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení povinnosti mít náhradní papír do tiskárny pro digitální tachograf.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nedodržení povinnosti mít vkládací list předchozího dne",
+    "fine_chf": 40,
+    "keywords": [
+      "vkládací list",
+      "předchozí den",
+      "nedodržení povinnosti mít",
+      "tachograf",
+      "tachografický list",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Související s používáním analogového tachografu pro profesionální řidiče (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Nedodržení povinnosti mít pracovní knihu",
+    "fine_chf": 40,
+    "keywords": [
+      "pracovní kniha",
+      "nedodržení povinnosti mít",
+      "pracovní kniha",
+      "profesionální řidič",
+      "záznamová kniha"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Související s profesionálními řidiči pracujícími podle pravidel ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nedodržení povinnosti mít interní denní zprávy aktuálního týdne nebo jejich dvojnásobek",
+    "fine_chf": 40,
+    "keywords": [
+      "denní zprávy",
+      "týden",
+      "nedodržení povinnosti mít",
+      "denní zprávy",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": "paušální sazba",
+    "notes": "Interní denní zprávy pro profesionální řidiče (ARV 2). Pokuta je pevná pro týden/období.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Nedodržení povinnosti mít výjimečné povolení od vedení pracovní knihy",
+    "fine_chf": 40,
+    "keywords": [
+      "povolení",
+      "pracovní kniha",
+      "výjimka",
+      "nedodržení povinnosti mít",
+      "výjimečné povolení"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Profesionální řidič"
+    ],
+    "conditions": null,
+    "notes": "Povolení osvobozující řidiče od vedení pracovní knihy (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Nedodržení povinnosti mít kontrolní kartu pro taxikáře",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrolní karta",
+      "taxikář",
+      "nedodržení povinnosti mít",
+      "taxikář",
+      "kontrolní karta",
+      "profesionální řidič"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxikář"
+    ],
+    "conditions": null,
+    "notes": "Kontrolní karta pro taxikáře (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

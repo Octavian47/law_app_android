@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Parar na calçada em frente a uma faixa de pedestres ao lado de uma linha de proibição de parada",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Estacionamento",
+      "Calçada",
+      "Faixa de pedestres",
+      "Linha de proibição de parada",
+      "parada",
+      "faixa de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar na calçada ao lado de uma linha de 'Proibição de Parada' antes de uma faixa de pedestres.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Estacionar na calçada a menos de 5 m de uma faixa de pedestres onde não há linha de proibição de parada instalada (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Calçada",
+      "Faixa de pedestres",
+      "Linha de proibição de parada",
+      "Distância",
+      "estacionamento",
+      "calçada",
+      "faixa de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar na calçada a menos de 5 m de uma faixa de pedestres, onde não há linha de 'Proibição de Parada'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Estacionar na calçada a menos de 5 m de uma faixa de pedestres onde não há linha de proibição de parada instalada",
+    "fine_chf": 80,
+    "keywords": [
+      "Estacionamento",
+      "Calçada",
+      "Faixa de pedestres",
+      "Linha de proibição de parada",
+      "Distância",
+      "estacionamento",
+      "calçada",
+      "faixa de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionar na calçada a menos de 5 m de uma faixa de pedestres, onde não há linha de 'Proibição de Parada'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Estacionar em área restrita",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Área restrita",
+      "Parada",
+      "Zona restrita",
+      "estacionamento",
+      "hachura",
+      "área de proibição de estacionamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionar em área restrita hachurada/marcada.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parar em área restrita",
+    "fine_chf": 80,
+    "keywords": [
+      "Estacionamento",
+      "Área restrita",
+      "Parada",
+      "Zona restrita",
+      "parada",
+      "hachura",
+      "área de proibição de parada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em área restrita hachurada/marcada.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Estacionar em linha ziguezague",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Linha ziguezague",
+      "Parada",
+      "Área de espera",
+      "estacionamento",
+      "linha ziguezague",
+      "zona de carga"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em linha ziguezague (geralmente para paradas de ônibus ou zonas de carga).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Obstruir a parada em linha ziguezague para embarque e desembarque de passageiros",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Linha ziguezague",
+      "Embarque",
+      "Desembarque",
+      "Obstrução",
+      "parada",
+      "linha ziguezague",
+      "obstruindo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Obstruir a parada em linha ziguezague para o embarque/desembarque de pessoas.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Parar em linha ziguezague para manuseio de mercadorias",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Linha ziguezague",
+      "Manuseio de mercadorias",
+      "Zona de entrega",
+      "parada",
+      "linha ziguezague",
+      "carregamento de mercadorias"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em linha ziguezague para carregamento/descarregamento de mercadorias.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Estacionar um veículo não autorizado em vaga reservada para pessoas com mobilidade reduzida",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Mobilidade reduzida",
+      "Vaga de estacionamento",
+      "Cadeira de rodas",
+      "Não autorizado",
+      "estacionamento",
+      "deficiente",
+      "deficiência"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento não autorizado em vaga reservada para pessoas com deficiência.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Uso não autorizado do “Cartão de estacionamento para pessoas com deficiência”",
+    "fine_chf": 120,
+    "keywords": [
+      "Cartão de estacionamento",
+      "Mobilidade reduzida",
+      "Abuso",
+      "Não autorizado",
+      "Permissão",
+      "cartão de estacionamento",
+      "deficiente",
+      "uso indevido"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso não autorizado da 'Permissão de estacionamento para pessoas com deficiência'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Estacionar em linha de proibição de parada",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "Linha de proibição de parada",
+      "Proibição",
+      "estacionamento",
+      "linha de proibição de parada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em linha de 'Proibição de Parada'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Parar em linha de proibição de parada",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Linha de proibição de parada",
+      "Proibição",
+      "parada",
+      "linha de proibição de parada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em linha de 'Proibição de Parada'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionar em via principal fora de áreas urbanas: até 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "fora de áreas urbanas",
+      "Margem da estrada",
+      "estacionamento",
+      "via principal",
+      "fora de áreas urbanas"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Estacionar em via principal fora de áreas urbanas, até 2 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionar em via principal fora de áreas urbanas: mais de 2 mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "fora de áreas urbanas",
+      "Margem da estrada",
+      "estacionamento",
+      "via principal",
+      "fora de áreas urbanas"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "mais de 2 mas não mais de 4 horas",
+    "notes": "Estacionar em via principal fora de áreas urbanas, mais de 2 mas não mais de 4 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Estacionar em via principal fora de áreas urbanas: mais de 4 mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "fora de áreas urbanas",
+      "Margem da estrada",
+      "estacionamento",
+      "via principal",
+      "fora de áreas urbanas"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "mais de 4 mas não mais de 10 horas",
+    "notes": "Estacionar em via principal fora de áreas urbanas, mais de 4 mas não mais de 10 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionar em via principal dentro de áreas urbanas quando não há espaço suficiente para dois veículos motorizados passarem: até 2 horas",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "na cidade",
+      "Cruzamento",
+      "Obstrução",
+      "estacionamento",
+      "via principal",
+      "na cidade",
+      "passagem"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Estacionar em via principal dentro de áreas urbanas, se não houver espaço suficiente para dois veículos motorizados passarem, até 2 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionar em via principal dentro de áreas urbanas quando não há espaço suficiente para dois veículos motorizados passarem: mais de 2 mas não mais de 4 horas",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "na cidade",
+      "Cruzamento",
+      "Obstrução",
+      "estacionamento",
+      "via principal",
+      "na cidade",
+      "passagem"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "mais de 2 mas não mais de 4 horas",
+    "notes": "Estacionar em via principal dentro de áreas urbanas, se não houver espaço suficiente para dois veículos motorizados passarem, mais de 2 mas não mais de 4 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Estacionar em via principal dentro de áreas urbanas quando não há espaço suficiente para dois veículos motorizados passarem: mais de 4 mas não mais de 10 horas",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "Via principal",
+      "na cidade",
+      "Cruzamento",
+      "Obstrução",
+      "estacionamento",
+      "via principal",
+      "na cidade",
+      "passagem"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "mais de 4 mas não mais de 10 horas",
+    "notes": "Estacionar em via principal dentro de áreas urbanas, se não houver espaço suficiente para dois veículos motorizados passarem, mais de 4 mas não mais de 10 horas.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

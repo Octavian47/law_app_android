@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Megállás áruk felvételéhez 10 m-nél a közösségi közlekedés megállójelzője előtt (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Áru felvétel",
+      "Megállójelző",
+      "Közösségi közlekedés",
+      "Megállás",
+      "Áru",
+      "Közösségi közlekedés megálló"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás áruk felvételéhez/leadásához 10 m-nél a közösségi közlekedés megállójelzője előtt.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás 10 m-nél a közösségi közlekedés megállójelzője után (Art. 18 Abs. 3 és 19 Abs. 2 a VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Megállójelző",
+      "Közösségi közlekedés",
+      "60 perc",
+      "Parkolás",
+      "Közösségi közlekedés megálló",
+      "Időkorlát"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás 10 m-nél a közösségi közlekedés megállójelzője után, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zavaró megállás a személyek felszállásához és leszállásához 10 m-nél a közösségi közlekedés megállójelzője után (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Zavaró",
+      "Felszállás/leszállás",
+      "Megállójelző",
+      "Megállás",
+      "Zavaró",
+      "Közösségi közlekedés megálló"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Zavaró megállás a személyek felszállásához/leszállásához 10 m-nél a közösségi közlekedés megállójelzője után.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Megállás áruk felvételéhez 10 m-nél a közösségi közlekedés megállójelzője után (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Áru felvétel",
+      "Megállójelző",
+      "Közösségi közlekedés",
+      "Megállás",
+      "Áru",
+      "Közösségi közlekedés megálló"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás áruk felvételéhez/leadásához 10 m-nél a közösségi közlekedés megállójelzője után.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkolás a tűzoltóállomás területe és tűzoltó felszerelés raktár előtt (Art. 18 Abs. 3 és Art. 19 Abs. 2 a VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Tűzoltóállomás",
+      "Raktár",
+      "Tűzoltó felszerelés",
+      "60 perc",
+      "Parkolás",
+      "Tűzoltóállomás",
+      "Tűzoltó felszerelés"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a tűzoltóállomás vagy felszerelés területe előtt, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Megállás áruk felvételéhez a tűzoltóállomás területe vagy tűzoltó felszerelés raktár előtt (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Áru felvétel",
+      "Tűzoltóállomás",
+      "Tűzoltó felszerelés",
+      "Megállás",
+      "Áru",
+      "Tűzoltóállomás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás áruk felvételéhez/leadásához a tűzoltóállomás vagy felszerelés területe előtt.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zavaró megállás a személyek felszállásához és leszállásához a tűzoltóállomás területe és tűzoltó felszerelés raktár előtt (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Zavaró",
+      "Felszállás/leszállás",
+      "Tűzoltóállomás",
+      "Megállás",
+      "Zavaró",
+      "Tűzoltóállomás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Zavaró megállás a személyek felszállásához/leszállásához a tűzoltóállomás vagy felszerelés területe előtt.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Zavaró megállás áruk felvételéhez az út szélén parkolt járművek mellett (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Zavaró",
+      "Áru felvétel",
+      "Mentén",
+      "Parkolt",
+      "Megállás",
+      "Zavaró",
+      "Áru",
+      "Dupla parkolás"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Zavaró megállás a áruk felvételéhez/leadásához a közúton szélén parkolt járművek mellett (dupla parkolás áruk számára).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Parkolás kerékpárúton (Art. 19 Abs. 2 d VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Kerékpárúton",
+      "Kerékpár sáv",
+      "60 perc",
+      "Parkolás",
+      "Kerékpárúton",
+      "Kerékpár sáv"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a kerékpárúton, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Megállás kerékpárúton, ha az akadályozza a kerékpáros forgalmat (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Kerékpárúton",
+      "Kerékpáros forgalom",
+      "Akadályozott",
+      "Megállás",
+      "Kerékpárúton",
+      "Zavaró"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a kerékpárúton, ha az akadályozza a kerékpáros forgalmat.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Parkolás az úton a kerékpárúttal szomszédosan (Art. 19 Abs. 2 d VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Út",
+      "Kerékpárúton",
+      "Mellett",
+      "60 perc",
+      "Parkolás",
+      "Út",
+      "Kerékpárúton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás az úton a kerékpárúttal szomszédosan, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkolás villamos sínekon (Art. 19 Abs. 2 a és 25 Abs. 5 VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Villamos sínek",
+      "Villamos sínek",
+      "60 perc",
+      "Parkolás",
+      "Villamos sínek"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás villamos sínekon, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Megállás villamos sínekon (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Villamos sínek",
+      "Villamos sínek",
+      "Megállás",
+      "Villamos sínek"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás villamos sínekon.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkolás 1,5 m-nél közelebb a legközelebbi villamos sínekhez (Art. 19 Abs. 2 a és 25 Abs. 5 VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Villamos sín",
+      "Villamos sínek",
+      "1,5 m",
+      "60 perc",
+      "Parkolás",
+      "Villamos sín",
+      "Távolság"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás 1,5 m-nél közelebb a legközelebbi villamos sínhez, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Megállás 1,5 m-nél közelebb a legközelebbi villamos sínhez (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Villamos sín",
+      "Villamos sínek",
+      "1,5 m",
+      "Megállás",
+      "Villamos sín",
+      "Távolság"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás 1,5 m-nél közelebb a legközelebbi villamos sínhez.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkolás az autópálya szervizpályáján (Art. 36 Abs. 3 VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Szervizpálya",
+      "Autópálya",
+      "60 perc",
+      "Parkolás",
+      "Szervizpálya",
+      "Autópálya"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás az autópálya szervizpályáján, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Megállás az autópálya szervizpályáján, kivéve vészállás esetén (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Megállás",
+      "Szervizpálya",
+      "Autópálya",
+      "Vészállás",
+      "Megállás",
+      "Szervizpálya",
+      "Autópálya",
+      "Vész"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "kivéve vészállás",
+    "notes": "Megállás az autópálya szervizpályáján, kivéve vészállás esetén.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkolás a gyorsforgalmi út szervizpályáján (Art. 36 Abs. 3 VRV) legfeljebb 60 percig",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkolás",
+      "Szervizpálya",
+      "Gyorsforgalmi út",
+      "60 perc",
+      "Parkolás",
+      "Szervizpálya",
+      "Gyorsforgalmi út"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "legfeljebb 60 perc",
+    "notes": "Parkolás a gyorsforgalmi út szervizpályáján, legfeljebb 60 percig.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

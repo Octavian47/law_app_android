@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Nie zamontowano tylnej tabliczki oznaczeniowej",
+    "fine_chf": 20,
+    "keywords": [
+      "tylna tabliczka oznaczeniowa",
+      "tabliczka oznaczeniowa",
+      "VTS",
+      "sprzęt",
+      "oznaczenie tylne"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Dotyczy tylnych tabliczek oznaczeniowych, zazwyczaj dla konkretnych pojazdów/ładunków.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Wprowadzanie motocykla do ruchu bez trwale zamontowanych reflektorów",
+    "fine_chf": 60,
+    "keywords": [
+      "motocykl",
+      "reflektor",
+      "reflektor",
+      "VTS",
+      "sprzęt",
+      "uruchomienie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Właściciel",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Wprowadzanie motocykla do ruchu bez stałych reflektorów.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Zwolnienie kierownicy",
+    "fine_chf": 20,
+    "keywords": [
+      "kierownica",
+      "bez użycia rąk",
+      "kierownica",
+      "kontrola",
+      "rower",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zwolnienie kierownicy (np. jazda bez użycia rąk). Dotyczy motocykli i rowerów.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Nie noszenie kasku ochronnego przez osoby na motocyklach",
+    "fine_chf": 30,
+    "keywords": [
+      "kask ochronny",
+      "kask",
+      "motocykl",
+      "kask",
+      "sprzęt ochronny",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca",
+      "Pasażer"
+    ],
+    "conditions": null,
+    "notes": "Nie noszenie kasku ochronnego na motocyklu.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zatrzymywanie się na przejściu dla pieszych przy zatłoczonym ruchu",
+    "fine_chf": 20,
+    "keywords": [
+      "przejście dla pieszych",
+      "przejście dla pieszych",
+      "przejście dla pieszych",
+      "korek",
+      "zatrzymywanie się"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na przejściu dla pieszych podczas zatoru drogowego.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Niepotrzebne bieganie silnika stojącego motoroweru",
+    "fine_chf": 20,
+    "keywords": [
+      "silnik",
+      "jałowy",
+      "niepotrzebne bieganie na jałowym",
+      "motorower",
+      "motorower",
+      "emisja"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niepotrzebne bieganie silnika stojącego motoroweru.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł: na oświetlonej drodze nocą",
+    "fine_chf": 40,
+    "keywords": [
+      "światło",
+      "jazda nocna",
+      "oświetlenie",
+      "reflektor",
+      "oświetlona droga"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "W nocy, na oświetlonej drodze.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł: na nieoświetlonej drodze nocą",
+    "fine_chf": 60,
+    "keywords": [
+      "światło",
+      "jazda nocna",
+      "nieoświetlona droga",
+      "reflektor",
+      "ciemność"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "W nocy, na nieoświetlonej drodze.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł: w oświetlonym tunelu",
+    "fine_chf": 20,
+    "keywords": [
+      "światło",
+      "tunel",
+      "reflektor",
+      "jazda w tunelu",
+      "oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "W oświetlonym tunelu.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł: w ciągu dnia",
+    "fine_chf": 20,
+    "keywords": [
+      "światło",
+      "dzień",
+      "światło do jazdy dziennej",
+      "reflektor",
+      "dzień"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "W ciągu dnia (dotyczy pojazdów, w których światła do jazdy dziennej są obowiązkowe).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Nieuprawnione poruszanie się po chodniku",
+    "fine_chf": 40,
+    "keywords": [
+      "chodnik",
+      "chodnik",
+      "nielegalna jazda",
+      "rower",
+      "korzystanie z drogi",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rower",
+      "Motorower",
+      "E-hulajnoga"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawniona jazda na chodniku.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Uciążliwa jazda po pasach pieszych",
+    "fine_chf": 40,
+    "keywords": [
+      "pieszy",
+      "pas pieszy",
+      "ścieżka",
+      "przeszkoda",
+      "ścieżka pieszych"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda po pasach pieszych w sposób utrudniający pieszych.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Noszenie przedmiotów uniemożliwiających sygnalizację",
+    "fine_chf": 20,
+    "keywords": [
+      "bagaż",
+      "ładunek",
+      "sygnalizacja",
+      "sygnalizacja",
+      "przenoszenie przedmiotów",
+      "sygnał ręczny"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Noszenie przedmiotów uniemożliwiających sygnalizację (sygnały ręczne).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Zajmowanie miejsca przed oczekującą kolejką pojazdów",
+    "fine_chf": 20,
+    "keywords": [
+      "wyprzedzanie",
+      "kolejka",
+      "kolejka pojazdów",
+      "przebijanie się w pasie",
+      "przeskakiwanie w kolejce"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Zajmowanie miejsca przed oczekującą kolejką samochodów (zwykle przez przecinanie kolejki).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Wyprzedzanie oczekującej kolejki pojazdów jazdą slalomem",
+    "fine_chf": 20,
+    "keywords": [
+      "jazda slalomem",
+      "wyprzedzanie",
+      "kolejka",
+      "kolejka pojazdów",
+      "wyprzedzanie",
+      "przebijanie"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Wyprzedzanie oczekującej kolejki samochodów poprzez jazdę zygzakiem/slalomem.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakazana jazda obok siebie: wiele rowerów",
+    "fine_chf": 20,
+    "keywords": [
+      "jazda obok siebie",
+      "rower",
+      "jazda rowerów obok siebie",
+      "rowery"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Nielegalna jazda obok siebie: wiele rowerów.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakazana jazda obok siebie: wiele motorowerów",
+    "fine_chf": 20,
+    "keywords": [
+      "jazda obok siebie",
+      "motorowery",
+      "motorower",
+      "E-hulajnoga",
+      "motorowery"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Kierowca motoroweru"
+    ],
+    "conditions": null,
+    "notes": "Nielegalna jazda obok siebie: wiele motorowerów (Mofas/E-hulajnogi).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakazana jazda obok siebie: wiele elektrycznych riksz",
+    "fine_chf": 20,
+    "keywords": [
+      "jazda obok siebie",
+      "elektryczne riksze",
+      "e-riksza",
+      "obok siebie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca riksz"
+    ],
+    "conditions": null,
+    "notes": "Nielegalna jazda obok siebie: wiele elektrycznych riksz.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Zakazana jazda obok siebie: kombinacje rowerów, motorowerów lub elektrycznych riksz",
+    "fine_chf": 20,
+    "keywords": [
+      "jazda obok siebie",
+      "mieszane kombinacje",
+      "rower",
+      "motorower",
+      "riksza",
+      "obok siebie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Nielegalna jazda obok siebie: mieszane kombinacje rowerów, motorowerów lub e-riksz.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Pozwalanie sobie na holowanie",
+    "fine_chf": 20,
+    "keywords": [
+      "bycie holowanym",
+      "bycie holowanym",
+      "holowanie",
+      "SVG",
+      "bezpieczeństwo",
+      "rower",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Pozwalanie sobie na ciągnięcie/holowanie (np. przez inny pojazd lub osobę).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Pozwalanie sobie na ciągnięcie",
+    "fine_chf": 20,
+    "keywords": [
+      "bycie ciągniętym",
+      "bycie holowanym",
+      "holowanie",
+      "SVG",
+      "bezpieczeństwo",
+      "rower",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Pozwalanie sobie na ciągnięcie/holowanie (np. przez inny pojazd lub osobę).",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Pozwalanie sobie na pchanie",
+    "fine_chf": 20,
+    "keywords": [
+      "bycie pchanym",
+      "bycie pchanym",
+      "bezpieczeństwo",
+      "pomoc",
+      "rower",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Pozwalanie sobie na pchanie.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Nieuprawnione przewożenie: osoba",
+    "fine_chf": 20,
+    "keywords": [
+      "przewożenie",
+      "pasażer",
+      "osoba",
+      "przewożenie",
+      "nieuprawnione",
+      "współpasażer"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawnione przewożenie osoby (np. przewóz pasażera w pojeździe nieprzystosowanym do tego lub gdy jest to zabronione).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Nieuprawnione przewożenie: dziecko bez bezpiecznego fotelika",
+    "fine_chf": 40,
+    "keywords": [
+      "fotelik dziecięcy",
+      "fotelik dziecięcy",
+      "dziecko",
+      "bezpieczeństwo",
+      "przewożenie",
+      "rower"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Rower",
+      "Motocykl"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawnione przewożenie dziecka bez bezpiecznego fotelika (gdzie jest wymagany).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

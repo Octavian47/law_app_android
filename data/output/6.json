@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Halten auf dem Pannenstreifen einer Autostrasse, ausgenommen Nothalt.",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Pannenstreifen",
+      "Autostrasse",
+      "Nothalt",
+      "stopping",
+      "emergency lane",
+      "motorway"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the hard shoulder of a motorway, except in an emergency.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkieren auf dem Trottoir, wo dies Signale oder Markierungen nicht ausdrücklich zulassen, ohne dass für Fussgängerinnen und Fussgänger ein 1,5 m breiter Raum frei bleibt",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Trottoir",
+      "Fussgänger",
+      "1,5 m",
+      "Restweg",
+      "parking",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the pavement without express permission, and leaving less than 1.5m clearance for pedestrians.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Halten auf dem Trottoir, ohne dass für Fussgängerinnen und Fussgänger ein 1,5 m breiter Raum frei bleibt",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Trottoir",
+      "Fussgänger",
+      "1,5 m",
+      "Restweg",
+      "stopping",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the pavement and leaving less than 1.5m clearance for pedestrians.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parkieren auf Längsstreifen für Fussgänger mit Behinderung des Fussgängerverkehrs",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Längsstreifen",
+      "Fussgänger",
+      "Behinderung",
+      "parking",
+      "longitudinal strip",
+      "pedestrian",
+      "disabled access"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on longitudinal strips for disabled pedestrians, obstructing pedestrian traffic.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Halten auf Längsstreifen für Fussgänger mit Behinderung des Fussgängerverkehrs",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Längsstreifen",
+      "Fussgänger",
+      "Behinderung",
+      "stopping",
+      "longitudinal strip",
+      "pedestrian",
+      "disabled access"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on longitudinal strips for disabled pedestrians, obstructing pedestrian traffic.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren innerhalb des signalisierten Halteverbots",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Halteverbot",
+      "Signal",
+      "parking",
+      "no stopping",
+      "signaled zone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking within a signed no-stopping zone.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Halten innerhalb des signalisierten Halteverbots",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Halteverbot",
+      "Signal",
+      "stopping",
+      "no stopping",
+      "signaled zone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping within a signed no-stopping zone.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parkieren auf einem Busstreifen",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Busstreifen",
+      "Bus",
+      "parking",
+      "bus lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking in a bus lane.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Halten auf einem Busstreifen",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Busstreifen",
+      "Bus",
+      "stopping",
+      "bus lane"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a bus lane.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parkieren auf einem «Ausstellplatz»",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Ausstellplatz",
+      "parking",
+      "display area",
+      "vehicle exhibition"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking in a vehicle display/exhibition area.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Halten auf einem «Ausstellplatz»",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Ausstellplatz",
+      "stopping",
+      "display area",
+      "vehicle exhibition"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a vehicle display/exhibition area.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parkieren auf einem «Abstellplatz für Pannenfahrzeuge»",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Abstellplatz",
+      "Pannenfahrzeuge",
+      "parking",
+      "lay-by",
+      "broken-down vehicles"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking in a lay-by/designated area for broken-down vehicles.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Halten auf einem «Abstellplatz für Pannenfahrzeuge»",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Abstellplatz",
+      "Pannenfahrzeuge",
+      "stopping",
+      "lay-by",
+      "broken-down vehicles"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping in a lay-by/designated area for broken-down vehicles.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf der Halteverbotslinie vor einem Fussgängerstreifen",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Halteverbotslinie",
+      "Fussgängerstreifen",
+      "parking",
+      "no stopping line",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the no-stopping line before a pedestrian crossing.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Halten auf der Halteverbotslinie vor einem Fussgängerstreifen",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Halteverbotslinie",
+      "Fussgängerstreifen",
+      "stopping",
+      "no stopping line",
+      "pedestrian crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the no-stopping line before a pedestrian crossing.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf der Fahrbahn näher als 5 m vor einem Fussgängerstreifen, wo keine Halteverbotslinie angebracht ist",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Fahrbahn",
+      "5 m",
+      "Fussgängerstreifen",
+      "parking",
+      "roadway",
+      "pedestrian crossing",
+      "clearance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the road less than 5m before a pedestrian crossing where there is no no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Halten auf der Fahrbahn näher als 5 m vor einem Fussgängerstreifen, wo keine Halteverbotslinie angebracht ist",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Fahrbahn",
+      "5 m",
+      "Fussgängerstreifen",
+      "stopping",
+      "roadway",
+      "pedestrian crossing",
+      "clearance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on the road less than 5m before a pedestrian crossing where there is no no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf dem Trottoir vor einem Fussgängerstreifen neben einer Halteverbotslinie",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Trottoir",
+      "Fussgängerstreifen",
+      "Halteverbotslinie",
+      "parking",
+      "sidewalk",
+      "pedestrian crossing",
+      "no stopping line"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on the sidewalk before a pedestrian crossing next to a no-stopping line.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

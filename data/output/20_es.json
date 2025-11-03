@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Uso de la acera sin desmontar",
+    "fine_chf": 30,
+    "keywords": [
+      "acera",
+      "desmontar",
+      "bicicleta",
+      "Velo",
+      "camino peatonal",
+      "desmontar"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Uso de la acera/vereda sin desmontar (aplica a ciclistas).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Uso de una ciclovía en dirección prohibida",
+    "fine_chf": 30,
+    "keywords": [
+      "ciclovía",
+      "dirección prohibida",
+      "Velo",
+      "contraflujo",
+      "ciclovía"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Uso de una ciclovía en dirección incorrecta.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Uso de un carril bici en dirección prohibida",
+    "fine_chf": 30,
+    "keywords": [
+      "carril bici",
+      "dirección prohibida",
+      "Velo",
+      "contraflujo",
+      "carril bici"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Uso de un carril bici en dirección incorrecta.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "No detenerse completamente en las señales de parada (detención rodante) (3.01; Art. 27 para. 1 SVG y Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "señal de parada",
+      "detención rodante",
+      "detención",
+      "normas de tráfico",
+      "señal de stop",
+      "no detenerse"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "No detenerse completamente (detención rodante).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "No obedecer una señal de semáforo",
+    "fine_chf": 60,
+    "keywords": [
+      "señal luminosa",
+      "ignorar",
+      "luz roja",
+      "semáforo",
+      "incumplimiento",
+      "señalización"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorar un semáforo (a menudo al cruzar con luz roja/ámbar).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "No obedecer una 'señal luminosa intermitente alterna' (3.20) o una 'señal luminosa intermitente simple' (3.21; Art. 28 SVG, Art. 68 para. 1 et seq. and Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "señal luminosa intermitente alterna",
+      "señal luminosa intermitente simple",
+      "ignorar",
+      "luz intermitente",
+      "señalización"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "No obedecer señales luminosas intermitentes especiales (p.ej., cruces ferroviarios).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Violación del orden de carril único al ignorar la flecha de dirección marcada y la flecha de contorno del sistema de semáforos",
+    "fine_chf": 30,
+    "keywords": [
+      "orden de carril único",
+      "flecha de dirección",
+      "flecha de contorno",
+      "ignorar",
+      "disciplina de carril",
+      "señalización"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Violación de la disciplina de carril al ignorar la flecha de dirección o de contorno marcada cerca de los semáforos.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "No continuar conduciendo en la dirección de la flecha",
+    "fine_chf": 30,
+    "keywords": [
+      "dirección de la flecha",
+      "continuar conduciendo",
+      "carril",
+      "dirección del carril",
+      "flujo de tráfico"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "No continuar conduciendo en la dirección indicada por la flecha del carril.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "No dar una señal manual o indicación de dirección al girar a la derecha",
+    "fine_chf": 20,
+    "keywords": [
+      "señal manual",
+      "indicación de dirección",
+      "giro a la derecha",
+      "señal de giro",
+      "señalización",
+      "girando a la derecha"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "No señalizar al girar a la derecha.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "No dar una señal manual o indicación de dirección al girar a la izquierda",
+    "fine_chf": 30,
+    "keywords": [
+      "señal manual",
+      "indicación de dirección",
+      "giro a la izquierda",
+      "señal de giro",
+      "señalización",
+      "girando a la izquierda"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "No señalizar al girar a la izquierda.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "No dar una señal manual o indicación de dirección al rebasar",
+    "fine_chf": 20,
+    "keywords": [
+      "señal manual",
+      "indicación de dirección",
+      "rebasar",
+      "señal de giro",
+      "señalización",
+      "rebasar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conductor de vehículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "No señalizar al rebasar.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Conducir sobre o cruzar una línea de seguridad dentro de zona urbana",
+    "fine_chf": 40,
+    "keywords": [
+      "línea de seguridad",
+      "conducir sobre",
+      "cruzar",
+      "dentro de zona urbana",
+      "línea continua",
+      "disciplina de tráfico"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Cruzar una línea blanca continua (prohibido rebasar/cruzar) dentro de zona urbana.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Conducir en un carril bus reservado sin autorización",
+    "fine_chf": 30,
+    "keywords": [
+      "carril bus",
+      "conducción",
+      "prohibido",
+      "carril bus",
+      "acceso restringido"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductor de vehículo (no autorizado)"
+    ],
+    "conditions": null,
+    "notes": "Conducir en un carril bus reservado sin autorización.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Conducir en un camino que no es apto para bicicletas, motocicletas y rickshaw eléctrico o claramente no destinado a ellos",
+    "fine_chf": 30,
+    "keywords": [
+      "uso de camino",
+      "no apto",
+      "bicicleta",
+      "motocicleta",
+      "rickshaw eléctrico",
+      "camino no apto",
+      "acceso restringido"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Conductor de motocicleta",
+      "Conductor de rickshaw eléctrico"
+    ],
+    "conditions": null,
+    "notes": "Uso de un camino claramente no apto o no destinado a bicicletas/motocicletas/rickshaws eléctricos.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "No utilizar la vía ciclista",
+    "fine_chf": 30,
+    "keywords": [
+      "vía ciclista",
+      "no uso",
+      "uso obligatorio",
+      "uso compulsorio",
+      "vía ciclista"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "No usar una vía ciclista obligatoria.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "No usar el carril bici",
+    "fine_chf": 30,
+    "keywords": [
+      "carril bici",
+      "no uso",
+      "uso obligatorio",
+      "uso compulsorio",
+      "carril bici"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "No usar un carril bici obligatorio.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Estacionar o detener una bicicleta, motocicleta o rickshaw eléctrico donde está prohibido por normas generales de tráfico",
+    "fine_chf": 20,
+    "keywords": [
+      "estacionamiento prohibido",
+      "detención prohibida",
+      "bicicleta",
+      "motocicleta",
+      "rickshaw eléctrico",
+      "prohibición de estacionamiento",
+      "normas generales de tráfico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Conductor de motocicleta",
+      "Conductor de rickshaw eléctrico"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento/detención prohibidos por normas generales (no señales).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Estacionar o detener una bicicleta, motocicleta o rickshaw eléctrico donde está prohibido por señales",
+    "fine_chf": 20,
+    "keywords": [
+      "estacionamiento prohibido",
+      "detención prohibida",
+      "señales",
+      "bicicleta",
+      "motocicleta",
+      "rickshaw eléctrico",
+      "prohibición de estacionamiento",
+      "señales"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Conductor de motocicleta",
+      "Conductor de rickshaw eléctrico"
+    ],
+    "conditions": null,
+    "notes": "Estacionamiento/detención prohibidos por señales de tráfico específicas.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Condutor aprendiz dirige sem exibir a placa L",
+    "fine_chf": 20,
+    "keywords": [
+      "placa L",
+      "condução de aprendiz",
+      "escola de condução",
+      "placa de aprendiz",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor aprendiz"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Não remover a placa L quando não há condução de aprendiz",
+    "fine_chf": 20,
+    "keywords": [
+      "placa L",
+      "condução de aprendiz",
+      "placa de aprendiz",
+      "remoção",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Não usar o sinal de mudança de direção",
+    "fine_chf": 100,
+    "keywords": [
+      "sinal de mudança de direção",
+      "indicador",
+      "sinal de mudança de direção",
+      "sinalização",
+      "omissão"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Não desligar o sinal de mudança de direção após a mudança de direção",
+    "fine_chf": 100,
+    "keywords": [
+      "sinal de mudança de direção",
+      "indicador",
+      "sinal de mudança de direção",
+      "reinicialização",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Não portar a bandeja de sinalização quando exigido",
+    "fine_chf": 40,
+    "keywords": [
+      "bandeja de sinalização",
+      "bandeja de sinal",
+      "dispositivo de sinalização",
+      "equipamento",
+      "porte"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle é uma bandeja de sinalização, tipicamente exigida para certos veículos grandes ou lentos, ou manobras específicas.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Uso indevido de sinais de advertência",
+    "fine_chf": 40,
+    "keywords": [
+      "sinal de advertência",
+      "buzina",
+      "buzina",
+      "uso indevido",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduzir sem luzes durante o dia",
+    "fine_chf": 40,
+    "keywords": [
+      "luz",
+      "conduzir sem luzes",
+      "luzes diurnas de circulação",
+      "dia",
+      "equipamento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Conduzir sem as luzes exigidas durante o dia.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduzir sem luzes em via iluminada à noite",
+    "fine_chf": 60,
+    "keywords": [
+      "luz",
+      "conduzir sem luzes",
+      "condução noturna",
+      "via iluminada",
+      "equipamento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Conduzir sem as luzes exigidas à noite em via iluminada.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduzir sem luzes em túnel iluminado",
+    "fine_chf": 60,
+    "keywords": [
+      "luz",
+      "conduzir sem luzes",
+      "túnel",
+      "túnel iluminado",
+      "equipamento"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Conduzir sem as luzes exigidas em túnel iluminado.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduzir com luzes de estacionamento ou luzes diurnas em via iluminada à noite",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de estacionamento",
+      "luz diurna de circulação",
+      "luz",
+      "condução noturna",
+      "equipamento",
+      "iluminação insuficiente"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de iluminação insuficiente (luz de estacionamento ou luz diurna) em vez dos faróis exigidos à noite em via iluminada.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduzir com luzes de estacionamento ou luzes diurnas em túnel iluminado",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de estacionamento",
+      "luz diurna de circulação",
+      "luz",
+      "túnel",
+      "equipamento",
+      "iluminação insuficiente"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de iluminação insuficiente (luz de estacionamento ou luz diurna) em vez dos faróis exigidos em túnel iluminado.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso indevido de luzes de nevoeiro",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de nevoeiro",
+      "luz de nevoeiro",
+      "uso indevido",
+      "equipamento",
+      "iluminação"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso indevido de luzes de nevoeiro traseiras",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de nevoeiro traseira",
+      "luz de nevoeiro traseira",
+      "uso indevido",
+      "equipamento",
+      "iluminação"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso indevido de luzes de busca",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de busca",
+      "luz de busca",
+      "uso indevido",
+      "equipamento",
+      "iluminação"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Uso indevido de luzes de trabalho",
+    "fine_chf": 40,
+    "keywords": [
+      "luz de trabalho",
+      "luz de trabalho",
+      "uso indevido",
+      "equipamento",
+      "iluminação"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Pré-aquecimento desnecessário do motor de um veículo estacionário",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "pré-aquecimento",
+      "ralenti",
+      "aquecimento do motor",
+      "ruído",
+      "ambiente"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Ralenti desnecessário do motor de um veículo estacionário",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "funcionamento",
+      "ralenti",
+      "motor em funcionamento",
+      "ruído",
+      "ambiente"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Uso de autoestrada ou via rápida com motocicleta com cilindrada até 50 cm³ ou potência até 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autoestrada",
+      "via rápida",
+      "motocicleta",
+      "cilindrada",
+      "potência",
+      "via rápida",
+      "veículo restrito"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de motocicleta"
+    ],
+    "conditions": null,
+    "notes": "Motocicletas/mopeds abaixo das especificações mínimas exigidas (50 cc ou 4 kW) são proibidos nas autoestradas.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Uso de autoestrada ou via rápida com outro veículo motorizado não permitido nela",
+    "fine_chf": 140,
+    "keywords": [
+      "autoestrada",
+      "via rápida",
+      "veículo motorizado",
+      "não autorizado",
+      "via rápida",
+      "veículo restrito"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso de veículo em autoestrada que não é permitido (por exemplo, veículos lentos, veículos agrícolas).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Uso de autoestrada ou via rápida com pneus com cravos",
+    "fine_chf": 60,
+    "keywords": [
+      "autoestrada",
+      "via rápida",
+      "pneus com cravos",
+      "pneus com cravos",
+      "equipamento",
+      "via rápida"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Reboque em autoestrada ou via rápida além da próxima saída",
+    "fine_chf": 140,
+    "keywords": [
+      "autoestrada",
+      "via rápida",
+      "reboque",
+      "reboque",
+      "emergência",
+      "próxima saída"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "O reboque só é permitido em autoestradas até a próxima saída disponível.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

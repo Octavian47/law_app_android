@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Diaľnice (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 a 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Diaľnica",
+      "Polodiaľnica",
+      "Použitie",
+      "VRV 50a",
+      "Obmedzenie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoprávnené používanie polodiaľnic (často sa vzťahuje na konkrétne typy vozidiel alebo zariadení).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Obchádzanie, preliezanie alebo prechádzanie pod prekážkami alebo poloprekážkami",
+    "fine_chf": 20,
+    "keywords": [
+      "Prekážky",
+      "Poloprekážky",
+      "Prekážky",
+      "Železničný prechod",
+      "Úrovňový prechod",
+      "Obchádzanie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Užívateľ cesty"
+    ],
+    "conditions": null,
+    "notes": "Obchádzanie, preliezanie alebo prechádzanie pod prekážkami alebo poloprekážkami.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Používanie cyklistickej cesty chodcami, keď\n1. je prítomný chodník",
+    "fine_chf": 10,
+    "keywords": [
+      "Chodec",
+      "Cyklistická cesta",
+      "Chodník",
+      "Chodník",
+      "Chodec",
+      "Cyklistická cesta"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodci"
+    ],
+    "conditions": "Chodník prítomný",
+    "notes": "Používanie cyklistickej cesty, keď je k dispozícii chodník.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Používanie cyklistickej cesty chodcami, keď\n2. je prítomný chodník",
+    "fine_chf": 10,
+    "keywords": [
+      "Chodec",
+      "Cyklistická cesta",
+      "Chodník",
+      "Chodník",
+      "Chodec",
+      "Cyklistická cesta"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Chodci"
+    ],
+    "conditions": "Chodník prítomný",
+    "notes": "Používanie cyklistickej cesty, keď je k dispozícii vyhradený chodník.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Jazda bez svetiel",
+    "fine_chf": 20,
+    "keywords": [
+      "Svetlo",
+      "Osvetlenie",
+      "Jazda",
+      "Elektrokolobežka",
+      "Zariadenia podobné vozidlám",
+      "Vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Prevádzkovateľ zariadení (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez povinného osvetlenia (platí predovšetkým pre elektrokolobežky/ podobné zariadenia).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Bránenie používaniu dopravných oblastí určených pre chodcov",
+    "fine_chf": 20,
+    "keywords": [
+      "Chodec",
+      "Dopravné oblasti",
+      "Prekážka",
+      "Chodník",
+      "Bránenie",
+      "Zariadenia VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Zariadenia (VRV 50a)",
+      "Užívatelia ciest"
+    ],
+    "conditions": null,
+    "notes": "Bránenie používaniu dopravných oblastí určených pre chodcov.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Bránenie používaniu vozovky na dopravne upokojovaných sekundárnych cestách",
+    "fine_chf": 20,
+    "keywords": [
+      "Sekundárne cesty",
+      "Vozovka",
+      "Prekážka",
+      "Dopravný tok",
+      "Sekundárna cesta",
+      "Zariadenia (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Zariadenia (VRV 50a)",
+      "Užívatelia ciest"
+    ],
+    "conditions": null,
+    "notes": "Bránenie dopravnému toku na dopravne upokojovaných sekundárnych cestách.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorovanie signálu 'Zákaz pre zariadenia podobné vozidlám'",
+    "fine_chf": 20,
+    "keywords": [
+      "Signál",
+      "Zákaz",
+      "Zariadenia podobné vozidlám",
+      "Elektrokolobežka",
+      "Signalizácia",
+      "Dopravná značka"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Prevádzkovateľ zariadení podobných vozidlám"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie konkrétnej dopravnej značky zakazujúcej zariadenia podobné vozidlám.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Používanie zariadení podobných vozidlám na neoprávnených dopravných oblastiach",
+    "fine_chf": 20,
+    "keywords": [
+      "Zariadenia podobné vozidlám",
+      "Elektrokolobežka",
+      "Dopravné oblasti",
+      "Neoprávnené použitie",
+      "Obmedzenie"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Prevádzkovateľ zariadení podobných vozidlám"
+    ],
+    "conditions": null,
+    "notes": "Používanie zariadení (napríklad elektrokolobežiek) na dopravných oblastiach, kde nie sú povolené.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "Nedodanie prednosti chodcom",
+    "fine_chf": 30,
+    "keywords": [
+      "Prednosť v jazde",
+      "Chodec",
+      "Priorita",
+      "Priorita",
+      "Chodec",
+      "Zariadenia (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Prevádzkovateľ zariadení podobných vozidlám"
+    ],
+    "conditions": null,
+    "notes": "Nedodanie prednosti chodcom (platí pre používateľov špeciálnych zariadení).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

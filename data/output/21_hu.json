@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "a jelölésekkel kapcsolatban (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Jelölések",
+      "Jelzések",
+      "VRV",
+      "SSV",
+      "úti jelölések",
+      "szabálysértés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A közúti jelölési szabályok megsértését jelenti.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Elsőbbség megadásának elmulasztása a gyalogátkelőhelyen (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Elsőbbség",
+      "Gyalogátkelőhely",
+      "Zebraátkelőhely",
+      "SVG",
+      "VRV",
+      "elsőbbség",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Telefon használata kéz‑szabad eszköz nélkül vezetés közben (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Mobiltelefon",
+      "Kéz‑szabad eszköz",
+      "Vezetés",
+      "Figyelemelterelés",
+      "mobiltelefon",
+      "vezetés"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "A motorosok által a általános vagy jelzett legnagyobb sebesség túllépése, az ASTRA által meghatározott eszköz és mérési bizonytalanság figyelembevételével (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Sebesség",
+      "Legnagyobb sebesség",
+      "Motorbicikli",
+      "Mopéd",
+      "SVG",
+      "sebességtúllépés"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Motoros"
+    ],
+    "conditions": null,
+    "notes": "Rögzített bírság kisebb gyorshajtásért (valószínűleg legfeljebb 5 km/h túllépés) mopédokon/motoros kerékpárokon.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Motorbicikli vagy elektromos riksha használata rendszám vagy érvényes matrica nélkül, biztosítás mellett (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Rendszám",
+      "Matrica",
+      "Motorbicikli",
+      "Elektromos riksha",
+      "Rendszám",
+      "Címke",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motoros",
+      "Elektromos riksha vezető"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a felhasználó követi el (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Motorbicikli vagy elektromos riksha használata a szükséges járműengedély nélkül (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Járműengedély",
+      "Motorbicikli",
+      "Elektromos riksha",
+      "SVG",
+      "Járműengedély",
+      "Dokumentumok"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Motoros",
+      "Elektromos riksha vezető"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a felhasználó követi el (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Motorbicikli használata meglévő biztosítás nélkül (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Biztosítás",
+      "Motorbicikli",
+      "VZV",
+      "Biztosítás",
+      "Mopéd",
+      "Kötelező"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Motoros"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a felhasználó követi el (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Motorbicikli vagy elektromos riksha kölcsönadása rendszám vagy érvényes matrica nélkül, biztosítással a használatra (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Kölcsönadás",
+      "Rendszám",
+      "Matrica",
+      "Motorbicikli",
+      "Elektromos riksha",
+      "kölcsönadás",
+      "rendszám",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Tulajdonos",
+      "Kölcsönadó"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a tulajdonos/kölcsönadó követi el (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Motorbicikli vagy elektromos riksha kölcsönadása a szükséges járműengedély nélkül a használatra (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Kölcsönadás",
+      "Járműengedély",
+      "Motorbicikli",
+      "Elektromos riksha",
+      "VZV",
+      "kölcsönadás",
+      "járműdokumentumok"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Tulajdonos",
+      "Kölcsönadó"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a tulajdonos/kölcsönadó követi el (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Motorbicikli kölcsönadása meglévő biztosítás nélkül a használatra (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Kölcsönadás",
+      "Biztosítás",
+      "Motorbicikli",
+      "VZV",
+      "kölcsönadás",
+      "biztosítás"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Tulajdonos",
+      "Kölcsönadó"
+    ],
+    "conditions": null,
+    "notes": "A jogsértést a tulajdonos/kölcsönadó követi el (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Vezetés olyan rendszámmal, amely nem könnyen olvasható (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Rendszám",
+      "Olvashatóság",
+      "Vezetés",
+      "VRV",
+      "VTS",
+      "Rendszám",
+      "Olvashatóság",
+      "Piszkos rendszám"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Vezetés a motorbiciklin kötelező csengő nélkül (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Csengő",
+      "Motorbicikli",
+      "Felszerelés",
+      "VTS",
+      "Mopéd",
+      "Csengő",
+      "Felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motoros"
+    ],
+    "conditions": null,
+    "notes": "Mopéd/motoros kerékpár vezetése kötelező csengő nélkül.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Vezetés állandóan rögzített visszaverők hiányában (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "Visszaverő",
+      "Visszaverő",
+      "Felszerelés",
+      "VTS",
+      "Visszaverő",
+      "Felszerelés",
+      "hiányzó"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Vezetés rögzített visszaverők nélkül (általában az ilyen felszerelést igénylő járművekre vonatkozik, gyakran kerékpárokra/mopédokra ebben a szakaszban).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Driving without required control plate(s) except dealer plates (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "control plate",
+      "license plate",
+      "license plate",
+      "driving",
+      "missing",
+      "driver"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Driving without required license plates (excluding trade plates).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Driving without a maximum speed sign (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximum speed",
+      "sign",
+      "maximum speed sign",
+      "missing",
+      "driving"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Driving a vehicle that requires but lacks the mandatory speed sign.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Driving without a rear marking plate (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "rear marking plate",
+      "rear marking plate",
+      "missing",
+      "driving"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Driving a vehicle that requires but lacks the mandatory rear marking plate (e.g., slow vehicles).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Operating a motorcycle without permanently attached reflectors (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motorcycle",
+      "reflector",
+      "reflector",
+      "motorcycle",
+      "missing"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Driver (motorcycle)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Carrying out a dangerous goods transport with a missing, incomplete or non‑compliant equipment component (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "dangerous goods",
+      "ADR",
+      "dangerous goods",
+      "equipment",
+      "professional-driver",
+      "missing"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Driver (dangerous goods transport)"
+    ],
+    "conditions": null,
+    "notes": "Missing, incomplete, or non-compliant equipment during dangerous goods transport.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Failure to report or to report in time facts that require a change or replacement of a permit or authorization (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "reporting",
+      "permit",
+      "authorization",
+      "change",
+      "notification",
+      "paperwork",
+      "vehicle owner"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner/holder to report changes requiring document modification or replacement.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Exceeding the prescribed deadline for mandatory emission service: up to 1 month",
+    "fine_chf": 40,
+    "keywords": [
+      "emission service",
+      "emission service",
+      "overdue",
+      "deadline",
+      "maintenance",
+      "vehicle owner"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": "up to 1 month",
+    "notes": "Mandatory emissions service overdue up to 1 month.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Exceeding the prescribed deadline for mandatory emission service: more than 1 month but not more than 3 months",
+    "fine_chf": 100,
+    "keywords": [
+      "emission service",
+      "emission service",
+      "overdue",
+      "deadline",
+      "maintenance",
+      "vehicle owner"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": "more than 1 month but not more than 3 months",
+    "notes": "Mandatory emissions service overdue between 1 and 3 months.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Exceeding the prescribed deadline for mandatory emission service: more than 3 but not more than 6 months",
+    "fine_chf": 200,
+    "keywords": [
+      "emission service",
+      "emission service",
+      "overdue",
+      "deadline",
+      "maintenance",
+      "vehicle owner"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": "more than 3 but not more than 6 months",
+    "notes": "Mandatory emissions service overdue between 3 and 6 months.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Putting a motor vehicle into circulation with a defective tire (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "tire",
+      "defective",
+      "Tyre",
+      "faulty",
+      "commissioning",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Owner allowing a motor vehicle with faulty tires to be put into circulation.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Putting a trailer into circulation with a defective tire (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "tire",
+      "defective",
+      "trailer",
+      "trailer",
+      "commissioning",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Owner allowing a trailer with faulty tires to be put into circulation.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Failure to attach the speed sign when using a vehicle with studded tires (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "speed sign",
+      "studded tires",
+      "studded tires",
+      "speed sign",
+      "missing",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Owner failing to attach the required speed sign when studded tires are used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Improper installation of the speed sign when using a vehicle with studded tires (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "speed sign",
+      "studded tires",
+      "studded tires",
+      "speed sign",
+      "installation",
+      "non-compliant"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Non-compliant attachment of the speed sign when studded tires are used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Failure to remove the speed sign although no studded tires are used (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "speed sign",
+      "studded tires",
+      "speed sign",
+      "removal",
+      "removal"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Owner failing to remove the speed sign when studded tires are no longer used.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Failure to attach the required control plate(s) except dealer plates (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "control plate",
+      "license plate",
+      "license plate",
+      "installation",
+      "missing",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner to attach required license plates (excluding trade plates).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Improper installation of the control plates (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "control plate",
+      "license plate",
+      "license plate",
+      "installation",
+      "non-compliant",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Non-compliant method of attaching license plates.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Failure to attach the maximum speed sign (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximum speed",
+      "sign",
+      "maximum speed sign",
+      "installation",
+      "missing",
+      "vehicle owner"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle owner"
+    ],
+    "conditions": null,
+    "notes": "Failure by the owner to attach the mandatory speed sign.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

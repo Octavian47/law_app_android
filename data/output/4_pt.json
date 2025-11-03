@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento ao lado de uma linha longitudinal ininterrupta quando uma passagem de pelo menos 3 m de largura não é mantida livre (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamento",
+      "linha longitudinal",
+      "passagem",
+      "menos 3 m",
+      "estacionamento",
+      "linha longitudinal",
+      "passagem com menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento ao lado de uma linha longitudinal ininterrupta, obstruindo passagem com menos de 3 m, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parada ao lado de uma linha longitudinal ininterrupta quando uma passagem de pelo menos 3 m de largura não é mantida livre (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "linha longitudinal",
+      "passagem",
+      "menos 3 m",
+      "parada",
+      "linha longitudinal",
+      "passagem com menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada ao lado de uma linha longitudinal ininterrupta, obstruindo passagem com menos de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento ao lado de uma linha dupla quando uma passagem de pelo menos 3 m de largura não é mantida livre (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamento",
+      "linha dupla",
+      "passagem",
+      "menos 3 m",
+      "estacionamento",
+      "linha dupla",
+      "passagem com menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento ao lado de uma linha dupla, obstruindo passagem com menos de 3 m, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parada ao lado de uma linha dupla quando uma passagem de pelo menos 3 m de largura não é mantida livre (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "linha dupla",
+      "passagem",
+      "menos 3 m",
+      "parada",
+      "linha dupla",
+      "passagem com menos de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada ao lado de uma linha dupla, obstruindo passagem com menos de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento em uma interseção de estrada (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamento",
+      "cruzamento de estrada",
+      "interseção",
+      "estacionamento",
+      "cruzamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento em uma interseção, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Parada em uma interseção de estrada (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "cruzamento de estrada",
+      "interseção",
+      "parada",
+      "cruzamento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em uma interseção.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento a menos de 5 m antes de um cruzamento de estrada a partir da via transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamento",
+      "cruzamento de estrada",
+      "via transversal",
+      "5 m",
+      "estacionamento",
+      "interseção",
+      "via transversal",
+      "menos 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamento a menos de 5 m antes de uma interseção a partir da via transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Parada a menos de 5 m antes de um cruzamento de estrada a partir da via transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "parada",
+      "cruzamento de estrada",
+      "via transversal",
+      "5 m",
+      "parada",
+      "interseção",
+      "via transversal",
+      "menos 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada a menos de 5 m antes de uma interseção a partir da via transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento a menos de 5 m depois de um cruzamento de estrada a partir da via transversal (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 40,
+    "keywords": [
+      "estacionamento",
+      "cruzamento de estrada",
+      "via transversal",
+      "5 m",
+      "estacionamento",
+      "interseção",
+      "via transversal",
+      "menos 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento a menos de 5 m depois de uma interseção a partir da via transversal, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Parada a menos de 5 m depois de um cruzamento de estrada a partir da via transversal (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "cruzamento de estrada",
+      "via transversal",
+      "5 m",
+      "parada",
+      "interseção",
+      "via transversal",
+      "menos 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada a menos de 5 m depois de uma interseção a partir da via transversal.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento em passagem de pedestres (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamento",
+      "passagem de pedestres",
+      "estacionamento",
+      "passagem de pedestres",
+      "faixa de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento em passagem de pedestres, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parada em passagem de pedestres (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "passagem de pedestres",
+      "parada",
+      "passagem de pedestres",
+      "faixa de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em passagem de pedestres.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento adjacente a uma passagem de pedestres (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) até 60 minutos",
+    "fine_chf": 80,
+    "keywords": [
+      "estacionamento",
+      "passagem de pedestres",
+      "adjacente",
+      "estacionamento",
+      "passagem de pedestres",
+      "adjacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento adjacente a uma passagem de pedestres, até 60 minutos.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parada adjacente a uma passagem de pedestres (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "passagem de pedestres",
+      "adjacente",
+      "parada",
+      "passagem de pedestres",
+      "adjacente"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada adjacente a uma passagem de pedestres.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Parada em passagem de ferrovia (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "passagem de ferrovia",
+      "parada",
+      "passagem de ferrovia",
+      "cruzamento em nível"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em passagem de ferrovia.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Parada em passagem subterrânea (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "passagem subterrânea",
+      "parada",
+      "passagem subterrânea"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em passagem subterrânea.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento a menos de 10 m antes de uma sinalização de parada de transporte público (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "parada",
+      "transporte público",
+      "10 m",
+      "estacionamento",
+      "parada de ônibus",
+      "transporte público",
+      "menos 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Estacionamento a menos de 10 m antes de uma sinalização de parada de transporte público.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada obstrutiva para deixar pessoas entrar/saír a menos de 10 m antes de uma sinalização de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "parada",
+      "transporte público",
+      "10 m",
+      "obstrução",
+      "parada",
+      "parada de ônibus",
+      "transporte público",
+      "menos 10 m",
+      "obstrução"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva para deixar pessoas entrar/saír a menos de 10 m antes de uma sinalização de parada de transporte público.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

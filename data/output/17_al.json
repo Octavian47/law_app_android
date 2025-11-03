@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Udhëheqje pa tavolinë(t) kontrolli të kërkuara, përveç tavolinave tregtare (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "tavolinë kontrolli",
+      "tavolinë regjistrimi",
+      "tavolinë regjistrimi",
+      "udhëheqje",
+      "mungesë",
+      "drejtues"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqje pa tavolinat e nevojshme të regjistrimit (përveç tavolinave tregtare).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Udhëheqje pa shenjë të shpejtësisë maksimale (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "shpejtësia maksimale",
+      "shenjë",
+      "shenjë e shpejtësisë maksimale",
+      "mungesë",
+      "udhëheqje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqje e një mjeti që kërkon, por i mungon shenja e detyrueshme të shpejtësisë.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Udhëheqje pa tavolinë shënimi të pasme (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "tavolinë shënimi të pasme",
+      "tavolinë shënimi të pasme",
+      "mungesë",
+      "udhëheqje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Udhëheqje e një mjeti që kërkon, por i mungon tavolina e shënimit të pasme të detyrueshme (p.sh., mjete të ngadalta).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Operimi i një motociklete pa reflektues të vendosur në mënyrë të përhershme (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motociklet",
+      "reflektues",
+      "reflektues",
+      "motociklet",
+      "mungesë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues (motociklet)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Kryerja e transportit të mallrave të rrezikshme me një komponent pajisjeje të munguar, jo i plotë ose jo në përputhje (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "mallra të rrezikshme",
+      "ADR",
+      "mallra të rrezikshme",
+      "pajisje",
+      "drejtues profesionist",
+      "mungesë"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues (transport i mallrave të rrezikshme)"
+    ],
+    "conditions": null,
+    "notes": "Pajisje të munguar, jo të plota ose jo në përputhje gjatë transportit të mallrave të rrezikshme.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Dështim në raportimin ose në raportimin në kohë të fakteve që kërkojnë ndryshim ose zëvendësim të lejes ose autorizimit (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "raportim",
+      "leje",
+      "autorizim",
+      "ndryshim",
+      "njoftim",
+      "dokumentacion",
+      "pronari i mjetit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Dështim i pronarit/mbajtësit për të raportuar ndryshimet që kërkojnë modifikim ose zëvendësim të dokumentit.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Kalimi i afatit të caktuar për shërbimin e detyrueshëm të emetimeve: deri në 1 muaj",
+    "fine_chf": 40,
+    "keywords": [
+      "shërbim i emetimeve",
+      "shërbim i emetimeve",
+      "i vonuar",
+      "afat",
+      "mirëmbajtje",
+      "pronari i mjetit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": "deri në 1 muaj",
+    "notes": "Shërbimi i detyrueshëm i emetimeve i vonuar deri në 1 muaj.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Kalimi i afatit të caktuar për shërbimin e detyrueshëm të emetimeve: më shumë se 1 muaj, por jo më shumë se 3 muaj",
+    "fine_chf": 100,
+    "keywords": [
+      "shërbim i emetimeve",
+      "shërbim i emetimeve",
+      "i vonuar",
+      "afat",
+      "mirëmbajtje",
+      "pronari i mjetit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": "më shumë se 1 muaj, por jo më shumë se 3 muaj",
+    "notes": "Shërbimi i detyrueshëm i emetimeve i vonuar midis 1 dhe 3 muaj.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Kalimi i afatit të caktuar për shërbimin e detyrueshëm të emetimeve: më shumë se 3 muaj, por jo më shumë se 6 muaj",
+    "fine_chf": 200,
+    "keywords": [
+      "shërbim i emetimeve",
+      "shërbim i emetimeve",
+      "i vonuar",
+      "afat",
+      "mirëmbajtje",
+      "pronari i mjetit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": "më shumë se 3 muaj, por jo më shumë se 6 muaj",
+    "notes": "Shërbimi i detyrueshëm i emetimeve i vonuar midis 3 dhe 6 muaj.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Vendosja në qarkullim e një mjeti motorik me gomë defektuar (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "gomë",
+      "defektuar",
+      "gomë",
+      "i gabuar",
+      "vendosje në qarkullim",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pronari lejon një mjet motorik me goma të gabuar të vihet në qarkullim.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Vendosja në qarkullim e një trake me gomë defektuar (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "gomë",
+      "defektuar",
+      "trake",
+      "trake",
+      "vendosje në qarkullim",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pronari lejon një trake me goma të gabuar të vihet në qarkullim.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Dështim në vendosjen e shenjës së shpejtësisë kur përdoret një mjet me goma me studë (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "shenjë e shpejtësisë",
+      "goma me studë",
+      "goma me studë",
+      "shenjë e shpejtësisë",
+      "mungesë",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pronari dështoi të vendosë shenjën e kërkuar të shpejtësisë kur përdoren goma me studë.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Instalim i pasaktë i shenjës së shpejtësisë kur përdoret një mjet me goma me studë (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "shenjë e shpejtësisë",
+      "goma me studë",
+      "goma me studë",
+      "shenjë e shpejtësisë",
+      "instalim",
+      "jo në përputhje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Vendosje jo në përputhje e shenjës së shpejtësisë kur përdoren goma me studë.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Dështim në heqjen e shenjës së shpejtësisë edhe pse nuk përdoren goma me studë (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "shenjë e shpejtësisë",
+      "goma me studë",
+      "shenjë e shpejtësisë",
+      "heqje",
+      "heqje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Pronari dështoi të heqë shenjën e shpejtësisë kur goma me studë nuk përdoren më.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Dështim në vendosjen e tavolinave të kërkuara të kontrollit, përveç tavolinave tregtare (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "tavolinë kontrolli",
+      "tavolinë regjistrimi",
+      "tavolinë regjistrimi",
+      "instalim",
+      "mungesë",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Dështim i pronarit për të vendosur tavolinat e nevojshme të regjistrimit (përveç tavolinave tregtare).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Instalim i pasaktë i tavolinave të kontrollit (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "tavolinë kontrolli",
+      "tavolinë regjistrimi",
+      "tavolinë regjistrimi",
+      "instalim",
+      "jo në përputhje",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Metodë jo në përputhje për vendosjen e tavolinave të regjistrimit.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Dështim në vendosjen e shenjës së shpejtësisë maksimale (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "shpejtësia maksimale",
+      "shenjë",
+      "shenjë e shpejtësisë maksimale",
+      "instalim",
+      "mungesë",
+      "pronari i mjetit"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pronari i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Dështim i pronarit për të vendosur shenjën e detyrueshme të shpejtësisë.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

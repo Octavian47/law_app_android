@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "în timpul a peste 2, dar nu mai mult de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Spațiu de parcare",
+      "Depășire de timp",
+      "Semnalizare",
+      "Durata parcării",
+      "parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 2 și 4 ore",
+    "notes": "Extinderea amenzii 254.b pentru parcare unui vehicul într-o zonă de parcare indicată prin semne sau unde parcarea este rezervată pentru o anumită categorie de vehicule, depășind timpul permis.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "în timpul a peste 4, dar nu mai mult de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Spațiu de parcare",
+      "Depășire de timp",
+      "Semnalizare",
+      "Durata parcării",
+      "parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 4 și 10 ore",
+    "notes": "Extinderea amenzii 254.c pentru parcare unui vehicul într-o zonă de parcare indicată prin semne sau unde parcarea este rezervată pentru o anumită categorie de vehicule, depășind timpul permis.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parcare pe o linie de interdicție de parcare\\na. până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "Linie de interdicție de parcare",
+      "Depășire de timp",
+      "Linie galbenă",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Parcare pe o linie de interdicție de parcare (de obicei galbenă) pentru până la 2 ore.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "în timpul a peste 2, dar nu mai mult de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Linie de interdicție de parcare",
+      "Depășire de timp",
+      "Linie galbenă",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 2 și 4 ore",
+    "notes": "Extinderea amenzii 255.b pentru parcare pe o linie de interdicție de parcare.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "în timpul a peste 4, dar nu mai mult de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Linie de interdicție de parcare",
+      "Depășire de timp",
+      "Linie galbenă",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 4 și 10 ore",
+    "notes": "Extinderea amenzii 255.c pentru parcare pe o linie de interdicție de parcare.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parcare într-o zonă de interdicție de parcare\\na. până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "Zonă de interdicție de parcare",
+      "Depășire de timp",
+      "zonă de interdicție de parcare",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Parcare într-o zonă de interdicție de parcare (de obicei marcată cu o cruce galbenă sau similar) pentru până la 2 ore.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "în timpul a peste 2, dar nu mai mult de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Zonă de interdicție de parcare",
+      "Depășire de timp",
+      "zonă de interdicție de parcare",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 2 și 4 ore",
+    "notes": "Extinderea amenzii 256.b pentru parcare într-o zonă de interdicție de parcare.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "în timpul a peste 4, dar nu mai mult de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Zonă de interdicție de parcare",
+      "Depășire de timp",
+      "zonă de interdicție de parcare",
+      "Interdicție de parcare"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 4 și 10 ore",
+    "notes": "Extinderea amenzii 256.c pentru parcare într-o zonă de interdicție de parcare.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Parcare obstructivă pe o pistă pentru biciclete cu un vehicul nepermis acolo (2.60; Art. 37 para. 2 și 43 para. 2 SVG) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Pistă pentru biciclete",
+      "Obstrucție",
+      "Vehicul",
+      "Bicicletă",
+      "pistă pentru biciclete",
+      "obstrucție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare obstructivă pe o pistă pentru biciclete cu un vehicul nepermis acolo (2.60; Art. 37 para. 2 și 43 para. 2 SVG) până la 60 de minute",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Oprire obstructivă pe o pistă pentru biciclete cu un vehicul nepermis acolo (2.60; Art. 37 para. 2 și 43 para. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Pistă pentru biciclete",
+      "Obstrucție",
+      "Vehicul",
+      "Bicicletă",
+      "pistă pentru biciclete",
+      "obstrucție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pe o pistă pentru biciclete cu un vehicul nepermis acolo.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Parcare obstructivă pe o cale pietonală cu un vehicul nepermis acolo (2.61; Art. 37 para. 2 SVG, Art. 33 para. 2 SSV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "Parcare",
+      "Cale pietonală",
+      "Obstrucție",
+      "Vehicul",
+      "cale pietonală",
+      "obstrucție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Parcare obstructivă pe o cale pietonală cu un vehicul nepermis acolo (2.61; Art. 37 para. 2 SVG, Art. 33 para. 2 SSV) până la 60 de minute",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Oprire obstructivă pe o cale pietonală cu un vehicul nepermis acolo (2.61; Art. 37 para. 2 SVG, Art. 33 para. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Oprire",
+      "Cale pietonală",
+      "Obstrucție",
+      "Vehicul",
+      "cale pietonală",
+      "obstrucție"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": null,
+    "notes": "Oprire obstructivă pe o cale pietonală cu un vehicul nepermis acolo.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parcare într-o zonă pietonală în locuri neînsemnate\\na. până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "Parcare",
+      "Zonă pietonală",
+      "Depășire de timp",
+      "zonă pietonală",
+      "loc neînsemnat"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Parcare într-o zonă pietonală în loc neînsemnat pentru până la 2 ore.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "în timpul a peste 2, dar nu mai mult de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "Parcare",
+      "Zonă pietonală",
+      "Depășire de timp",
+      "zonă pietonală",
+      "loc neînsemnat"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 2 și 4 ore",
+    "notes": "Extinderea amenzii 259.b pentru parcare într-o zonă pietonală în loc neînsemnat.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "în timpul a peste 4, dar nu mai mult de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "Parcare",
+      "Zonă pietonală",
+      "Depășire de timp",
+      "zonă pietonală",
+      "loc neînsemnat"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "între 4 și 10 ore",
+    "notes": "Extinderea amenzii 259.c pentru parcare într-o zonă pietonală în loc neînsemnat.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Depășirea greutății permise după deducerea dispozitivului și incertitudinii de măsurare stabilite de Oficiul Federal al Drumurilor (ASTRA)\\na. cu cel mult 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Greutate",
+      "Depășire",
+      "Greutate permisă",
+      "ASTRA",
+      "Vehicul motorizat",
+      "Supraponderal",
+      "Încărcătură"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "până la 100 kg supraponderal",
+    "notes": "Depășirea limitei de greutate permise pentru vehiculele motorizate, după deducerea toleranței și incertitudinii de măsurare, cu până la 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

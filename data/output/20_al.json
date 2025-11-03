@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Përdorimi i trotuarit pa zbërthyer",
+    "fine_chf": 30,
+    "keywords": [
+      "trotuar",
+      "zbërthim",
+      "biçikletë",
+      "Velo",
+      "shteg këmbësor",
+      "zbërthim"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Drejtues i biçikletës",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i trotuarit/pasazhit pa zbërthyer (zbaton për çiklistët).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Përdorimi i shtigut të biçikletave në drejtimin e ndaluar",
+    "fine_chf": 30,
+    "keywords": [
+      "shteg i biçikletave",
+      "drejtim i ndaluar",
+      "Velo",
+      "rrjedhë kundërt",
+      "shteg i biçikletave"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Drejtues i biçikletës",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i shtigut të biçikletave në drejtimin e gabuar.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Përdorimi i korridorit të biçikletave në drejtimin e ndaluar",
+    "fine_chf": 30,
+    "keywords": [
+      "korridor i biçikletave",
+      "drejtim i ndaluar",
+      "Velo",
+      "rrjedhë kundërt",
+      "korridor i biçikletave"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Drejtues i biçikletës",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i korridorit të biçikletave në drejtimin e gabuar.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Mungesa e ndalimit të plotë në sinjalet e ndalimit (ndalim i rrëshqitshëm) (3.01; Art. 27 para. 1 SVG dhe Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "sinjal ndalimi",
+      "ndalim i rrëshqitshëm",
+      "ndalim",
+      "rregulla të trafikut",
+      "shenjë ndalimi",
+      "mos ndalimi"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e ndalimit të plotë (Ndalim i rrëshqitshëm).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Mungesa e respektimit të sinjalit të semaforit",
+    "fine_chf": 60,
+    "keywords": [
+      "sinjal i dritës",
+      "shpërfillje",
+      "dritë e kuqe",
+      "semafor",
+      "mos respektim",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shpërfillja e semaforit (zakonisht i referohet kalimit në të kuq/të verdhë).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Mungesa e respektimit të sinjalit 'dritë pulsante alternuese' (3.20) ose të sinjalit 'dritë pulsante e thjeshtë' (3.21; Art. 28 SVG, Art. 68 para. 1 et seq. dhe Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sinjal dritë pulsante alternuese",
+      "sinjal dritë pulsante e thjeshtë",
+      "shpërfillje",
+      "dritë pulsante",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e respektimit të sinjaleve të veçanta pulsante (p.sh., kalimet hekurudhore).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Shkelja e rendit të një lane të vetëm duke shpërfillur shigjetën e drejtimit të shënuar dhe shigjetën kontur të sistemit të semaforit",
+    "fine_chf": 30,
+    "keywords": [
+      "rend i lane të vetëm",
+      "shigjetë drejtimi",
+      "shigjetë kontur",
+      "shpërfillje",
+      "disiplinë lane",
+      "sinjalizim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelja e disiplinës së lane duke shpërfillur shigjetat e shënuara të drejtimit ose kontur pranë semaforëve.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Mungesa e vazhdimit të drejtimit në drejtimin e shigjetës",
+    "fine_chf": 30,
+    "keywords": [
+      "drejtim i shigjetës",
+      "vazhdim i drejtimit",
+      "korridor",
+      "drejtim i korridorit",
+      "rrjedhë trafiku"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e vazhdimit të drejtimit në drejtimin e shënuar nga shigjeta e korridorit.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Mungesa e dhënies së sinjalit me dorë ose tregimit të drejtimit kur kthehet djathtas",
+    "fine_chf": 20,
+    "keywords": [
+      "sinjal me dorë",
+      "tregim drejtimi",
+      "kthim djathtas",
+      "sinjal kthimi",
+      "sinjalizim",
+      "kthim djathtas"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e sinjalizimit kur kthehet djathtas.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Mungesa e dhënies së sinjalit me dorë ose tregimit të drejtimit kur kthehet majtas",
+    "fine_chf": 30,
+    "keywords": [
+      "sinjal me dorë",
+      "tregim drejtimi",
+      "kthim majtas",
+      "sinjal kthimi",
+      "sinjalizim",
+      "kthim majtas"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e sinjalizimit kur kthehet majtas.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Mungesa e dhënies së sinjalit me dorë ose tregimit të drejtimit kur kalon",
+    "fine_chf": 20,
+    "keywords": [
+      "sinjal me dorë",
+      "tregim drejtimi",
+      "kalim",
+      "sinjal kalimi",
+      "sinjalizim",
+      "kalim"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e sinjalizimit kur kalon.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Kalimi mbi ose kalimi përtej një linje sigurie brenda zonës së ndërtuar",
+    "fine_chf": 40,
+    "keywords": [
+      "linjë sigurie",
+      "kalim mbi",
+      "kalim përtej",
+      "brenda zonës së ndërtuar",
+      "linjë e ngurtë",
+      "disiplinë trafiku"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Kalimi përtej një linje të bardhë të ngurtë (pa kalim/kryqëzim) brenda një zone të ndërtuar.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Kalimi në korridor autobusi të rezervuar pa autorizim",
+    "fine_chf": 30,
+    "keywords": [
+      "korridor autobusi",
+      "kalim",
+      "i ndaluar",
+      "korridor autobusi",
+      "qasje e kufizuar"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Drejtues i mjetit (pa autorizim)"
+    ],
+    "conditions": null,
+    "notes": "Kalimi në korridor autobusi të rezervuar pa autorizim.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Kalimi në shtig që nuk është i përshtatshëm për biçikleta, motoçikleta dhe rikshaj elektrik ose qartë nuk është i destinuar për to",
+    "fine_chf": 30,
+    "keywords": [
+      "përdorim i shtigut",
+      "i papërshtatshëm",
+      "biçikletë",
+      "motoçikletë",
+      "rikshaj elektrik",
+      "shtig i papërshtatshëm",
+      "qasje e kufizuar"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Çiklist",
+      "Drejtues i motoçikletës",
+      "Drejtues i rikshajit elektrik"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një shtigje qartë të papërshtatshme ose jo e destinuar për biçikleta/mopeda/rikshaj elektrike.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Mungesa e përdorimit të shtigut të biçikletave",
+    "fine_chf": 30,
+    "keywords": [
+      "shtig i biçikletave",
+      "mospërdorim",
+      "përdorim i detyrueshëm",
+      "përdorim i detyrueshëm",
+      "shtig i biçikletave"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e përdorimit të një shtigje të detyrueshme për biçikleta.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Mungesa e përdorimit të korridorit të biçikletave",
+    "fine_chf": 30,
+    "keywords": [
+      "korridor i biçikletave",
+      "mospërdorim",
+      "përdorim i detyrueshëm",
+      "përdorim i detyrueshëm",
+      "korridor i biçikletave"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Çiklist"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e përdorimit të një korridori të detyrueshëm për biçikleta.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parkimi ose ndalimi i një biçiklete, motoçiklete ose rikshaj elektrik ku ndalimi ose parkimi është i ndaluar nga rregullat e përgjithshme të trafikut",
+    "fine_chf": 20,
+    "keywords": [
+      "parkim i ndaluar",
+      "ndalim i ndaluar",
+      "biçikletë",
+      "motoçikletë",
+      "rikshaj elektrik",
+      "ndalimi i parkimit",
+      "rregullat e përgjithshme të trafikut"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Çiklist",
+      "Drejtues i motoçikletës",
+      "Drejtues i rikshajit elektrik"
+    ],
+    "conditions": null,
+    "notes": "Parkimi/ndalimi i ndaluar nga rregullat e përgjithshme (jo nga sinjalet).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parkimi ose ndalimi i një biçiklete, motoçiklete ose rikshaj elektrik ku ndalimi ose parkimi është i ndaluar nga sinjalet",
+    "fine_chf": 20,
+    "keywords": [
+      "parkim i ndaluar",
+      "ndalim i ndaluar",
+      "sinjale",
+      "biçikletë",
+      "motoçikletë",
+      "rikshaj elektrik",
+      "ndalimi i parkimit",
+      "shenja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Çiklist",
+      "Drejtues i motoçikletës",
+      "Drejtues i rikshajit elektrik"
+    ],
+    "conditions": null,
+    "notes": "Parkimi/ndalimi i ndaluar nga sinjalet specifike të trafikut.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

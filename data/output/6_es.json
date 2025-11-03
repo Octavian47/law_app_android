@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Detención en el carril de emergencia de una autopista, excepto para parada de emergencia.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "carril de emergencia",
+      "autopista",
+      "parada de emergencia",
+      "detención",
+      "carril de emergencia",
+      "autopista"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en el arcén de una autopista, excepto en una emergencia.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Estacionamiento en la acera donde las señales o marcas no lo permiten expresamente, sin dejar un espacio libre de 1,5 m de ancho para peatones.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "acera",
+      "peatón",
+      "1,5 m",
+      "espacio libre",
+      "estacionamiento",
+      "acera",
+      "peatón"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la acera sin permiso expreso, y dejando menos de 1,5 m de espacio libre para peatones.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Detención en la acera sin dejar un espacio libre de 1,5 m de ancho para peatones.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "acera",
+      "peatón",
+      "1,5 m",
+      "espacio libre",
+      "detención",
+      "acera",
+      "peatón"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en la acera y dejando menos de 1,5 m de espacio libre para peatones.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Estacionamiento en franjas longitudinales para peatones, obstruyendo el tráfico peatonal.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "franja longitudinal",
+      "peatón",
+      "obstrucción",
+      "estacionamiento",
+      "franja longitudinal",
+      "peatón",
+      "acceso para discapacitados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en franjas longitudinales para peatones discapacitados, obstruyendo el tráfico peatonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Detención en franjas longitudinales para peatones, obstruyendo el tráfico peatonal.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "franja longitudinal",
+      "peatón",
+      "obstrucción",
+      "detención",
+      "franja longitudinal",
+      "peatón",
+      "acceso para discapacitados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en franjas longitudinales para peatones discapacitados, obstruyendo el tráfico peatonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento dentro de una zona señalizada de no detenerse.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "no detenerse",
+      "señal",
+      "estacionamiento",
+      "no detenerse",
+      "zona señalizada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento dentro de una zona señalizada de no detenerse.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Detención dentro de una zona señalizada de no detenerse.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "no detenerse",
+      "señal",
+      "detención",
+      "no detenerse",
+      "zona señalizada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención dentro de una zona señalizada de no detenerse.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Estacionamiento en un carril bus.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "carril bus",
+      "autobús",
+      "estacionamiento",
+      "carril bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en un carril bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Detención en un carril bus.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "carril bus",
+      "autobús",
+      "detención",
+      "carril bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un carril bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Estacionamiento en una zona de exhibición.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "zona de exhibición",
+      "estacionamiento",
+      "zona de exhibición",
+      "exhibición de vehículos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en una zona de exhibición de vehículos.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Detención en una zona de exhibición.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "zona de exhibición",
+      "detención",
+      "zona de exhibición",
+      "exhibición de vehículos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en una zona de exhibición de vehículos.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Estacionamiento en una zona de descanso para vehículos averiados.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "zona de descanso",
+      "vehículos averiados",
+      "estacionamiento",
+      "zona de descanso",
+      "vehículos averiados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en una zona de descanso para vehículos averiados.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Detención en una zona de descanso para vehículos averiados.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "zona de descanso",
+      "vehículos averiados",
+      "detención",
+      "zona de descanso",
+      "vehículos averiados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en una zona de descanso para vehículos averiados.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento en la línea de no detenerse antes de un cruce peatonal.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "línea de no detenerse",
+      "cruce peatonal",
+      "estacionamiento",
+      "línea de no detenerse",
+      "cruce peatonal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la línea de no detenerse antes de un cruce peatonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Detención en la línea de no detenerse antes de un cruce peatonal.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "línea de no detenerse",
+      "cruce peatonal",
+      "detención",
+      "línea de no detenerse",
+      "cruce peatonal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en la línea de no detenerse antes de un cruce peatonal.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento en la calzada a menos de 5 m antes de un cruce peatonal donde no hay línea de no detenerse instalada.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "calzada",
+      "5 m",
+      "cruce peatonal",
+      "estacionamiento",
+      "calzada",
+      "cruce peatonal",
+      "espacio libre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la calzada a menos de 5 m antes de un cruce peatonal donde no hay línea de no detenerse.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Detención en la calzada a menos de 5 m antes de un cruce peatonal donde no hay línea de no detenerse instalada.",
+    "fine_chf": 80,
+    "keywords": [
+      "detención",
+      "calzada",
+      "5 m",
+      "cruce peatonal",
+      "detención",
+      "calzada",
+      "cruce peatonal",
+      "espacio libre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en la calzada a menos de 5 m antes de un cruce peatonal donde no hay línea de no detenerse.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento en la acera antes de un cruce peatonal junto a una línea de no detenerse.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamiento",
+      "acera",
+      "cruce peatonal",
+      "línea de no detenerse",
+      "estacionamiento",
+      "acera",
+      "cruce peatonal",
+      "línea de no detenerse"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la acera antes de un cruce peatonal junto a una línea de no detenerse.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

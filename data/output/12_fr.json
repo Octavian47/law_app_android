@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Interdiction de demi-tour (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Interdiction de demi-tour",
+      "Demi-tour interdit",
+      "Signal 2.46",
+      "Virage",
+      "Signal réglementaire"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Chaînes à neige obligatoires (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Chaînes à neige",
+      "obligatoire",
+      "Chaînes à neige",
+      "obligatoire",
+      "Signal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Zone piétonne (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zone piétonne",
+      "zone piétonne",
+      "Entrée interdite",
+      "Signal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Entrée non autorisée dans la zone piétonne.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Voie cyclable (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Voie cyclable",
+      "voie cyclable",
+      "Conduite interdite",
+      "Signal 2.60",
+      "Conduite interdite"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule (sauf vélos)"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un chemin réservé exclusivement aux vélos.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Chemin piéton (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Chemin piéton",
+      "chemin piéton",
+      "Conduite interdite",
+      "Signal 2.61",
+      "Conduite interdite"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule (sauf piétons)"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un chemin réservé exclusivement aux piétons.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Voie mixte vélo-piéton (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Voie mixte vélo-piéton",
+      "Chemin combiné",
+      "Conduite interdite",
+      "Signal 2.63",
+      "Conduite interdite"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule (sauf vélos/piétons)"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'une voie réservée aux vélos et aux piétons.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Interdiction de remorques sauf pour remorques à selle et à essieu central (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Interdiction de remorque",
+      "Interdiction de remorque",
+      "Remorque à selle",
+      "Remorque à essieu central",
+      "Signal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule (avec remorque)"
+    ],
+    "conditions": null,
+    "notes": "Conduite avec un type de remorque interdit.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Non-respect du signal réglementaire « Interdiction de dépasser pour les camions » sur autoroutes (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Interdiction de dépassement",
+      "Camion",
+      "Autoroute",
+      "Camion",
+      "Interdiction de dépassement",
+      "Signal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de camion"
+    ],
+    "conditions": null,
+    "notes": "Dépassement illégal par un camion sur autoroute où il est interdit.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Conduite sur voie de tram",
+    "fine_chf": 60,
+    "keywords": [
+      "Voie de tram",
+      "Voie de tram",
+      "Conduite interdite",
+      "Voies spéciales",
+      "Voies de tram"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Violation de la discipline de voie en ignorant la flèche de direction marquée",
+    "fine_chf": 100,
+    "keywords": [
+      "Discipline de voie",
+      "Flèche de direction",
+      "Marquage routier",
+      "Discipline de voie",
+      "Flèche marquée",
+      "Ignorer"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer les flèches de voie / la discipline.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Violation de la discipline de voie en ignorant la flèche de contour du système de feux de signalisation",
+    "fine_chf": 100,
+    "keywords": [
+      "Discipline de voie",
+      "Flèche de contour",
+      "Système de feux de signalisation",
+      "Feu de signalisation",
+      "Flèche de signal",
+      "Discipline de voie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer la flèche de direction affichée dans les feux de signalisation.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Non-respect de la direction de la flèche (y compris le franchissement possible d'une ligne de sécurité séparant les voies dans la même direction [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Direction de la flèche",
+      "Non-respect de la poursuite de conduite",
+      "Ligne de sécurité",
+      "Direction obligatoire",
+      "Ligne continue",
+      "Franchissement"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ne pas suivre la direction obligatoire de la voie indiquée par une flèche (y compris le franchissement d'une ligne continue pour l'éviter).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Violation de la discipline de voie en ignorant le regroupement en forme de zip",
+    "fine_chf": 100,
+    "keywords": [
+      "Discipline de voie",
+      "Regroupement en forme de zip",
+      "Regroupement",
+      "Regroupement en forme de zip",
+      "Fin de voie",
+      "Ignorer"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ne pas effectuer le regroupement en forme de zip lorsque les voies se terminent.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 1 SSV",
+    "law_text": "Conduite dans une voie de bus",
+    "fine_chf": 60,
+    "keywords": [
+      "Voie de bus",
+      "Voie de bus",
+      "Voie spéciale",
+      "Utilisation non autorisée"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule (sauf bus)"
+    ],
+    "conditions": null,
+    "notes": "Conduite dans une voie de bus marquée.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Conduite sur une voie de bus",
+    "fine_chf": 60,
+    "keywords": [
+      "Voie de bus",
+      "Voie de bus",
+      "Voie spéciale",
+      "Utilisation non autorisée"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule (sauf bus)"
+    ],
+    "conditions": null,
+    "notes": "Conduite sur une route/chemin de bus désigné (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Arrêt incomplet aux signaux d'arrêt (roulage) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Signal d'arrêt",
+      "Arrêt roulant",
+      "Arrêt",
+      "Panneau d'arrêt",
+      "Défaut d'arrêt",
+      "Signal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Un « arrêt roulant » où le véhicule ne s'arrête pas complètement à la ligne d'arrêt.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Non-respect d'un feu de signalisation",
+    "fine_chf": 250,
+    "keywords": [
+      "Feu de signalisation",
+      "Feu rouge",
+      "Feu de signalisation",
+      "Ignorer",
+      "Feu rouge",
+      "Signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Infraction générale pour le non-respect d'un feu rouge ou d'une violation équivalente du signal de circulation.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Non-respect d'un « signal lumineux clignotant alterné » (3.20) ou d'un « signal lumineux clignotant simple » (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Signal lumineux clignotant alterné",
+      "Signal lumineux clignotant simple",
+      "Signal clignotant",
+      "Passage à niveau",
+      "Passage à niveau",
+      "Signal 3.20",
+      "Signal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer les avertissements clignotants, généralement utilisés aux passages à niveau ou aux points de danger critiques.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Franchissement d'une voie cyclable marquée d'une ligne continue",
+    "fine_chf": 60,
+    "keywords": [
+      "Voie cyclable",
+      "Ligne continue",
+      "Voie cyclable",
+      "Ligne solide",
+      "Franchissement interdit",
+      "Franchissement"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule (sauf vélos)"
+    ],
+    "conditions": null,
+    "notes": "Franchissement ou conduite sur une voie cyclable marquée par une ligne blanche solide.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

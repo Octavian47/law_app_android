@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Fermarsi con un veicolo a motore su autostrade e superstrade quando il veicolo si è fermato sulla corsia di emergenza o in un'area di sosta per veicoli guasti a causa di mancanza di carburante o energia elettrica.",
+    "fine_chf": 120,
+    "keywords": [
+      "autostrada",
+      "superstrada",
+      "corsia di emergenza",
+      "carenza di carburante",
+      "fermo",
+      "corsia di emergenza",
+      "senza carburante"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Veicolo a motore"
+    ],
+    "conditions": null,
+    "notes": "Fermata a causa di mancanza di carburante o energia elettrica.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Superare o attraversare una linea di sicurezza nelle aree urbane.",
+    "fine_chf": 140,
+    "keywords": [
+      "linea di sicurezza",
+      "attraversamento",
+      "area urbana",
+      "linea continua",
+      "area urbana"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Attraversamento di una linea di sicurezza continua all'interno di un'area urbana.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Superare o attraversare un'area riservata nelle aree urbane.",
+    "fine_chf": 140,
+    "keywords": [
+      "area riservata",
+      "attraversamento",
+      "area urbana",
+      "area riservata",
+      "area urbana"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Attraversamento di un'area riservata segnata (Sperrfläche) all'interno di un'area urbana.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Mancata presenza del triangolo di emergenza.",
+    "fine_chf": 40,
+    "keywords": [
+      "non-portare",
+      "triangolo di emergenza",
+      "attrezzatura",
+      "attrezzatura",
+      "triangolo di emergenza"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Mancata presenza di un cuneo per ruote sui veicoli a motore pesanti.",
+    "fine_chf": 40,
+    "keywords": [
+      "non-portare",
+      "cuneo per ruote",
+      "veicolo pesante",
+      "attrezzatura",
+      "cuneo per ruote",
+      "veicolo pesante"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Veicoli a motore pesanti"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Mancata presenza del kit di pronto soccorso a bordo sui pullman.",
+    "fine_chf": 40,
+    "keywords": [
+      "non-portare",
+      "kit di pronto soccorso",
+      "pullman",
+      "pullman",
+      "kit di pronto soccorso",
+      "pullman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "pullman"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Mancata presenza di un estintore richiesto.",
+    "fine_chf": 40,
+    "keywords": [
+      "non-portare",
+      "estintore",
+      "ADR",
+      "merci pericolose",
+      "attrezzatura",
+      "estintore"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo",
+      "trasporto di merci pericolose"
+    ],
+    "conditions": null,
+    "notes": "Spesso rilevante per il trasporto commerciale o di merci pericolose.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Mancata presenza di un cuneo per ruote sui rimorchi il cui peso totale supera 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "non-portare",
+      "cuneo per ruote",
+      "rimorchio",
+      "peso totale",
+      "rimorchio",
+      "cuneo per ruote"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Rimorchio > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Gestire o parcheggiare un veicolo con le targhe di controllo non installate secondo le normative.",
+    "fine_chf": 60,
+    "keywords": [
+      "targhe di controllo",
+      "targa",
+      "installazione",
+      "parcheggio",
+      "targa",
+      "installazione non corretta"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Veicolo parcheggiato"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Gestire un veicolo a motore con pneumatico difettoso.",
+    "fine_chf": 100,
+    "keywords": [
+      "veicolo a motore",
+      "pneumatico difettoso",
+      "pneumatico",
+      "pneumatico difettoso",
+      "manutenzione",
+      "difetto del veicolo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Veicolo a motore"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Trasportare un rimorchio con pneumatico difettoso.",
+    "fine_chf": 100,
+    "keywords": [
+      "rimorchio",
+      "pneumatico difettoso",
+      "pneumatico",
+      "pneumatico difettoso",
+      "rimorchio",
+      "manutenzione"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Rimorchio"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Guidare con pneumatici chiodati senza o con una targa di velocità installata in modo non corretto.",
+    "fine_chf": 20,
+    "keywords": [
+      "pneumatici chiodati",
+      "targa di velocità",
+      "pneumatici invernali",
+      "pneumatici chiodati",
+      "targa di velocità",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancanza o errata targa/adesivo di velocità richiesto quando si usano pneumatici chiodati.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Uso di pneumatici chiodati al di fuori del periodo in cui sono consentiti.",
+    "fine_chf": 60,
+    "keywords": [
+      "pneumatici chiodati",
+      "uso",
+      "fuori dal periodo",
+      "divieto",
+      "pneumatici chiodati",
+      "regola stagionale"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di pneumatici chiodati al di fuori della stagione legalmente consentita.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Guidare con la targa di velocità anche se non si usano pneumatici chiodati.",
+    "fine_chf": 20,
+    "keywords": [
+      "pneumatici chiodati",
+      "targa di velocità",
+      "attrezzatura errata",
+      "violazione dell'attrezzatura",
+      "targa di velocità"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Esposizione dell'adesivo di velocità richiesto per pneumatici chiodati quando il veicolo non è dotato di essi.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Uso di un veicolo con un dispositivo acustico di avviso non autorizzato.",
+    "fine_chf": 40,
+    "keywords": [
+      "dispositivo acustico di avviso",
+      "clacson",
+      "non autorizzato",
+      "sirena",
+      "clacson",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di un veicolo con un clacson o dispositivo di avviso non approvato.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

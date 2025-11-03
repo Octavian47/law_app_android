@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "více než 2, ale ne více než 4 hodin",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "Parkovací místo",
+      "Překročení",
+      "Značení",
+      "Délka parkování",
+      "parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 2 a 4 hodinami",
+    "notes": "Rozšíření pokuty 254.b za parkování vozidla v parkovací oblasti označené značkami nebo kde je parkování vyhrazeno pro určitou kategorii vozidel, překračující povolenou dobu.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "více než 4, ale ne více než 10 hodin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "Parkovací místo",
+      "Překročení",
+      "Značení",
+      "Délka parkování",
+      "parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 4 a 10 hodinami",
+    "notes": "Rozšíření pokuty 254.c za parkování vozidla v parkovací oblasti označené značkami nebo kde je parkování vyhrazeno pro určitou kategorii vozidel, překračující povolenou dobu.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkování na lince zakázaného parkování\\na. až do 2 hodin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "Čára zakázaného parkování",
+      "Překročení",
+      "Žlutá čára",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až do 2 hodin",
+    "notes": "Parkování na lince zakázaného parkování (obvykle žluté) až do 2 hodin.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "více než 2, ale ne více než 4 hodin",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "Čára zakázaného parkování",
+      "Překročení",
+      "Žlutá čára",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 2 a 4 hodinami",
+    "notes": "Rozšíření pokuty 255.b za parkování na lince zakázaného parkování.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "více než 4, ale ne více než 10 hodin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "Čára zakázaného parkování",
+      "Překročení",
+      "Žlutá čára",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 4 a 10 hodinami",
+    "notes": "Rozšíření pokuty 255.c za parkování na lince zakázaného parkování.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkování v zóně zakázaného parkování\\na. až do 2 hodin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "Zóna zakázaného parkování",
+      "Překročení",
+      "zóna zakázaného parkování",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až do 2 hodin",
+    "notes": "Parkování v oblasti zakázaného parkování (obvykle označené žlutým křížovým vzorem nebo podobně) až do 2 hodin.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "více než 2, ale ne více než 4 hodin",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "Zóna zakázaného parkování",
+      "Překročení",
+      "zóna zakázaného parkování",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 2 a 4 hodinami",
+    "notes": "Rozšíření pokuty 256.b za parkování v oblasti zakázaného parkování.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "více než 4, ale ne více než 10 hodin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "Zóna zakázaného parkování",
+      "Překročení",
+      "zóna zakázaného parkování",
+      "Zákaz parkování"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 4 a 10 hodinami",
+    "notes": "Rozšíření pokuty 256.c za parkování v oblasti zakázaného parkování.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Zakázané parkování na cyklostezce vozidlem, které tam není povoleno (2.60; Art. 37 Abs. 2 a 43 Abs. 2 SVG) až do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "Cyklostezka",
+      "Překážka",
+      "Vozidlo",
+      "Kolo",
+      "Cyklistická cesta",
+      "překážka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až do 60 minut",
+    "notes": "Zakázané parkování na cyklostezce vozidlem, které tam není povoleno, až do 60 minut.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Zakázané zastavení na cyklostezce vozidlem, které tam není povoleno (2.60; Art. 37 Abs. 2 a 43 Abs. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Cyklostezka",
+      "Překážka",
+      "Vozidlo",
+      "Kolo",
+      "Cyklistická cesta",
+      "překážka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Zakázané zastavení na cyklostezce vozidlem, které tam není povoleno.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Zakázané parkování na pěší zóně vozidlem, které tam není povoleno (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV) až do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkování",
+      "Pěší cesta",
+      "Překážka",
+      "Vozidlo",
+      "pěší cesta",
+      "překážka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až do 60 minut",
+    "notes": "Zakázané parkování na pěší cestě vozidlem, které tam není povoleno, až do 60 minut.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Zakázané zastavení na pěší cestě vozidlem, které tam není povoleno (2.61; Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavení",
+      "Pěší cesta",
+      "Překážka",
+      "Vozidlo",
+      "pěší cesta",
+      "překážka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Zakázané zastavení na pěší cestě vozidlem, které tam není povoleno.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkování v pěší zóně na neoznačených místech\\na. až do 2 hodin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkování",
+      "Pěší zóna",
+      "Překročení",
+      "pěší zóna",
+      "neoznačené místo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "až do 2 hodin",
+    "notes": "Parkování v pěší zóně na neoznačeném místě až do 2 hodin.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "více než 2, ale ne více než 4 hodin",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkování",
+      "Pěší zóna",
+      "Překročení",
+      "pěší zóna",
+      "neoznačené místo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 2 a 4 hodinami",
+    "notes": "Rozšíření pokuty 259.b za parkování v pěší zóně na neoznačeném místě.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "více než 4, ale ne více než 10 hodin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkování",
+      "Pěší zóna",
+      "Překročení",
+      "pěší zóna",
+      "neoznačené místo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": "mezi 4 a 10 hodinami",
+    "notes": "Rozšíření pokuty 259.c za parkování v pěší zóně na neoznačeném místě.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Překročení povolené hmotnosti po odečtení zařízení a měřicí nejistoty stanovené Federálním úřadem pro silnice (ASTRA)\\na. nejvíce o 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Hmotnost",
+      "Překročení",
+      "Povolená hmotnost",
+      "ASTRA",
+      "Motorové vozidlo",
+      "přetížený",
+      "náklad"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič motorového vozidla"
+    ],
+    "conditions": "až o 100 kg přetížení",
+    "notes": "Překročení povoleného limitu hmotnosti pro motorová vozidla po odečtení tolerance a měřicí nejistoty, až o 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

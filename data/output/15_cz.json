@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Jízda na nouzovém pruhu dálnic nebo rychlostních silnic",
+    "fine_chf": 140,
+    "keywords": [
+      "nouzový pruh",
+      "dálnice",
+      "rychlostní silnice",
+      "nouzový pruh",
+      "dálnice"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Použití nejvzdálenějšího levého pruhu na dálnicích s alespoň třemi pruhy ve stejném směru motorovými vozidly, která nesmí překročit 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "levý pruh",
+      "dálnice",
+      "rychlost",
+      "100 km/h",
+      "použití pruhu",
+      "dálnice"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorová vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Nedodržení vytvoření záchranného pruhu",
+    "fine_chf": 100,
+    "keywords": [
+      "záchranný pruh",
+      "povinnost",
+      "nouzový koridor",
+      "záchranné vozidlo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Způsobení překážky na podélném pruhu pro chodce",
+    "fine_chf": 60,
+    "keywords": [
+      "chodci",
+      "podélný pruh",
+      "překážka",
+      "pěší pruh",
+      "překážka"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s registračními značkami, které nejsou snadno čitelné",
+    "fine_chf": 60,
+    "keywords": [
+      "registrační značky",
+      "registrační značka",
+      "čitelné",
+      "registrační značka",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Přeprava osoby přesahující povolený počet míst k sezení",
+    "fine_chf": 60,
+    "keywords": [
+      "přebytečný pasažér",
+      "místa k sezení",
+      "přetížení",
+      "pasažér",
+      "kapacita"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jeden pasažér přesahuje povolený počet míst.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nerespektování zákazu noční jízdy\na. až do jedné hodiny",
+    "fine_chf": 100,
+    "keywords": [
+      "zákaz noční jízdy",
+      "zákaz noční jízdy",
+      "doprava",
+      "doba"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla (těžká motorová vozidla)"
+    ],
+    "conditions": "až do jedné hodiny",
+    "notes": "Porušení zákazu noční jízdy pro těžká nákladní vozidla (obvykle).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nerespektování zákazu noční jízdy\nb. více než jedna, ale ne více než 2 hodiny",
+    "fine_chf": 200,
+    "keywords": [
+      "zákaz noční jízdy",
+      "zákaz noční jízdy",
+      "doprava",
+      "doba"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla (těžká motorová vozidla)"
+    ],
+    "conditions": "více než 1 hodina, ale ne více než 2 hodiny",
+    "notes": "Porušení zákazu noční jízdy pro těžká nákladní vozidla (obvykle).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými registračními značkami kvůli\n1. nákladu",
+    "fine_chf": 60,
+    "keywords": [
+      "registrační značka",
+      "zakrytý",
+      "náklad",
+      "náklad",
+      "zakrytý",
+      "registrační značka"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Registrační značka zakryta nákladem.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými registračními značkami kvůli\n2. nosiči nákladu",
+    "fine_chf": 60,
+    "keywords": [
+      "registrační značka",
+      "zakrytý",
+      "nosič nákladu",
+      "držák na kola",
+      "zakrytý",
+      "nosič"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Registrační značka zakryta nosičem nákladu (např. držákem na kola).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými registračními značkami kvůli\n3. nástrojům a podobnému",
+    "fine_chf": 60,
+    "keywords": [
+      "registrační značka",
+      "zakrytý",
+      "nástroje",
+      "nástroje",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Registrační značka zakryta připevněnými pracovními nástroji.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými světly kvůli\n1. nákladu",
+    "fine_chf": 60,
+    "keywords": [
+      "osvětlení",
+      "zakrytý",
+      "náklad",
+      "světla",
+      "zakrytý",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Světelný zařízení zakryto nákladem.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými světly kvůli\n2. nosiči nákladu",
+    "fine_chf": 60,
+    "keywords": [
+      "osvětlení",
+      "zakrytý",
+      "nosič nákladu",
+      "světla",
+      "zakrytý",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Světelný zařízení zakryto nosičem nákladu.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jízda s zakrytými světly kvůli\n3. nástrojům a podobnému",
+    "fine_chf": 60,
+    "keywords": [
+      "osvětlení",
+      "zakrytý",
+      "nástroje",
+      "světla",
+      "zakrytý",
+      "vybavení"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Světelný zařízení zakryto připevněnými pracovními nástroji.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zastavení na přechodu pro chodce během dopravní zácpy",
+    "fine_chf": 60,
+    "keywords": [
+      "zastavení",
+      "přechod pro chodce",
+      "dopravní zácpa",
+      "přechod pro chodce",
+      "zastavení",
+      "zácpa"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "během dopravní zácpy",
+    "notes": "Zablokování přechodu během dopravní zácpy.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zastavení na křižovatce na vozovce pro protijízdný provoz během dopravní zácpy",
+    "fine_chf": 60,
+    "keywords": [
+      "zastavení",
+      "křižovatka",
+      "protijízdný provoz",
+      "dopravní zácpa",
+      "křižovatka",
+      "zastavení"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": "během dopravní zácpy",
+    "notes": "Zablokování oblasti křižovatky určené pro protijízdný provoz během zácpy.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nedání přednosti na přechodu pro chodce",
+    "fine_chf": 140,
+    "keywords": [
+      "přednost v jízdě",
+      "přechod pro chodce",
+      "přednost v jízdě",
+      "priorita",
+      "přechod pro chodce"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedání přednosti chodcům na vyznačeném přechodu.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Neoprávněná přeprava osoby na vozidlech pro přepravu zboží a na zemědělských a lesnických vozidlech",
+    "fine_chf": 60,
+    "keywords": [
+      "přeprava",
+      "přeprava zboží",
+      "zemědělská vozidla",
+      "zemědělská vozidla",
+      "přeprava pasažérů"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněná přeprava pasažérů na vozidlech určených pro zboží nebo lesnické/zemědělské účely.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Jízda na pěší zóně s motorovým vozíkem nebo elektrickým stojacím skútr osobou bez postižení",
+    "fine_chf": 40,
+    "keywords": [
+      "pěší zóna",
+      "motorový vozík",
+      "elektrický stojací skútr",
+      "elektrický skútr",
+      "postižení mobility",
+      "pěší oblast"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Osoba bez postižení"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněné používání pomůcek (vozíku/skútru) na pěších cestách osobami bez postižení.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

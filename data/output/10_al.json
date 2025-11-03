@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "për automjete dhe kombinime të automjeteve me peshë totale ose peshë totale të tërhequr jo më shumë se 3500 kg, duke e tejkaluar me më shumë se 100 kg, por jo më shumë se 5 përqind.",
+    "fine_chf": 200,
+    "keywords": [
+      "peshë bruto",
+      "mbingarkesë",
+      "kombinim i automjeteve",
+      "peshë e lejuar",
+      "mbingarkesë",
+      "peshë bruto"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Kombinim i automjeteve"
+    ],
+    "conditions": null,
+    "notes": "Peshë e tepërt: >100 kg, por <= 5% mbi peshën maksimale bruto (<= 3500 kg). Gjoba zbatohet për pikën 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "për automjete dhe kombinime të automjeteve me peshë totale ose peshë totale të tërhequr më shumë se 3500 kg, duke e tejkaluar me më shumë se 100 kg deri në 5 përqind, por jo më shumë se 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "peshë bruto",
+      "mbingarkesë",
+      "kombinim i automjeteve",
+      "trafik i rëndë",
+      "mbingarkesë",
+      "automjet i rëndë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Automjete të rënda"
+    ],
+    "conditions": null,
+    "notes": "Peshë e tepërt: >100 kg dhe <= 1000 kg, por <= 5% mbi peshën maksimale bruto (> 3500 kg). Gjoba zbatohet për pikën 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "jo më shumë se 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "ngarkesë në bosht",
+      "mbingarkesë",
+      "peshë e lejuar",
+      "ngarkesë në bosht",
+      "mbingarkesë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Tejkalimi i ngarkesës së lejuar në bosht (pas zbritjes së tolerancës matëse), deri në 100 kg. Gjoba zbatohet për pikën 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "për automjete me peshë totale më shumë se 3500 kg, duke e tejkaluar me më shumë se 100 kg, por jo më shumë se 2 përqind.",
+    "fine_chf": 250,
+    "keywords": [
+      "ngarkesë në bosht",
+      "mbingarkesë",
+      "trafik i rëndë",
+      "ngarkesë në bosht",
+      "automjet i rëndë",
+      "mbingarkesë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Automjete të rënda"
+    ],
+    "conditions": null,
+    "notes": "Tejkalimi i ngarkesës së lejuar në bosht (>100 kg, por <= 2% mbi kufirin) për automjete > 3500 kg. Gjoba zbatohet për pikën 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "me më shumë se 2 përqind, por jo më shumë se 5 përqind",
+    "fine_chf": 40,
+    "keywords": [
+      "peshë e lejuar",
+      "mbingarkesë",
+      "ngarkesë në bosht",
+      "peshë bruto",
+      "ngarkesë në bosht",
+      "kombinim i automjeteve"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Tejkalimi i peshës totale të lejuar/peshës së kombinimit (pas zbritjes së tolerancës matëse) me >2% por <=5%. Gjoba zbatohet për pikën 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "me më shumë se 5 përqind",
+    "fine_chf": 100,
+    "keywords": [
+      "peshë e lejuar",
+      "mbingarkesë",
+      "ngarkesë në bosht",
+      "peshë bruto",
+      "ngarkesë në bosht",
+      "kombinim i automjeteve"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Tejkalimi i peshës totale të lejuar/peshës së kombinimit (pas zbritjes së tolerancës matëse) me >5%. Gjoba zbatohet për pikën 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Kalimi i një motoçiklete në trotuar",
+    "fine_chf": 100,
+    "keywords": [
+      "motoçikletë",
+      "trotuar",
+      "shteg këmbësor",
+      "udhëheqje",
+      "motoçikletë",
+      "trotuar"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kalues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Kalimi i një motoçiklete në trotuar.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Mungesa e mbajtjes së vendit nga kaluesi i motoçikletës brenda kolonës kur trafiku është ndalur.",
+    "fine_chf": 60,
+    "keywords": [
+      "kalues i motoçikletës",
+      "kolonë",
+      "vend",
+      "trafik i ndalur",
+      "motoçikletë",
+      "bllokim i trafikut",
+      "ndarje e lane-it"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kalues i motoçikletës"
+    ],
+    "conditions": null,
+    "notes": "Kaluesi i motoçikletës nuk mban vendin e tij brenda kolonës kur trafiku ndalet (p.sh., filtrim/ndarje e lane-it kur ndalur).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "me 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "zonë urbane",
+      "Astra",
+      "shkelje e shpejtësisë",
+      "zonë të ndërtuar"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë brenda zonave të ndërtuara, 1-5 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "me 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "zonë urbane",
+      "Astra",
+      "shkelje e shpejtësisë",
+      "zonë të ndërtuar"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë brenda zonave të ndërtuara, 6-10 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "me 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "zonë urbane",
+      "Astra",
+      "shkelje e shpejtësisë",
+      "zonë të ndërtuar"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë brenda zonave të ndërtuara, 11-15 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "me 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "jashtë zonës së ndërtuar",
+      "autostradë",
+      "shkelje e shpejtësisë",
+      "jashtë zonës së ndërtuar",
+      "autostradë"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë jashtë zonave të ndërtuara ose në autostradë/semiautostradë, 1-5 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "me 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "jashtë zonës së ndërtuar",
+      "autostradë",
+      "shkelje e shpejtësisë",
+      "jashtë zonës së ndërtuar",
+      "autostradë"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë jashtë zonave të ndërtuara ose në autostradë/semiautostradë, 6-10 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "me 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "jashtë zonës së ndërtuar",
+      "autostradë",
+      "shkelje e shpejtësisë",
+      "jashtë zonës së ndërtuar",
+      "autostradë"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë jashtë zonave të ndërtuara ose në autostradë/semiautostradë, 11-15 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "me 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "shpejtësi",
+      "tejkalim",
+      "jashtë zonës së ndërtuar",
+      "autostradë",
+      "shkelje e shpejtësisë",
+      "jashtë zonës së ndërtuar",
+      "autostradë"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Shkelje e shpejtësisë jashtë zonave të ndërtuara ose në autostradë/semiautostradë, 16-20 km/h mbi kufirin (pas zbritjes së tolerancës matëse). Gjoba zbatohet për pikën 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

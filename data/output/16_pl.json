@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Zatrzymanie pojazdu silnikowego na autostradach i drogach szybkiego ruchu, gdy pojazd zatrzymał się na pasie awaryjnym lub w miejscu parkingowym dla pojazdów zepsutych z powodu braku paliwa lub energii elektrycznej.",
+    "fine_chf": 120,
+    "keywords": [
+      "autostrada",
+      "droga szybkiego ruchu",
+      "pas awaryjny",
+      "brak paliwa",
+      "zatrzymanie",
+      "pas awaryjny",
+      "bez paliwa"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Pojazd silnikowy"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie z powodu braku paliwa lub energii elektrycznej.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Przejazd ponad lub przez linię bezpieczeństwa w obszarach zabudowanych.",
+    "fine_chf": 140,
+    "keywords": [
+      "linia bezpieczeństwa",
+      "przejazd",
+      "obszar zabudowany",
+      "linia ciągła",
+      "obszar zabudowany"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przejazd przez ciągłą linię bezpieczeństwa w obszarze zabudowanym.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Przejazd ponad lub przez obszar ograniczony w obszarach zabudowanych.",
+    "fine_chf": 140,
+    "keywords": [
+      "obszar ograniczony",
+      "przejazd",
+      "obszar zabudowany",
+      "obszar ograniczony",
+      "obszar zabudowany"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przejazd przez oznaczony obszar ograniczony (Sperrfläche) w obszarze zabudowanym.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Brak posiadania trójkąta ostrzegawczego.",
+    "fine_chf": 40,
+    "keywords": [
+      "brak posiadania",
+      "trójkąt ostrzegawczy",
+      "wyposażenie",
+      "wyposażenie",
+      "trójkąt ostrzegawczy"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Brak posiadania klinu pod koła w ciężkich pojazdach silnikowych.",
+    "fine_chf": 40,
+    "keywords": [
+      "brak posiadania",
+      "klin pod koła",
+      "ciężki pojazd",
+      "wyposażenie",
+      "klin pod koła",
+      "ciężki pojazd"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Ciężkie pojazdy silnikowe"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Brak posiadania zestawu pierwszej pomocy na pokładzie w autokarach.",
+    "fine_chf": 40,
+    "keywords": [
+      "brak posiadania",
+      "zestaw pierwszej pomocy",
+      "autokar",
+      "autokar",
+      "zestaw pierwszej pomocy",
+      "autokar"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "autokar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Brak posiadania wymaganego gaśnicy.",
+    "fine_chf": 40,
+    "keywords": [
+      "brak posiadania",
+      "gaśnica",
+      "ADR",
+      "towary niebezpieczne",
+      "wyposażenie",
+      "gaśnica"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "transport towarów niebezpiecznych"
+    ],
+    "conditions": null,
+    "notes": "Często istotne w transporcie komercyjnym lub towarów niebezpiecznych.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Brak posiadania klinu pod koła w przyczepach, których całkowita waga przekracza 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "brak posiadania",
+      "klin pod koła",
+      "przyczepa",
+      "całkowita waga",
+      "przyczepa",
+      "klin pod koła"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Przyczepa > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Użytkowanie lub parkowanie pojazdu z tablicami kontrolnymi nie zamontowanymi zgodnie z przepisami.",
+    "fine_chf": 60,
+    "keywords": [
+      "tablice kontrolne",
+      "tablica rejestracyjna",
+      "montaż",
+      "parkowanie",
+      "tablica rejestracyjna",
+      "nieprawidłowo zamontowane"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Zaparkowany pojazd"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Użytkowanie pojazdu silnikowego z uszkodzoną oponą.",
+    "fine_chf": 100,
+    "keywords": [
+      "pojazd silnikowy",
+      "uszkodzona opona",
+      "opona",
+      "uszkodzona opona",
+      "konserwacja",
+      "defekt pojazdu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pojazd silnikowy"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Użytkowanie przyczepy z uszkodzoną oponą.",
+    "fine_chf": 100,
+    "keywords": [
+      "przyczepa",
+      "uszkodzona opona",
+      "opona",
+      "uszkodzona opona",
+      "przyczepa",
+      "konserwacja"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Przyczepa"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Jazda oponami kolcowanymi bez lub z nieprawidłowo zamontowaną tablicą prędkości.",
+    "fine_chf": 20,
+    "keywords": [
+      "opony kolcowane",
+      "tablica prędkości",
+      "opony zimowe",
+      "opony kolcowane",
+      "tablica prędkości",
+      "wyposażenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak lub nieprawidłowa tablica prędkości wymagana przy użyciu opon kolcowanych.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Użycie opon kolcowanych poza okresem, w którym są dozwolone.",
+    "fine_chf": 60,
+    "keywords": [
+      "opony kolcowane",
+      "użycie",
+      "poza okresem",
+      "zakaz",
+      "opony kolcowane",
+      "zasada sezonowa"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Używanie opon kolcowanych poza legalnie dozwolonym sezonem.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Jazda z tablicą prędkości, mimo że nie używa się opon kolcowanych.",
+    "fine_chf": 20,
+    "keywords": [
+      "opony kolcowane",
+      "tablica prędkości",
+      "niewłaściwy sprzęt",
+      "naruszenie wyposażenia",
+      "tablica prędkości"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Wyświetlanie tablicy prędkości wymaganą dla opon kolcowanych, gdy pojazd nie jest w nie wyposażony.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Użycie pojazdu z nieautoryzowanym akustycznym urządzeniem ostrzegawczym.",
+    "fine_chf": 40,
+    "keywords": [
+      "akustyczne urządzenie ostrzegawcze",
+      "klakson",
+      "nieautoryzowane",
+      "syrena",
+      "klakson",
+      "wyposażenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": null,
+    "notes": "Używanie pojazdu z niezatwierdzonym klaksonem lub urządzeniem ostrzegawczym.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

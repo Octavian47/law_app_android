@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Yaya geçidinin önünde, durdurma yasak çizgisine bitişik kaldırımda durma",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Park etme",
+      "Kaldırım",
+      "Yaya geçidi",
+      "Durma yasak çizgisi",
+      "durma",
+      "yaya geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya geçidinden önce, 'Durma Yasak' çizgisine bitişik kaldırımda durma.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Durma yasak çizgisi bulunmayan yaya geçidinden 5 m'den daha az bir mesafede kaldırımda park etme (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Kaldırım",
+      "Yaya geçidi",
+      "Durma yasak çizgisi",
+      "Mesafe",
+      "park",
+      "kaldırım",
+      "yaya geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Durma yasak çizgisi bulunmayan yaya geçidinden 5 m'den daha az bir mesafede kaldırımda park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Durma yasak çizgisi bulunmayan yaya geçidinden 5 m'den daha az bir mesafede kaldırımda park etme",
+    "fine_chf": 80,
+    "keywords": [
+      "Park etme",
+      "Kaldırım",
+      "Yaya geçidi",
+      "Durma yasak çizgisi",
+      "Mesafe",
+      "park",
+      "kaldırım",
+      "yaya geçidi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Durma yasak çizgisi bulunmayan yaya geçidinden 5 m'den daha az bir mesafede kaldırımda park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Kısıtlı alanda park etme",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Kısıtlı alan",
+      "Durma",
+      "Kısıtlı bölge",
+      "park",
+      "çizgili alan",
+      "park yasak alanı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çizgili/işaretli kısıtlı alanda park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Kısıtlı alanda durma",
+    "fine_chf": 80,
+    "keywords": [
+      "Park etme",
+      "Kısıtlı alan",
+      "Durma",
+      "Kısıtlı bölge",
+      "durma",
+      "çizgili alan",
+      "durma yasak alanı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çizgili/işaretli kısıtlı alanda durma.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Zikzak çizgi üzerinde park etme",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Zikzak çizgi",
+      "Durma",
+      "Bekleme alanı",
+      "park",
+      "zikzak çizgi",
+      "yükleme bölgesi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Zikzak çizgi üzerinde park etme (genellikle otobüs durakları veya yükleme bölgeleri için).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Yolcuların binmesi ve inmeleri amacıyla zikzak çizgi üzerindeki durmayı engelleme",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Zikzak çizgi",
+      "Binme",
+      "İniş",
+      "Engelleme",
+      "durma",
+      "zikzak çizgi",
+      "engelleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yolcuları alıp indirme amacıyla zikzak çizgi üzerindeki durmayı engelleme.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Mal taşıma amacıyla zikzak çizgi üzerinde durma",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Zikzak çizgi",
+      "Mal taşıma",
+      "Teslim bölgesi",
+      "durma",
+      "zikzak çizgi",
+      "mal yükleme"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Mal yükleme/boşaltma amacıyla zikzak çizgi üzerinde durma.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Engelli kişilere ayrılmış park alanına yetkisiz bir aracın park edilmesi",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Engelli",
+      "Park yeri",
+      "Tekerlekli sandalye",
+      "Yetkisiz",
+      "park",
+      "engelli",
+      "engellilik"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Engelli kişilere ayrılmış bir alanda yetkisiz park.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Engelli kişilere ait “Park kartı”nın yetkisiz kullanımı",
+    "fine_chf": 120,
+    "keywords": [
+      "Park kartı",
+      "Engelli",
+      "Kötüye kullanım",
+      "Yetkisiz",
+      "İzin",
+      "park kartı",
+      "engelli",
+      "yanlış kullanım"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Engelli kişilere ait 'Park izni'nin yetkisiz kullanımı.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Durma yasak çizgisine park etme",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Durma yasak çizgisi",
+      "Yasak",
+      "park",
+      "durma yasak çizgisi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "'Durma Yasak' çizgisine park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Durma yasak çizgisine durma",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Durma yasak çizgisi",
+      "Yasak",
+      "durma",
+      "durma yasak çizgisi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "'Durma Yasak' çizgisine durma.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Yerleşim alanı dışındaki ana yolda park etme: 2 saate kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Yerleşim dışı alan",
+      "Yol kenarı",
+      "park",
+      "ana yol",
+      "yerleşim dışı alan"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "2 saate kadar",
+    "notes": "Yerleşim alanı dışındaki ana yolda, 2 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Yerleşim alanı dışındaki ana yolda park etme: 2 saatten fazla ama 4 saate kadar",
+    "fine_chf": 60,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Yerleşim dışı alan",
+      "Yol kenarı",
+      "park",
+      "ana yol",
+      "yerleşim dışı alan"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "2 saatten fazla ama 4 saate kadar",
+    "notes": "Yerleşim alanı dışındaki ana yolda, 2 saatten fazla ama 4 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Yerleşim alanı dışındaki ana yolda park etme: 4 saatten fazla ama 10 saate kadar",
+    "fine_chf": 100,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Yerleşim dışı alan",
+      "Yol kenarı",
+      "park",
+      "ana yol",
+      "yerleşim dışı alan"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "4 saatten fazla ama 10 saate kadar",
+    "notes": "Yerleşim alanı dışındaki ana yolda, 4 saatten fazla ama 10 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında park etme: 2 saate kadar",
+    "fine_chf": 40,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Şehir içinde",
+      "Geçiş",
+      "Engelleme",
+      "park",
+      "ana yol",
+      "şehir içinde",
+      "geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "2 saate kadar",
+    "notes": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında, 2 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında park etme: 2 saatten fazla ama 4 saate kadar",
+    "fine_chf": 60,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Şehir içinde",
+      "Geçiş",
+      "Engelleme",
+      "park",
+      "ana yol",
+      "şehir içinde",
+      "geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "2 saatten fazla ama 4 saate kadar",
+    "notes": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında, 2 saatten fazla ama 4 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında park etme: 4 saatten fazla ama 10 saate kadar",
+    "fine_chf": 100,
+    "keywords": [
+      "Park etme",
+      "Ana yol",
+      "Şehir içinde",
+      "Geçiş",
+      "Engelleme",
+      "park",
+      "ana yol",
+      "şehir içinde",
+      "geçiş"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "4 saatten fazla ama 10 saate kadar",
+    "notes": "Yerleşim içindeki ana yolda, iki motorlu aracın geçmesi için yeterli alan olmadığında, 4 saatten fazla ama 10 saate kadar park etme.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

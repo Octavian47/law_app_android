@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Verwenden eines Telefons ohne Freisprecheinrichtung während der Fahrt (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Telefon",
+      "Handy",
+      "Freisprecheinrichtung",
+      "während der Fahrt",
+      "driving",
+      "mobile phone"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrer"
+    ],
+    "conditions": null,
+    "notes": "Using a phone without a hands-free device while driving.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Nichttragen der Sicherheitsgurte durch die Fahrzeugführerin oder den Fahrzeugführer (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Sicherheitsgurt",
+      "Gurt",
+      "Anschnallen",
+      "Fahrzeugführer",
+      "seatbelt",
+      "driver"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Not wearing the seatbelt by the driver.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Mitführen eines nicht gesicherten Kindes unter 12 Jahren (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Kind",
+      "Sicherung",
+      "Kindersitz",
+      "Mitführen",
+      "safety device",
+      "children"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Carrying an unsecured child under 12 years old.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Nichttragen des Schutzhelmes durch die Führerin oder den Führer von Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Schutzhelm",
+      "Helm",
+      "Motorrad",
+      "Motorfahrzeug",
+      "Führer",
+      "helmet",
+      "motorcycle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Führer von Motorrädern"
+    ],
+    "conditions": null,
+    "notes": "Driver of motorcycle/light/small/three-wheeled vehicle not wearing a protective helmet.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Mitführen eines Kindes unter 12 Jahren ohne Helm auf Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Kind",
+      "Helm",
+      "Motorrad",
+      "Mitführen",
+      "protective helmet",
+      "children",
+      "motorcycle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Führer von Motorrädern"
+    ],
+    "conditions": null,
+    "notes": "Carrying a child under 12 years old without a helmet on a motorcycle/light/small/three-wheeled vehicle.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Nichtbenützen des äussersten Fahrstreifens rechts auf Strassen mit mehreren Fahrstreifen, sofern nicht überholt, eingespurt, in parallelen Kolonnen oder innerorts gefahren wird (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Fahrstreifen",
+      "rechts fahren",
+      "äusserster Fahrstreifen",
+      "überholen",
+      "lane usage",
+      "keep right"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Not using the outermost right lane on multi-lane roads, unless overtaking, merging, driving in parallel columns, or driving within a built-up area.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Rechtsüberholen durch Ausschwenken und Wiedereinbiegen auf Strassen mit mehreren Fahrstreifen innerorts (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "Rechtsüberholen",
+      "innerorts",
+      "Fahrstreifenwechsel",
+      "overtaking right",
+      "built-up area",
+      "lane change"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Overtaking on the right by swerving out and back in on multi-lane roads within built-up areas.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Rechtsüberholen durch Ausschwenken und Wiedereinbiegen auf Autostrassen und Autobahnen mit mehreren Fahrstreifen (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "Rechtsüberholen",
+      "Autostrasse",
+      "Autobahn",
+      "Fahrstreifenwechsel",
+      "overtaking right",
+      "highway",
+      "motorway"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Overtaking on the right by swerving out and back in on multi-lane semi-motorways and motorways.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Wechseln auf andern Fahrstreifen zum Überholen auf Einspurstrecke (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "Überholen",
+      "Fahrstreifenwechsel",
+      "Einspurstrecke",
+      "overtaking",
+      "lane change",
+      "single-lane road"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Changing lanes to overtake on a single-lane road section.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Halten oder Parkieren auf der linken Strassenseite, obwohl kein Strassenbahngeleise verläuft, kein Parkverbot oder Halteverbot signalisiert und die Strasse breit ist (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Halten",
+      "Parkieren",
+      "linke Strassenseite",
+      "parking",
+      "stopping",
+      "wrong side"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping or parking on the left side of the road, despite the absence of tram tracks, parking/stopping prohibition signs, and the road being wide.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Verlassen des Fahrzeuges, ohne den Zündschlüssel wegzunehmen (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Fahrzeug verlassen",
+      "Zündschlüssel",
+      "Schlüssel",
+      "ignition key",
+      "leaving vehicle"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Leaving the vehicle without removing the ignition key.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Nichtaufstellen des Pannensignals (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "Pannensignal",
+      "Warndreieck",
+      "Aufstellen",
+      "warning triangle",
+      "breakdown"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Not setting up the warning triangle (breakdown sign).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Vorschriftswidriges Aufstellen des Pannensignals (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Pannensignal",
+      "Warndreieck",
+      "Aufstellen",
+      "vorschriftswidrig",
+      "warning triangle",
+      "breakdown"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Setting up the warning triangle (breakdown sign) contrary to regulations (e.g., too close).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Missbräuchliche Verwendung der Warnblinklichter am stehenden Fahrzeug (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Warnblinklichter",
+      "Warnblinker",
+      "missbräuchlich",
+      "stehendes Fahrzeug",
+      "hazard lights",
+      "stationary vehicle"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Misuse of hazard lights on a stationary vehicle.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Missbräuchliche Verwendung der Warnblinklichter am fahrenden Fahrzeug (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Warnblinklichter",
+      "Warnblinker",
+      "missbräuchlich",
+      "fahrendes Fahrzeug",
+      "hazard lights",
+      "moving vehicle"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Misuse of hazard lights on a moving vehicle.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Nichtanbringen des Pannensignals an der Rückseite des abgeschleppten Fahrzeugs (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Pannensignal",
+      "abgeschlepptes Fahrzeug",
+      "Rückseite",
+      "warning triangle",
+      "towed vehicle",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Not attaching the warning triangle to the rear of the towed vehicle.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

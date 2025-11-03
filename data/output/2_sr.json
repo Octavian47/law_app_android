@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Nedostatak unosa potrebnih informacija u nedeljnoj listi",
+    "fine_chf": 40,
+    "keywords": [
+      "nedeljna lista",
+      "informacija",
+      "unos",
+      "ARV 2",
+      "radno vreme",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak unosa potrebnih informacija u nedeljnoj listi za profesionalne vozače.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Nedostatak unosa potrebnih informacija u dnevnoj listi",
+    "fine_chf": 40,
+    "keywords": [
+      "dnevna lista",
+      "informacija",
+      "unos",
+      "ARV 2",
+      "radno vreme",
+      "profesionalni vozač"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak unosa potrebnih informacija u dnevnoj listi za profesionalne vozače.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nedostatak unosa potrebnih informacija u kontrolnoj karti za taksi vozače",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrolna karta",
+      "taksi vozač",
+      "informacija",
+      "unos",
+      "ARV",
+      "taksi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taksi vozač"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak unosa potrebnih informacija u kontrolnoj karti za taksi vozače (referenca na ARV 2 i ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nedostatak unosa potrebnih informacija u digitalni tahograf",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "digitalni",
+      "informacija",
+      "unos",
+      "ARV",
+      "profesionalni vozač",
+      "tahograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak unosa potrebnih informacija u digitalni tahograf.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Nedostatak označavanja tahografskog lista",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "lista",
+      "označavanje",
+      "neoznačeno",
+      "tahografski list",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak označavanja tahografskog lista (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Nedostatak označavanja ispisa",
+    "fine_chf": 40,
+    "keywords": [
+      "ispis",
+      "označavanje",
+      "neoznačeno",
+      "tahografski ispis",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak označavanja ispisa iz tahografa.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Neispravno označavanje tahografskog lista",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "lista",
+      "nepotpuno",
+      "označavanje",
+      "tahografski list",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neispravno označavanje tahografskog lista.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Neispravno označavanje ispisa",
+    "fine_chf": 40,
+    "keywords": [
+      "ispis",
+      "nepotpuno",
+      "označavanje",
+      "tahografski ispis",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neispravno označavanje tahografskog ispisa.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Lažno/neistinsko označavanje tahografskog lista",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "lista",
+      "lažno",
+      "neistinsko",
+      "označavanje",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Lažno/neistinsko označavanje tahografskog lista.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Lažno/neistinsko označavanje ispisa",
+    "fine_chf": 40,
+    "keywords": [
+      "ispis",
+      "lažno",
+      "neistinsko",
+      "označavanje",
+      "ARV",
+      "tahografski ispis"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Lažno/neistinsko označavanje tahografskog ispisa.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Korišćenje tahografskog lista koji nije tipno odobren",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "lista",
+      "nije tipno odobren",
+      "neodobren",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje tahografskog lista koji nije tipno odobren.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Korišćenje tahografskog lista koji ne odgovara tahografskom uređaju",
+    "fine_chf": 40,
+    "keywords": [
+      "tahograf",
+      "lista",
+      "neodgovarajući",
+      "neispravan",
+      "neusklađen",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje tahografskog lista koji ne odgovara konkretnom tahografskom uređaju.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Korišćenje neispravnog papira za štampač",
+    "fine_chf": 40,
+    "keywords": [
+      "papir za štampač",
+      "neodgovarajući",
+      "neispravan",
+      "papir za štampač",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje neispravnog papira za štampač za digitalni tahograf/kontrolni uređaj.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nedostatak nosenja sertifikata o obuci za terete opasnih materija",
+    "fine_chf": 20,
+    "keywords": [
+      "opasne materije",
+      "teret",
+      "sertifikat o obuci",
+      "ADR",
+      "SDR",
+      "opasne materije",
+      "dokumenti"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak nosenja sertifikata o obuci za transport opasnih materija, uz znanje da je prisutan opasni teret.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nedostatak nosenja transportnog dokumenta za terete opasnih materija",
+    "fine_chf": 140,
+    "keywords": [
+      "opasne materije",
+      "teret",
+      "transportni dokument",
+      "ADR",
+      "SDR",
+      "opasne materije",
+      "transportni dokument"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak nosenja transportnog dokumenta za opasne materije, uz znanje da je prisutan opasni teret. Ova kazna je značajno veća.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nedostatak nosenja pisanog uputstva (list za nesreće) za terete opasnih materija",
+    "fine_chf": 40,
+    "keywords": [
+      "opasne materije",
+      "teret",
+      "pisano uputstvo",
+      "list za nesreće",
+      "ADR",
+      "SDR",
+      "uputstva za vanredne situacije"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak nosenja pisanih uputstava (list za vanredne situacije/nesreće) za opasne materije, uz znanje da je prisutan opasni teret.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Nedostatak uklanjanja ili prekrivanja narandžastih tabli kada se ne transportuju opasne materije",
+    "fine_chf": 60,
+    "keywords": [
+      "opasne materije",
+      "narandžasta tabla",
+      "uklanjanje",
+      "prekrivanje",
+      "SDR",
+      "prikaz",
+      "tabla"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak uklanjanja ili prekrivanja narandžastih tabli (koje označavaju opasne materije) kada vozilo NE transportuje opasne materije (prazno/čisto).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Nedostatak ili zakašnjelo izveštavanje o činjenicama koje zahtevaju promenu ili zamenu dozvole ili licence",
+    "fine_chf": 20,
+    "keywords": [
+      "obaveza izveštavanja",
+      "licenca",
+      "dozvola",
+      "promena",
+      "zamena",
+      "VZV",
+      "izveštavanje"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "License/permit holder"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak izveštavanja ili zakašnjelo izveštavanje o činjenicama koje zahtevaju izmenu ili zamenu vozačke licence ili dozvole.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Nedostatak ili zakašnjelo izveštavanje o promeni prebivališta na novu švajcarsku adresu",
+    "fine_chf": 20,
+    "keywords": [
+      "promena prebivališta",
+      "adresa",
+      "izveštavanje",
+      "VZV",
+      "izveštavanje",
+      "promena prebivališta"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle driver",
+      "License holder"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak izveštavanja ili zakašnjelo izveštavanje o promeni prebivališta na novu švajcarsku adresu.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Nedostatak izveštavanja o izmenama na tahografskim kartama",
+    "fine_chf": 20,
+    "keywords": [
+      "tahografska karta",
+      "izmena",
+      "izveštavanje",
+      "ARV",
+      "tahografska karta",
+      "izveštavanje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Driver card holder"
+    ],
+    "conditions": null,
+    "notes": "Nedostatak izveštavanja o izmenama vezanim za tahografsku kartu vozača.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

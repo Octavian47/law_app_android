@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Tekerlek başına lastiğin kusurlu durumu",
+    "fine_chf": 20,
+    "keywords": [
+      "lastik",
+      "durum",
+      "kusurlu",
+      "VTS",
+      "tekerlek",
+      "lastik",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç"
+    ],
+    "conditions": "tekerlek başına",
+    "notes": "704. maddeyle ilgilidir.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Yolcu tarafından emniyet kemeri takılmaması",
+    "fine_chf": 60,
+    "keywords": [
+      "emniyet kemerleri",
+      "kemer zorunluluğu",
+      "yolcu",
+      "yolcu",
+      "güvenlik kemeri",
+      "yolcu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Yolcu",
+      "Yolcu"
+    ],
+    "conditions": null,
+    "notes": "Bölüm 800.1: Yolcular tarafından emniyet kemerlerinin kullanılmaması.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Motosiklet, hafif, küçük ve üç tekerlekli motorlu araçlarda yolcular tarafından koruyucu kask takılmaması",
+    "fine_chf": 60,
+    "keywords": [
+      "kask",
+      "kask zorunluluğu",
+      "yolcu",
+      "motosiklet",
+      "kask",
+      "yolcu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Yolcu",
+      "Motosikletler"
+    ],
+    "conditions": null,
+    "notes": "Bölüm 800.2: Yolcu tarafından motosiklet/üç tekerlekli araçlarda kask takılmaması.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Yolcu tarafından bir araç veya nesnenin itilmesi",
+    "fine_chf": 20,
+    "keywords": [
+      "itme",
+      "araç",
+      "nesne",
+      "yolcu",
+      "itmek",
+      "nesne",
+      "yolcu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Yolcu"
+    ],
+    "conditions": null,
+    "notes": "Bölüm 801.1: Yolcu tarafından bir araç veya nesnenin itilmesi (muhtemelen hareket halindeyken/trafikte yasak davranış).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Yolcu tarafından bir araç veya nesnenin çekilmesi",
+    "fine_chf": 20,
+    "keywords": [
+      "çekme",
+      "araç",
+      "nesne",
+      "yolcu",
+      "çekmek",
+      "nesne",
+      "yolcu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Yolcu"
+    ],
+    "conditions": null,
+    "notes": "Bölüm 801.2: Yolcu tarafından bir araç veya nesnenin çekilmesi.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Yolcu tarafından bir araç veya nesnenin çekişi",
+    "fine_chf": 20,
+    "keywords": [
+      "çekiş",
+      "araç",
+      "nesne",
+      "yolcu",
+      "çekmek",
+      "nesne",
+      "yolcu"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Yolcu"
+    ],
+    "conditions": null,
+    "notes": "Bölüm 801.3: Yolcu tarafından bir araç veya nesnenin çekilmesi/sürüklenmesi.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Kaldırımı kullanmama",
+    "fine_chf": 10,
+    "keywords": [
+      "kaldırım",
+      "yaya yolu",
+      "kullanılmama",
+      "yaya",
+      "kaldırım",
+      "yaya"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": null,
+    "notes": "Mevcut olduğunda kaldırımı kullanmama.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Yaya geçidini kullanmama, eğer 50 m'den daha yakınsa",
+    "fine_chf": 10,
+    "keywords": [
+      "yaya geçidi",
+      "zebra geçidi",
+      "kullanılmama",
+      "50m",
+      "yaya geçidi"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": "eğer 50 m'den daha az uzakta",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Üst geçidi kullanmama, eğer 50 m'den daha yakınsa",
+    "fine_chf": 10,
+    "keywords": [
+      "üst geçit",
+      "yaya köprüsü",
+      "kullanılmama",
+      "50m",
+      "yaya üst geçidi"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": "eğer 50 m'den daha az uzakta",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Alt geçidi kullanmama, eğer 50 m'den daha yakınsa",
+    "fine_chf": 10,
+    "keywords": [
+      "alt geçit",
+      "yaya tüneli",
+      "kullanılmama",
+      "50m",
+      "yaya alt geçidi"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": "eğer 50 m'den daha az uzakta",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "‘Yaya yasaktır’ sinyaline (2.15) uymama",
+    "fine_chf": 20,
+    "keywords": [
+      "yasak",
+      "yaya",
+      "sinyal",
+      "göz ardı etme",
+      "kısıtlama",
+      "yaya",
+      "işaret"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "‘Yaya yolu’ sinyaline (2.61) uymama",
+    "fine_chf": 10,
+    "keywords": [
+      "yaya yolu",
+      "sinyal",
+      "göz ardı etme",
+      "yaya yolu",
+      "işaret"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Yaya"
+    ],
+    "conditions": null,
+    "notes": "Ayrı yaya yolu işaretine uyulmaması.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Işık sinyaline uymama",
+    "fine_chf": 20,
+    "keywords": [
+      "ışık sinyali",
+      "yaya",
+      "sinyal",
+      "göz ardı etme",
+      "trafik ışığı",
+      "yaya"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Yaya",
+      "Araç benzeri cihaz kullanıcıları"
+    ],
+    "conditions": null,
+    "notes": "Kırmızı ışıkta geçmek (yaya/araç benzeri cihaz kullanıcısı olarak).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "‘Alternatif yanıp sönen ışık sinyali’ (3.20) veya ‘basit yanıp sönen ışık sinyali’ (3.21)’e uymama",
+    "fine_chf": 20,
+    "keywords": [
+      "yanıp sönen ışık sinyali",
+      "alternatif yanıp sönen ışık",
+      "sinyal",
+      "demiryolu geçidi",
+      "uyarı ışığı",
+      "demiryolu geçidi"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Yaya",
+      "Araç benzeri cihaz kullanıcıları"
+    ],
+    "conditions": null,
+    "notes": "Yanıp sönen uyarı ışıklarını görmezden gelmek (ör. demiryolu geçitlerinde).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Otoyollara giriş",
+    "fine_chf": 20,
+    "keywords": [
+      "otoyol",
+      "giriş",
+      "yaya",
+      "yasak",
+      "Otoyol",
+      "erişim",
+      "yasaklı"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Yaya",
+      "Araç benzeri cihaz kullanıcıları"
+    ],
+    "conditions": null,
+    "notes": "Otoyollara girme veya yürümek (genellikle motorlu trafiğe sınırlıdır).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

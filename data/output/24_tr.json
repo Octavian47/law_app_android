@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Geçerlilik süresi için gerekli olan vinyet olmadan birinci veya ikinci sınıf ulusal yolun kullanılması",
+    "fine_chf": 200,
+    "keywords": [
+      "Ulusal yol",
+      "Vinyet",
+      "Eksik vinyet",
+      "Veriliş",
+      "Ücret etiketi",
+      "Otoyol"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Gerekli ücret vinyeti olmadan ulusal yollarda sürüş.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Geçerlilik süresi için gerekli yapışkan vinyeti bulunan birinci veya ikinci sınıf ulusal yolun, yapıştırılmamış, doğrudan araç üzerine belirtilen konuma yapıştırılmamış veya hasarlı olması durumunda kullanılması",
+    "fine_chf": 200,
+    "keywords": [
+      "Vinyet",
+      "Yapışkan vinyet",
+      "Uygulama",
+      "Hasarlı",
+      "Yapışma",
+      "Yerleştirme"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Vinyet'in yanlış yapıştırılması (doğrudan araca yapıştırılmaması) veya hasarlı olmasıyla sürüş.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

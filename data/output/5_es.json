@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención para cargar mercancías a menos de 10 m antes de una señal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Carga de mercancías",
+      "Señal de parada",
+      "transporte público",
+      "detención",
+      "mercancías",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención para cargar/descargar mercancías a menos de 10 m antes de una señal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento a menos de 10 m después de una señal de parada de transporte público (Art. 18 Abs. 3 y 19 Abs. 2 a VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "señal de parada",
+      "transporte público",
+      "60 minutos",
+      "estacionamiento",
+      "parada de transporte público",
+      "límite de tiempo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento a menos de 10 m después de una señal de parada de transporte público, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención obstructiva para permitir que las personas aborden y desembarquen a menos de 10 m después de una señal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Obstructiva",
+      "abordaje/desembarque",
+      "señal de parada",
+      "detención",
+      "obstructiva",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención obstructiva para permitir que las personas suban/bajen a menos de 10 m después de una señal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención para cargar mercancías a menos de 10 m después de una señal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Carga de mercancías",
+      "Señal de parada",
+      "transporte público",
+      "detención",
+      "mercancías",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención para cargar/descargar mercancías a menos de 10 m después de una señal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamiento frente a las instalaciones de la estación de bomberos y a los almacenes de equipos de incendio (Art. 18 Abs. 3 y Art. 19 Abs. 2 a VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "estación de bomberos",
+      "almacén",
+      "equipos de incendio",
+      "60 minutos",
+      "estacionamiento",
+      "estación de bomberos",
+      "equipos de incendio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento frente a las instalaciones de la estación de bomberos/equipos, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención para cargar mercancías frente a las instalaciones de la estación de bomberos o a los almacenes de equipos de incendio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "carga de mercancías",
+      "estación de bomberos",
+      "equipos de incendio",
+      "detención",
+      "mercancías",
+      "estación de bomberos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención para cargar/descargar mercancías frente a las instalaciones de la estación de bomberos/equipos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Detención obstructiva para permitir que las personas aborden y desembarquen frente a las instalaciones de la estación de bomberos y a los almacenes de equipos de incendio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Obstructiva",
+      "abordaje/desembarque",
+      "estación de bomberos",
+      "detención",
+      "obstructiva",
+      "estación de bomberos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención obstructiva para permitir que las personas suban/bajen frente a las instalaciones de la estación de bomberos/equipos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Detención obstructiva para cargar mercancías junto a vehículos estacionados a lo largo del borde de la carretera (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "Obstructiva",
+      "carga de mercancías",
+      "a lo largo de",
+      "estacionados",
+      "detención",
+      "obstructiva",
+      "mercancías",
+      "doble estacionamiento"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención obstructiva para cargar/descargar mercancías junto a vehículos estacionados a lo largo del borde de la carretera (doble estacionamiento para mercancías).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Estacionamiento en un carril bici (Art. 19 Abs. 2 d VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "carril bici",
+      "carril bici",
+      "60 minutos",
+      "estacionamiento",
+      "carril bici",
+      "carril bici"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en un carril bici, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Detención en un carril bici cuando obstruye el tráfico de bicicletas (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "carril bici",
+      "tráfico de bicicletas",
+      "obstruido",
+      "detención",
+      "carril bici",
+      "obstructiva"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención en un carril bici cuando obstruye el tráfico de bicicletas.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Estacionamiento en la calzada junto a un carril bici (Art. 19 Abs. 2 d VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "calzada",
+      "carril bici",
+      "junto a",
+      "60 minutos",
+      "estacionamiento",
+      "calzada",
+      "carril bici"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en la carretera junto a un carril bici, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Estacionamiento sobre vías de tranvía (Art. 19 Abs. 2 a y 25 Abs. 5 VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "vías de tranvía",
+      "vías de tranvía",
+      "60 minutos",
+      "estacionamiento",
+      "vías de tranvía"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento sobre vías de tranvía, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Detención sobre vías de tranvía (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "vías de tranvía",
+      "vías de tranvía",
+      "detención",
+      "vías de tranvía"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención sobre vías de tranvía.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 a und 25 Abs. 5 VRV",
+    "law_text": "Estacionamiento a menos de 1,5 m del carril de vía de tranvía más cercano (Art. 19 Abs. 2 a y 25 Abs. 5 VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "carril de tranvía",
+      "carriles de tranvía",
+      "1,5 m",
+      "60 minutos",
+      "estacionamiento",
+      "carril de tranvía",
+      "distancia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento a menos de 1,5 m del carril de vía de tranvía más cercano, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Detención a menos de 1,5 m del carril de vía de tranvía más cercano (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "carril de tranvía",
+      "carriles de tranvía",
+      "1,5 m",
+      "detención",
+      "carril de tranvía",
+      "distancia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Detención a menos de 1,5 m del carril de vía de tranvía más cercano.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Estacionamiento en el arcén de una autopista (Art. 36 Abs. 3 VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "arcén",
+      "autopista",
+      "60 minutos",
+      "estacionamiento",
+      "arcén",
+      "autopista"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en el arcén de una autopista, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Detención en el arcén de una autopista, excepto por parada de emergencia (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Detención",
+      "arcén",
+      "autopista",
+      "parada de emergencia",
+      "detención",
+      "arcén",
+      "autopista",
+      "emergencia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "excepto parada de emergencia",
+    "notes": "Detención en el arcén de una autopista, excluyendo emergencias.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Estacionamiento en el arcén de una autovía (Art. 36 Abs. 3 VRV) hasta 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamiento",
+      "arcén",
+      "autovía",
+      "60 minutos",
+      "estacionamiento",
+      "arcén",
+      "autovía"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": "hasta 60 minutos",
+    "notes": "Estacionamiento en el arcén de una autovía, hasta 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

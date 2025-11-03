@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Conduite d'un apprenant sans afficher le panneau L",
+    "fine_chf": 20,
+    "keywords": [
+      "plaque L",
+      "conduite d'apprenant",
+      "auto-école",
+      "plaque d'apprenant",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur apprenant"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Non retrait de la plaque L lorsqu'aucune conduite d'apprenant n'est en cours",
+    "fine_chf": 20,
+    "keywords": [
+      "plaque L",
+      "conduite d'apprenant",
+      "plaque d'apprenant",
+      "retrait",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Non utilisation du clignotant",
+    "fine_chf": 100,
+    "keywords": [
+      "clignotant",
+      "indicateur",
+      "clignotant",
+      "signalisation",
+      "omission"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Ne pas éteindre le clignotant après un changement de direction",
+    "fine_chf": 100,
+    "keywords": [
+      "clignotant",
+      "indicateur",
+      "clignotant",
+      "réinitialisation",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Non port de la pagaie de signalisation lorsqu'elle est requise",
+    "fine_chf": 40,
+    "keywords": [
+      "pagaie de signalisation",
+      "pagaie de signal",
+      "dispositif de signalisation",
+      "équipement",
+      "port"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle est une pagaie de signalisation, généralement requise pour certains véhicules gros ou lents, ou pour des manœuvres spécifiques.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Mauvaise utilisation des signaux d'avertissement",
+    "fine_chf": 40,
+    "keywords": [
+      "signal d'avertissement",
+      "klaxon",
+      "klaxon",
+      "mauvaise utilisation",
+      "signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduite sans feux pendant la journée",
+    "fine_chf": 40,
+    "keywords": [
+      "feu",
+      "conduite sans feux",
+      "feux de jour",
+      "journée",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Conduite sans les feux requis pendant la journée.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Conduite sans feux sur une route éclairée la nuit",
+    "fine_chf": 60,
+    "keywords": [
+      "feu",
+      "conduite sans feux",
+      "conduite de nuit",
+      "route éclairée",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Conduite sans les feux requis la nuit sur une route éclairée.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conduite sans feux dans un tunnel éclairé",
+    "fine_chf": 60,
+    "keywords": [
+      "feu",
+      "conduite sans feux",
+      "tunnel",
+      "tunnel éclairé",
+      "équipement"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Conduite sans les feux requis dans un tunnel éclairé.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conduite avec feux de stationnement ou feux de jour sur une route éclairée la nuit",
+    "fine_chf": 40,
+    "keywords": [
+      "feu de stationnement",
+      "feu de jour",
+      "feu",
+      "conduite de nuit",
+      "équipement",
+      "éclairage insuffisant"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un éclairage insuffisant (feu de stationnement ou feu de jour) au lieu des phares requis la nuit sur une route éclairée.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Conduite avec feux de stationnement ou feux de jour dans un tunnel éclairé",
+    "fine_chf": 40,
+    "keywords": [
+      "feu de stationnement",
+      "feu de jour",
+      "feu",
+      "tunnel",
+      "équipement",
+      "éclairage insuffisant"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un éclairage insuffisant (feu de stationnement ou feu de jour) au lieu des phares requis dans un tunnel éclairé.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Mauvaise utilisation des feux antibrouillard",
+    "fine_chf": 40,
+    "keywords": [
+      "feu antibrouillard",
+      "feu antibrouillard",
+      "mauvaise utilisation",
+      "équipement",
+      "éclairage"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Mauvaise utilisation des feux antibrouillard arrière",
+    "fine_chf": 40,
+    "keywords": [
+      "feu antibrouillard arrière",
+      "feu antibrouillard arrière",
+      "mauvaise utilisation",
+      "équipement",
+      "éclairage"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Mauvaise utilisation des projecteurs",
+    "fine_chf": 40,
+    "keywords": [
+      "projecteur",
+      "projecteur",
+      "mauvaise utilisation",
+      "équipement",
+      "éclairage"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Mauvaise utilisation des feux de travail",
+    "fine_chf": 40,
+    "keywords": [
+      "feu de travail",
+      "feu de travail",
+      "mauvaise utilisation",
+      "équipement",
+      "éclairage"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Préchauffage inutile du moteur d'un véhicule à l'arrêt",
+    "fine_chf": 80,
+    "keywords": [
+      "moteur",
+      "préchauffage",
+      "ralenti",
+      "échauffement du moteur",
+      "bruit",
+      "environnement"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Ralenti inutile du moteur d'un véhicule à l'arrêt",
+    "fine_chf": 80,
+    "keywords": [
+      "moteur",
+      "fonctionnement",
+      "ralenti",
+      "fonctionnement du moteur",
+      "bruit",
+      "environnement"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Utilisation d'une autoroute ou d'une voie rapide avec une motocyclette dont le cylindrée ne dépasse pas 50 cm³ ou la puissance ne dépasse pas 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autoroute",
+      "voie rapide",
+      "motocyclette",
+      "cylindrée",
+      "puissance",
+      "voie rapide",
+      "véhicule restreint"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de motocyclette"
+    ],
+    "conditions": null,
+    "notes": "Les motocyclettes/cyclomoteurs en dessous des spécifications minimales requises (50 cm³ ou 4 kW) sont interdits sur les autoroutes.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Utilisation d'une autoroute ou d'une voie rapide avec un autre véhicule motorisé non autorisé",
+    "fine_chf": 140,
+    "keywords": [
+      "autoroute",
+      "voie rapide",
+      "véhicule motorisé",
+      "non autorisé",
+      "voie rapide",
+      "véhicule restreint"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un véhicule sur une autoroute qui n'est pas autorisé (par ex. véhicules lents, véhicules agricoles).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Utilisation d'une autoroute ou d'une voie rapide avec des pneus cloutés",
+    "fine_chf": 60,
+    "keywords": [
+      "autoroute",
+      "voie rapide",
+      "pneus cloutés",
+      "pneus cloutés",
+      "équipement",
+      "voie rapide"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Remorquage sur une autoroute ou voie rapide au-delà de la prochaine sortie",
+    "fine_chf": 140,
+    "keywords": [
+      "autoroute",
+      "voie rapide",
+      "remorquage",
+      "remorquage",
+      "urgence",
+      "prochaine sortie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Le remorquage n'est autorisé sur les autoroutes que jusqu'à la prochaine sortie disponible.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "járművek és járműkombinációk esetén, amelyek össztömege vagy össz vontatási tömege legfeljebb 3500 kg, és több mint 100 kg-rel, de legfeljebb 5 százalékkal haladja meg.",
+    "fine_chf": 200,
+    "keywords": [
+      "bruttó súly",
+      "túlterhelés",
+      "járműkombináció",
+      "engedélyezett súly",
+      "túlterhelés",
+      "bruttó súly"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető",
+      "Járműkombináció"
+    ],
+    "conditions": null,
+    "notes": "Túlterhelés: >100 kg, de <= 5% a maximális bruttó súly (<= 3500 kg) felett. A bírság az 1.b. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "járművek és járműkombinációk esetén, amelyek össztömege vagy össz vontatási tömege több mint 3500 kg, és több mint 100 kg, legfeljebb 5 százalék, de legfeljebb 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "bruttó súly",
+      "túlterhelés",
+      "járműkombináció",
+      "nagy forgalom",
+      "túlterhelés",
+      "Nehéz gépjármű"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető",
+      "Nehéz járművek"
+    ],
+    "conditions": null,
+    "notes": "Túlterhelés: >100 kg és <= 1000 kg, de <= 5% a maximális bruttó súly ( > 3500 kg) felett. A bírság az 1.c. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "legfeljebb 100 kg-ral",
+    "fine_chf": 100,
+    "keywords": [
+      "tengelyterhelés",
+      "túlterhelés",
+      "engedélyezett súly",
+      "tengelyterhelés",
+      "túlterhelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Az engedélyezett tengelyterhelés (a mérési tolerancia levonása után) meghaladása, legfeljebb 100 kg. A bírság a 2.a. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "járművekre, amelyek össztömege több mint 3500 kg, és több mint 100 kg-rel, de legfeljebb 2 százalékkal haladja meg.",
+    "fine_chf": 250,
+    "keywords": [
+      "tengelyterhelés",
+      "túlterhelés",
+      "nagy forgalom",
+      "tengelyterhelés",
+      "Nehéz gépjármű",
+      "túlterhelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető",
+      "Nehéz járművek"
+    ],
+    "conditions": null,
+    "notes": "Az engedélyezett tengelyterhelés (több mint 100 kg, de legfeljebb 2% a határ felett) meghaladása 3500 kg-nál nehezebb járműveknél. A bírság a 2.b. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "több mint 2 százalék, de legfeljebb 5 százalék",
+    "fine_chf": 40,
+    "keywords": [
+      "engedélyezett súly",
+      "túlterhelés",
+      "tengelyterhelés",
+      "bruttó súly",
+      "tengelyterhelés",
+      "járműkombináció"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Az engedélyezett össztömeg/járműkombinációs tömeg (a mérési tolerancia levonása után) meghaladása >2%, de <=5%. A bírság a 3.a. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "több mint 5 százalék",
+    "fine_chf": 100,
+    "keywords": [
+      "engedélyezett súly",
+      "túlterhelés",
+      "tengelyterhelés",
+      "bruttó súly",
+      "tengelyterhelés",
+      "járműkombináció"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Az engedélyezett össztömeg/járműkombinációs tömeg (a mérési tolerancia levonása után) meghaladása >5%. A bírság a 3.b. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Motorkerékpár vezetése járdán",
+    "fine_chf": 100,
+    "keywords": [
+      "motorkerékpár",
+      "járda",
+      "gyalogút",
+      "vezetés",
+      "Motorkerékpár",
+      "járda"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorkerékpár vezető"
+    ],
+    "conditions": null,
+    "notes": "Motorkerékpár vezetése járdán.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Motorkerékpár vezetőnek nem tartja meg a helyét a sorban, amikor a forgalom megáll.",
+    "fine_chf": 60,
+    "keywords": [
+      "motorkerékpár vezető",
+      "sor",
+      "hely",
+      "forgalom megállt",
+      "Motorkerékpár",
+      "forgalmi dugó",
+      "sáv átlépés"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorkerékpár vezető"
+    ],
+    "conditions": null,
+    "notes": "Motorkerékpár vezető nem tartja meg a helyét a sorban, amikor a forgalom megáll (pl. sávszűrés/átlépés megálláskor).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "1–5 km/h-val",
+    "fine_chf": 40,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városi",
+      "Astra",
+      "gyorshajtás",
+      "épített terület"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás épített területeken, 1-5 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.1.a. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "6–10 km/h-val",
+    "fine_chf": 120,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városi",
+      "Astra",
+      "gyorshajtás",
+      "épített terület"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás épített területeken, 6-10 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.1.b. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "11–15 km/h-val",
+    "fine_chf": 250,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városi",
+      "Astra",
+      "gyorshajtás",
+      "épített terület"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás épített területeken, 11-15 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.1.c. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "1–5 km/h-val",
+    "fine_chf": 40,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városon kívül",
+      "autópálya",
+      "gyorshajtás",
+      "városon kívül",
+      "autópálya"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás városon kívül vagy autópályákon/félautópályákon, 1-5 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.2.a. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "6–10 km/h-val",
+    "fine_chf": 100,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városon kívül",
+      "autópálya",
+      "gyorshajtás",
+      "városon kívül",
+      "autópálya"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás városon kívül vagy autópályákon/félautópályákon, 6-10 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.2.b. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "11–15 km/h-val",
+    "fine_chf": 160,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városon kívül",
+      "autópálya",
+      "gyorshajtás",
+      "városon kívül",
+      "autópálya"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás városon kívül vagy autópályákon/félautópályákon, 11-15 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.2.c. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "16–20 km/h-val",
+    "fine_chf": 240,
+    "keywords": [
+      "sebesség",
+      "túllépés",
+      "városon kívül",
+      "autópálya",
+      "gyorshajtás",
+      "városon kívül",
+      "autópálya"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Gyorshajtás városon kívül vagy autópályákon/félautópályákon, 16-20 km/h-val a megengedett határ felett (a mérési tolerancia levonása után). A bírság a 303.2.d. pontban szereplő esetre vonatkozik.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Oprirea cu un vehicul cu motor pe autostrăzi și drumuri expres când vehiculul a oprit pe banda de urgență sau pe o zonă de parcare pentru vehicule avariate din cauza lipsei de combustibil sau energie electrică.",
+    "fine_chf": 120,
+    "keywords": [
+      "autostradă",
+      "drum expres",
+      "bandă de urgență",
+      "lipsă de combustibil",
+      "oprire",
+      "bandă de urgență",
+      "fără combustibil"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicul cu motor"
+    ],
+    "conditions": null,
+    "notes": "Oprire din cauza lipsei de combustibil sau energie electrică.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Depășirea sau traversarea unei linii de siguranță în zone construite.",
+    "fine_chf": 140,
+    "keywords": [
+      "linie de siguranță",
+      "traversare",
+      "zonă construită",
+      "linie solidă",
+      "zonă construită"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Traversarea unei linii de siguranță solide în interiorul unei zone construite.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Depășirea sau traversarea unei zone restricționate în zone construite.",
+    "fine_chf": 140,
+    "keywords": [
+      "zonă restricționată",
+      "traversare",
+      "zonă construită",
+      "zonă restricționată",
+      "zonă construită"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Traversarea unei zone restricționate marcate (Sperrfläche) în interiorul unei zone construite.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Nerespectarea obligativității de a purta triunghiul de avertizare.",
+    "fine_chf": 40,
+    "keywords": [
+      "nepurtare",
+      "triunghi de avertizare",
+      "echipament",
+      "echipament",
+      "triunghi de avertizare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Nerespectarea obligativității de a purta un caleș de roată pe vehiculele grele cu motor.",
+    "fine_chf": 40,
+    "keywords": [
+      "nepurtare",
+      "caleș de roată",
+      "vehicul greu",
+      "echipament",
+      "caleș de roată",
+      "vehicul greu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicule grele cu motor"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Nerespectarea obligativității de a purta trusa de prim ajutor la bord pe autocare.",
+    "fine_chf": 40,
+    "keywords": [
+      "nepurtare",
+      "trusă de prim ajutor",
+      "autocar",
+      "autocar",
+      "trusă de prim ajutor",
+      "autocar"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "autocar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Nerespectarea obligativității de a purta un stingător de incendiu obligatoriu.",
+    "fine_chf": 40,
+    "keywords": [
+      "nepurtare",
+      "stingător de incendiu",
+      "ADR",
+      "marfă periculoasă",
+      "echipament",
+      "stingător de incendiu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul",
+      "transport de marfă periculoasă"
+    ],
+    "conditions": null,
+    "notes": "Adesea relevant pentru transport comercial sau de marfă periculoasă.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Nerespectarea obligativității de a purta un caleș de roată pe remorci a căror greutate totală depășește 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "nepurtare",
+      "caleș de roată",
+      "remorcă",
+      "greutate totală",
+      "remorcă",
+      "caleș de roată"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Remorcă > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Utilizarea sau parcarea unui vehicul cu plăci de control neinstalate conform reglementărilor.",
+    "fine_chf": 60,
+    "keywords": [
+      "plăci de control",
+      "placă de înmatriculare",
+      "montare",
+      "parcare",
+      "placă de înmatriculare",
+      "instalare incorectă"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Vehicul parcat"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Utilizarea unui vehicul cu motor cu un anvelopă defectă.",
+    "fine_chf": 100,
+    "keywords": [
+      "vehicul cu motor",
+      "anvelopă defectă",
+      "anvelopă",
+      "anvelopă defectă",
+      "întreținere",
+      "defect al vehiculului"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicul cu motor"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Transportarea unei remorci cu o anvelopă defectă.",
+    "fine_chf": 100,
+    "keywords": [
+      "remorcă",
+      "anvelopă defectă",
+      "anvelopă",
+      "anvelopă defectă",
+      "remorcă",
+      "întreținere"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Remorcă"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Conducerea cu anvelope cu țepi fără sau cu o placă de viteză instalată incorect.",
+    "fine_chf": 20,
+    "keywords": [
+      "anvelope cu țepi",
+      "placă de viteză",
+      "anvelope de iarnă",
+      "anvelope cu țepi",
+      "placă de viteză",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Lipsește sau este incorectă eticheta/placa de viteză necesară când se folosesc anvelope cu țepi.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Utilizarea anvelopelor cu țepi în afara perioadei în care sunt permise.",
+    "fine_chf": 60,
+    "keywords": [
+      "anvelope cu țepi",
+      "utilizare",
+      "în afara perioadei",
+      "interdicție",
+      "anvelope cu țepi",
+      "regulă sezonieră"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Folosirea anvelopelor cu țepi în afara sezonului legal permis.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Conducerea cu placa de viteză deși nu se folosesc anvelope cu țepi.",
+    "fine_chf": 20,
+    "keywords": [
+      "anvelope cu țepi",
+      "placă de viteză",
+      "echipament greșit",
+      "încălcare a echipamentului",
+      "placă de viteză"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Afișarea etichetei de viteză necesare pentru anvelope cu țepi când vehiculul nu este echipat cu acestea.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Utilizarea unui vehicul cu un dispozitiv acustic de avertizare neautorizat.",
+    "fine_chf": 40,
+    "keywords": [
+      "dispozitiv acustic de avertizare",
+      "claxon",
+      "neautorizat",
+      "sirena",
+      "claxon",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": null,
+    "notes": "Folosirea unui vehicul cu un claxon sau dispozitiv de avertizare neaprobat.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

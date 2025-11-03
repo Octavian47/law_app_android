@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Utilizarea unei drum național de prima sau a doua clasă fără vignetă necesară pentru perioada de valabilitate",
+    "fine_chf": 200,
+    "keywords": [
+      "Drum național",
+      "Vignetă",
+      "Vignetă lipsă",
+      "Emitere",
+      "Etichetă de taxă",
+      "Autostradă"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducerea pe drumuri naționale fără vignetă de taxă necesară.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Utilizarea unui drum național de prima sau a doua clasă cu vignetă adezivă necesară pentru perioada de valabilitate, care nu este aplicată, sau nu este aplicată în locul prescris direct pe vehicul, sau este deteriorată",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignetă",
+      "Vignetă adezivă",
+      "Aplicare",
+      "Deteriorată",
+      "Adeziv",
+      "Plasare"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Conducerea cu o vignetă aplicată incorect (nu direct pe vehicul) sau deteriorată.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

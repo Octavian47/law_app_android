@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Náraz vozidla nebo předmětu řidičem",
+    "fine_chf": 20,
+    "keywords": [
+      "Náraz",
+      "Kolize",
+      "Předmět",
+      "Řidič",
+      "kolize",
+      "předmět",
+      "řidič"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženská řidička",
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Náhodné sražení vozidla nebo předmětu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tahání vozidla nebo předmětu řidičem",
+    "fine_chf": 20,
+    "keywords": [
+      "Tahání",
+      "Předmět",
+      "Řidič",
+      "tahání",
+      "předmět",
+      "řidič"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženská řidička",
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Způsobení poškození taháním/tažením vozidla nebo předmětu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Odtažení vozidla nebo předmětu řidičem",
+    "fine_chf": 20,
+    "keywords": [
+      "Odtažení",
+      "Předmět",
+      "Řidič",
+      "odtažení",
+      "tažení",
+      "předmět",
+      "řidič"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Ženská řidička",
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Způsobení poškození při odtažení/tažení vozidla nebo předmětu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Obecný zákaz provozu v obou směrech» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zákaz provozu",
+      "Zákazový signál",
+      "v obou směrech",
+      "Obecný zákaz",
+      "Signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování značky 'Žádná vozidla v obou směrech'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Vstup zakázán» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Vstup",
+      "zakázáno",
+      "Zákazový signál",
+      "Zákaz vjezdu",
+      "zakázaný vstup",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování značky 'Zákaz vjezdu'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zákaz pro jízdní kola a mopedy» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Jízdní kola",
+      "Mopedy",
+      "Kolo",
+      "Moped",
+      "Zákaz",
+      "jízdní kolo",
+      "moped",
+      "signalizace"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jezdec na kole",
+      "Jezdec na mopedu"
+    ],
+    "conditions": null,
+    "notes": "Ignorování zákazu pro jízdní kola a mopedy.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zákaz pro mopedy» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mopedy",
+      "Moped",
+      "Zákaz",
+      "moped",
+      "signalizace"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jezdec na mopedu"
+    ],
+    "conditions": null,
+    "notes": "Ignorování zákazu specificky pro mopedy.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Směr vpravo» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Směr",
+      "vpravo",
+      "Regulační signál",
+      "směr vpravo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směrového signálu (vpravo).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Směr vlevo» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Směr",
+      "vlevo",
+      "Regulační signál",
+      "směr vlevo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směrového signálu (vlevo).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Obcházet překážku vpravo» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Překážka",
+      "vpravo",
+      "obcházet",
+      "Regulační signál",
+      "obcházet překážku vpravo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směru k obcházení překážky vpravo.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Obcházet překážku vlevo» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Překážka",
+      "vlevo",
+      "obcházet",
+      "Regulační signál",
+      "obcházet překážku vlevo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směru k obcházení překážky vlevo.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Jít rovně vpřed» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Jít rovně",
+      "Směr",
+      "Regulační signál",
+      "rovně vpřed",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směrového značení 'rovně vpřed'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Odbočit vpravo» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Odbočit vpravo",
+      "Otáčení",
+      "Směr",
+      "Regulační signál",
+      "odbočit vpravo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného značení 'odbočit vpravo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Odbočit vlevo» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Odbočit vlevo",
+      "Otáčení",
+      "Směr",
+      "Regulační signál",
+      "odbočit vlevo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného značení 'odbočit vlevo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Kruhový objezd» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kruhový objezd",
+      "Kruhový provoz",
+      "Regulační signál",
+      "kruhový objezd",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování povinného směru (obvykle proti směru hodinových ručiček) na kruhovém objezdu.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zákaz odbočení vpravo» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Otáčení",
+      "vpravo",
+      "zakázáno",
+      "Zákazový signál",
+      "Zákaz odbočení vpravo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování značky 'Zákaz odbočení vpravo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zákaz odbočení vlevo» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Otáčení",
+      "vlevo",
+      "zakázáno",
+      "Zákazový signál",
+      "Zákaz odbočení vlevo",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování značky 'Zákaz odbočení vlevo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Zákaz otáčení o 180°» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Otáčení o 180°",
+      "zakázáno",
+      "Zákazový signál",
+      "Zákaz otáčení o 180°",
+      "signalizace"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování značky 'Zákaz otáčení o 180°'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Cyklostezka» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Cyklostezka",
+      "Jízdní kolo",
+      "Kolo",
+      "Povinný signál",
+      "cyklostezka",
+      "signalizace"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zneužívání nebo blokování povinné cyklostezky.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zóna sdíleného prostoru» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zóna sdíleného prostoru",
+      "Zóna",
+      "sdílený prostor",
+      "signalizace",
+      "pomalá zóna"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování pravidel nebo hranic zóny sdíleného prostoru (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Zóna pro chodce» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zóna pro chodce",
+      "Zóna",
+      "zóna pro chodce",
+      "signalizace",
+      "chodec"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování pravidel nebo hranic pěší zóny.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

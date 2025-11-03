@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Korišćenje telefona bez uređaja za slobodne ruke tokom vožnje (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "mobilni telefon",
+      "uređaj za slobodne ruke",
+      "tokom vožnje",
+      "vožnja",
+      "mobilni telefon"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač"
+    ],
+    "conditions": null,
+    "notes": "Korišćenje telefona bez uređaja za slobodne ruke tokom vožnje.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Ne nošenje sigurnosnog pojasa od strane vozača (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sigurnosni pojas",
+      "pojas",
+      "priključivanje",
+      "vozač vozila",
+      "sigurnosni pojas",
+      "vozač"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ne nošenje sigurnosnog pojasa od strane vozača.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Prevoz deteta mlađeg od 12 godina bez odgovarajuće sigurnosne opreme (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dete",
+      "bezbednost",
+      "dečiji sedište",
+      "prevoz",
+      "sigurnosni uređaj",
+      "deca"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prevoz deteta mlađeg od 12 godina bez odgovarajuće sigurnosne opreme.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Ne nošenje zaštitne kacige od strane vozača motocikla, lakih, malih i trotočkašnih motornih vozila (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "zaštitna kaciga",
+      "kaciga",
+      "motocikl",
+      "motorno vozilo",
+      "vozač",
+      "kaciga",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Vozač motocikla/lakog/malog/trotočkašnog vozila ne nosi zaštitnu kacigu.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Prevoz deteta mlađeg od 12 godina bez kacige na motociklima, lakim, malim i trotočkašnim motornih vozila (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dete",
+      "kaciga",
+      "motocikl",
+      "prevoz",
+      "zaštitna kaciga",
+      "deca",
+      "motocikl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Prevoz deteta mlađeg od 12 godina bez kacige na motociklu/lakom/malom/trotočkašnom vozilu.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Ne korišćenje najudaljenije desne trake na putevima sa više traka, osim pri preticanju, spajanju, vožnji u paralelnim kolonama ili u naseljenim područjima (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "traka",
+      "vožnja desno",
+      "najudaljenija traka",
+      "preticanje",
+      "korišćenje trake",
+      "držanje desno"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ne korišćenje najudaljenije desne trake na putevima sa više traka, osim pri preticanju, spajanju, vožnji u paralelnim kolonama ili vožnji u naseljenom području.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Preticanje s desne strane izbacivanjem iz trake i ponovnim ulaskom na putevima sa više traka u naseljenim područjima (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "preticanje s desne strane",
+      "u naseljenom području",
+      "promena trake",
+      "preticanje s desne strane",
+      "naseljeno područje",
+      "promena trake"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Preticanje s desne strane izbacivanjem iz trake i ponovnim ulaskom na putevima sa više traka u naseljenim područjima.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Preticanje s desne strane izbacivanjem iz trake i ponovnim ulaskom na autoputevima i brzim putevima sa više traka (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "preticanje s desne strane",
+      "brzi put",
+      "autoput",
+      "promena trake",
+      "preticanje s desne strane",
+      "autoput",
+      "autoput"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Preticanje s desne strane izbacivanjem iz trake i ponovnim ulaskom na autoputevima i brzim putevima sa više traka.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Promena trake radi preticanja na jednosmernoj cesti (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "preticanje",
+      "promena trake",
+      "cesta sa jednom trakom",
+      "preticanje",
+      "promena trake",
+      "cesta sa jednom trakom"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Promena trake radi preticanja na odeljku ceste sa jednom trakom.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Zaustavljanje ili parkiranje na levoj strani puta, iako nema tramvajskih pruga, nema znakova zabrane parkiranja ili zaustavljanja i put je širok (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "zaustavljanje",
+      "parkiranje",
+      "leva strana puta",
+      "parkiranje",
+      "zaustavljanje",
+      "pogrešna strana"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje ili parkiranje na levoj strani puta, uprkos odsustvu tramvajskih pruga, znakova zabrane parkiranja/zaustavljanja i širokom putu.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Napustiti vozilo bez uklanjanja ključa za paljenje (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "napuštanje vozila",
+      "ključ za paljenje",
+      "ključ",
+      "ključ za paljenje",
+      "napuštanje vozila"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Napuštanje vozila bez uklanjanja ključa za paljenje.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Ne postavljanje trougla za upozorenje na kvar (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "signal za kvar",
+      "trougao za upozorenje",
+      "postavljanje",
+      "trougao za upozorenje",
+      "kvar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ne postavljanje trougla za upozorenje (signal za kvar).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Nepravilno postavljanje trougla za upozorenje na kvar (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signal za kvar",
+      "trougao za upozorenje",
+      "postavljanje",
+      "neusaglađen",
+      "trougao za upozorenje",
+      "kvar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Postavljanje trougla za upozorenje (signal za kvar) suprotno propisima (npr. preblizu).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Zlouporaba svetla za opasnost na parkiranom vozilu (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "svetla za opasnost",
+      "svetla za opasnost",
+      "zloupotreba",
+      "parkirano vozilo",
+      "svetla za opasnost",
+      "parkirano vozilo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zlouporaba svetala za opasnost na parkiranom vozilu.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Zlouporaba svetla za opasnost na pokretnom vozilu (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "svetla za opasnost",
+      "svetla za opasnost",
+      "zloupotreba",
+      "pokretno vozilo",
+      "svetla za opasnost",
+      "pokretno vozilo"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zlouporaba svetala za opasnost na pokretnom vozilu.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Ne pričvršćivanje trougla za upozorenje na kvar na zadnjem delu vučenog vozila (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "signal za kvar",
+      "vučeno vozilo",
+      "zadnji deo",
+      "trougao za upozorenje",
+      "vučeno vozilo",
+      "signalizacija"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ne pričvršivanje trougla za upozorenje na zadnjem delu vučenog vozila.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

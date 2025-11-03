@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavenie pri nakladaní tovaru do 10 m pred značkou zastávky verejnej dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Nakladanie tovaru",
+      "Značka zastávky",
+      "verejná doprava",
+      "zastavenie",
+      "tovar",
+      "zastávka verejnej dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na nakladanie/vykladanie tovaru do 10 m pred značkou zastávky verejnej dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie do 10 m po značke zastávky verejnej dopravy (Art. 18 Abs. 3 a 19 Abs. 2 a VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "značka zastávky",
+      "verejná doprava",
+      "60 minút",
+      "parkovanie",
+      "zastávka verejnej dopravy",
+      "časový limit"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie do 10 m po značke zastávky verejnej dopravy, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Obštrukčné zastavenie na nastúpenie a vystúpenie osôb do 10 m po značke zastávky verejnej dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Obštrukčné",
+      "nastúpenie/vystúpenie",
+      "značka zastávky",
+      "zastavenie",
+      "obštrukčné",
+      "zastávka verejnej dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Obštrukčné zastavenie, aby ľudia nastúpili a vystúpili do 10 m po značke zastávky verejnej dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavenie pri nakladaní tovaru do 10 m po značke zastávky verejnej dopravy (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Nakladanie tovaru",
+      "Značka zastávky",
+      "verejná doprava",
+      "zastavenie",
+      "tovar",
+      "zastávka verejnej dopravy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na nakladanie/vykladanie tovaru do 10 m po značke zastávky verejnej dopravy.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkovanie pred priestorom požiarnej stanice a skladmi hasičského vybavenia (Art. 18 Abs. 3 a Art. 19 Abs. 2 a VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "požiarna stanica",
+      "sklad",
+      "hasičské vybavenie",
+      "60 minút",
+      "parkovanie",
+      "požiarna stanica",
+      "hasičské vybavenie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie pred priestorom požiarnej stanice/hasičského vybavenia, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zastavenie pri nakladaní tovaru pred priestorom požiarnej stanice alebo skladom hasičského vybavenia (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Nakladanie tovaru",
+      "požiarna stanica",
+      "hasičské vybavenie",
+      "zastavenie",
+      "tovar",
+      "požiarna stanica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na nakladanie/vykladanie tovaru pred priestorom požiarnej stanice/hasičského vybavenia.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Obštrukčné zastavenie na nastúpenie a vystúpenie osôb pred priestorom požiarnej stanice a skladom hasičského vybavenia (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Obštrukčné",
+      "nastúpenie/vystúpenie",
+      "požiarna stanica",
+      "zastavenie",
+      "obštrukčné",
+      "požiarna stanica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Obštrukčné zastavenie, aby ľudia nastúpili a vystúpili pred priestorom požiarnej stanice/hasičského vybavenia.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Obštrukčné zastavenie pri nakladaní tovaru vedľa vozidiel zaparkovaných pozdĺž okraja cesty (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Obštrukčné",
+      "nakladanie tovaru",
+      "pozdĺž",
+      "zaparkované",
+      "zastavenie",
+      "obštrukčné",
+      "tovar",
+      "dvojité parkovanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Obštrukčné zastavenie na nakladanie/vykladanie tovaru vedľa vozidiel zaparkovaných pozdĺž okraja cesty (dvojité parkovanie pre tovar).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkovanie na ceste pre cyklistov (Art. 19 Abs. 2 d VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "cesta pre cyklistov",
+      "cyklistický pruh",
+      "60 minút",
+      "parkovanie",
+      "cesta pre cyklistov",
+      "cyklistický pruh"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na cyklistickej jazdnej pruhy, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Zastavenie na ceste pre cyklistov, keď bráni cyklistickému dopravnému toku (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "cesta pre cyklistov",
+      "cestná cyklistická premávka",
+      "prekážané",
+      "zastavenie",
+      "cesta pre cyklistov",
+      "obštrukčné"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na cyklistickej jazdnej pruhy, keď bráni cyklistickému dopravnému toku.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkovanie na ceste vedľa cyklistickej jazdnej pruhy (Art. 19 Abs. 2 d VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "cesta",
+      "cesta pre cyklistov",
+      "vedľa",
+      "60 minút",
+      "parkovanie",
+      "cesta",
+      "cesta pre cyklistov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na ceste vedľa cyklistickej jazdnej pruhy, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkovanie na tramvajových koľajách (Art. 19 Abs. 2 a a 25 Abs. 5 VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "tramvajové koľaje",
+      "tramvajové koľaje",
+      "60 minút",
+      "parkovanie",
+      "tramvajové koľaje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na tramvajových koľajách, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zastavenie na tramvajových koľajách (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "tramvajové koľaje",
+      "tramvajové koľaje",
+      "zastavenie",
+      "tramvajové koľaje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na tramvajových koľajách.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkovanie bližšie ako 1,5 m vedľa najbližšej tramvajovej koľaje (Art. 19 Abs. 2 a a 25 Abs. 5 VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "tramvajová koľaj",
+      "tramvajové koľaje",
+      "1,5 m",
+      "60 minút",
+      "parkovanie",
+      "tramvajová koľaj",
+      "vzdialenosť"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie bližšie ako 1,5 m k najbližšej tramvajovej koľaji, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zastavenie bližšie ako 1,5 m vedľa najbližšej tramvajovej koľaje (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "tramvajová koľaj",
+      "tramvajové koľaje",
+      "1,5 m",
+      "zastavenie",
+      "tramvajová koľaj",
+      "vzdialenosť"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie bližšie ako 1,5 m k najbližšej tramvajovej koľaji.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkovanie na núdzovom pruhu diaľnice (Art. 36 Abs. 3 VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "núdzový pruh",
+      "diaľnica",
+      "60 minút",
+      "parkovanie",
+      "núdzový pruh",
+      "diaľnica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na núdzovom pruhu diaľnice, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zastavenie na núdzovom pruhu diaľnice, okrem núdzového zastavenia (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "núdzový pruh",
+      "diaľnica",
+      "núdzové zastavenie",
+      "zastavenie",
+      "núdzový pruh",
+      "diaľnica",
+      "núdzové"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "okrem núdzového zastavenia",
+    "notes": "Zastavenie na núdzovom pruhu diaľnice, okrem núdzových situácií.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkovanie na núdzovom pruhu rýchlostnej cesty (Art. 36 Abs. 3 VRV) až do 60 minút",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "núdzový pruh",
+      "rýchlostná cesta",
+      "60 minút",
+      "parkovanie",
+      "núdzový pruh",
+      "rýchlostná cesta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na núdzovom pruhu rýchlostnej cesty, až do 60 minút.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

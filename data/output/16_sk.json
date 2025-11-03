@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Zastavenie motorového vozidla na diaľniciach a rýchlostných cestách, keď motorové vozidlo zastavilo na núdzovom pruhu alebo na parkovacom mieste pre poruchové vozidlá kvôli nedostatku paliva alebo elektrickej energie.",
+    "fine_chf": 120,
+    "keywords": [
+      "diaľnica",
+      "rýchlostná cesta",
+      "núdzový pruh",
+      "nedostatok paliva",
+      "zastavenie",
+      "núdzový pruh",
+      "bez paliva"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorové vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie kvôli nedostatku paliva alebo elektrickej energie.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Jazda cez alebo prekročenie bezpečnostnej línie v obývaných oblastiach.",
+    "fine_chf": 140,
+    "keywords": [
+      "bezpečnostná línia",
+      "prekročenie",
+      "obývaná oblasť",
+      "pevná línia",
+      "obývaná oblasť"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie pevnej bezpečnostnej línie v obývanej oblasti.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Jazda cez alebo prekročenie zakázanej oblasti v obývaných oblastiach.",
+    "fine_chf": 140,
+    "keywords": [
+      "zakázaná oblasť",
+      "prekročenie",
+      "obývaná oblasť",
+      "zakázaná oblasť",
+      "obývaná oblasť"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekročenie označenej zakázanej oblasti (Sperrfläche) v obývanej oblasti.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Nedodržanie povinnosti niesť výstražný trojuholník.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržanie",
+      "výstražný trojuholník",
+      "vybavenie",
+      "vybavenie",
+      "výstražný trojuholník"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Nedodržanie povinnosti mať podložku pod kolesá na ťažkých motorových vozidlách.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržanie",
+      "zábradlie",
+      "ťažké vozidlo",
+      "vybavenie",
+      "zábradlie",
+      "ťažké vozidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Ťažké motorové vozidlá"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Nedodržanie povinnosti mať na palube lekárničku prvej pomoci v cestovných autobusoch.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržanie",
+      "lekárnička prvej pomoci",
+      "cestovný autobus",
+      "cestovný autobus",
+      "lekárnička prvej pomoci",
+      "cestovný autobus"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "cestovný autobus"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Nedodržanie povinnosti mať požadovaný hasiaci prístroj.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržanie",
+      "hasiaci prístroj",
+      "ADR",
+      "nebezpečný náklad",
+      "vybavenie",
+      "hasiaci prístroj"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla",
+      "preprava nebezpečného nákladu"
+    ],
+    "conditions": null,
+    "notes": "Často relevantné pre komerčnú alebo prepravu nebezpečného nákladu.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Nedodržanie povinnosti mať podložku pod kolesá na prívesoch, ktorých celková hmotnosť presahuje 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržanie",
+      "zábradlie",
+      "príves",
+      "celková hmotnosť",
+      "príves",
+      "zábradlie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Príves > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Prevádzka alebo parkovanie vozidla s kontrolnými značkami, ktoré nie sú nainštalované podľa predpisov.",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolné značky",
+      "poznávacia značka",
+      "montáž",
+      "parkovanie",
+      "poznávacia značka",
+      "nesprávne nainštalované"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla",
+      "Zaparkované vozidlo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Prevádzka motorového vozidla s poškodeným pneumatikou.",
+    "fine_chf": 100,
+    "keywords": [
+      "motorové vozidlo",
+      "poškodená pneumatika",
+      "pneumatika",
+      "poškodená pneumatika",
+      "údržba",
+      "porucha vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorové vozidlo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Preprava prívesu s poškodenou pneumatikou.",
+    "fine_chf": 100,
+    "keywords": [
+      "príves",
+      "poškodená pneumatika",
+      "pneumatika",
+      "poškodená pneumatika",
+      "príves",
+      "údržba"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Príves"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Jazda s hrotovanými pneumatikami bez alebo s nesprávne nainštalovanou rýchlostnou značkou.",
+    "fine_chf": 20,
+    "keywords": [
+      "hrotované pneumatiky",
+      "rýchlostná značka",
+      "zimné pneumatiky",
+      "hrotované pneumatiky",
+      "rýchlostná značka",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Chýbajúca alebo nesprávna rýchlostná nálepka/značka požadovaná pri používaní hrotovaných pneumatík.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Použitie hrotovaných pneumatík mimo povoleného obdobia.",
+    "fine_chf": 60,
+    "keywords": [
+      "hrotované pneumatiky",
+      "použitie",
+      "mimo povoleného času",
+      "zákaz",
+      "hrotované pneumatiky",
+      "sezónne pravidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Používanie hrotovaných pneumatík mimo zákonom povoleného obdobia.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Jazda s rýchlostnou značkou, aj keď nie sú použité hrotované pneumatiky.",
+    "fine_chf": 20,
+    "keywords": [
+      "hrotované pneumatiky",
+      "rýchlostná značka",
+      "nesprávne vybavenie",
+      "porušenie vybavenia",
+      "rýchlostná značka"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zobrazovanie rýchlostnej nálepky požadovanej pre hrotované pneumatiky, keď vozidlo nie je s nimi vybavené.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Použitie vozidla s neautorizovaným akustickým výstražným zariadením.",
+    "fine_chf": 40,
+    "keywords": [
+      "akustické výstražné zariadenie",
+      "trúba",
+      "neautorizovaný",
+      "siréna",
+      "trúba",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Používanie vozidla s neautorizovanou trúbou alebo výstražným zariadením.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

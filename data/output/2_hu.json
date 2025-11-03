@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "A kötelező információk hiányos rögzítése a heti lapban",
+    "fine_chf": 40,
+    "keywords": [
+      "heti lap",
+      "információ",
+      "rögzítés",
+      "ARV 2",
+      "munkaidő",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező információk hiányos rögzítése a heti lapban hivatásos járművezetők esetén.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "A kötelező információk hiányos rögzítése a napi lapban",
+    "fine_chf": 40,
+    "keywords": [
+      "napi lap",
+      "információ",
+      "rögzítés",
+      "ARV 2",
+      "munkaidő",
+      "hivatásos járművezető"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező információk hiányos rögzítése a napi lapban hivatásos járművezetők esetén.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "A kötelező információk hiányos rögzítése a taxióra kontrollkártyáján",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrollkártya",
+      "taxi-vezető",
+      "információ",
+      "rögzítés",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxi-vezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező információk hiányos rögzítése a taxióra kontrollkártyáján (mind ARV 2, mind ARV 1 hivatkozással).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "A kötelező információk hiányos rögzítése a digitális tachográfon",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "digitális",
+      "információ",
+      "rögzítés",
+      "ARV",
+      "hivatásos járművezető",
+      "tachográf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező információk hiányos rögzítése a digitális tachográfon.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "A tachográf diagram címkéjének hiánya",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "diagram",
+      "címke",
+      "címkézetlen",
+      "tachográf lap",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf diagram címkéjének hiánya (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "A nyomtatvány címkéjének hiánya",
+    "fine_chf": 40,
+    "keywords": [
+      "nyomtatvány",
+      "címke",
+      "címkézetlen",
+      "tachográf nyomtatvány",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf nyomtatvány címkéjének hiánya.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "A tachográf diagram címkézésének hiányossága",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "diagram",
+      "hiányos",
+      "címke",
+      "tachográf lap",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf diagram címkézésének hiányossága.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "A nyomtatvány címkézésének hiányossága",
+    "fine_chf": 40,
+    "keywords": [
+      "nyomtatvány",
+      "hiányos",
+      "címke",
+      "tachográf nyomtatvány",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf nyomtatvány címkézésének hiányossága.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "A tachográf diagram hamis/csaló címkézése",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "diagram",
+      "hamis",
+      "valótlan",
+      "címkézés",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf diagram hamis/csaló címkézése.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "A nyomtatvány hamis/csaló címkézése",
+    "fine_chf": 40,
+    "keywords": [
+      "nyomtatvány",
+      "hamis",
+      "valótlan",
+      "címkézés",
+      "ARV",
+      "tachográf nyomtatvány"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf nyomtatvány hamis/csaló címkézése.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Nem típusjóváhagyott tachográf diagram használata",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "diagram",
+      "nem típusjóváhagyott",
+      "jóváhagyatlan",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nem típusjóváhagyott tachográf diagram használata.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "A tachográf diagram, amely nem illeszkedik a tachográf eszközhöz, használata",
+    "fine_chf": 40,
+    "keywords": [
+      "tachográf",
+      "diagram",
+      "nem megfelelő",
+      "helytelen",
+      "nem egyező",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A tachográf diagram, amely nem egyezik a konkrét tachográf eszközzel, használata.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Nem megfelelő nyomtatópapír használata",
+    "fine_chf": 40,
+    "keywords": [
+      "nyomtatópapír",
+      "nem megfelelő",
+      "helytelen",
+      "nyomtatópapír",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelő nyomtatópapír használata a digitális tachográf/kontroll eszközhöz.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "A veszélyes áruk szállításához szükséges képzési bizonyítvány hiánya",
+    "fine_chf": 20,
+    "keywords": [
+      "veszélyes áruk",
+      "szállítmány",
+      "képzési bizonyítvány",
+      "ADR",
+      "SDR",
+      "veszélyes áruk",
+      "okmányok"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A veszélyes áruk szállításához szükséges képzési bizonyítvány hiánya, miközben tudomásul veszi a veszélyes szállítmányt.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "A veszélyes áruk szállítmányhoz szükséges szállítási dokumentum hiánya",
+    "fine_chf": 140,
+    "keywords": [
+      "veszélyes áruk",
+      "szállítmány",
+      "szállítási dokumentum",
+      "ADR",
+      "SDR",
+      "veszélyes áruk",
+      "szállítási dokumentum"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A veszélyes áruk szállításához szükséges szállítási dokumentum hiánya, miközben tudomásul veszi a veszélyes szállítmányt. Ez a bírság jelentősen magasabb.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "A veszélyes áruk szállítmányhoz szükséges írásos utasítás (baleseti lap) hiánya",
+    "fine_chf": 40,
+    "keywords": [
+      "veszélyes áruk",
+      "szállítmány",
+      "írásos utasítás",
+      "baleseti lap",
+      "ADR",
+      "SDR",
+      "vészhelyzeti utasítások"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A veszélyes árukhoz szükséges írásos utasítások (vészhelyzeti/baleseti lap) hiánya, miközben tudomásul veszi a veszélyes szállítmányt.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "A narancssárga jelzőtáblák eltávolításának vagy lefedésének hiánya, ha nem szállítanak veszélyes árut",
+    "fine_chf": 60,
+    "keywords": [
+      "veszélyes áruk",
+      "narancssárga jelzőtábla",
+      "eltávolítás",
+      "lefedés",
+      "SDR",
+      "kijelzés",
+      "jelzőtábla"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A narancssárga jelzőtáblák (veszélyes árut jelző) eltávolításának vagy lefedésének hiánya, amikor a jármű NEM szállít veszélyes árut (üres/tiszta).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "A jogosítvány vagy engedély módosítását vagy cseréjét igénylő tények bejelentésének elmulasztása vagy késedelmes bejelentése",
+    "fine_chf": 20,
+    "keywords": [
+      "bejelentési kötelezettség",
+      "jogosítvány",
+      "engedély",
+      "változtatás",
+      "csere",
+      "VZV",
+      "bejelentés"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Jogosítvány/engedély tulajdonos"
+    ],
+    "conditions": null,
+    "notes": "A jogosítvány vagy engedély módosítását vagy cseréjét igénylő tények bejelentésének elmulasztása vagy késedelmes bejelentése.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "A lakóhelyváltozás bejelentésének elmulasztása vagy késedelmes bejelentése egy új svájci címre",
+    "fine_chf": 20,
+    "keywords": [
+      "lakóhelyváltozás",
+      "cím",
+      "bejelentés",
+      "VZV",
+      "bejelentés",
+      "lakóhelyváltozás"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Járművezető",
+      "Jogosítvány tulajdonos"
+    ],
+    "conditions": null,
+    "notes": "A lakóhely svájci új címre való változás bejelentésének elmulasztása vagy késedelmes bejelentése.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "A tachográf kártyákon történt változások bejelentésének elmulasztása",
+    "fine_chf": 20,
+    "keywords": [
+      "tachográf kártya",
+      "változás",
+      "bejelentés",
+      "ARV",
+      "tachográf kártya",
+      "bejelentés"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kártyabirtokos"
+    ],
+    "conditions": null,
+    "notes": "A járművezetői tachográf kártyán történt változások bejelentésének elmulasztása.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

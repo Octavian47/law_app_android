@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Arrêt sur le trottoir devant un passage piéton à côté d'une ligne d'interdiction d'arrêt",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Stationnement",
+      "Trottoir",
+      "Passage piéton",
+      "Ligne d'interdiction d'arrêt",
+      "arrêt",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur le trottoir à côté d'une ligne 'Interdiction d'arrêt' avant un passage piéton.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Stationnement sur le trottoir à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est installée (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Trottoir",
+      "Passage piéton",
+      "Ligne d'interdiction d'arrêt",
+      "Distance",
+      "stationnement",
+      "trottoir",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur le trottoir à moins de 5 m d'un passage piéton, où il n'y a pas de ligne 'Interdiction d'arrêt'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Stationnement sur le trottoir à moins de 5 m d'un passage piéton où aucune ligne d'interdiction d'arrêt n'est installée",
+    "fine_chf": 80,
+    "keywords": [
+      "Stationnement",
+      "Trottoir",
+      "Passage piéton",
+      "Ligne d'interdiction d'arrêt",
+      "Distance",
+      "stationnement",
+      "trottoir",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Stationnement sur le trottoir à moins de 5 m d'un passage piéton, où il n'y a pas de ligne 'Interdiction d'arrêt'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Stationnement sur une zone restreinte",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Zone restreinte",
+      "Arrêt",
+      "Zone restreinte",
+      "stationnement",
+      "Hachurage",
+      "zone d'interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Stationnement sur une zone restreinte hachurée/marquée.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Arrêt sur une zone restreinte",
+    "fine_chf": 80,
+    "keywords": [
+      "Stationnement",
+      "Zone restreinte",
+      "Arrêt",
+      "Zone restreinte",
+      "arrêt",
+      "Hachurage",
+      "zone d'interdiction d'arrêt"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur une zone restreinte hachurée/marquée.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Stationnement sur une ligne en zigzag",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Ligne en zigzag",
+      "Arrêt",
+      "Zone d'attente",
+      "stationnement",
+      "ligne en zigzag",
+      "zone de chargement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur une ligne en zigzag (souvent pour les arrêts de bus ou les zones de chargement).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Obstruction de l'arrêt sur une ligne en zigzag dans le but d'embarquer et de débarquer des passagers",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Ligne en zigzag",
+      "Embarquement",
+      "Débarquement",
+      "Obstruction",
+      "arrêt",
+      "ligne en zigzag",
+      "obstruant"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Obstruction de l'arrêt sur une ligne en zigzag dans le but de prendre/laisser des personnes.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Arrêt sur une ligne en zigzag pour la manutention de marchandises",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Ligne en zigzag",
+      "Manutention de marchandises",
+      "Zone de livraison",
+      "arrêt",
+      "ligne en zigzag",
+      "chargement de marchandises"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur une ligne en zigzag dans le but de charger/décharger des marchandises.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Stationnement d'un véhicule non autorisé dans un emplacement réservé aux personnes à mobilité réduite",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Mobilité réduite",
+      "Emplacement de stationnement",
+      "Fauteuil roulant",
+      "Non autorisé",
+      "stationnement",
+      "handicapé",
+      "handicap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement non autorisé dans un emplacement réservé aux personnes handicapées.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Utilisation non autorisée de la « carte de stationnement pour personnes handicapées »",
+    "fine_chf": 120,
+    "keywords": [
+      "Carte de stationnement",
+      "Mobilité réduite",
+      "Abus",
+      "Non autorisé",
+      "Permis",
+      "carte de stationnement",
+      "handicapé",
+      "mauvaise utilisation"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation non autorisée du 'permis de stationnement pour personnes handicapées'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Stationnement sur une ligne d'interdiction d'arrêt",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Ligne d'interdiction d'arrêt",
+      "Interdiction",
+      "stationnement",
+      "ligne d'interdiction d'arrêt"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur une ligne 'Interdiction d'arrêt'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Arrêt sur une ligne d'interdiction d'arrêt",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Ligne d'interdiction d'arrêt",
+      "Interdiction",
+      "arrêt",
+      "ligne d'interdiction d'arrêt"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur une ligne 'Interdiction d'arrêt'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Stationnement sur une route principale hors zones bâties : jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "hors zone bâtie",
+      "Bord de route",
+      "stationnement",
+      "route principale",
+      "hors zone bâtie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Stationnement sur une route principale hors zones bâties, jusqu'à 2 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Stationnement sur une route principale hors zones bâties : plus de 2 mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "hors zone bâtie",
+      "Bord de route",
+      "stationnement",
+      "route principale",
+      "hors zone bâtie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "plus de 2 mais pas plus de 4 heures",
+    "notes": "Stationnement sur une route principale hors zones bâties, plus de 2 mais pas plus de 4 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Stationnement sur une route principale hors zones bâties : plus de 4 mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "hors zone bâtie",
+      "Bord de route",
+      "stationnement",
+      "route principale",
+      "hors zone bâtie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "plus de 4 mais pas plus de 10 heures",
+    "notes": "Stationnement sur une route principale hors zones bâties, plus de 4 mais pas plus de 10 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Stationnement sur une route principale en zone urbaine lorsqu'il n'y a pas assez d'espace pour que deux véhicules motorisés passent : jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "en ville",
+      "Croisement",
+      "Obstruction",
+      "stationnement",
+      "route principale",
+      "en ville",
+      "passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Stationnement sur une route principale en zone urbaine, s'il n'y a pas assez d'espace pour que deux véhicules motorisés passent, jusqu'à 2 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Stationnement sur une route principale en zone urbaine lorsqu'il n'y a pas assez d'espace pour que deux véhicules motorisés passent : plus de 2 mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "en ville",
+      "Croisement",
+      "Obstruction",
+      "stationnement",
+      "route principale",
+      "en ville",
+      "passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "plus de 2 mais pas plus de 4 heures",
+    "notes": "Stationnement sur une route principale en zone urbaine, s'il n'y a pas assez d'espace pour que deux véhicules motorisés passent, plus de 2 mais pas plus de 4 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Stationnement sur une route principale en zone urbaine lorsqu'il n'y a pas assez d'espace pour que deux véhicules motorisés passent : plus de 4 mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Route principale",
+      "en ville",
+      "Croisement",
+      "Obstruction",
+      "stationnement",
+      "route principale",
+      "en ville",
+      "passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "plus de 4 mais pas plus de 10 heures",
+    "notes": "Stationnement sur une route principale en zone urbaine, s'il n'y a pas assez d'espace pour que deux véhicules motorisés passent, plus de 4 mais pas plus de 10 heures.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

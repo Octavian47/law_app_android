@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Első vagy második osztályú nemzeti út használata a kötelező vignett hiányában a érvényességi időre",
+    "fine_chf": 200,
+    "keywords": [
+      "Nemzeti út",
+      "Vignett",
+      "Hiányzó vignett",
+      "Kibocsátás",
+      "Útdíj matrica",
+      "Autópálya"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nemzeti utakon történő közlekedés a kötelező útdíj vignett nélkül.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Első vagy második osztályú nemzeti út használata a kötelező ragasztós vignettel, amely nincs felragasztva, vagy nem a járműre előírt helyen van felhelyezve, vagy sérült",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignett",
+      "Ragasztós vignett",
+      "Alkalmazás",
+      "Sérült",
+      "Ragasztás",
+      "Elhelyezés"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Közlekedés olyan vignettel, amely helytelenül van felhelyezve (nem közvetlenül a járműre) vagy sérült.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Défaut de saisie des informations requises dans la feuille hebdomadaire",
+    "fine_chf": 40,
+    "keywords": [
+      "feuille hebdomadaire",
+      "information",
+      "saisir",
+      "ARV 2",
+      "temps de travail",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de saisie des informations requises dans la feuille hebdomadaire pour les conducteurs professionnels.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Défaut de saisie des informations requises dans la feuille quotidienne",
+    "fine_chf": 40,
+    "keywords": [
+      "feuille quotidienne",
+      "information",
+      "saisir",
+      "ARV 2",
+      "temps de travail",
+      "conducteur professionnel"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de saisie des informations requises dans la feuille quotidienne pour les conducteurs professionnels.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Défaut de saisie des informations requises dans la carte de contrôle pour les conducteurs de taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "carte de contrôle",
+      "conducteur de taxi",
+      "information",
+      "saisir",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Conducteur de taxi"
+    ],
+    "conditions": null,
+    "notes": "Défaut de saisie des informations requises dans la carte de contrôle pour les conducteurs de taxi (références aux ARV 2 et ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Défaut de saisie des informations requises dans le tachygraphe numérique",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "numérique",
+      "information",
+      "saisir",
+      "ARV",
+      "conducteur professionnel",
+      "tachygraphe"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de saisie des informations requises dans le tachygraphe numérique.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Défaut d'étiquetage du graphique du tachygraphe",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "graphique",
+      "étiquette",
+      "non étiqueté",
+      "feuille du tachygraphe",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'étiquetage du graphique du tachygraphe (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Défaut d'étiquetage de l'impression",
+    "fine_chf": 40,
+    "keywords": [
+      "impression",
+      "étiquette",
+      "non étiqueté",
+      "impression du tachygraphe",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut d'étiquetage de l'impression du tachygraphe.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Étiquetage incomplet du graphique du tachygraphe",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "graphique",
+      "incomplet",
+      "étiquette",
+      "feuille du tachygraphe",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Étiquetage incomplet du graphique du tachygraphe.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Étiquetage incomplet de l'impression",
+    "fine_chf": 40,
+    "keywords": [
+      "impression",
+      "incomplet",
+      "étiquette",
+      "impression du tachygraphe",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Étiquetage incomplet de l'impression du tachygraphe.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Étiquetage faux ou mensonger du graphique du tachygraphe",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "graphique",
+      "faux",
+      "mensonger",
+      "étiquetage",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Étiquetage faux ou mensonger du graphique du tachygraphe.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Étiquetage faux ou mensonger de l'impression",
+    "fine_chf": 40,
+    "keywords": [
+      "impression",
+      "faux",
+      "mensonger",
+      "étiquetage",
+      "ARV",
+      "impression du tachygraphe"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Étiquetage faux ou mensonger de l'impression du tachygraphe.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Utilisation d'un graphique du tachygraphe non conforme au type",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "graphique",
+      "non conforme au type",
+      "non approuvé",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un graphique du tachygraphe non conforme au type.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Utilisation d'un graphique du tachygraphe qui ne correspond pas à l'appareil tachygraphe",
+    "fine_chf": 40,
+    "keywords": [
+      "tachygraphe",
+      "graphique",
+      "inapproprié",
+      "incorrect",
+      "non concordant",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation d'un graphique du tachygraphe qui ne correspond pas à l'appareil tachygraphe spécifique.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Utilisation de papier d'imprimante incorrect",
+    "fine_chf": 40,
+    "keywords": [
+      "papier d'imprimante",
+      "inapproprié",
+      "incorrect",
+      "papier d'imprimante",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utilisation de papier d'imprimante incorrect pour le tachygraphe numérique/appareil de contrôle.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Défaut de port du certificat de formation pour les chargements de marchandises dangereuses",
+    "fine_chf": 20,
+    "keywords": [
+      "marchandises dangereuses",
+      "charge",
+      "certificat de formation",
+      "ADR",
+      "SDR",
+      "marchandises dangereuses",
+      "documents"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de port du certificat de formation pour le transport de marchandises dangereuses, sachant qu'une charge dangereuse est présente.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Défaut de port du document de transport pour les chargements de marchandises dangereuses",
+    "fine_chf": 140,
+    "keywords": [
+      "marchandises dangereuses",
+      "charge",
+      "document de transport",
+      "ADR",
+      "SDR",
+      "marchandises dangereuses",
+      "document de transport"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de port du document de transport pour les marchandises dangereuses, sachant qu'une charge dangereuse est présente. Cette amende est notablement plus élevée.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Défaut de port de l'instruction écrite (feuille d'accident) pour les chargements de marchandises dangereuses",
+    "fine_chf": 40,
+    "keywords": [
+      "marchandises dangereuses",
+      "charge",
+      "instruction écrite",
+      "feuille d'accident",
+      "ADR",
+      "SDR",
+      "instructions d'urgence"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de port des instructions écrites (feuille d'urgence/accident) pour les marchandises dangereuses, sachant qu'une charge dangereuse est présente.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Défaut de retrait ou de couverture des panneaux orange lorsqu'aucune marchandise dangereuse n'est transportée",
+    "fine_chf": 60,
+    "keywords": [
+      "marchandises dangereuses",
+      "panneau orange",
+      "retirer",
+      "couvrir",
+      "SDR",
+      "affichage",
+      "panneau"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Défaut de retrait ou de couverture des panneaux orange (indiquant des marchandises dangereuses) lorsque le véhicule ne transporte PAS de marchandises dangereuses (vide/net).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Défaut de déclaration ou déclaration tardive des faits nécessitant une modification ou un remplacement d'un permis ou d'une licence",
+    "fine_chf": 20,
+    "keywords": [
+      "obligation de déclaration",
+      "licence",
+      "permis",
+      "changement",
+      "remplacement",
+      "VZV",
+      "déclaration"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Titulaire de licence/permis"
+    ],
+    "conditions": null,
+    "notes": "Défaut de déclaration ou déclaration tardive des faits nécessitant la modification ou le remplacement d'un permis de conduire ou d'un permis.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Défaut de déclaration ou déclaration tardive d'un changement de résidence à une nouvelle adresse suisse",
+    "fine_chf": 20,
+    "keywords": [
+      "changement de résidence",
+      "adresse",
+      "déclaration",
+      "VZV",
+      "déclaration",
+      "changement de résidence"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducteur de véhicule",
+      "Titulaire de licence"
+    ],
+    "conditions": null,
+    "notes": "Défaut de déclaration ou déclaration tardive d'un changement d'adresse de résidence suisse.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Défaut de déclaration des modifications sur les cartes tachygraphe",
+    "fine_chf": 20,
+    "keywords": [
+      "carte tachygraphe",
+      "modification",
+      "déclaration",
+      "ARV",
+      "carte tachygraphe",
+      "déclaration"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Titulaire de carte de conducteur"
+    ],
+    "conditions": null,
+    "notes": "Défaut de déclaration des modifications liées à la carte tachygraphe du conducteur.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

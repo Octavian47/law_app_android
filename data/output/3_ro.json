@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Nerespectarea raportării daunelor, defecțiunii, pierderii sau furtului cardului de tahograf al conducătorului",
+    "fine_chf": 20,
+    "keywords": [
+      "card de tahograf al conducătorului",
+      "raportare",
+      "daună",
+      "furt",
+      "ARV",
+      "card de tahograf",
+      "raportare"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Se referă la cardul pentru tahograful digital utilizat de conducătorii profesioniști.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Nerespectarea returnării cardului de conducător",
+    "fine_chf": 20,
+    "keywords": [
+      "card de conducător",
+      "returnare",
+      "ARV",
+      "card de tahograf",
+      "returnare"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător profesionist",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Se referă la cardul pentru tahograful digital utilizat de conducătorii profesioniști.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Nerespectarea returnării cardului de atelier",
+    "fine_chf": 20,
+    "keywords": [
+      "card de atelier",
+      "returnare",
+      "ARV",
+      "card de atelier",
+      "returnare",
+      "tahograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personal de atelier"
+    ],
+    "conditions": null,
+    "notes": "Se referă la cardul de tahograf pentru atelier, esențial pentru reglementările privind conducătorii profesioniști.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Depășirea timpului de parcare permis\n  a. până la 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "timp de parcare",
+      "depășire",
+      "parcare",
+      "timp de parcare",
+      "depășire",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "până la 2 ore",
+    "notes": "Amendă pentru depășirea duratei de parcare permise.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Depășirea timpului de parcare permis\n  b. cu mai mult de 2, dar nu mai mult de 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "timp de parcare",
+      "depășire",
+      "parcare",
+      "timp de parcare",
+      "depășire",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "cu mai mult de 2, dar nu mai mult de 4 ore",
+    "notes": "Amendă pentru depășirea duratei de parcare permise.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Depășirea timpului de parcare permis\n  c. cu mai mult de 4, dar nu mai mult de 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "timp de parcare",
+      "depășire",
+      "parcare",
+      "timp de parcare",
+      "depășire",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "cu mai mult de 4, dar nu mai mult de 10 ore",
+    "notes": "Amendă pentru depășirea duratei de parcare permise.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Nerespectarea fixării sau afișării vizibile a discului de parcare pe vehicul",
+    "fine_chf": 40,
+    "keywords": [
+      "disc de parcare",
+      "fixare",
+      "vizibilitate",
+      "disc de parcare",
+      "fixare",
+      "vizibilitate",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru afișare incorectă sau vizibilitate slabă a discului de parcare.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Nerespectarea fixării sau afișării vizibile a tichetului de parcare pe vehicul",
+    "fine_chf": 40,
+    "keywords": [
+      "tichet de parcare",
+      "tichet de parcare",
+      "fixare",
+      "vizibilitate",
+      "tichet de parcare",
+      "fixare",
+      "vizibilitate",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru afișare incorectă sau vizibilitate slabă a tichetului de parcare.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Nerespectarea fixării sau afișării vizibile a permisului de parcare pentru persoane cu handicap pe vehicul",
+    "fine_chf": 40,
+    "keywords": [
+      "permis de parcare",
+      "persoane cu handicap",
+      "fixare",
+      "vizibilitate",
+      "parcare pentru persoane cu handicap",
+      "ecuson",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru afișare incorectă sau vizibilitate slabă a ecusonului de parcare pentru persoane cu handicap.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Setarea unui timp de sosire incorect pe discul de parcare",
+    "fine_chf": 40,
+    "keywords": [
+      "disc de parcare",
+      "timp de sosire",
+      "incorect",
+      "setare",
+      "disc de parcare",
+      "timp de sosire",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru setarea unui timp de sosire incorect pe discul de parcare.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Modificarea timpului de sosire setat fără a muta vehiculul",
+    "fine_chf": 40,
+    "keywords": [
+      "disc de parcare",
+      "timp de sosire",
+      "modificare",
+      "plecare",
+      "disc de parcare",
+      "timp de sosire",
+      "resetare",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru resetarea timpului de sosire al discului de parcare fără a muta vehiculul (illicit 'alimentarea contorului').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manipulare a aparatului de parcare",
+    "fine_chf": 40,
+    "keywords": [
+      "aparat de parcare",
+      "manipulare",
+      "defect",
+      "aparat de parcare",
+      "manipulare",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru a face un aparat de parcare nefuncțional.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Plată în avans interzisă înainte ca timpul de parcare să expire",
+    "fine_chf": 40,
+    "keywords": [
+      "plată în avans",
+      "timp de parcare",
+      "înainte de expirare",
+      "taxă de parcare",
+      "reîncărcare",
+      "în avans",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru plata timpului de parcare suplimentar înainte ca timpul plătit curent să expire, pentru a prelungi șederea.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Plata după ce timpul de parcare a expirat",
+    "fine_chf": 40,
+    "keywords": [
+      "plată după",
+      "timp de parcare",
+      "expirat",
+      "taxă de parcare",
+      "reîncărcare",
+      "expirat",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru plata timpului de parcare suplimentar după ce timpul permis a expirat.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Oprirea în locuri cu vizibilitate redusă, în special în zona curbelor și a crestei",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "vizibilitate redusă",
+      "curbe",
+      "creste",
+      "oprire",
+      "vizibilitate",
+      "curbe",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru oprirea în locuri cu vizibilitate redusă, cum ar fi lângă curbe sau creste.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Oprirea în blocaje",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "blocaje",
+      "oprire",
+      "blocaj",
+      "îngust",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru oprirea în blocaje sau pasaje înguste.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Oprirea lângă un obstacol pe carosabil",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "obstacol",
+      "carosabil",
+      "oprire",
+      "obstacol",
+      "carosabil",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru oprirea lângă un obstacol pe bandă, care ar împiedica traficul.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcare pe o secțiune cu un singur sens (Art. 18 Abs. 2 Bst. c și 19 Abs. 2 Bst. a VRV) până la 60 de minute",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "singur sens",
+      "parcare",
+      "singur sens",
+      "blocaj",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "până la 60 de minute",
+    "notes": "Amendă pentru parcare într-o secțiune unde traficul este restricționat la un singur sens (de ex., din cauza unui obstacol temporar).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Oprirea pe o secțiune cu un singur sens",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "singur sens",
+      "oprire",
+      "singur sens",
+      "blocaj",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Amendă pentru oprirea într-o secțiune unde traficul este restricționat la un singur sens (de ex., din cauza unui obstacol temporar).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parcare lângă linia de siguranță, dacă nu se lasă liberă o trecere de cel puțin 3 m lățime",
+    "fine_chf": 120,
+    "keywords": [
+      "parcare",
+      "linia de siguranță",
+      "trecere",
+      "parcare",
+      "linia de siguranță",
+      "bandă de trecere",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "dacă nu se lasă liberă o trecere de cel puțin 3 m lățime",
+    "notes": "Amendă pentru parcare lângă linia de siguranță (linia de interzicere a depășirii) dacă rămâne mai puțin de 3 m de spațiu liber pentru trafic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Oprirea lângă linia de siguranță, dacă nu se lasă liberă o trecere de cel puțin 3 m lățime",
+    "fine_chf": 80,
+    "keywords": [
+      "oprire",
+      "linia de siguranță",
+      "trecere",
+      "oprire",
+      "linia de siguranță",
+      "bandă de trecere",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Conducător"
+    ],
+    "conditions": "dacă nu se lasă liberă o trecere de cel puțin 3 m lățime",
+    "notes": "Amendă pentru oprirea lângă linia de siguranță (linia de interzicere a depășirii) dacă rămâne mai puțin de 3 m de spațiu liber pentru trafic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

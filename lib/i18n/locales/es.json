@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Leyes Suizas",
+    "loading": "Cargando...",
+    "error": "Error",
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "close": "Cerrar"
+  },
+  "tabs": {
+    "laws": "Leyes",
+    "search": "Buscar",
+    "favorites": "Favoritos"
+  },
+  "home": {
+    "title": "Leyes Suizas",
+    "subtitle": "¡Conoce tus derechos en el tráfico!",
+    "categories": "Categorías",
+    "currentlyAvailable": "Actualmente disponible",
+    "tips": "Consejos",
+    "roadTrafficAct": "Ley de Tráfico Vial (SR 741.01)",
+    "articlesIndexed": "{{count}} artículos completamente indexados",
+    "finesIndexed": "420 multas de tráfico indexadas",
+    "languagesAvailable": "Disponible en 18 idiomas",
+    "offlineAccess": "Acceso offline y búsqueda",
+    "tipContent": "Utiliza la función de búsqueda para encontrar rápidamente artículos o temas específicos.",
+    "tipDescription": "Usa la pestaña de búsqueda para encontrar multas por palabra clave, cantidad o referencia de artículo. Toca el icono de estrella para guardar multas como favoritos."
+  },
+  "search": {
+    "title": "Buscar multas",
+    "subtitle": "420 multas de tráfico buscables",
+    "placeholder": "Art. 27, estacionamiento, CHF 40...",
+    "resultsFound": "{{count}} multa encontrada",
+    "resultsFound_other": "{{count}} multas encontradas",
+    "filters": {
+      "traffic": "Tráfico",
+      "criminal": "Penal",
+      "fines": "Multas",
+      "quick": "Rápido"
+    },
+    "emptyState": {
+      "title": "Buscar multas de tráfico",
+      "description": "Buscar por número de artículo, palabra clave o cantidad CHF"
+    },
+    "noResults": {
+      "title": "Sin resultados",
+      "description": "No se encontraron multas para \"{{query}}\". Pruebe con otras palabras clave o cantidades."
+    },
+    "tips": {
+      "title": "Consejos de búsqueda",
+      "article": "Art. 27 - Buscar por número de artículo",
+      "keyword": "estacionamiento - Buscar por palabra clave",
+      "amount": "CHF 40 - Buscar por cantidad de multa"
+    },
+    "inDevelopment": {
+      "title": "En desarrollo",
+      "description": "La función de búsqueda se está implementando actualmente.\n\nBuscando: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favoritos",
+    "subtitle": "Tus multas guardadas",
+    "resultsCount": "{{count}} Favorito",
+    "resultsCount_other": "{{count}} Favoritos",
+    "emptyState": {
+      "title": "Aún no hay favoritos",
+      "description": "Guarda multas importantes como favoritos para acceso rápido"
+    },
+    "howTo": {
+      "title": "Cómo agregar favoritos",
+      "step1": "Abre una multa",
+      "step2": "Toca el ícono de estrella",
+      "step3": "La multa aparecerá aquí"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Multa no encontrada",
+    "articleInformation": "Información del artículo",
+    "violationDescription": "Descripción de la violación",
+    "appliesTo": "Se aplica a",
+    "conditions": "Condiciones",
+    "notes": "Notas",
+    "keywords": "Palabras clave",
+    "labels": {
+      "article": "Artículo:",
+      "law": "Ley:",
+      "category": "Categoría:"
+    },
+    "source": "Fuente: Página {{page}}, Línea {{line}}",
+    "laws": {
+      "svg": "Ley de Tráfico Viario",
+      "vrv": "Ordenanza de Reglas de Tráfico",
+      "arv1": "Ordenanza de Horas de Trabajo 1",
+      "arv2": "Ordenanza de Horas de Trabajo 2",
+      "ssv": "Ordenanza de Señales de Tráfico"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Derecho de Tráfico",
+      "description": "Registro de Tráfico Vial y Ley de Tráfico"
+    },
+    "criminal": {
+      "name": "Derecho Penal",
+      "description": "Código Penal y Procedimiento Penal"
+    },
+    "civil": {
+      "name": "Derecho Civil",
+      "description": "Código Civil y Obligaciones"
+    },
+    "commercial": {
+      "name": "Derecho Mercantil",
+      "description": "Registro Mercantil y Ley de Comercio"
+    },
+    "administrative": {
+      "name": "Derecho Administrativo",
+      "description": "Procedimientos Administrativos y Derecho Público"
+    },
+    "constitutional": {
+      "name": "Derecho Constitucional",
+      "description": "Constitución Federal y Derechos Fundamentales"
+    }
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "theme": "Tema",
+    "about": "Acerca de"
+  }
+}

@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Unterlassen der Meldung der Beschädigung, der Fehlfunktion, des Verlusts oder des Diebstahls einer Fahrer­schreiberkarte",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrerschreiberkarte",
+      "Meldung",
+      "Beschädigung",
+      "Diebstahl",
+      "ARV",
+      "Tachograph card",
+      "reporting"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer",
+      "Lenker"
+    ],
+    "conditions": null,
+    "notes": "Relates to the card for the digital tachograph used by professional drivers.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Unterlassen der Rückgabe der Fahrerkarte",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrerkarte",
+      "Rückgabe",
+      "ARV",
+      "Tachograph card",
+      "return"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Berufsfahrer",
+      "Lenker"
+    ],
+    "conditions": null,
+    "notes": "Relates to the card for the digital tachograph used by professional drivers.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Unterlassen der Rückgabe der Werkstattkarte",
+    "fine_chf": 20,
+    "keywords": [
+      "Werkstattkarte",
+      "Rückgabe",
+      "ARV",
+      "Workshop card",
+      "return",
+      "Tachograph"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Werkstattpersonal"
+    ],
+    "conditions": null,
+    "notes": "Relates to the tachograph workshop card, essential for professional driver regulations.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Überschreiten der zulässigen Parkzeit\n  a. bis 2 Stunden",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkzeit",
+      "überschreiten",
+      "Parkieren",
+      "parking time",
+      "overstay",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "bis 2 Stunden",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Überschreiten der zulässigen Parkzeit\n  b. um mehr als 2, aber nicht mehr als 4 Stunden",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkzeit",
+      "überschreiten",
+      "Parkieren",
+      "parking time",
+      "overstay",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "um mehr als 2, aber nicht mehr als 4 Stunden",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Überschreiten der zulässigen Parkzeit\n  c. um mehr als 4, aber nicht mehr als 10 Stunden",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkzeit",
+      "überschreiten",
+      "Parkieren",
+      "parking time",
+      "overstay",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "um mehr als 4, aber nicht mehr als 10 Stunden",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Nicht oder nicht gut sichtbares Anbringen der Parkscheibe am Fahrzeug",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkscheibe",
+      "anbringen",
+      "sichtbar",
+      "parking disc",
+      "placement",
+      "visibility",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Nicht oder nicht gut sichtbares Anbringen des Parkzettels am Fahrzeug",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkzettel",
+      "Parkticket",
+      "anbringen",
+      "sichtbar",
+      "parking ticket",
+      "placement",
+      "visibility",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking ticket.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Nicht oder nicht gut sichtbares Anbringen der «Parkkarte für behinderte Personen» am Fahrzeug",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkkarte",
+      "behinderte",
+      "anbringen",
+      "sichtbar",
+      "disabled parking",
+      "badge",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the disabled parking badge.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Einstellen einer falschen Ankunftszeit auf der Parkscheibe",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkscheibe",
+      "Ankunftszeit",
+      "falsch",
+      "einstellen",
+      "parking disc",
+      "arrival time",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for setting an incorrect arrival time on the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Ändern der eingestellten Ankunftszeit, ohne wegzufahren",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkscheibe",
+      "Ankunftszeit",
+      "ändern",
+      "wegfahren",
+      "parking disc",
+      "arrival time",
+      "reset",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for resetting the parking disc's arrival time without moving the vehicle (illegal 'feeding the meter').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Nichtiggangsetzen der Parkuhr",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkuhr",
+      "manipulieren",
+      "defekt",
+      "parking meter",
+      "tampering",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for making a parking meter inoperable.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Verbotenes Nachzahlen vor Ablauf der Parkzeit",
+    "fine_chf": 40,
+    "keywords": [
+      "Nachzahlen",
+      "Parkzeit",
+      "vor Ablauf",
+      "parking fee",
+      "recharge",
+      "in advance",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time before the current paid time has expired, to extend the stay.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Nachzahlen nach abgelaufener Parkzeit",
+    "fine_chf": 40,
+    "keywords": [
+      "Nachzahlen",
+      "Parkzeit",
+      "abgelaufen",
+      "parking fee",
+      "recharge",
+      "expired",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time after the permitted time has already expired.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Halten an unübersichtlichen Stellen, namentlich im Bereich von Kurven und Kuppen",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "unübersichtlich",
+      "Kurven",
+      "Kuppen",
+      "stopping",
+      "visibility",
+      "curves",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in places with poor visibility, such as near curves or crests.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Halten in Engpässen",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Engpässen",
+      "stopping",
+      "bottleneck",
+      "narrow",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in bottlenecks or narrow passages.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Halten neben einem Hindernis in der Fahrbahn",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Hindernis",
+      "Fahrbahn",
+      "stopping",
+      "obstacle",
+      "roadway",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping next to an obstacle in the lane, which would impede traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf einer Einspurstrecke (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Einspurstrecke",
+      "parking",
+      "single lane",
+      "bottleneck",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Fine for parking in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Halten auf einer Einspurstrecke",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Einspurstrecke",
+      "stopping",
+      "single lane",
+      "bottleneck",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkieren neben einer Sicherheitslinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Sicherheitslinie",
+      "Durchfahrt",
+      "parking",
+      "safety line",
+      "passing lane",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt",
+    "notes": "Fine for parking next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Halten neben einer Sicherheitslinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Sicherheitslinie",
+      "Durchfahrt",
+      "stopping",
+      "safety line",
+      "passing lane",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motorfahrzeugführer",
+      "Führer"
+    ],
+    "conditions": "wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt",
+    "notes": "Fine for stopping next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

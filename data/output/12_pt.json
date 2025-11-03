@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Proibido fazer inversão de marcha (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Proibido fazer inversão de marcha",
+      "Inversão de marcha proibida",
+      "Sinal 2.46",
+      "Viragem",
+      "Sinal regulatório"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Correntes de neve obrigatórias (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Correntes de neve",
+      "obrigatório",
+      "Correntes de neve",
+      "obrigatório",
+      "Sinal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Zona pedestre (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zona pedestre",
+      "zona pedestre",
+      "Proibido entrar",
+      "Sinal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Entrada não autorizada na zona pedestre.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Faixa de bicicleta (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Faixa de bicicleta",
+      "faixa de bicicleta",
+      "Condução proibida",
+      "Sinal 2.60",
+      "Condução proibida"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo (exceto bicicletas)"
+    ],
+    "conditions": null,
+    "notes": "Uso de caminho reservado exclusivamente para bicicletas.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Caminho pedestre (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Caminho pedestre",
+      "caminho pedestre",
+      "Condução proibida",
+      "Sinal 2.61",
+      "Condução proibida"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo (exceto pedestres)"
+    ],
+    "conditions": null,
+    "notes": "Uso de caminho reservado exclusivamente para pedestres.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Faixa mista de bicicleta e pedestres (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Faixa mista de bicicleta e pedestres",
+      "caminho combinado",
+      "Condução proibida",
+      "Sinal 2.63",
+      "Condução proibida"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo (exceto bicicletas/pedestres)"
+    ],
+    "conditions": null,
+    "notes": "Uso de caminho reservado para bicicletas e pedestres.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Proibição de reboque, exceto para reboques de sela e eixo central (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Proibição de reboque",
+      "Proibição de reboque",
+      "Reboque de sela",
+      "Reboque de eixo central",
+      "Sinal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo (com reboque)"
+    ],
+    "conditions": null,
+    "notes": "Condução com tipo de reboque proibido.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Não observar o sinal regulatório “Proibido ultrapassar para caminhões” nas autoestradas (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Proibição de ultrapassagem",
+      "Caminhão",
+      "Autoestrada",
+      "Caminhão",
+      "proibição de ultrapassagem",
+      "Sinal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de caminhão"
+    ],
+    "conditions": null,
+    "notes": "Ultrapassagem ilegal por caminhão nas autoestradas onde é proibida.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Condução em trilho de bonde",
+    "fine_chf": 60,
+    "keywords": [
+      "Trilho de bonde",
+      "Trilho de bonde",
+      "condução proibida",
+      "faixas especiais",
+      "trilhos de bonde"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Violação da disciplina de faixa ao ignorar a seta de direção marcada",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina de faixa",
+      "Seta de direção",
+      "Marcação viária",
+      "Disciplina de faixa",
+      "seta marcada",
+      "Desrespeito"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Desrespeito às setas/disciplinas de faixa.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Violação da disciplina de faixa ao ignorar a seta de contorno do sistema de semáforos",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina de faixa",
+      "Seta de contorno",
+      "Sistema de semáforos",
+      "semáforo",
+      "seta de sinal",
+      "Disciplina de faixa"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Desrespeito à seta de direção mostrada nos semáforos.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Falha em continuar a conduzir na direção da seta (incluindo possível cruzamento de linha de segurança que separa faixas na mesma direção [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Direção da seta",
+      "Falha em continuar a conduzir",
+      "Linha de segurança",
+      "direção obrigatória",
+      "linha contínua",
+      "Cruzamento"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não seguir a direção obrigatória da faixa indicada por uma seta (incluindo cruzar uma linha contínua para evitá-la).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Violação da disciplina de faixa ao ignorar a fusão em zíper",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplina de faixa",
+      "Fusão em zíper",
+      "fusão",
+      "fusão em zíper",
+      "fim de faixa",
+      "Desrespeito"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não realizar a fusão em zíper quando as faixas terminam.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Condução em faixa de ônibus",
+    "fine_chf": 60,
+    "keywords": [
+      "Faixa de ônibus",
+      "faixa de ônibus",
+      "Faixa especial",
+      "uso não autorizado"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo (exceto ônibus)"
+    ],
+    "conditions": null,
+    "notes": "Condução em faixa de ônibus demarcada.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Condução em via de ônibus",
+    "fine_chf": 60,
+    "keywords": [
+      "Via de ônibus",
+      "via de ônibus",
+      "Faixa especial",
+      "uso não autorizado"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo (exceto ônibus)"
+    ],
+    "conditions": null,
+    "notes": "Condução em via/estrada de ônibus designada (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Parada incompleta nos sinais de parada (rolamento) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Sinal de parada",
+      "Parada rolante",
+      "Parada",
+      "Placa de parada",
+      "falha ao parar",
+      "Sinal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uma 'parada rolante' onde o veículo não para completamente na linha de parada.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Não observar um semáforo",
+    "fine_chf": 250,
+    "keywords": [
+      "Semáforo",
+      "Luz vermelha",
+      "Semáforo",
+      "desrespeito",
+      "luz vermelha",
+      "Sinal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Infração geral por avançar o sinal vermelho ou violação equivalente de sinal de trânsito.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Não observar um “sinal de luz intermitente alternada” (3.20) ou um “sinal de luz intermitente simples” (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Sinal de luz intermitente alternada",
+      "Sinal de luz intermitente simples",
+      "sinal piscante",
+      "passagem de nível ferroviária",
+      "cruzamento de nível",
+      "Sinal 3.20",
+      "Sinal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Desrespeito aos avisos intermitentes, tipicamente usados em passagens de nível ferroviárias ou pontos críticos de perigo.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Cruzamento de faixa de bicicleta marcada com linha contínua",
+    "fine_chf": 60,
+    "keywords": [
+      "Faixa de bicicleta",
+      "linha contínua",
+      "faixa de bicicleta",
+      "linha sólida",
+      "cruzamento proibido",
+      "Cruzamento"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Condutor de veículo (exceto bicicletas)"
+    ],
+    "conditions": null,
+    "notes": "Cruzamento ou condução sobre uma faixa de bicicleta marcada por uma linha branca contínua.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

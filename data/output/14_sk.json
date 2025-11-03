@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Študent jazdí bez zobrazovania L-štítku",
+    "fine_chf": 20,
+    "keywords": [
+      "L-štítok",
+      "študentská jazda",
+      "autoškola",
+      "študentský štítok",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Študent vodič"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Neodstránenie L-štítku, keď neprebieha študentská jazda",
+    "fine_chf": 20,
+    "keywords": [
+      "L-štítok",
+      "študentská jazda",
+      "študentský štítok",
+      "odstránenie",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nedodržanie použitia smerového signálu",
+    "fine_chf": 100,
+    "keywords": [
+      "smerový signál",
+      "indikátor",
+      "smerový signál",
+      "signalizácia",
+      "opomenutie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Nezhasnutie smerového signálu po zmene smeru",
+    "fine_chf": 100,
+    "keywords": [
+      "smerový signál",
+      "indikátor",
+      "smerový signál",
+      "resetovanie",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Neprenášanie signalizačnej paličky, keď je požadovaná",
+    "fine_chf": 40,
+    "keywords": [
+      "signalizačná palička",
+      "signalizačná palička",
+      "signalizačné zariadenie",
+      "vybavenie",
+      "prenášanie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle je signalizačná palička, typicky požadovaná pre niektoré veľké alebo pomalé vozidlá, alebo špecifické manévre.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Nesprávne použitie výstražných signálov",
+    "fine_chf": 40,
+    "keywords": [
+      "výstražný signál",
+      "klakson",
+      "klakson",
+      "zneužitie",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez svetiel počas dňa",
+    "fine_chf": 40,
+    "keywords": [
+      "svetlo",
+      "jazda bez svetiel",
+      "denné bežiace svetlá",
+      "deň",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez povinných svetiel počas dňa.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez svetiel na osvetlenej ceste v noci",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlo",
+      "jazda bez svetiel",
+      "nočná jazda",
+      "osvetlená cesta",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez povinných svetiel v noci na osvetlenej ceste.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez svetiel v osvetlenom tuneli",
+    "fine_chf": 60,
+    "keywords": [
+      "svetlo",
+      "jazda bez svetiel",
+      "tunel",
+      "osvetlený tunel",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez povinných svetiel v osvetlenom tuneli.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda s parkovacími svetlami alebo dennými bežiacimi svetlami na osvetlenej ceste v noci",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovacie svetlo",
+      "denné bežiace svetlo",
+      "svetlo",
+      "nočná jazda",
+      "vybavenie",
+      "nedostatočné osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Použitie nedostatočného osvetlenia (parkovacie svetlo alebo denné bežiace svetlo) namiesto povinných svetlometov v noci na osvetlenej ceste.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda s parkovacími svetlami alebo dennými bežiacimi svetlami v osvetlenom tuneli",
+    "fine_chf": 40,
+    "keywords": [
+      "parkovacie svetlo",
+      "denné bežiace svetlo",
+      "svetlo",
+      "tunel",
+      "vybavenie",
+      "nedostatočné osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Použitie nedostatočného osvetlenia (parkovacie svetlo alebo denné bežiace svetlo) namiesto povinných svetlometov v osvetlenom tuneli.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nesprávne použitie mlhových svetiel",
+    "fine_chf": 40,
+    "keywords": [
+      "mlhové svetlo",
+      "mlhové svetlo",
+      "zneužitie",
+      "vybavenie",
+      "osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nesprávne použitie zadných mlhových svetiel",
+    "fine_chf": 40,
+    "keywords": [
+      "zadné mlhové svetlo",
+      "zadné mlhové svetlo",
+      "zneužitie",
+      "vybavenie",
+      "osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nesprávne použitie reflektorov",
+    "fine_chf": 40,
+    "keywords": [
+      "reflektor",
+      "reflektor",
+      "zneužitie",
+      "vybavenie",
+      "osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Nesprávne použitie pracovných svetiel",
+    "fine_chf": 40,
+    "keywords": [
+      "pracovné svetlo",
+      "pracovné svetlo",
+      "zneužitie",
+      "vybavenie",
+      "osvetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Zbytočné predhrievanie motora nehybného vozidla",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "predhrievanie",
+      "voľnobeh",
+      "ohrev motora",
+      "hluk",
+      "životné prostredie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Zbytočný voľnobeh motora nehybného vozidla",
+    "fine_chf": 80,
+    "keywords": [
+      "motor",
+      "prevádzka",
+      "voľnobeh",
+      "bežiaci motor",
+      "hluk",
+      "životné prostredie"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Používanie diaľnice alebo rýchlostnej cesty s motocyklom s objemom motora do 50 cm³ alebo výkonom do 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "diaľnica",
+      "rýchlostná cesta",
+      "motocykl",
+      "objem motora",
+      "výkon",
+      "rýchlostná cesta",
+      "obmedzené vozidlo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Motocykle/mopedy pod minimálnymi požadovanými špecifikáciami (50 cm³ alebo 4 kW) sú na diaľniciach zakázané.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Používanie diaľnice alebo rýchlostnej cesty s iným motorovým vozidlom, ktoré nie je povolené",
+    "fine_chf": 140,
+    "keywords": [
+      "diaľnica",
+      "rýchlostná cesta",
+      "motorové vozidlo",
+      "nepovolené",
+      "rýchlostná cesta",
+      "obmedzené vozidlo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Používanie vozidla na diaľnici, ktoré nie je povolené (napr. pomalé vozidlá, poľnohospodárske vozidlá).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Používanie diaľnice alebo rýchlostnej cesty s hrotovými pneumatikami",
+    "fine_chf": 60,
+    "keywords": [
+      "diaľnica",
+      "rýchlostná cesta",
+      "hrotové pneumatiky",
+      "hrotové pneumatiky",
+      "vybavenie",
+      "rýchlostná cesta"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Ťahanie na diaľnici alebo rýchlostnej ceste za ďalšou najbližšou výjazdom",
+    "fine_chf": 140,
+    "keywords": [
+      "diaľnica",
+      "rýchlostná cesta",
+      "ťahanie",
+      "ťahanie",
+      "núdzové",
+      "nasledujúci výjazd"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ťahanie je na diaľniciach povolené len do nasledujúceho výjazdu.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

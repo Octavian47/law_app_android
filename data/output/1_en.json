@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Failure to carry the driver’s license",
+    "fine_chf": 20,
+    "keywords": [
+      "driver's license",
+      "carrying the license",
+      "failure to carry",
+      "driver",
+      "inspection",
+      "driver license",
+      "road documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Failure to carry the learner's permit",
+    "fine_chf": 20,
+    "keywords": [
+      "learner's permit",
+      "carrying the permit",
+      "failure to carry",
+      "learner's permit",
+      "driver"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver (learner)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Failure to carry the vehicle registration",
+    "fine_chf": 20,
+    "keywords": [
+      "vehicle registration",
+      "carrying the registration",
+      "failure to carry",
+      "vehicle registration",
+      "road documents"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Failure to carry the permit for special transports",
+    "fine_chf": 20,
+    "keywords": [
+      "special transports",
+      "permit",
+      "failure to carry",
+      "special transport",
+      "permit"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Permit for special or oversized transports.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Failure to carry the emission maintenance document",
+    "fine_chf": 20,
+    "keywords": [
+      "emission maintenance document",
+      "failure to carry",
+      "emission maintenance document",
+      "inspection"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Failure to carry the exemption permit for a signaled regulation",
+    "fine_chf": 20,
+    "keywords": [
+      "exemption permit",
+      "signaled",
+      "regulation",
+      "failure to carry",
+      "exemption permit",
+      "traffic signs"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Exception permit for a specific traffic rule/sign.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Failure to carry the driver qualification certificate",
+    "fine_chf": 20,
+    "keywords": [
+      "driver qualification certificate",
+      "failure to carry",
+      "competence certificate",
+      "professional driver qualification certificate"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Proof of professional driver qualification.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Failure to carry the previous day's insert sheet",
+    "fine_chf": 140,
+    "keywords": [
+      "insert sheet",
+      "previous day",
+      "failure to carry",
+      "Tachograph",
+      "tachograph sheet",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Related to analog tachograph use for professional drivers (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Failure to carry the previous day's printout",
+    "fine_chf": 140,
+    "keywords": [
+      "printout",
+      "previous day",
+      "failure to carry",
+      "Tachograph",
+      "digital tachograph printout",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Related to digital tachograph use for professional drivers (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Failure to carry the other required insert sheets",
+    "fine_chf": 60,
+    "keywords": [
+      "insert sheets",
+      "failure to carry",
+      "Tachograph",
+      "professional driver",
+      "sheets"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": "flat rate per 7 days",
+    "notes": "Fine applies per 7-day period for missing non-daily tachograph sheets.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Failure to carry the other required printouts",
+    "fine_chf": 60,
+    "keywords": [
+      "printouts",
+      "failure to carry",
+      "Tachograph",
+      "professional driver",
+      "printouts"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": "flat rate per 7 days",
+    "notes": "Fine applies per 7-day period for missing non-daily tachograph printouts.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Failure to carry the driver card",
+    "fine_chf": 140,
+    "keywords": [
+      "driver card",
+      "failure to carry",
+      "driver card",
+      "Tachograph",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Driver card for digital tachograph. ARV 1 is Swiss working hours for *some* professional drivers.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Failure to carry the replacement tachograph records or weekly bundle",
+    "fine_chf": 40,
+    "keywords": [
+      "replacement tachograph records",
+      "weekly bundle",
+      "failure to carry",
+      "tachograph records",
+      "professional driver",
+      "bundle"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Replacement tachograph records or weekly bundles (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Failure to carry the replacement printer paper",
+    "fine_chf": 40,
+    "keywords": [
+      "replacement printer paper",
+      "failure to carry",
+      "printer paper",
+      "digital tachograph",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry replacement printer paper for the digital tachograph.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Failure to carry the previous day's insert sheet",
+    "fine_chf": 40,
+    "keywords": [
+      "insert sheet",
+      "previous day",
+      "failure to carry",
+      "Tachograph",
+      "tachograph sheet",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Related to analog tachograph use for professional drivers (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Failure to carry the work book",
+    "fine_chf": 40,
+    "keywords": [
+      "work book",
+      "failure to carry",
+      "work book",
+      "professional driver",
+      "logbook"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Related to professional drivers working under ARV 2 rules.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Failure to carry the internal daily reports of the current week or double thereof",
+    "fine_chf": 40,
+    "keywords": [
+      "daily reports",
+      "week",
+      "failure to carry",
+      "daily reports",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": "flat rate",
+    "notes": "Internal daily reports for professional drivers (ARV 2). Fine is fixed for the week/period.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Failure to carry the exemption permit from keeping the work book",
+    "fine_chf": 40,
+    "keywords": [
+      "permit",
+      "work book",
+      "exemption",
+      "failure to carry",
+      "exemption permit"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Professional driver"
+    ],
+    "conditions": null,
+    "notes": "Permit exempting the driver from keeping a work book (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Failure to carry the control card for taxi drivers",
+    "fine_chf": 40,
+    "keywords": [
+      "control card",
+      "taxi driver",
+      "failure to carry",
+      "taxi driver",
+      "control card",
+      "professional driver"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxi driver"
+    ],
+    "conditions": null,
+    "notes": "Control card for taxi drivers (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Mungesa e futur informacionin e kërkuar në fletën javore",
+    "fine_chf": 40,
+    "keywords": [
+      "fletë javore",
+      "informacion",
+      "fut",
+      "ARV 2",
+      "koha e punës",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e futur informacionin e kërkuar në fletën javore për drejtuesit profesionistë.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Mungesa e futur informacionin e kërkuar në fletën ditore",
+    "fine_chf": 40,
+    "keywords": [
+      "fletë ditore",
+      "informacion",
+      "fut",
+      "ARV 2",
+      "koha e punës",
+      "drejtues profesionist"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e futur informacionin e kërkuar në fletën ditore për drejtuesit profesionistë.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Mungesa e futur informacionin e kërkuar në kartën e kontrollit për drejtuesit e taksive",
+    "fine_chf": 40,
+    "keywords": [
+      "kartë kontrolli",
+      "drejtues taksie",
+      "informacion",
+      "fut",
+      "ARV",
+      "Taksi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Drejtues taksie"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e futur informacionin e kërkuar në kartën e kontrollit për drejtuesit e taksive (referenca si ARV 2 ashtu edhe ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Mungesa e futur informacionin e kërkuar në tachografin dixhital",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "dixhital",
+      "informacion",
+      "fut",
+      "ARV",
+      "drejtues profesionist",
+      "tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e futur informacionin e kërkuar në tachografin dixhital.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Mungesa e etiketimit të tabelës së tachografit",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "tabelë",
+      "etiketë",
+      "pa etiketë",
+      "fletë tachograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e etiketimit të tabelës së tachografit (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Mungesa e etiketimit të printimit",
+    "fine_chf": 40,
+    "keywords": [
+      "printim",
+      "etiketë",
+      "pa etiketë",
+      "printim tachograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e etiketimit të printimit nga tachografi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Etiketim i paplotë i tabelës së tachografit",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "tabelë",
+      "i paplotë",
+      "etiketë",
+      "fletë tachograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Etiketim i paplotë i tabelës së tachografit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etiketim i paplotë i printimit",
+    "fine_chf": 40,
+    "keywords": [
+      "printim",
+      "i paplotë",
+      "etiketë",
+      "printim tachograf",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Etiketim i paplotë i printimit të tachografit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Etiketim i rremë/pasaktë i tabelës së tachografit",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "tabelë",
+      "i rremë",
+      "i pasaktë",
+      "etiketim",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Etiketim i rremë/pasaktë i tabelës së tachografit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etiketim i rremë/pasaktë i printimit",
+    "fine_chf": 40,
+    "keywords": [
+      "printim",
+      "i rremë",
+      "i pasaktë",
+      "etiketim",
+      "ARV",
+      "printim tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Etiketim i rremë/pasaktë i printimit të tachografit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Përdorimi i një tabele tachografi që nuk është i aprovuar sipas tipi",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "tabelë",
+      "jo i aprovuar sipas tipi",
+      "i paaprovuar",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një tabele tachografi që nuk është i aprovuar sipas tipi.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Përdorimi i një tabele tachografi që nuk përputhet me pajisjen tachografike",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "tabelë",
+      "jo i përshtatshëm",
+      "i pasaktë",
+      "i papërputhur",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i një tabele tachografi që nuk përputhet me pajisjen specifike të tachografit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Përdorimi i letrës së printerit të pasaktë",
+    "fine_chf": 40,
+    "keywords": [
+      "letër printeri",
+      "jo i përshtatshëm",
+      "i pasaktë",
+      "letër printeri",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Përdorimi i letrës së printerit të pasaktë për tachografin dixhital/pajisjen e kontrollit.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mungesa e mbajtjes së certifikatës së trajnimit për ngarkesat e mallrave të rrezikshme",
+    "fine_chf": 20,
+    "keywords": [
+      "mallra të rrezikshme",
+      "ngarkesë",
+      "certifikatë trajnimi",
+      "ADR",
+      "SDR",
+      "mallra të rrezikshme",
+      "dokumente"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e mbajtjes së certifikatës së trajnimit për transportin e mallrave të rrezikshme, duke ditur se ka një ngarkesë të rrezikshme.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mungesa e mbajtjes së dokumentit të transportit për ngarkesat e mallrave të rrezikshme",
+    "fine_chf": 140,
+    "keywords": [
+      "mallra të rrezikshme",
+      "ngarkesë",
+      "dokument transporti",
+      "ADR",
+      "SDR",
+      "mallra të rrezikshme",
+      "dokument transporti"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e mbajtjes së dokumentit të transportit për mallrat e rrezikshme, duke ditur se ka një ngarkesë të rrezikshme. Kjo gjobë është dukshëm më e lartë.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mungesa e mbajtjes së udhëzimit të shkruar (fletë aksidenti) për ngarkesat e mallrave të rrezikshme",
+    "fine_chf": 40,
+    "keywords": [
+      "mallra të rrezikshme",
+      "ngarkesë",
+      "udhëzim i shkruar",
+      "fletë aksidenti",
+      "ADR",
+      "SDR",
+      "udhëzime emergjente"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e mbajtjes së udhëzimeve të shkruara (fletë emergjence/aksidenti) për mallrat e rrezikshme, duke ditur se ka një ngarkesë të rrezikshme.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Mungesa e heqjes ose mbulimit të tabelave të orancë kur nuk transportohen mallra të rrezikshme",
+    "fine_chf": 60,
+    "keywords": [
+      "mallra të rrezikshme",
+      "tabelë orancë",
+      "hiq",
+      "mbulo",
+      "SDR",
+      "shfaq",
+      "tabelë"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e heqjes ose mbulimit të tabelave të orancë (të cilat tregojnë mallra të rrezikshme) kur automjeti NUK transporton mallra të rrezikshme (bosh/pas kontenier).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Mungesa e raportimit ose raportimit në kohë të faktave që kërkojnë ndryshim ose zëvendësim të licencës ose lejes",
+    "fine_chf": 20,
+    "keywords": [
+      "detyrim raportimi",
+      "licencë",
+      "leje",
+      "ndryshim",
+      "zëvendësim",
+      "VZV",
+      "raportim"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Mbajtës i licencës"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e raportimit ose raportim i vonuar i faktave që kërkojnë modifikimin ose zëvendësimin e licencës së drejtimit ose lejes.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Mungesa e raportimit ose raportimit në kohë të ndryshimit të banimit në një adresë të re zvicerane",
+    "fine_chf": 20,
+    "keywords": [
+      "ndryshim i banimit",
+      "adresë",
+      "raporto",
+      "VZV",
+      "raportim",
+      "ndryshim i banimit"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Drejtues i mjetit",
+      "Mbajtës i licencës"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e raportimit ose raportim i vonuar i ndryshimit në një adresë të re banimi në Zvicër.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Mungesa e raportimit të ndryshimeve në kartat e tachografit",
+    "fine_chf": 20,
+    "keywords": [
+      "kartë tachografi",
+      "ndryshim",
+      "raport",
+      "ARV",
+      "kartë tachografi",
+      "raportim"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Mbajtës i kartës së drejtuesit"
+    ],
+    "conditions": null,
+    "notes": "Mungesa e raportimit të ndryshimeve të lidhura me kartën e tachografit të drejtuesit.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

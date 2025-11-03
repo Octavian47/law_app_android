@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Vožnja na traci za hitne slučajeve autoputa ili brze ceste",
+    "fine_chf": 140,
+    "keywords": [
+      "traka za hitne slučajeve",
+      "autoput",
+      "brza cesta",
+      "traka za hitne slučajeve",
+      "autoput"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Korišćenje najudaljenije leve trake na autoputu sa najmanje tri trake u istom smeru od strane motornih vozila koja ne smeju da prelaze 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "leva traka",
+      "autoput",
+      "brzina",
+      "100 km/h",
+      "korišćenje trake",
+      "autoput"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorna vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Nedostatak stvaranja trake za spasavanje",
+    "fine_chf": 100,
+    "keywords": [
+      "traka za spasavanje",
+      "obaveza",
+      "hitni koridor",
+      "hitno vozilo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Vožnja koja ometa na dužinskoj traci za pešake",
+    "fine_chf": 60,
+    "keywords": [
+      "pešaci",
+      "dužinska traka",
+      "ometanje",
+      "pešačka traka",
+      "ometanje"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa registarskim tablicama koje nisu lako čitljive",
+    "fine_chf": 60,
+    "keywords": [
+      "registracione tablice",
+      "registraciona tablica",
+      "čitljiva",
+      "registraciona tablica",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Prevoz osobe koja premašuje dozvoljeni broj sedišta",
+    "fine_chf": 60,
+    "keywords": [
+      "prekomerni putnik",
+      "sedišta",
+      "preopterećenost",
+      "putnik",
+      "kapacitet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Jedan putnik preko dozvoljenog broja sedišta.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Ignorisanje zabrane noćne vožnje\na. do jednog sata",
+    "fine_chf": 100,
+    "keywords": [
+      "zabrana noćne vožnje",
+      "zabrana noćne vožnje",
+      "Transport",
+      "trajanje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila (teška motorna vozila)"
+    ],
+    "conditions": "do jednog sata",
+    "notes": "Prekršaj zabrane noćne vožnje za teška teretna vozila (obično).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Ignorisanje zabrane noćne vožnje\nb. više od jednog, ali ne više od 2 sata",
+    "fine_chf": 200,
+    "keywords": [
+      "zabrana noćne vožnje",
+      "zabrana noćne vožnje",
+      "Transport",
+      "trajanje"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vozač vozila (teška motorna vozila)"
+    ],
+    "conditions": "više od 1 sata, ali ne više od 2 sata",
+    "notes": "Prekršaj zabrane noćne vožnje za teška teretna vozila (obično).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim registarskim tablicama zbog\n1. tereta",
+    "fine_chf": 60,
+    "keywords": [
+      "registraciona tablica",
+      "zaklonjena",
+      "teret",
+      "teret",
+      "zaklonjena",
+      "registraciona tablica"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Registraciona tablica zaklonjena teretom.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim registarskim tablicama zbog\n2. nosača tereta",
+    "fine_chf": 60,
+    "keywords": [
+      "registraciona tablica",
+      "zaklonjena",
+      "nosač tereta",
+      "stalak za bicikle",
+      "zaklonjena",
+      "nosač"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Registraciona tablica zaklonjena nosačem tereta (npr. stalak za bicikle).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim registarskim tablicama zbog\n3. alata i sličnog",
+    "fine_chf": 60,
+    "keywords": [
+      "registraciona tablica",
+      "zaklonjena",
+      "alat",
+      "alat",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Registraciona tablica zaklonjena pričvršćenim radnim alatima.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim svetlosnim uređajem zbog\n1. tereta",
+    "fine_chf": 60,
+    "keywords": [
+      "osvetljenje",
+      "zaklonjeno",
+      "teret",
+      "svetla",
+      "zaklonjeno",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Svetlosni uređaj zaklonjen teretom.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim svetlosnim uređajem zbog\n2. nosača tereta",
+    "fine_chf": 60,
+    "keywords": [
+      "osvetljenje",
+      "zaklonjeno",
+      "nosač tereta",
+      "svetla",
+      "zaklonjeno",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Svetlosni uređaj zaklonjen nosačem tereta.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Vožnja sa zaklonjenim svetlosnim uređajem zbog\n3. alata i sličnog",
+    "fine_chf": 60,
+    "keywords": [
+      "osvetljenje",
+      "zaklonjeno",
+      "alat",
+      "svetla",
+      "zaklonjeno",
+      "oprema"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Svetlosni uređaj zaklonjen pričvršćenim radnim alatima.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na pešačkom prelazu tokom zagušenog saobraćaja",
+    "fine_chf": 60,
+    "keywords": [
+      "zaustavljanje",
+      "pešački prelaz",
+      "zagušeni saobraćaj",
+      "pešački prelaz",
+      "zaustavljanje",
+      "zagušenje"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "tokom zagušenog saobraćaja",
+    "notes": "Blokiranje pešačkog prelaza tokom zagušenja saobraćaja.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na raskrsnici na kolovozu za poprečni saobraćaj tokom zagušenog saobraćaja",
+    "fine_chf": 60,
+    "keywords": [
+      "zaustavljanje",
+      "raskrsnica",
+      "poprečni saobraćaj",
+      "zagušeni saobraćaj",
+      "raskrsnica",
+      "zaustavljanje"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "tokom zagušenog saobraćaja",
+    "notes": "Blokiranje područja raskrsnice namenjenog poprečnom saobraćaju tokom zagušenja.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nepridavanje prednosti na pešačkom prelazu",
+    "fine_chf": 140,
+    "keywords": [
+      "pravo prvenstva",
+      "pešački prelaz",
+      "pravo prvenstva",
+      "prioritet",
+      "pešački prelaz"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Nepridavanje pešacima na označenom prelazu.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Neovlašćeno prevoženje osobe na vozilima za transport robe i na poljoprivrednim i šumarskim vozilima",
+    "fine_chf": 60,
+    "keywords": [
+      "prevoz",
+      "transport robe",
+      "poljoprivredna vozila",
+      "poljoprivredna vozila",
+      "prevoz putnika"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prevoženje neovlašćenih putnika na vozilima namenjenim za robu ili šumarstvo/poljoprivredu.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Vožnja po pešačkom području motorizovanom invalidskim kolima ili električnim skuterom na sto od strane osobe koja nije invalid",
+    "fine_chf": 40,
+    "keywords": [
+      "pešačka zona",
+      "motorizovana invalidska kolica",
+      "električni skuter na sto",
+      "E-skuter",
+      "poremećaj mobilnosti",
+      "pešačko područje"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Osoba koja nije invalid"
+    ],
+    "conditions": null,
+    "notes": "Neovlašćena upotreba pomoćnih uređaja (invalidska kolica/e-skuter) na pešačkim putevima od strane osoba koje nisu invalidi.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

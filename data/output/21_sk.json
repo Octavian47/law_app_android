@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "týkajúce sa značiek (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Značenie",
+      "Signalizácia",
+      "VRV",
+      "SSV",
+      "dopravné značenie",
+      "porušenie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Naznačuje porušenie pravidiel dopravného značenia.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nedodržanie prednosti na prechode pre chodcov (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Prednosť",
+      "Prechod pre chodcov",
+      "Zebra prechod",
+      "SVG",
+      "VRV",
+      "prednosť",
+      "prechod pre chodcov"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Používanie telefónu bez hands‑free zariadenia počas jazdy (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefón",
+      "Mobilný telefón",
+      "Hands‑free zariadenie",
+      "Jazda",
+      "Rozptýlenie",
+      "mobilný telefón",
+      "jazda"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Prekročenie všeobecnej alebo signalizovanej maximálnej rýchlosti jazdcami motocyklov po zohľadnení zariadenia a meracej neistoty stanovených ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rýchlosť",
+      "Maximálna rýchlosť",
+      "Motocykl",
+      "Skúter",
+      "SVG",
+      "prekročenie rýchlosti"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Pevná pokuta za menšie prekročenie rýchlosti (pravdepodobne do 5 km/h) na skúteroch/motorových bicykloch.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Používanie motocykla alebo elektrického rikšu bez evidenčnej značky alebo bez platnej vinietky pri poistení (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "evidenčná značka",
+      "Vinietka",
+      "Motocykl",
+      "Elektrický rikšu",
+      "evidenčná značka",
+      "nálepka",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič motocykla",
+      "Vodič elektrického rikšu"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný používateľom (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Používanie motocykla alebo elektrického rikšu bez požadovaného povolenia vozidla (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "povolenie vozidla",
+      "Motocykl",
+      "Elektrický rikšu",
+      "SVG",
+      "povolenie vozidla",
+      "dokumenty"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vodič motocykla",
+      "Vodič elektrického rikšu"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný používateľom (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Používanie motocykla bez existujúceho poistenia (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "poistenie",
+      "Motocykl",
+      "VZV",
+      "poistenie",
+      "skúter",
+      "povinné"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný používateľom (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Požičanie motocykla alebo elektrického rikšu bez evidenčnej značky alebo bez platnej vinietky pri poistení na použitie (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Požičanie",
+      "evidenčná značka",
+      "Vinietka",
+      "Motocykl",
+      "Elektrický rikšu",
+      "požičanie",
+      "značka",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník",
+      "Požičovateľ"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný majiteľom/požičovateľom (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Požičanie motocykla alebo elektrického rikšu bez požadovaného povolenia vozidla na použitie (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Požičanie",
+      "povolenie vozidla",
+      "Motocykl",
+      "Elektrický rikšu",
+      "VZV",
+      "požičanie",
+      "dokumenty vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník",
+      "Požičovateľ"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný majiteľom/požičovateľom (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Požičanie motocykla bez existujúceho poistenia na použitie (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Požičanie",
+      "poistenie",
+      "Motocykl",
+      "VZV",
+      "požičanie",
+      "poistenie"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník",
+      "Požičovateľ"
+    ],
+    "conditions": null,
+    "notes": "Priestupok spáchaný majiteľom/požičovateľom (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Jazda s evidenčnou značkou, ktorá nie je ľahko čitateľná (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "evidenčná značka",
+      "čitateľnosť",
+      "Jazda",
+      "VRV",
+      "VTS",
+      "evidenčná značka",
+      "čitateľnosť",
+      "špinavá značka"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Jazda bez požadovaného zvončeka na motocykloch (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "zvonček",
+      "Motocykl",
+      "vybavenie",
+      "VTS",
+      "skúter",
+      "zvonček",
+      "vybavenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič motocykla"
+    ],
+    "conditions": null,
+    "notes": "Jazda na skúteri/motorovom bicykli bez požadovaného zvončeka.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Jazda bez trvalo pripevnených odraziek (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "odrazka",
+      "odrazka",
+      "vybavenie",
+      "VTS",
+      "odrazka",
+      "vybavenie",
+      "chýbajúca"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez pevne pripevnených odraziek (platí všeobecne pre vozidlá, ktoré ich vyžadujú, často bicykle/skútre v tejto sekcii).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

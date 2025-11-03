@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Conducerea pe banda de urgență a autostrăzilor sau drumurilor expres",
+    "fine_chf": 140,
+    "keywords": [
+      "bandă de urgență",
+      "autostradă",
+      "drum expres",
+      "bandă de urgență",
+      "autostradă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Utilizarea benzii extreme din stânga pe autostrăzi cu cel puțin trei benzi în aceeași direcție de către vehiculele motorizate care nu pot depăși 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "bandă din stânga",
+      "autostradă",
+      "viteză",
+      "100 km/h",
+      "utilizare bandă",
+      "autostradă"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vehicule motorizate"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Nerespectarea creării unei benzi de salvare",
+    "fine_chf": 100,
+    "keywords": [
+      "bandă de salvare",
+      "obligație",
+      "coridor de urgență",
+      "vehicul de urgență"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Conducere obstructivă pe banda longitudinală pentru pietoni",
+    "fine_chf": 60,
+    "keywords": [
+      "pietoni",
+      "bandă longitudinală",
+      "obstrucție",
+      "bandă pentru pietoni",
+      "obstrucție"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu plăci de control care nu sunt ușor de citit",
+    "fine_chf": 60,
+    "keywords": [
+      "plăci de control",
+      "placă de înmatriculare",
+      "ușor de citit",
+      "placă de înmatriculare",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Transportul unei persoane care depășește numărul permis de locuri",
+    "fine_chf": 60,
+    "keywords": [
+      "pasager în exces",
+      "locuri",
+      "supraîncărcare",
+      "pasager",
+      "capacitate"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Un pasager peste numărul permis de locuri.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nerespectarea interdicției de conducere pe timp de noapte\na. până la o oră",
+    "fine_chf": 100,
+    "keywords": [
+      "interdicție de conducere pe timp de noapte",
+      "interdicție de conducere pe timp de noapte",
+      "Transport",
+      "durată"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul (vehicule grele)"
+    ],
+    "conditions": "până la o oră",
+    "notes": "Încălcare a interdicției de conducere pe timp de noapte pentru vehiculele grele de marfă (de obicei).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nerespectarea interdicției de conducere pe timp de noapte\nb. pentru mai mult de o oră, dar nu mai mult de 2 ore",
+    "fine_chf": 200,
+    "keywords": [
+      "interdicție de conducere pe timp de noapte",
+      "interdicție de conducere pe timp de noapte",
+      "Transport",
+      "durată"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducător de vehicul (vehicule grele)"
+    ],
+    "conditions": "mai mult de 1 oră, dar nu mai mult de 2 ore",
+    "notes": "Încălcare a interdicției de conducere pe timp de noapte pentru vehiculele grele de marfă (de obicei).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu placa(e) de control obscurizată(e) din cauza\n1. încărcăturii",
+    "fine_chf": 60,
+    "keywords": [
+      "placă de control",
+      "obscurizată",
+      "încărcătură",
+      "încărcătură",
+      "obscurizată",
+      "placă de înmatriculare"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Placa de înmatriculare obscurizată de încărcătură.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu placa(e) de control obscurizată(e) din cauza\n2. suportului de încărcare",
+    "fine_chf": 60,
+    "keywords": [
+      "placă de control",
+      "obscurizată",
+      "suport de încărcare",
+      "suport pentru biciclete",
+      "obscurizată",
+      "suport"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Placa de înmatriculare obscurizată de suportul de încărcare (de ex., suport pentru biciclete).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu placa(e) de control obscurizată(e) din cauza\n3. uneltelor și altele",
+    "fine_chf": 60,
+    "keywords": [
+      "placă de control",
+      "obscurizată",
+      "unelte",
+      "unelte",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Placa de înmatriculare obscurizată de uneltele de lucru atașate.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu dispozitivul(ele) de iluminat obscurizat(e) din cauza\n1. încărcăturii",
+    "fine_chf": 60,
+    "keywords": [
+      "iluminat",
+      "obscurizat",
+      "încărcătură",
+      "lumini",
+      "obscurizat",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Dispozitivul de iluminat obscurizat de încărcătură.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu dispozitivul(ele) de iluminat obscurizat(e) din cauza\n2. suportului de încărcare",
+    "fine_chf": 60,
+    "keywords": [
+      "iluminat",
+      "obscurizat",
+      "suport de încărcare",
+      "lumini",
+      "obscurizat",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Dispozitivul de iluminat obscurizat de suportul de încărcare.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Conducerea cu dispozitivul(ele) de iluminat obscurizat(e) din cauza\n3. uneltelor și altele",
+    "fine_chf": 60,
+    "keywords": [
+      "iluminat",
+      "obscurizat",
+      "unelte",
+      "lumini",
+      "obscurizat",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Dispozitivul de iluminat obscurizat de uneltele de lucru atașate.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Oprirea pe o trecere pentru pietoni în timpul traficului aglomerat",
+    "fine_chf": 60,
+    "keywords": [
+      "oprire",
+      "trecere pentru pietoni",
+      "trafic aglomerat",
+      "trecere pentru pietoni",
+      "oprire",
+      "aglomerație"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "în timpul traficului aglomerat",
+    "notes": "Blocarea unei treceri pentru pietoni în timpul aglomerației traficului.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Oprirea la o intersecție rutieră pe carosabil pentru traficul transversal în timpul traficului aglomerat",
+    "fine_chf": 60,
+    "keywords": [
+      "oprire",
+      "intersecție",
+      "trafic transversal",
+      "trafic aglomerat",
+      "intersecție",
+      "oprire"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": "în timpul traficului aglomerat",
+    "notes": "Blocarea zonei intersecției destinate traficului transversal în timpul aglomerației.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Nerespectarea acordării priorității la o trecere pentru pietoni",
+    "fine_chf": 140,
+    "keywords": [
+      "prioritate",
+      "trecere pentru pietoni",
+      "prioritate",
+      "prioritate",
+      "trecere pentru pietoni"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea acordării de prioritate pietonilor pe o trecere marcată.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Transport neautorizat al unei persoane pe vehicule destinate transportului de mărfuri și pe vehicule agricole și forestiere",
+    "fine_chf": 60,
+    "keywords": [
+      "transport",
+      "transport de mărfuri",
+      "vehicule agricole",
+      "vehicule agricole",
+      "transport de pasageri"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Transportul neautorizat al pasagerilor pe vehicule destinate mărfurilor sau forestiere/agricole.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Conducerea pe o zonă pietonală cu un scaun cu rotile motorizat sau un trotineta electrică de tip stand de către o persoană neinvalidă",
+    "fine_chf": 40,
+    "keywords": [
+      "zonă pietonală",
+      "scaun cu rotile motorizat",
+      "trotinetă electrică de tip stand",
+      "E-Scooter",
+      "deficiență de mobilitate",
+      "zonă pietonală"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Persoană neinvalidă"
+    ],
+    "conditions": null,
+    "notes": "Utilizare neautorizată a dispozitivelor de asistență (scaun cu rotile/e-scooter) pe căile pietonale de către persoane neinvalidă.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

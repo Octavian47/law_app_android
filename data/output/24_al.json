@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Përdorimi i një rruge kombëtare të klasës së parë ose të dytë pa vignetën e kërkuar për periudhën e vlefshmërisë",
+    "fine_chf": 200,
+    "keywords": [
+      "Rrugë kombëtare",
+      "Vignetë",
+      "Vignetë e munguar",
+      "Lëshim",
+      "Stikë tarifë",
+      "Autostradë"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime në rrugë kombëtare pa vignetën e kërkuar për tarifën.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Përdorimi i një rruge kombëtare të klasës së parë ose të dytë me një vignetë ngjitëse të kërkuar për periudhën e vlefshmërisë që nuk është e vendosur, ose nuk është e vendosur në vendin e përcaktuar drejtpërdrejt në automjet, ose është e dëmtuar",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignetë",
+      "Vignetë ngjitëse",
+      "Aplikim",
+      "Dëmtuar",
+      "Ngjitje",
+      "Vendosje"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Drejtues i mjetit"
+    ],
+    "conditions": null,
+    "notes": "Udhëtime me një vignetë që është vendosur gabimisht (jo drejtpërdrejt në automjet) ose e dëmtuar.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

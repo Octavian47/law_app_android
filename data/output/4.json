@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren neben einer ununterbrochenen Längslinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Längslinie",
+      "Durchfahrt",
+      "weniger 3 m",
+      "parking",
+      "longitudinal line",
+      "less 3m passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking next to an unbroken longitudinal line, obstructing passage less than 3m, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Halten neben einer ununterbrochenen Längslinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Längslinie",
+      "Durchfahrt",
+      "weniger 3 m",
+      "stopping",
+      "longitudinal line",
+      "less 3m passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping next to an unbroken longitudinal line, obstructing passage less than 3m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren neben einer Doppellinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Doppellinie",
+      "Durchfahrt",
+      "weniger 3 m",
+      "parking",
+      "double line",
+      "less 3m passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking next to a double line, obstructing passage less than 3m, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Halten neben einer Doppellinie, wenn nicht eine wenigstens 3 m breite Durchfahrt frei bleibt (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Doppellinie",
+      "Durchfahrt",
+      "weniger 3 m",
+      "stopping",
+      "double line",
+      "less 3m passage"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping next to a double line, obstructing passage less than 3m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf einer Strassenverzweigung (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Strassenverzweigung",
+      "intersection",
+      "parking",
+      "junction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on an intersection, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Halten auf einer Strassenverzweigung (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Strassenverzweigung",
+      "intersection",
+      "stopping",
+      "junction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on an intersection.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren vor einer Strassenverzweigung näher als 5 m von der Querfahrbahn (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkieren",
+      "Strassenverzweigung",
+      "Querfahrbahn",
+      "5 m",
+      "parking",
+      "intersection",
+      "cross-road",
+      "less 5m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Parking less than 5m before an intersection from the cross-road.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Halten vor einer Strassenverzweigung näher als 5 m von der Querfahrbahn (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Halten",
+      "Strassenverzweigung",
+      "Querfahrbahn",
+      "5 m",
+      "stopping",
+      "intersection",
+      "cross-road",
+      "less 5m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping less than 5m before an intersection from the cross-road.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren nach einer Strassenverzweigung näher als 5 m von der Querfahrbahn (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkieren",
+      "Strassenverzweigung",
+      "Querfahrbahn",
+      "5 m",
+      "parking",
+      "intersection",
+      "cross-road",
+      "less 5m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking less than 5m after an intersection from the cross-road, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Halten nach einer Strassenverzweigung näher als 5 m von der Querfahrbahn (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Strassenverzweigung",
+      "Querfahrbahn",
+      "5 m",
+      "stopping",
+      "intersection",
+      "cross-road",
+      "less 5m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping less than 5m after an intersection from the cross-road.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren auf einem Fussgängerstreifen (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkieren",
+      "Fussgängerstreifen",
+      "parking",
+      "pedestrian crossing",
+      "zebra crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking on a pedestrian crossing, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Halten auf einem Fussgängerstreifen (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Fussgängerstreifen",
+      "stopping",
+      "pedestrian crossing",
+      "zebra crossing"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a pedestrian crossing.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren seitlich angrenzend an einen Fussgängerstreifen (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkieren",
+      "Fussgängerstreifen",
+      "seitlich angrenzend",
+      "parking",
+      "pedestrian crossing",
+      "adjacent"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": "bis 60 Minuten",
+    "notes": "Parking adjacent to a pedestrian crossing, up to 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Halten seitlich angrenzend an einen Fussgängerstreifen (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Fussgängerstreifen",
+      "seitlich angrenzend",
+      "stopping",
+      "pedestrian crossing",
+      "adjacent"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping adjacent to a pedestrian crossing.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Halten auf einem Bahnübergang (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Bahnübergang",
+      "stopping",
+      "railway crossing",
+      "level crossing"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping on a railway crossing.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Halten in einer Unterführung (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Unterführung",
+      "stopping",
+      "underpass"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Stopping in an underpass.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkieren näher als 10 m vor einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkieren",
+      "Haltestelle",
+      "öffentlicher Verkehr",
+      "10 m",
+      "parking",
+      "bus stop",
+      "public transport",
+      "less 10m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Parking less than 10m before a public transport stop sign.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Behinderndes Halten zum Ein- und Aussteigenlassen von Personen näher als 10 m vor einer Haltestellentafel öffentlicher Verkehrsbetriebe (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Halten",
+      "Haltestelle",
+      "öffentlicher Verkehr",
+      "10 m",
+      "Behinderung",
+      "stopping",
+      "bus stop",
+      "public transport",
+      "less 10m",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Obstructive stopping to let people in/out less than 10m before a public transport stop sign.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

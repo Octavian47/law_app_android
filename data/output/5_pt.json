@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada para carregamento de mercadorias dentro de 10 m antes de um sinal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Carregamento de mercadorias",
+      "Sinal de parada",
+      "transporte público",
+      "parada",
+      "mercadorias",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada para carregamento/descarregamento de mercadorias a menos de 10 m antes de um sinal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento dentro de 10 m após um sinal de parada de transporte público (Art. 18 Abs. 3 e 19 Abs. 2 a VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "sinal de parada",
+      "transporte público",
+      "60 minutos",
+      "estacionamento",
+      "parada de transporte público",
+      "limite de tempo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento a menos de 10 m após um sinal de parada de transporte público, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada obstrutiva para permitir que pessoas embarquem e desembarquem dentro de 10 m após um sinal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Obstrutivo",
+      "embarque/desembarque",
+      "sinal de parada",
+      "parada",
+      "obstrutivo",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva para permitir que pessoas entrem e saiam a menos de 10 m após um sinal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada para carregamento de mercadorias dentro de 10 m após um sinal de parada de transporte público (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Carregamento de mercadorias",
+      "Sinal de parada",
+      "transporte público",
+      "parada",
+      "mercadorias",
+      "parada de transporte público"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada para carregamento/descarregamento de mercadorias a menos de 10 m após um sinal de parada de transporte público.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionamento em frente às instalações da estação de bombeiros e depósitos de equipamentos de incêndio (Art. 18 Abs. 3 e Art. 19 Abs. 2 a VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "estação de bombeiros",
+      "depósito",
+      "equipamento de incêndio",
+      "60 minutos",
+      "estacionamento",
+      "estação de bombeiros",
+      "equipamento de incêndio"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento em frente às instalações da estação de bombeiros/equipamentos, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada para carregamento de mercadorias em frente às instalações da estação de bombeiros ou depósitos de equipamentos de incêndio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Carregamento de mercadorias",
+      "estação de bombeiros",
+      "equipamento de incêndio",
+      "parada",
+      "mercadorias",
+      "estação de bombeiros"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada para carregamento/descarregamento de mercadorias em frente às instalações da estação de bombeiros/equipamentos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Parada obstrutiva para permitir que pessoas embarquem e desembarquem em frente às instalações da estação de bombeiros e depósitos de equipamentos de incêndio (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Obstrutivo",
+      "embarque/desembarque",
+      "estação de bombeiros",
+      "parada",
+      "obstrutivo",
+      "estação de bombeiros"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva para permitir que pessoas entrem e saiam em frente às instalações da estação de bombeiros/equipamentos.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Parada obstrutiva para carregamento de mercadorias ao lado de veículos estacionados ao longo da margem da estrada (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "Obstrutivo",
+      "Carregamento de mercadorias",
+      "ao longo",
+      "estacionado",
+      "parada",
+      "obstrutivo",
+      "mercadorias",
+      "estacionamento duplo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada obstrutiva para carregamento/descarregamento de mercadorias ao lado de veículos estacionados ao longo da margem da estrada (estacionamento duplo para mercadorias).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Estacionamento em faixa de bicicleta (Art. 19 Abs. 2 d VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "faixa de bicicleta",
+      "faixa ciclística",
+      "60 minutos",
+      "estacionamento",
+      "faixa de bicicleta",
+      "faixa ciclística"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento em faixa ciclística, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Parada em faixa de bicicleta quando obstrui o tráfego de bicicletas (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "faixa de bicicleta",
+      "tráfego de bicicletas",
+      "obstruído",
+      "parada",
+      "faixa de bicicleta",
+      "obstrutivo"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em faixa ciclística quando obstrui o tráfego de bicicletas.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Estacionamento na via ao lado de faixa de bicicleta (Art. 19 Abs. 2 d VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "via",
+      "faixa de bicicleta",
+      "ao lado de",
+      "60 minutos",
+      "estacionamento",
+      "via",
+      "faixa de bicicleta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento na via ao lado de faixa ciclística, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Estacionamento em trilhos de bonde (Art. 19 Abs. 2 a e 25 Abs. 5 VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "trilhos de bonde",
+      "trilhos de bonde",
+      "60 minutos",
+      "estacionamento",
+      "trilhos de bonde"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento em trilhos de bonde, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Parada em trilhos de bonde (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "trilhos de bonde",
+      "trilhos de bonde",
+      "parada",
+      "trilhos de bonde"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada em trilhos de bonde.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Estacionamento a menos de 1,5 m ao lado do trilho de bonde mais próximo (Art. 19 Abs. 2 a e 25 Abs. 5 VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "trilho de bonde",
+      "trilhos de bonde",
+      "1,5 m",
+      "60 minutos",
+      "estacionamento",
+      "trilho de bonde",
+      "distância"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento a menos de 1,5 m do trilho de bonde mais próximo, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Parada a menos de 1,5 m ao lado do trilho de bonde mais próximo (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "trilho de bonde",
+      "trilhos de bonde",
+      "1,5 m",
+      "parada",
+      "trilho de bonde",
+      "distância"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parada a menos de 1,5 m do trilho de bonde mais próximo.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Estacionamento no acostamento de uma autoestrada (Art. 36 Abs. 3 VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "acostamento",
+      "autoestrada",
+      "60 minutos",
+      "estacionamento",
+      "acostamento",
+      "autoestrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento no acostamento de uma autoestrada, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parada no acostamento de uma autoestrada, exceto em caso de parada de emergência (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Parada",
+      "acostamento",
+      "autoestrada",
+      "parada de emergência",
+      "parada",
+      "acostamento",
+      "autoestrada",
+      "emergência"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "exceto parada de emergência",
+    "notes": "Parada no acostamento de uma autoestrada, excluindo emergências.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Estacionamento no acostamento de uma via expressa (Art. 36 Abs. 3 VRV) até 60 minutos",
+    "fine_chf": 120,
+    "keywords": [
+      "Estacionamento",
+      "acostamento",
+      "via expressa",
+      "60 minutos",
+      "estacionamento",
+      "acostamento",
+      "via expressa"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionamento no acostamento de uma via expressa, até 60 minutos.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

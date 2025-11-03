@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Usar um telefone sem dispositivo mãos‑livres enquanto dirige (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefone",
+      "telefone móvel",
+      "dispositivo mãos‑livres",
+      "enquanto dirige",
+      "dirigindo",
+      "telefone móvel"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor"
+    ],
+    "conditions": null,
+    "notes": "Usar um telefone sem dispositivo mãos‑livres enquanto dirige.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Não usar o cinto de segurança pelo condutor (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "cinto de segurança",
+      "cinto",
+      "fixação",
+      "condutor de veículo",
+      "cinto de segurança",
+      "condutor"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não usar o cinto de segurança pelo condutor.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Transportar criança desprotegida com menos de 12 anos (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "criança",
+      "segurança",
+      "assento infantil",
+      "transportar",
+      "dispositivo de segurança",
+      "crianças"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Transportar criança desprotegida com menos de 12 anos.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Não usar capacete de proteção pelo condutor de motocicletas, veículos leves, pequenos e de três rodas (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "capacete de proteção",
+      "capacete",
+      "motocicleta",
+      "veículo motorizado",
+      "condutor",
+      "capacete",
+      "motocicleta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de motocicleta"
+    ],
+    "conditions": null,
+    "notes": "Condutor de motocicleta/leve/pequeno/veículo de três rodas sem usar capacete de proteção.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Transportar criança com menos de 12 anos sem capacete em motocicletas, veículos leves, pequenos e de três rodas (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "criança",
+      "capacete",
+      "motocicleta",
+      "transportar",
+      "capacete de proteção",
+      "crianças",
+      "motocicleta"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de motocicleta"
+    ],
+    "conditions": null,
+    "notes": "Transportar criança com menos de 12 anos sem capacete em motocicleta/leve/pequeno/veículo de três rodas.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Não usar a faixa mais à direita em vias com múltiplas faixas, exceto ao ultrapassar, entrar, conduzir em colunas paralelas ou dentro de áreas urbanas (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "faixa",
+      "conduzir à direita",
+      "faixa mais externa",
+      "ultrapassagem",
+      "uso da faixa",
+      "manter à direita"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não usar a faixa mais à direita em vias de múltiplas faixas, exceto ao ultrapassar, entrar, conduzir em colunas paralelas ou dentro de área urbana.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Ultrapassagem pela direita desviando e retornando em vias de múltiplas faixas dentro de áreas urbanas (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "ultrapassagem pela direita",
+      "dentro de área urbana",
+      "mudança de faixa",
+      "ultrapassar à direita",
+      "área urbana",
+      "mudança de faixa"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Ultrapassagem pela direita desviando e retornando em vias de múltiplas faixas dentro de áreas urbanas.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Ultrapassagem pela direita desviando e retornando em autoestradas e vias rápidas com múltiplas faixas (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "ultrapassagem pela direita",
+      "via expressa",
+      "autoestrada",
+      "mudança de faixa",
+      "ultrapassar à direita",
+      "estrada",
+      "autoestrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Ultrapassagem pela direita desviando e retornando em semi-autoestradas e autoestradas de múltiplas faixas.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Mudar para outra faixa para ultrapassar em via de faixa única (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "ultrapassagem",
+      "mudança de faixa",
+      "via de faixa única",
+      "ultrapassagem",
+      "mudança de faixa",
+      "via de faixa única"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Mudar de faixa para ultrapassar em trecho de via de faixa única.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parar ou estacionar no lado esquerdo da via, embora não haja trilhos de bonde, não haja sinalização de proibição de estacionamento ou parada e a via seja larga (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "parada",
+      "estacionamento",
+      "lado esquerdo da via",
+      "estacionamento",
+      "parada",
+      "lado errado"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar ou estacionar no lado esquerdo da via, apesar da ausência de trilhos de bonde, sinais de proibição de estacionamento/parada e da via ser larga.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Deixar o veículo sem retirar a chave de ignição (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "deixar o veículo",
+      "chave de ignição",
+      "chave",
+      "chave de ignição",
+      "deixar o veículo"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Deixar o veículo sem retirar a chave de ignição.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Não colocar o triângulo de aviso de avaria (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sinal de avaria",
+      "triângulo de aviso",
+      "instalação",
+      "triângulo de aviso",
+      "avaria"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não colocar o triângulo de aviso (sinal de avaria).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Instalar incorretamente o triângulo de aviso de avaria (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sinal de avaria",
+      "triângulo de aviso",
+      "instalação",
+      "não conforme",
+      "triângulo de aviso",
+      "avaria"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Instalar o triângulo de aviso (sinal de avaria) em desacordo com as normas (ex.: muito próximo).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Uso abusivo das luzes de emergência em veículo estacionado (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "luzes de emergência",
+      "luzes de emergência",
+      "uso indevido",
+      "veículo estacionado",
+      "luzes de emergência",
+      "veículo estacionado"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso indevido das luzes de emergência em veículo estacionado.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Uso abusivo das luzes de emergência em veículo em movimento (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "luzes de emergência",
+      "luzes de emergência",
+      "uso indevido",
+      "veículo em movimento",
+      "luzes de emergência",
+      "veículo em movimento"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Uso indevido das luzes de emergência em veículo em movimento.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Não prender o triângulo de aviso de avaria na parte traseira de um veículo rebocado (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sinal de avaria",
+      "veículo rebocado",
+      "parte traseira",
+      "triângulo de aviso",
+      "veículo rebocado",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Não prender o triângulo de aviso na parte traseira do veículo rebocado.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

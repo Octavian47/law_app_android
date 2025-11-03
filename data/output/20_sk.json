@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Používanie chodníka bez zostúpenia",
+    "fine_chf": 30,
+    "keywords": [
+      "chodník",
+      "zostúpenie",
+      "bicykel",
+      "Velo",
+      "pešia cesta",
+      "zostupovanie"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jazdec na bicykli",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Používanie chodníka/bočného chodníka bez zostúpenia (platí pre cyklistov).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Používanie cyklistickej cesty v zakázanom smere",
+    "fine_chf": 30,
+    "keywords": [
+      "cyklistická cesta",
+      "zakázaný smer",
+      "Velo",
+      "proti smeru",
+      "cyklistická cesta"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jazdec na bicykli",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Používanie cyklistickej cesty v nesprávnom smere.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Používanie cyklistického pruhu v zakázanom smere",
+    "fine_chf": 30,
+    "keywords": [
+      "cyklistický pruh",
+      "zakázaný smer",
+      "Velo",
+      "proti smeru",
+      "cyklistický pruh"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Jazdec na bicykli",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Používanie cyklistického pruhu v nesprávnom smere.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Nedodržanie úplného zastavenia pri stop signáloch (pohyblivé zastavenie) (3.01; Art. 27 Abs. 1 SVG a Art. 36 Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "stop signál",
+      "pohyblivé zastavenie",
+      "zastavenie",
+      "dopravné predpisy",
+      "stop značka",
+      "nedodržanie zastavenia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie úplného zastavenia (pohyblivé zastavenie).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nedodržanie signálu semaforu",
+    "fine_chf": 60,
+    "keywords": [
+      "svetelný signál",
+      "ignorovanie",
+      "červené svetlo",
+      "semafor",
+      "nedodržanie",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorovanie semaforu (často sa týka prejazdu na červeno/žlto).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Nedodržanie 'striedavého blikač svetelného signálu' (3.20) alebo 'jednoduchého blikač svetelného signálu' (3.21; Art. 28 SVG, Art. 68 Abs. 1 a nasl. a Art. 93 Abs. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "striedavý blikač svetelného signálu",
+      "jednoduchý blikač svetelného signálu",
+      "ignorovanie",
+      "blikajúce svetlo",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie špeciálnych blikačových signálov (napr. železničné priecestia).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Porušenie jednopruhového poriadku ignorovaním označenej smerovej šípky a kontúrnej šípky semaforového systému",
+    "fine_chf": 30,
+    "keywords": [
+      "jednopruhový poriadok",
+      "smerová šípka",
+      "kontúrna šípka",
+      "ignorovanie",
+      "pravidlá jazdy v pruhu",
+      "signalizácia"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Porušenie pravidiel jazdy v pruhu ignorovaním označenej smerovej alebo kontúrnej šípky pri semaforoch.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Nedodržanie jazdy v smere šípky",
+    "fine_chf": 30,
+    "keywords": [
+      "smer šípky",
+      "pokračovať v jazde",
+      "pruh",
+      "smer pruhu",
+      "dopravný tok"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie jazdy v označenom smere šípky pruhu.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nedanie rukového signálu alebo smerovej indikácie pri odbočovaní doprava",
+    "fine_chf": 20,
+    "keywords": [
+      "rukový signál",
+      "smerová indikácia",
+      "odbočenie doprava",
+      "signál",
+      "signalizácia",
+      "odbočovanie doprava"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Nedanie signálu pri odbočovaní doprava.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nedanie rukového signálu alebo smerovej indikácie pri odbočovaní doľava",
+    "fine_chf": 30,
+    "keywords": [
+      "rukový signál",
+      "smerová indikácia",
+      "odbočenie doľava",
+      "signál",
+      "signalizácia",
+      "odbočovanie doľava"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Nedanie signálu pri odbočovaní doľava.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nedanie rukového signálu alebo smerovej indikácie pri predjížďke",
+    "fine_chf": 20,
+    "keywords": [
+      "rukový signál",
+      "smerová indikácia",
+      "predjížďka",
+      "signál",
+      "signalizácia",
+      "predjížďka"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vodič vozidla",
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Nedanie signálu pri predjížďke.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Jazda cez alebo preč s bezpečnostnou čiarou v obývanom území",
+    "fine_chf": 40,
+    "keywords": [
+      "bezpečnostná čiara",
+      "jazda cez",
+      "preč",
+      "v obývanom území",
+      "pevná čiara",
+      "dopravná disciplína"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Preč s pevnou bielou čiarou (zakázané predjíždenie/prekročenie) v obývanom území.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Jazda v rezervovanom autobusovom pruhu bez povolenia",
+    "fine_chf": 30,
+    "keywords": [
+      "autobusový pruh",
+      "jazda",
+      "zakázané",
+      "autobusový pruh",
+      "obmedzený prístup"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Vodič vozidla (nepovolený)"
+    ],
+    "conditions": null,
+    "notes": "Jazda v rezervovanom autobusovom pruhu bez povolenia.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Jazda po ceste, ktorá nie je vhodná pre bicykle, motocykle a elektrické rikšy alebo zjavne nie je určená pre ne",
+    "fine_chf": 30,
+    "keywords": [
+      "používanie cesty",
+      "nevhodné",
+      "bicykel",
+      "motocykl",
+      "elektrický rikša",
+      "nevhodná cesta",
+      "obmedzený prístup"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cyklista",
+      "Motocyklista",
+      "Vodič elektrického rikšy"
+    ],
+    "conditions": null,
+    "notes": "Používanie cesty zjavne nevhodnej alebo neurčenej pre bicykle/motocykle/e-rikšy.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nedodržanie použitia cyklistickej cesty",
+    "fine_chf": 30,
+    "keywords": [
+      "cyklistická cesta",
+      "nepoužívanie",
+      "povinné použitie",
+      "povinné použitie",
+      "cyklistická cesta"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie povinného používania cyklistickej cesty.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nedodržanie použitia cyklistického pruhu",
+    "fine_chf": 30,
+    "keywords": [
+      "cyklistický pruh",
+      "nepoužívanie",
+      "povinné použitie",
+      "povinné použitie",
+      "cyklistický pruh"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cyklista"
+    ],
+    "conditions": null,
+    "notes": "Nedodržanie povinného používania cyklistického pruhu.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parkovanie alebo zastavenie bicykla, motocykla alebo elektrického rikšy tam, kde je zastavenie alebo parkovanie zakázané všeobecnými dopravnými predpismi",
+    "fine_chf": 20,
+    "keywords": [
+      "parkovanie zakázané",
+      "zastavenie zakázané",
+      "bicykel",
+      "motocykl",
+      "elektrický rikša",
+      "zákaz parkovania",
+      "všeobecné dopravné predpisy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Cyklista",
+      "Motocyklista",
+      "Vodič elektrického rikšy"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie/zastavenie zakázané všeobecnými pravidlami (nie značkami).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parkovanie alebo zastavenie bicykla, motocykla alebo elektrického rikšy tam, kde je zastavenie alebo parkovanie zakázané signálmi",
+    "fine_chf": 20,
+    "keywords": [
+      "parkovanie zakázané",
+      "zastavenie zakázané",
+      "signály",
+      "bicykel",
+      "motocykl",
+      "elektrický rikša",
+      "zákaz parkovania",
+      "značky"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Cyklista",
+      "Motocyklista",
+      "Vodič elektrického rikšy"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie/zastavenie zakázané špecifickými dopravnými značkami.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

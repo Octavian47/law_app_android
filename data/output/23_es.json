@@ -1,0 +1,242 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Autopistas (Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 and 50a Abs. 1 VRV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Autopista",
+      "Semi-autopista",
+      "Uso",
+      "VRV 50a",
+      "Restricción"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conductor de vehículo"
+    ],
+    "conditions": null,
+    "notes": "Uso no autorizado de semi-autopistas (a menudo se aplica a tipos específicos de vehículos o dispositivos).",
+    "source": {
+      "page": 25,
+      "line_hint": "2. Autostrassen"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 24 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Eludir, escalar o pasar por debajo de barreras o semibarreras",
+    "fine_chf": 20,
+    "keywords": [
+      "Barreras",
+      "Semibarreras",
+      "Barreras",
+      "Paso a nivel",
+      "Cruce a nivel",
+      "Eludir"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Usuario de la vía"
+    ],
+    "conditions": null,
+    "notes": "Eludir, escalar o pasar por debajo de barreras o semibarreras.",
+    "source": {
+      "page": 25,
+      "line_hint": "905."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso de la vía ciclista por peatones, cuando\n1. hay una acera presente",
+    "fine_chf": 10,
+    "keywords": [
+      "Peatón",
+      "Vía ciclista",
+      "Acera",
+      "Acera",
+      "Peatón",
+      "Vía ciclista"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Peatones"
+    ],
+    "conditions": "Acera presente",
+    "notes": "Uso de la vía ciclista cuando hay una acera disponible.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 2 VRV",
+    "law_text": "Uso de la vía ciclista por peatones, cuando\n2. hay un sendero peatonal presente",
+    "fine_chf": 10,
+    "keywords": [
+      "Peatón",
+      "Vía ciclista",
+      "Sendero peatonal",
+      "Acera",
+      "Peatón",
+      "Vía ciclista"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Peatones"
+    ],
+    "conditions": "Sendero peatonal presente",
+    "notes": "Uso de la vía ciclista cuando hay un sendero peatonal dedicado disponible.",
+    "source": {
+      "page": 25,
+      "line_hint": "906.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 4 VRV",
+    "law_text": "Conducción sin luces",
+    "fine_chf": 20,
+    "keywords": [
+      "Luz",
+      "Iluminación",
+      "Conducción",
+      "Patinete eléctrico",
+      "Dispositivos similares a vehículos",
+      "Equipo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Operador de dispositivos (VRV 50a)"
+    ],
+    "conditions": null,
+    "notes": "Conducción sin la iluminación requerida (aplica principalmente a patinetes eléctricos/dispositivos similares).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Obstruir el uso de áreas de tráfico designadas para peatones",
+    "fine_chf": 20,
+    "keywords": [
+      "Peatón",
+      "Áreas de tráfico",
+      "Obstrucción",
+      "Acera",
+      "Obstruir",
+      "Dispositivos VRV 50a"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Dispositivos (VRV 50a)",
+      "Usuarios de la vía"
+    ],
+    "conditions": null,
+    "notes": "Obstruir el uso de áreas de tráfico designadas para peatones.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 2 VRV",
+    "law_text": "Obstruir el uso de la calzada en carreteras secundarias con tráfico calmado",
+    "fine_chf": 20,
+    "keywords": [
+      "Carreteras secundarias",
+      "Calzada",
+      "Obstrucción",
+      "Flujo de tráfico",
+      "Carretera secundaria",
+      "Dispositivos (VRV 50a)"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Dispositivos (VRV 50a)",
+      "Usuarios de la vía"
+    ],
+    "conditions": null,
+    "notes": "Obstruir el flujo de tráfico en carreteras secundarias con tráfico calmado.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Z. 2.15.3; Art. 19 Abs. 5 SSV",
+    "law_text": "Ignorar la señal 'Prohibición para dispositivos similares a vehículos'",
+    "fine_chf": 20,
+    "keywords": [
+      "Señal",
+      "Prohibición",
+      "Dispositivos similares a vehículos",
+      "Patinete eléctrico",
+      "Señalización",
+      "Señal de tráfico"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos similares a vehículos"
+    ],
+    "conditions": null,
+    "notes": "Ignorar la señal de tráfico específica que prohíbe dispositivos similares a vehículos.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50 Abs. 1 und 2 VRV",
+    "law_text": "Uso de dispositivos similares a vehículos en áreas de tráfico no autorizadas",
+    "fine_chf": 20,
+    "keywords": [
+      "Dispositivos similares a vehículos",
+      "Patinete eléctrico",
+      "Áreas de tráfico",
+      "Uso no autorizado",
+      "Restricción"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos similares a vehículos"
+    ],
+    "conditions": null,
+    "notes": "Uso de dispositivos (como patinetes eléctricos) en áreas de tráfico donde no están permitidos.",
+    "source": {
+      "page": 25,
+      "line_hint": "907.5"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 50a Abs. 2 VRV",
+    "law_text": "No ceder prioridad a los peatones",
+    "fine_chf": 30,
+    "keywords": [
+      "Derecho de paso",
+      "Peatón",
+      "Prioridad",
+      "Prioridad",
+      "Peatón",
+      "Dispositivos (VRV 50a)"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Operador de dispositivos similares a vehículos"
+    ],
+    "conditions": null,
+    "notes": "No conceder prioridad a los peatones (aplica a usuarios de dispositivos especiales).",
+    "source": {
+      "page": 25,
+      "line_hint": "907.6"
+    }
+  }
+]

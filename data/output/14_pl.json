@@ -1,0 +1,494 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Kierowca uczący się prowadzi pojazd bez wyświetlania tablicy L",
+    "fine_chf": 20,
+    "keywords": [
+      "tablica L",
+      "jazda uczącego się",
+      "szkoła jazdy",
+      "tablica ucznia",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca uczący się"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 27 Abs. 1 VRV",
+    "law_text": "Nie usunięcie tablicy L, gdy nie odbywa się jazda uczącego się",
+    "fine_chf": 20,
+    "keywords": [
+      "tablica L",
+      "jazda uczącego się",
+      "tablica ucznia",
+      "usunięcie",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "320.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nie użycie kierunkowskazu",
+    "fine_chf": 100,
+    "keywords": [
+      "kierunkowskaz",
+      "wskaźnik",
+      "kierunkowskaz",
+      "sygnalizacja",
+      "zaniechanie"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 2 VRV",
+    "law_text": "Nie wyłączenie kierunkowskazu po zmianie kierunku",
+    "fine_chf": 100,
+    "keywords": [
+      "kierunkowskaz",
+      "wskaźnik",
+      "kierunkowskaz",
+      "resetowanie",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "321.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 4 VRV",
+    "law_text": "Nieposiadanie pałki sygnalizacyjnej, gdy jest wymagana",
+    "fine_chf": 40,
+    "keywords": [
+      "pałka sygnalizacyjna",
+      "pałka sygnalizacyjna",
+      "urządzenie sygnalizacyjne",
+      "sprzęt",
+      "noszenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Winkkelle to pałka sygnalizacyjna, zazwyczaj wymagana dla niektórych dużych lub wolno poruszających się pojazdów, lub przy określonych manewrach.",
+    "source": {
+      "page": 16,
+      "line_hint": "321.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 29 Abs. 1 VRV",
+    "law_text": "Niewłaściwe użycie sygnałów ostrzegawczych",
+    "fine_chf": 40,
+    "keywords": [
+      "sygnał ostrzegawczy",
+      "klakson",
+      "klakson",
+      "niewłaściwe użycie",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "322"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł w ciągu dnia",
+    "fine_chf": 40,
+    "keywords": [
+      "światło",
+      "jazda bez świateł",
+      "światła do jazdy dziennej",
+      "dzień",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez wymaganych świateł w ciągu dnia.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł na oświetlonej drodze w nocy",
+    "fine_chf": 60,
+    "keywords": [
+      "światło",
+      "jazda bez świateł",
+      "jazda nocna",
+      "oświetlona droga",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez wymaganych świateł w nocy na oświetlonej drodze.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Jazda bez świateł w oświetlonym tunelu",
+    "fine_chf": 60,
+    "keywords": [
+      "światło",
+      "jazda bez świateł",
+      "tunel",
+      "oświetlony tunel",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jazda bez wymaganych świateł w oświetlonym tunelu.",
+    "source": {
+      "page": 16,
+      "line_hint": "323.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Jazda z światłami postojowymi lub światłami do jazdy dziennej na oświetlonej drodze w nocy",
+    "fine_chf": 40,
+    "keywords": [
+      "światło postojowe",
+      "światło do jazdy dziennej",
+      "światło",
+      "jazda nocna",
+      "sprzęt",
+      "niewystarczające oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Używanie niewystarczającego oświetlenia (światła postojowego lub DRL) zamiast wymaganego reflektora w nocy na oświetlonej drodze.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 39 Abs. 2 VRV",
+    "law_text": "Jazda z światłami postojowymi lub światłami do jazdy dziennej w oświetlonym tunelu",
+    "fine_chf": 40,
+    "keywords": [
+      "światło postojowe",
+      "światło do jazdy dziennej",
+      "światło",
+      "tunel",
+      "sprzęt",
+      "niewystarczające oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Używanie niewystarczającego oświetlenia (światła postojowego lub DRL) zamiast wymaganego reflektora w oświetlonym tunelu.",
+    "source": {
+      "page": 16,
+      "line_hint": "324.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Niewłaściwe użycie świateł przeciwmgłowych",
+    "fine_chf": 40,
+    "keywords": [
+      "światło przeciwmgłowe",
+      "światło przeciwmgłowe",
+      "niewłaściwe użycie",
+      "sprzęt",
+      "oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Niewłaściwe użycie tylnych świateł przeciwmgłowych",
+    "fine_chf": 40,
+    "keywords": [
+      "tylne światło przeciwmgłowe",
+      "tylne światło przeciwmgłowe",
+      "niewłaściwe użycie",
+      "sprzęt",
+      "oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Niewłaściwe użycie reflektorów",
+    "fine_chf": 40,
+    "keywords": [
+      "reflektor",
+      "reflektor",
+      "niewłaściwe użycie",
+      "sprzęt",
+      "oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 30 Abs. 4 und 32 Abs. 2 VRV",
+    "law_text": "Niewłaściwe użycie świateł roboczych",
+    "fine_chf": 40,
+    "keywords": [
+      "światło robocze",
+      "światło robocze",
+      "niewłaściwe użycie",
+      "sprzęt",
+      "oświetlenie"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "325.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Niepotrzebne podgrzewanie silnika pojazdu stojącego",
+    "fine_chf": 80,
+    "keywords": [
+      "silnik",
+      "podgrzewanie",
+      "praca jałowa",
+      "rozgrzewanie silnika",
+      "hałas",
+      "środowisko"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 33 Bst. a VRV",
+    "law_text": "Niepotrzebna praca jałowa silnika pojazdu stojącego",
+    "fine_chf": 80,
+    "keywords": [
+      "silnik",
+      "praca",
+      "jałowa",
+      "praca silnika",
+      "hałas",
+      "środowisko"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "326.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Używanie autostrady lub drogi szybkiego ruchu motocyklem o pojemności silnika do 50 cm³ lub mocy do 4 kW",
+    "fine_chf": 100,
+    "keywords": [
+      "autostrada",
+      "droga szybkiego ruchu",
+      "motocykl",
+      "pojemność silnika",
+      "moc",
+      "droga szybkiego ruchu",
+      "pojazd ograniczony"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Motocykle/mopedy poniżej minimalnych wymagań (50 cm³ lub 4 kW) są zakazane na autostradach.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 1, 2 und 4 VRV",
+    "law_text": "Używanie autostrady lub drogi szybkiego ruchu innym pojazdem, który nie jest dozwolony",
+    "fine_chf": 140,
+    "keywords": [
+      "autostrada",
+      "droga szybkiego ruchu",
+      "pojazd silnikowy",
+      "nieautoryzowany",
+      "droga szybkiego ruchu",
+      "pojazd ograniczony"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Używanie pojazdu na autostradzie, który nie jest dozwolony (np. pojazdy wolno poruszające się, pojazdy rolnicze).",
+    "source": {
+      "page": 16,
+      "line_hint": "327.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 2 VRV",
+    "law_text": "Używanie autostrady lub drogi szybkiego ruchu z oponami kolczastymi",
+    "fine_chf": 60,
+    "keywords": [
+      "autostrada",
+      "droga szybkiego ruchu",
+      "opony kolczaste",
+      "opony kolczaste",
+      "sprzęt",
+      "droga szybkiego ruchu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 16,
+      "line_hint": "327.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 35 Abs. 3 VRV",
+    "law_text": "Holowanie na autostradzie lub drodze szybkiego ruchu poza najbliższym zjazdem",
+    "fine_chf": 140,
+    "keywords": [
+      "autostrada",
+      "droga szybkiego ruchu",
+      "holowanie",
+      "holowanie",
+      "sytuacja awaryjna",
+      "następny zjazd"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Holowanie jest dozwolone na autostradach tylko do najbliższego dostępnego zjazdu.",
+    "source": {
+      "page": 16,
+      "line_hint": "327.4"
+    }
+  }
+]

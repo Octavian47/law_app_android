@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zatrzymywanie się na chodniku przed przejściem dla pieszych obok linii zakazu zatrzymywania się",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymywanie",
+      "Parkowanie",
+      "Chodnik",
+      "Przejście dla pieszych",
+      "Linia zakazu zatrzymywania się",
+      "zatrzymywanie",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na chodniku obok linii 'Zakaz zatrzymywania się' przed przejściem dla pieszych.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkowanie na chodniku w odległości mniej niż 5 m od przejścia dla pieszych, gdzie nie ma linii zakazu zatrzymywania się (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Chodnik",
+      "Przejście dla pieszych",
+      "Linia zakazu zatrzymywania się",
+      "Odległość",
+      "parkowanie",
+      "chodnik",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na chodniku w odległości mniej niż 5 m od przejścia dla pieszych, gdzie nie ma linii 'Zakaz zatrzymywania się'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parkowanie na chodniku w odległości mniej niż 5 m od przejścia dla pieszych, gdzie nie ma linii zakazu zatrzymywania się",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkowanie",
+      "Chodnik",
+      "Przejście dla pieszych",
+      "Linia zakazu zatrzymywania się",
+      "Odległość",
+      "parkowanie",
+      "chodnik",
+      "przejście dla pieszych"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie na chodniku w odległości mniej niż 5 m od przejścia dla pieszych, gdzie nie ma linii 'Zakaz zatrzymywania się'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parkowanie w obszarze ograniczonym",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Obszar ograniczony",
+      "Zatrzymywanie",
+      "Strefa ograniczona",
+      "parkowanie",
+      "szachowanie",
+      "obszar zakazu parkowania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Parkowanie w szachowanym/oznaczonym obszarze ograniczonym.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Zatrzymywanie się w obszarze ograniczonym",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkowanie",
+      "Obszar ograniczony",
+      "Zatrzymywanie",
+      "Strefa ograniczona",
+      "zatrzymywanie",
+      "szachowanie",
+      "obszar zakazu zatrzymywania się"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się w szachowanym/oznaczonym obszarze ograniczonym.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parkowanie na linii zygzakowej",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Linia zygzakowa",
+      "Zatrzymywanie",
+      "Strefa oczekiwania",
+      "parkowanie",
+      "linia zygzakowa",
+      "Strefa załadunku"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na linii zygzakowej (często przy przystankach autobusowych lub strefach załadunku).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Utrudnianie zatrzymywania się na linii zygzakowej w celu wsiadania i wysiadania pasażerów",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymywanie",
+      "Linia zygzakowa",
+      "Wsiadanie",
+      "Wysiadaanie",
+      "Utrudnienie",
+      "zatrzymywanie",
+      "linia zygzakowa",
+      "utrudnianie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Utrudnianie zatrzymywania się na linii zygzakowej w celu podnoszenia/odstawiania osób.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Zatrzymywanie się na linii zygzakowej w celu obsługi towaru",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymywanie",
+      "Linia zygzakowa",
+      "Obsługa towaru",
+      "Strefa dostawy",
+      "zatrzymywanie",
+      "linia zygzakowa",
+      "ładowanie towaru"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na linii zygzakowej w celu załadunku/rozładunku towaru.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parkowanie nieuprawnionego pojazdu na miejscu parkingowym przeznaczonym dla osób z ograniczeniami mobilności",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Osoby z ograniczeniami mobilności",
+      "Miejsce parkingowe",
+      "Wózek inwalidzki",
+      "Nieuprawniony",
+      "parkowanie",
+      "niepełnosprawny",
+      "niepełnosprawność"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Nieuprawnione parkowanie w miejscu przeznaczonym dla osób niepełnosprawnych.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Nieuprawnione użycie „Karty parkingowej dla osób niepełnosprawnych”",
+    "fine_chf": 120,
+    "keywords": [
+      "Karta parkingowa",
+      "Osoby z ograniczeniami mobilności",
+      "Nadużycie",
+      "Nieuprawniony",
+      "Zezwolenie",
+      "karta parkingowa",
+      "niepełnosprawny",
+      "niewłaściwe użycie"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawnione użycie „Zezwolenia parkingowego dla osób niepełnosprawnych”.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkowanie na linii zakazu zatrzymywania się",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Linia zakazu zatrzymywania się",
+      "Zakaz",
+      "parkowanie",
+      "linia zakazu zatrzymywania się"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na linii 'Zakaz zatrzymywania się'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Zatrzymywanie się na linii zakazu zatrzymywania się",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymywanie",
+      "Linia zakazu zatrzymywania się",
+      "Zakaz",
+      "zatrzymywanie",
+      "linia zakazu zatrzymywania się"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się na linii 'Zakaz zatrzymywania się'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkowanie na drodze głównej poza terenami zabudowanymi: do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "poza terenem zabudowanym",
+      "przydrożny",
+      "parkowanie",
+      "droga główna",
+      "poza terenem zabudowanym"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Parkowanie na drodze głównej poza terenami zabudowanymi, do 2 godzin.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkowanie na drodze głównej poza terenami zabudowanymi: ponad 2 godziny, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "poza terenem zabudowanym",
+      "przydrożny",
+      "parkowanie",
+      "droga główna",
+      "poza terenem zabudowanym"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "powyżej 2 godzin, ale nie więcej niż 4 godziny",
+    "notes": "Parkowanie na drodze głównej poza terenami zabudowanymi, powyżej 2 godzin, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkowanie na drodze głównej poza terenami zabudowanymi: ponad 4 godziny, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "poza terenem zabudowanym",
+      "przydrożny",
+      "parkowanie",
+      "droga główna",
+      "poza terenem zabudowanym"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "powyżej 4 godzin, ale nie więcej niż 10 godzin",
+    "notes": "Parkowanie na drodze głównej poza terenami zabudowanymi, powyżej 4 godzin, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, gdy brak wystarczającej przestrzeni dla dwóch pojazdów do przejazdu: do 2 godzin",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "w mieście",
+      "Przejazd",
+      "Utrudnienie",
+      "parkowanie",
+      "droga główna",
+      "w mieście",
+      "przejazd"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, jeśli nie ma wystarczającej przestrzeni dla dwóch pojazdów do przejazdu, do 2 godzin.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, gdy brak wystarczającej przestrzeni dla dwóch pojazdów do przejazdu: powyżej 2 godzin, ale nie więcej niż 4 godziny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "w mieście",
+      "Przejazd",
+      "Utrudnienie",
+      "parkowanie",
+      "droga główna",
+      "w mieście",
+      "przejazd"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "powyżej 2 godzin, ale nie więcej niż 4 godziny",
+    "notes": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, jeśli nie ma wystarczającej przestrzeni dla dwóch pojazdów do przejazdu, powyżej 2 godzin, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, gdy brak wystarczającej przestrzeni dla dwóch pojazdów do przejazdu: powyżej 4 godzin, ale nie więcej niż 10 godzin",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "Droga główna",
+      "w mieście",
+      "Przejazd",
+      "Utrudnienie",
+      "parkowanie",
+      "droga główna",
+      "w mieście",
+      "przejazd"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "powyżej 4 godzin, ale nie więcej niż 10 godzin",
+    "notes": "Parkowanie na drodze głównej w obrębie terenów zabudowanych, jeśli nie ma wystarczającej przestrzeni dla dwóch pojazdów do przejazdu, powyżej 4 godzin, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

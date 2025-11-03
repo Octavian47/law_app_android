@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parar na faixa de emergência de uma autoestrada, exceto em caso de parada de emergência.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "faixa de emergência",
+      "autoestrada",
+      "parada de emergência",
+      "parada",
+      "faixa de emergência",
+      "autoestrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar na faixa de acostamento de uma autoestrada, exceto em caso de emergência.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Estacionar na calçada onde sinais ou marcações não o permitem expressamente, sem deixar um espaço livre de 1,5 m de largura para pedestres.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "calçada",
+      "pedestre",
+      "1,5 m",
+      "espaço livre",
+      "estacionamento",
+      "calçada",
+      "pedestre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar na calçada sem permissão expressa, deixando menos de 1,5 m de espaço livre para pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parar na calçada sem deixar um espaço livre de 1,5 m de largura para pedestres.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "calçada",
+      "pedestre",
+      "1,5 m",
+      "espaço livre",
+      "parada",
+      "calçada",
+      "pedestre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar na calçada e deixar menos de 1,5 m de espaço livre para pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Estacionar em faixas longitudinais para pedestres, obstruindo o tráfego de pedestres.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "faixa longitudinal",
+      "pedestre",
+      "obstrução",
+      "estacionamento",
+      "faixa longitudinal",
+      "pedestre",
+      "acesso para deficientes"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em faixas longitudinais para pedestres com deficiência, obstruindo o tráfego de pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parar em faixas longitudinais para pedestres, obstruindo o tráfego de pedestres.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "faixa longitudinal",
+      "pedestre",
+      "obstrução",
+      "parada",
+      "faixa longitudinal",
+      "pedestre",
+      "acesso para deficientes"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em faixas longitudinais para pedestres com deficiência, obstruindo o tráfego de pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionar dentro de uma zona sinalizada de proibição de parada.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "proibição de parada",
+      "sinal",
+      "estacionamento",
+      "proibição de parada",
+      "zona sinalizada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar dentro de uma zona sinalizada de proibição de parada.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Parar dentro de uma zona sinalizada de proibição de parada.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "proibição de parada",
+      "sinal",
+      "parada",
+      "proibição de parada",
+      "zona sinalizada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar dentro de uma zona sinalizada de proibição de parada.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Estacionar em faixa de ônibus.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "faixa de ônibus",
+      "ônibus",
+      "estacionamento",
+      "faixa de ônibus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em faixa de ônibus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parar em faixa de ônibus.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "faixa de ônibus",
+      "ônibus",
+      "parada",
+      "faixa de ônibus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em faixa de ônibus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Estacionar em área de exibição.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "área de exibição",
+      "estacionamento",
+      "área de exibição",
+      "exposição de veículos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em área de exibição/exposição de veículos.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parar em área de exibição.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "área de exibição",
+      "parada",
+      "área de exibição",
+      "exposição de veículos"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em área de exibição/exposição de veículos.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Estacionar em área de descanso para veículos avariados.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "área de descanso",
+      "veículos avariados",
+      "estacionamento",
+      "área de descanso",
+      "veículos avariados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar em área de descanso/área designada para veículos avariados.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parar em área de descanso para veículos avariados.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "área de descanso",
+      "veículos avariados",
+      "parada",
+      "área de descanso",
+      "veículos avariados"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar em área de descanso/área designada para veículos avariados.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionar na linha de proibição de parada antes de uma passagem de pedestres.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "linha de proibição de parada",
+      "passagem de pedestres",
+      "estacionamento",
+      "linha de proibição de parada",
+      "passagem de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar na linha de proibição de parada antes de uma passagem de pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Parar na linha de proibição de parada antes de uma passagem de pedestres.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "linha de proibição de parada",
+      "passagem de pedestres",
+      "parada",
+      "linha de proibição de parada",
+      "passagem de pedestres"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar na linha de proibição de parada antes de uma passagem de pedestres.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionar na via menos de 5 m antes de uma passagem de pedestres onde não há linha de proibição de parada.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "via",
+      "5 m",
+      "passagem de pedestres",
+      "estacionamento",
+      "via",
+      "passagem de pedestres",
+      "espaço livre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar na via menos de 5 m antes de uma passagem de pedestres onde não há linha de proibição de parada.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parar na via menos de 5 m antes de uma passagem de pedestres onde não há linha de proibição de parada.",
+    "fine_chf": 80,
+    "keywords": [
+      "parada",
+      "via",
+      "5 m",
+      "passagem de pedestres",
+      "parada",
+      "via",
+      "passagem de pedestres",
+      "espaço livre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Parar na via menos de 5 m antes de uma passagem de pedestres onde não há linha de proibição de parada.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Estacionar na calçada antes de uma passagem de pedestres ao lado de uma linha de proibição de parada.",
+    "fine_chf": 120,
+    "keywords": [
+      "estacionamento",
+      "calçada",
+      "passagem de pedestres",
+      "linha de proibição de parada",
+      "estacionamento",
+      "calçada",
+      "passagem de pedestres",
+      "linha de proibição de parada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": "até 60 minutos",
+    "notes": "Estacionar na calçada antes de uma passagem de pedestres ao lado de uma linha de proibição de parada.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

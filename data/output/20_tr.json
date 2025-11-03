@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Ayak yolunu inmeden kullanmak",
+    "fine_chf": 30,
+    "keywords": [
+      "yaya yolu",
+      "iniş",
+      "bisiklet",
+      "Velo",
+      "yaya yolu",
+      "iniş"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisiklet sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Ayak yolu/kaldırımda inmeden kullanmak (bisikletçilere uygulanır).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Bisiklet yolunu yasak yönünde kullanmak",
+    "fine_chf": 30,
+    "keywords": [
+      "bisiklet yolu",
+      "yasak yön",
+      "Velo",
+      "ters akış",
+      "bisiklet yolu"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisiklet sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Bisiklet yolunu yanlış yönde kullanmak.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Bisiklet şeridini yasak yönünde kullanmak",
+    "fine_chf": 30,
+    "keywords": [
+      "bisiklet şeridi",
+      "yasak yön",
+      "Velo",
+      "ters akış",
+      "bisiklet şeridi"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisiklet sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Bisiklet şeridini yanlış yönde kullanmak.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Dur işaretlerinde tam olarak duramama (kayma durması) (3.01; Art. 27 Abs. 1 SVG ve Art. 36 Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "dur işareti",
+      "kayma durması",
+      "durma",
+      "trafik kuralları",
+      "dur işareti",
+      "duramama"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tam olarak duramama (Kayma Duruşu).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Trafik ışığı sinyaline uymama",
+    "fine_chf": 60,
+    "keywords": [
+      "ışık sinyali",
+      "göz ardı etme",
+      "kırmızı ışık",
+      "trafik ışığı",
+      "uymamama",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Trafik ışığını görmezden gelmek (genellikle kırmızı/sarı ışıkta geçiş).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "‘Alternatif yanıp sönen ışık sinyaline’ (3.20) veya ‘basit yanıp sönen ışık sinyaline’ (3.21; Art. 28 SVG, Art. 68 Abs. 1 und 93 Abs. 2 SSV) uymama",
+    "fine_chf": 60,
+    "keywords": [
+      "alternatif yanıp sönen ışık sinyali",
+      "basit yanıp sönen ışık sinyali",
+      "göz ardı etme",
+      "yanıp sönen ışık",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Özel yanıp sönen ışık sinyallerine uymama (ör. demiryolu geçitleri).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "İşaretli yön okunu ve trafik ışığı sisteminin kontur okunu göz ardı ederek tek şerit düzenine aykırı davranma",
+    "fine_chf": 30,
+    "keywords": [
+      "tek şerit düzeni",
+      "yön oku",
+      "kontur oku",
+      "göz ardı etme",
+      "şerit disiplini",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Trafik ışıkları yakınında işaretli yön oklarını veya kontur oklarını göz ardı ederek şerit disiplinine aykırı davranma.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Ok yönünde sürmeye devam edememe",
+    "fine_chf": 30,
+    "keywords": [
+      "ok yönü",
+      "sürmeye devam etme",
+      "şerit",
+      "şerit yönü",
+      "trafik akışı"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Şerit okunun gösterdiği yönde sürmeye devam edememe.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Sağa dönerken el işareti veya yön göstergesi vermeme",
+    "fine_chf": 20,
+    "keywords": [
+      "el işareti",
+      "yön göstergesi",
+      "sağ dönüş",
+      "dönüş sinyali",
+      "sinyalizasyon",
+      "sağa dönme"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Sağa dönerken sinyal vermeme.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Sola dönerken el işareti veya yön göstergesi vermeme",
+    "fine_chf": 30,
+    "keywords": [
+      "el işareti",
+      "yön göstergesi",
+      "sol dönüş",
+      "dönüş sinyali",
+      "sinyalizasyon",
+      "sola dönme"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Sola dönerken sinyal vermeme.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Sollarken el işareti veya yön göstergesi vermeme",
+    "fine_chf": 20,
+    "keywords": [
+      "el işareti",
+      "yön göstergesi",
+      "önden geçme",
+      "dönüş sinyali",
+      "sinyalizasyon",
+      "önden geçme"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Sollarken sinyal vermeme.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Yerleşim alanı içinde güvenlik çizgisini geçmek veya üzerine binmek",
+    "fine_chf": 40,
+    "keywords": [
+      "güvenlik çizgisi",
+      "üzerinden geçmek",
+      "geçmek",
+      "yerleşim alanı içinde",
+      "sürekli çizgi",
+      "trafik disiplini"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanı içinde sürekli beyaz çizgiyi (geçiş/önden geçiş yasak) geçmek.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Yetkisiz olarak ayrılmış otobüs şeridinde sürmek",
+    "fine_chf": 30,
+    "keywords": [
+      "otobüs şeridi",
+      "sürme",
+      "yasak",
+      "otobüs şeridi",
+      "kısıtlı erişim"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü (yetkisiz)"
+    ],
+    "conditions": null,
+    "notes": "Yetkisiz olarak ayrılmış otobüs şeridinde sürmek.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Bisiklet, motosiklet ve elektrikli rikşalar için uygun olmayan veya açıkça onlara yönelik olmayan bir yolda sürmek",
+    "fine_chf": 30,
+    "keywords": [
+      "yol kullanımı",
+      "uygunsuz",
+      "bisiklet",
+      "motosiklet",
+      "elektrikli rikşa",
+      "uygunsuz yol",
+      "kısıtlı erişim"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisikletçi",
+      "Motosiklet sürücüsü",
+      "Elektrikli rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Bisiklet, mopeds veya e-rikşalar için açıkça uygun olmayan bir yolu kullanmak.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Bisiklet yolunu kullanmama",
+    "fine_chf": 30,
+    "keywords": [
+      "bisiklet yolu",
+      "kullanım dışı",
+      "zorunlu kullanım",
+      "zorunlu kullanım",
+      "bisiklet yolu"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Zorunlu bir bisiklet yolunu kullanmama.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Bisiklet şeridini kullanmama",
+    "fine_chf": 30,
+    "keywords": [
+      "bisiklet şeridi",
+      "kullanım dışı",
+      "zorunlu kullanım",
+      "zorunlu kullanım",
+      "bisiklet şeridi"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisikletçi"
+    ],
+    "conditions": null,
+    "notes": "Zorunlu bir bisiklet şeridini kullanmama.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Genel trafik kurallarıyla durma veya park etme yasak olan bir yerde bisiklet, motosiklet veya elektrikli rikşa park etme veya durdurma",
+    "fine_chf": 20,
+    "keywords": [
+      "park yasak",
+      "durma yasak",
+      "bisiklet",
+      "motosiklet",
+      "elektrikli rikşa",
+      "park yasağı",
+      "genel trafik kuralları"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Bisikletçi",
+      "Motosiklet sürücüsü",
+      "Elektrikli rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Genel kurallarla (işaretlerle değil) park/stop yasak.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Sinyallerle durma veya park etme yasak olan bir yerde bisiklet, motosiklet veya elektrikli rikşa park etme veya durdurma",
+    "fine_chf": 20,
+    "keywords": [
+      "park yasak",
+      "durma yasak",
+      "sinyaller",
+      "bisiklet",
+      "motosiklet",
+      "elektrikli rikşa",
+      "park yasağı",
+      "işaretler"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Bisikletçi",
+      "Motosiklet sürücüsü",
+      "Elektrikli rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Belirli trafik işaretleriyle park/stop yasak.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

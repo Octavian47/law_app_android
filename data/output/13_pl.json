@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Używanie telefonu bez zestawu głośnomówiącego podczas jazdy (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "telefon komórkowy",
+      "zestaw głośnomówiący",
+      "podczas jazdy",
+      "jazda",
+      "telefon komórkowy"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Używanie telefonu bez zestawu głośnomówiącego podczas jazdy.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Nie zapinanie pasów bezpieczeństwa przez kierowcę (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "pas bezpieczeństwa",
+      "pas",
+      "zapinanie",
+      "kierowca pojazdu",
+      "pas bezpieczeństwa",
+      "kierowca"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie zapinanie pasa bezpieczeństwa przez kierowcę.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Przewożenie nie zabezpieczonego dziecka poniżej 12 lat (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dziecko",
+      "bezpieczeństwo",
+      "fotelik dziecięcy",
+      "przewożenie",
+      "urządzenie bezpieczeństwa",
+      "dzieci"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Przewożenie nie zabezpieczonego dziecka poniżej 12 lat.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Nie noszenie kasku ochronnego przez kierowcę motocykli, lekkich, małych i trójkołowych pojazdów silnikowych (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "kask ochronny",
+      "kask",
+      "motocykl",
+      "pojazd silnikowy",
+      "kierowca",
+      "kask",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Kierowca motocykla, pojazdu lekkiego, małego lub trójkołowego nie noszący kasku ochronnego.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Przewożenie dziecka poniżej 12 lat bez kasku na motocyklach, lekkich, małych i trójkołowych pojazdach silnikowych (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "dziecko",
+      "kask",
+      "motocykl",
+      "przewożenie",
+      "kask ochronny",
+      "dzieci",
+      "motocykl"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca motocykla"
+    ],
+    "conditions": null,
+    "notes": "Przewożenie dziecka poniżej 12 lat bez kasku na motocyklu, pojeździe lekkim, małym lub trójkołowym.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Nie korzystanie z najbardziej prawostronnego pasa na drogach wielopasmowych, chyba że przy wyprzedzaniu, włączaniu się, jazdzie w równoległych kolumnach lub w obszarach zabudowanych (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "pas",
+      "jazda po prawej stronie",
+      "najbardziej prawy pas",
+      "wyprzedzanie",
+      "użycie pasa",
+      "zachowanie prawej strony"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie korzystanie z najbardziej prawostronnego pasa na drogach wielopasmowych, chyba że przy wyprzedzaniu, włączaniu się, jeździe w równoległych kolumnach lub w obszarze zabudowanym.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Wyprzedzanie po prawej stronie poprzez wyjazd i powrót na drodze wielopasmowej w obszarach zabudowanych (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "wyprzedzanie po prawej",
+      "w obszarze zabudowanym",
+      "zmiana pasa",
+      "wyprzedzanie po prawej",
+      "obszar zabudowany",
+      "zmiana pasa"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Wyprzedzanie po prawej stronie poprzez wyjazd i powrót na drodze wielopasmowej w obszarach zabudowanych.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Wyprzedzanie po prawej stronie poprzez wyjazd i powrót na autostradach i drogach szybkiego ruchu z wieloma pasami (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "wyprzedzanie po prawej",
+      "droga ekspresowa",
+      "autostrada",
+      "zmiana pasa",
+      "wyprzedzanie po prawej",
+      "droga szybkiego ruchu",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Wyprzedzanie po prawej stronie poprzez wyjazd i powrót na drogach wielopasmowych półautostradach i autostradach.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Zmiana pasa w celu wyprzedzenia na jednopasmowej drodze (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "wyprzedzanie",
+      "zmiana pasa",
+      "droga jednopasmowa",
+      "wyprzedzanie",
+      "zmiana pasa",
+      "droga jednopasmowa"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zmiana pasa w celu wyprzedzenia na odcinku drogi jednopasmowej.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Zatrzymywanie się lub parkowanie po lewej stronie drogi, mimo braku torów tramwajowych, braku zakazu parkowania lub zatrzymywania oraz szerokiej jezdni (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "zatrzymywanie się",
+      "parkowanie",
+      "lewa strona drogi",
+      "parkowanie",
+      "zatrzymywanie się",
+      "niewłaściwa strona"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymywanie się lub parkowanie po lewej stronie drogi, pomimo braku torów tramwajowych, znaków zakazu parkowania lub zatrzymywania oraz szerokiej jezdni.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Opuszczenie pojazdu bez wyjęcia kluczyka zapłonu (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "opuszczenie pojazdu",
+      "kluczyk zapłonu",
+      "klucz",
+      "kluczyk zapłonu",
+      "opuszczenie pojazdu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Opuszczenie pojazdu bez wyjęcia kluczyka zapłonu.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Nie ustawienie trójkąta ostrzegawczego przy awarii (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sygnał awaryjny",
+      "trójkąt ostrzegawczy",
+      "ustawienie",
+      "trójkąt ostrzegawczy",
+      "awaria"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie ustawienie trójkąta ostrzegawczego (sygnał awaryjny).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Nieprawidłowe ustawienie trójkąta ostrzegawczego przy awarii (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sygnał awaryjny",
+      "trójkąt ostrzegawczy",
+      "ustawienie",
+      "niezgodne",
+      "trójkąt ostrzegawczy",
+      "awaria"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Ustawienie trójkąta ostrzegawczego (sygnał awaryjny) niezgodnie z przepisami (np. zbyt blisko).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Nadużywanie świateł awaryjnych w pojeździe stojącym (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "światła awaryjne",
+      "światła awaryjne",
+      "nadużycie",
+      "pojazd stojący",
+      "światła awaryjne",
+      "pojazd stojący"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nadużycie świateł awaryjnych w pojeździe stojącym.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Nadużywanie świateł awaryjnych w pojeździe poruszającym się (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "światła awaryjne",
+      "światła awaryjne",
+      "nadużycie",
+      "pojazd poruszający się",
+      "światła awaryjne",
+      "pojazd poruszający się"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nadużycie świateł awaryjnych w pojeździe poruszającym się.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Nie przymocowanie trójkąta ostrzegawczego przy awarii do tyłu pojazdu holowanego (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "sygnał awaryjny",
+      "pojazd holowany",
+      "tył",
+      "trójkąt ostrzegawczy",
+      "pojazd holowany",
+      "sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nie przymocowanie trójkąta ostrzegawczego do tyłu pojazdu holowanego.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

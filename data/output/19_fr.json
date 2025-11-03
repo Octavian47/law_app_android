@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Heurter un véhicule ou un objet par le conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "Heurter",
+      "Collision",
+      "Objet",
+      "Conducteur",
+      "collision",
+      "objet",
+      "conducteur"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductrice",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Frapper accidentellement un véhicule ou un objet.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tirer un véhicule ou un objet par le conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "Tirer",
+      "Objet",
+      "Conducteur",
+      "tirer",
+      "objet",
+      "conducteur"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductrice",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Causer des dommages en tirant/traînant un véhicule ou un objet.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Remorquer un véhicule ou un objet par le conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "Remorquer",
+      "Objet",
+      "Conducteur",
+      "remorquer",
+      "traînant",
+      "objet",
+      "conducteur"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conductrice",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Causer des dommages lors du remorquage/traînage d'un véhicule ou d'un objet.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Interdiction générale de la circulation dans les deux sens» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Interdiction de circulation",
+      "Signal d'interdiction",
+      "Dans les deux sens",
+      "Interdiction générale",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau 'Pas de véhicules dans les deux sens'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Entrée interdite» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Entrée",
+      "interdite",
+      "Signal d'interdiction",
+      "Pas d'entrée",
+      "entrée interdite",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau 'Pas d'entrée'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Interdiction pour vélos et cyclomoteurs» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Vélos",
+      "Cyclomoteurs",
+      "Vélo",
+      "Cyclomoteur",
+      "Interdiction",
+      "vélo",
+      "cyclomoteur",
+      "Signalisation"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Cycliste",
+      "Conducteur de cyclomoteur"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau d'interdiction pour les vélos et les cyclomoteurs.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Interdiction pour cyclomoteurs» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Cyclomoteurs",
+      "Cyclomoteur",
+      "Interdiction",
+      "cyclomoteur",
+      "Signalisation"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducteur de cyclomoteur"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau d'interdiction spécifiquement pour les cyclomoteurs.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direction droite» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direction",
+      "droite",
+      "Signal réglementaire",
+      "direction droite",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le signal de direction obligatoire (droite).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direction gauche» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direction",
+      "gauche",
+      "Signal réglementaire",
+      "direction gauche",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le signal de direction obligatoire (gauche).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Contourner l'obstruction à droite» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstruction",
+      "droite",
+      "contourner",
+      "Signal réglementaire",
+      "contourner obstruction droite",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer la direction obligatoire de contourner une obstruction à droite.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Contourner l'obstruction à gauche» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstruction",
+      "gauche",
+      "contourner",
+      "Signal réglementaire",
+      "contourner obstruction gauche",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer la direction obligatoire de contourner une obstruction à gauche.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Aller tout droit» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Aller tout droit",
+      "Direction",
+      "Signal réglementaire",
+      "tout droit",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau de direction obligatoire 'tout droit'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Tourner à droite» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Tourner à droite",
+      "Tourner",
+      "Direction",
+      "Signal réglementaire",
+      "tourner à droite",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau obligatoire 'tourner à droite'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Tourner à gauche» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Tourner à gauche",
+      "Tourner",
+      "Direction",
+      "Signal réglementaire",
+      "tourner à gauche",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau obligatoire 'tourner à gauche'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rond-point» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rond-point",
+      "Cercle de circulation",
+      "Signal réglementaire",
+      "rond-point",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer la direction obligatoire (généralement dans le sens inverse des aiguilles d'une montre) dans un rond-point.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Tourner à droite interdit» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Tourner",
+      "droite",
+      "interdit",
+      "Signal d'interdiction",
+      "Pas de virage à droite",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau 'Pas de virage à droite'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Tourner à gauche interdit» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Tourner",
+      "gauche",
+      "interdit",
+      "Signal d'interdiction",
+      "Pas de virage à gauche",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau 'Pas de virage à gauche'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Demi-tour interdit» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Demi-tour",
+      "interdit",
+      "Signal d'interdiction",
+      "Demi-tour interdit",
+      "Signalisation"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer le panneau 'Pas de demi-tour'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Piste cyclable» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Piste cyclable",
+      "Vélo",
+      "Vélo",
+      "Signal obligatoire",
+      "piste cyclable",
+      "Signalisation"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Utiliser de manière inappropriée ou obstruer une piste cyclable obligatoire.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zone d'espace partagé» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zone d'espace partagé",
+      "Zone",
+      "espace partagé",
+      "Signalisation",
+      "zone lente"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer les règles ou les limites d'une zone d'espace partagé (zone de rencontre).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Zone piétonne» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zone piétonne",
+      "Zone",
+      "zone piétonne",
+      "Signalisation",
+      "piéton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Ignorer les règles ou les limites d'une zone piétonne.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

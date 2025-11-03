@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Švýcarské zákony",
+    "loading": "Načítání...",
+    "error": "Chyba",
+    "ok": "OK",
+    "cancel": "Zrušit",
+    "save": "Uložit",
+    "delete": "Smazat",
+    "search": "Hledat",
+    "close": "Zavřít"
+  },
+  "tabs": {
+    "laws": "Zákony",
+    "search": "Hledat",
+    "favorites": "Oblíbené"
+  },
+  "home": {
+    "title": "Švýcarské zákony",
+    "subtitle": "Poznejte svá práva v dopravě!",
+    "categories": "Kategorie",
+    "currentlyAvailable": "Momentálně k dispozici",
+    "tips": "Tipy",
+    "roadTrafficAct": "Zákon o silniční dopravě (SR 741.01)",
+    "articlesIndexed": "{{count}} článků plně indexováno",
+    "finesIndexed": "420 dopravních pokut indexováno",
+    "languagesAvailable": "Dostupné ve 18 jazycích",
+    "offlineAccess": "Offline přístup a vyhledávání",
+    "tipContent": "Použijte vyhledávací funkci k rychlému nalezení konkrétních článků nebo témat.",
+    "tipDescription": "Použijte kartu vyhledávání k nalezení pokut podle klíčového slova, částky nebo reference článku. Klepněte na ikonu hvězdy a uložte pokuty jako oblíbené."
+  },
+  "search": {
+    "title": "Hledat pokuty",
+    "subtitle": "420 dopravních pokut k prohledání",
+    "placeholder": "Art. 27, parkování, CHF 40...",
+    "resultsFound": "{{count}} pokuta nalezena",
+    "resultsFound_other": "{{count}} pokut nalezeno",
+    "filters": {
+      "traffic": "Doprava",
+      "criminal": "Trestní",
+      "fines": "Pokuty",
+      "quick": "Rychlé"
+    },
+    "emptyState": {
+      "title": "Hledat dopravní pokuty",
+      "description": "Hledejte podle čísla článku, klíčového slova nebo částky CHF"
+    },
+    "noResults": {
+      "title": "Žádné výsledky",
+      "description": "Nenalezeny žádné pokuty pro \"{{query}}\". Zkuste jiná klíčová slova nebo částky."
+    },
+    "tips": {
+      "title": "Tipy pro vyhledávání",
+      "article": "Art. 27 - Hledat podle čísla článku",
+      "keyword": "parkování - Hledat podle klíčového slova",
+      "amount": "CHF 40 - Hledat podle částky pokuty"
+    },
+    "inDevelopment": {
+      "title": "Ve vývoji",
+      "description": "Vyhledávací funkce je momentálně implementována.\n\nHledám: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Oblíbené",
+    "subtitle": "Vaše uložené pokuty",
+    "resultsCount": "{{count}} oblíbená",
+    "resultsCount_other": "{{count}} oblíbených",
+    "emptyState": {
+      "title": "Zatím žádné oblíbené",
+      "description": "Uložte důležité pokuty jako oblíbené pro rychlý přístup"
+    },
+    "howTo": {
+      "title": "Jak přidat oblíbené",
+      "step1": "Otevřete pokutu",
+      "step2": "Klepněte na ikonu hvězdičky",
+      "step3": "Pokuta se zde zobrazí"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Pokuta nenalezena",
+    "articleInformation": "Informace o článku",
+    "violationDescription": "Popis přestupku",
+    "appliesTo": "Vztahuje se na",
+    "conditions": "Podmínky",
+    "notes": "Poznámky",
+    "keywords": "Klíčová slova",
+    "labels": {
+      "article": "Článek:",
+      "law": "Zákon:",
+      "category": "Kategorie:"
+    },
+    "source": "Zdroj: Strana {{page}}, Řádek {{line}}",
+    "laws": {
+      "svg": "Zákon o silničním provozu",
+      "vrv": "Nařízení o dopravních pravidlech",
+      "arv1": "Nařízení o pracovní době 1",
+      "arv2": "Nařízení o pracovní době 2",
+      "ssv": "Nařízení o dopravních značkách"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Dopravní právo",
+      "description": "Registr silniční dopravy a dopravní zákon"
+    },
+    "criminal": {
+      "name": "Trestní právo",
+      "description": "Trestní zákoník a trestní řízení"
+    },
+    "civil": {
+      "name": "Občanské právo",
+      "description": "Občanský zákoník a závazky"
+    },
+    "commercial": {
+      "name": "Obchodní právo",
+      "description": "Obchodní rejstřík a obchodní zákon"
+    },
+    "administrative": {
+      "name": "Správní právo",
+      "description": "Správní postupy a veřejné právo"
+    },
+    "constitutional": {
+      "name": "Ústavní právo",
+      "description": "Federální ústava a základní práva"
+    }
+  },
+  "settings": {
+    "title": "Nastavení",
+    "language": "Jazyk",
+    "theme": "Motiv",
+    "about": "O aplikaci"
+  }
+}

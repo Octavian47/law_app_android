@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Szwajcarskie Prawa",
+    "loading": "Ładowanie...",
+    "error": "Błąd",
+    "ok": "OK",
+    "cancel": "Anuluj",
+    "save": "Zapisz",
+    "delete": "Usuń",
+    "search": "Szukaj",
+    "close": "Zamknij"
+  },
+  "tabs": {
+    "laws": "Prawa",
+    "search": "Szukaj",
+    "favorites": "Ulubione"
+  },
+  "home": {
+    "title": "Szwajcarskie Prawa",
+    "subtitle": "Znaj swoje prawa w ruchu drogowym!",
+    "categories": "Kategorie",
+    "currentlyAvailable": "Obecnie dostępne",
+    "tips": "Wskazówki",
+    "roadTrafficAct": "Ustawa o ruchu drogowym (SR 741.01)",
+    "articlesIndexed": "{{count}} artykułów w pełni zindeksowanych",
+    "finesIndexed": "420 mandatów drogowych zindeksowanych",
+    "languagesAvailable": "Dostępne w 18 językach",
+    "offlineAccess": "Dostęp offline i wyszukiwanie",
+    "tipContent": "Użyj funkcji wyszukiwania, aby szybko znaleźć konkretne artykuły lub tematy.",
+    "tipDescription": "Użyj zakładki wyszukiwania, aby znaleźć mandaty według słowa kluczowego, kwoty lub odwołania do artykułu. Naciśnij ikonę gwiazdy, aby zapisać mandaty jako ulubione."
+  },
+  "search": {
+    "title": "Szukaj mandatów",
+    "subtitle": "420 mandatów drogowych do przeszukania",
+    "placeholder": "Art. 27, parkowanie, CHF 40...",
+    "resultsFound": "{{count}} mandat znaleziony",
+    "resultsFound_other": "{{count}} mandatów znalezionych",
+    "filters": {
+      "traffic": "Ruch",
+      "criminal": "Kryminalne",
+      "fines": "Mandaty",
+      "quick": "Szybkie"
+    },
+    "emptyState": {
+      "title": "Szukaj mandatów drogowych",
+      "description": "Szukaj po numerze artykułu, słowie kluczowym lub kwocie CHF"
+    },
+    "noResults": {
+      "title": "Brak wyników",
+      "description": "Nie znaleziono mandatów dla \"{{query}}\". Spróbuj innych słów kluczowych lub kwot."
+    },
+    "tips": {
+      "title": "Wskazówki wyszukiwania",
+      "article": "Art. 27 - Szukaj po numerze artykułu",
+      "keyword": "parkowanie - Szukaj po słowie kluczowym",
+      "amount": "CHF 40 - Szukaj po kwocie mandatu"
+    },
+    "inDevelopment": {
+      "title": "W przygotowaniu",
+      "description": "Funkcja wyszukiwania jest obecnie implementowana.\n\nWyszukiwanie: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Ulubione",
+    "subtitle": "Twoje zapisane mandaty",
+    "resultsCount": "{{count}} Ulubiony",
+    "resultsCount_other": "{{count}} Ulubionych",
+    "emptyState": {
+      "title": "Brak ulubionych",
+      "description": "Zapisz ważne mandaty jako ulubione dla szybkiego dostępu"
+    },
+    "howTo": {
+      "title": "Jak dodać do ulubionych",
+      "step1": "Otwórz mandat",
+      "step2": "Dotknij ikony gwiazdki",
+      "step3": "Mandat pojawi się tutaj"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Mandat nie znaleziony",
+    "articleInformation": "Informacje o artykule",
+    "violationDescription": "Opis wykroczenia",
+    "appliesTo": "Dotyczy",
+    "conditions": "Warunki",
+    "notes": "Uwagi",
+    "keywords": "Słowa kluczowe",
+    "labels": {
+      "article": "Artykuł:",
+      "law": "Prawo:",
+      "category": "Kategoria:"
+    },
+    "source": "Źródło: Strona {{page}}, Linia {{line}}",
+    "laws": {
+      "svg": "Prawo o ruchu drogowym",
+      "vrv": "Rozporządzenie o przepisach ruchu",
+      "arv1": "Rozporządzenie o czasie pracy 1",
+      "arv2": "Rozporządzenie o czasie pracy 2",
+      "ssv": "Rozporządzenie o znakach drogowych"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Prawo drogowe",
+      "description": "Rejestr ruchu drogowego i prawo drogowe"
+    },
+    "criminal": {
+      "name": "Prawo karne",
+      "description": "Kodeks karny i procedura karna"
+    },
+    "civil": {
+      "name": "Prawo cywilne",
+      "description": "Kodeks cywilny i zobowiązania"
+    },
+    "commercial": {
+      "name": "Prawo handlowe",
+      "description": "Rejestr handlowy i prawo handlowe"
+    },
+    "administrative": {
+      "name": "Prawo administracyjne",
+      "description": "Procedury administracyjne i prawo publiczne"
+    },
+    "constitutional": {
+      "name": "Prawo konstytucyjne",
+      "description": "Konstytucja federalna i prawa podstawowe"
+    }
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "language": "Język",
+    "theme": "Motyw",
+    "about": "O aplikacji"
+  }
+}

@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Sosta sulla corsia di emergenza di un'autostrada, salvo fermata di emergenza.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "corsia di emergenza",
+      "autostrada",
+      "fermata di emergenza",
+      "sosta",
+      "corsia di emergenza",
+      "autostrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta sulla corsia di emergenza di un'autostrada, salvo emergenza.",
+    "source": {
+      "page": 8,
+      "line_hint": "314.11.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parcheggio sul marciapiede dove i segnali o le marcature non lo consentono espressamente, senza lasciare uno spazio libero di 1,5 m per i pedoni.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "marciapiede",
+      "pedone",
+      "1,5 m",
+      "spazio libero",
+      "parcheggio",
+      "marciapiede",
+      "pedone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sul marciapiede senza permesso esplicito, lasciando meno di 1,5 m di spazio libero per i pedoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Sosta sul marciapiede senza lasciare uno spazio libero di 1,5 m per i pedoni.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "marciapiede",
+      "pedone",
+      "1,5 m",
+      "spazio libero",
+      "sosta",
+      "marciapiede",
+      "pedone"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta sul marciapiede lasciando meno di 1,5 m di spazio libero per i pedoni.",
+    "source": {
+      "page": 8,
+      "line_hint": "228.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Parcheggio su strisce longitudinali per pedoni, ostruendo il traffico pedonale.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "striscia longitudinale",
+      "pedone",
+      "ostruzione",
+      "parcheggio",
+      "striscia longitudinale",
+      "pedone",
+      "accesso per disabili"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio su strisce longitudinali per pedoni disabili, ostruendo il traffico pedonale.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Sosta su strisce longitudinali per pedoni, ostruendo il traffico pedonale.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "striscia longitudinale",
+      "pedone",
+      "ostruzione",
+      "sosta",
+      "striscia longitudinale",
+      "pedone",
+      "accesso per disabili"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta su strisce longitudinali per pedoni disabili, ostruendo il traffico pedonale.",
+    "source": {
+      "page": 8,
+      "line_hint": "229.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio all'interno di una zona di divieto di sosta segnalata.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "divieto di sosta",
+      "segnale",
+      "parcheggio",
+      "divieto di sosta",
+      "zona segnalata"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio all'interno di una zona di divieto di sosta segnalata.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 49 SSV",
+    "law_text": "Sosta all'interno di una zona di divieto di sosta segnalata.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "divieto di sosta",
+      "segnale",
+      "sosta",
+      "divieto di sosta",
+      "zona segnalata"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta all'interno di una zona di divieto di sosta segnalata.",
+    "source": {
+      "page": 8,
+      "line_hint": "230.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Parcheggio nella corsia bus.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "corsia bus",
+      "autobus",
+      "parcheggio",
+      "corsia bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio nella corsia bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 34 Abs. 1 SSV",
+    "law_text": "Sosta nella corsia bus.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "corsia bus",
+      "autobus",
+      "sosta",
+      "corsia bus"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta nella corsia bus.",
+    "source": {
+      "page": 8,
+      "line_hint": "231.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Parcheggio in un'area espositiva.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "area espositiva",
+      "parcheggio",
+      "area espositiva",
+      "esposizione veicoli"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio in un'area di esposizione veicoli.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 4 SSV",
+    "law_text": "Sosta in un'area espositiva.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "area espositiva",
+      "sosta",
+      "area espositiva",
+      "esposizione veicoli"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta in un'area di esposizione veicoli.",
+    "source": {
+      "page": 8,
+      "line_hint": "232.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Parcheggio in un'area di sosta per veicoli in panne.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "area di sosta",
+      "veicoli in panne",
+      "parcheggio",
+      "area di sosta",
+      "veicoli in panne"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio in un'area di sosta/area designata per veicoli in panne.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 47 Abs. 5 SSV",
+    "law_text": "Sosta in un'area di sosta per veicoli in panne.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "area di sosta",
+      "veicoli in panne",
+      "sosta",
+      "area di sosta",
+      "veicoli in panne"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta in un'area di sosta/area designata per veicoli in panne.",
+    "source": {
+      "page": 8,
+      "line_hint": "233.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio sulla linea di divieto di sosta prima di un attraversamento pedonale.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "linea di divieto di sosta",
+      "attraversamento pedonale",
+      "parcheggio",
+      "linea di divieto di sosta",
+      "attraversamento pedonale"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sulla linea di divieto di sosta prima di un attraversamento pedonale.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Sosta sulla linea di divieto di sosta prima di un attraversamento pedonale.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "linea di divieto di sosta",
+      "attraversamento pedonale",
+      "sosta",
+      "linea di divieto di sosta",
+      "attraversamento pedonale"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta sulla linea di divieto di sosta prima di un attraversamento pedonale.",
+    "source": {
+      "page": 8,
+      "line_hint": "234.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio sulla carreggiata a meno di 5 m prima di un attraversamento pedonale dove non è presente una linea di divieto di sosta.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "carreggiata",
+      "5 m",
+      "attraversamento pedonale",
+      "parcheggio",
+      "carreggiata",
+      "attraversamento pedonale",
+      "spazio libero"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sulla strada a meno di 5 m prima di un attraversamento pedonale dove non è presente una linea di divieto di sosta.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Sosta sulla carreggiata a meno di 5 m prima di un attraversamento pedonale dove non è presente una linea di divieto di sosta.",
+    "fine_chf": 80,
+    "keywords": [
+      "sosta",
+      "carreggiata",
+      "5 m",
+      "attraversamento pedonale",
+      "sosta",
+      "carreggiata",
+      "attraversamento pedonale",
+      "spazio libero"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Sosta sulla strada a meno di 5 m prima di un attraversamento pedonale dove non è presente una linea di divieto di sosta.",
+    "source": {
+      "page": 8,
+      "line_hint": "235.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio sul marciapiede prima di un attraversamento pedonale accanto a una linea di divieto di sosta.",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "marciapiede",
+      "attraversamento pedonale",
+      "linea di divieto di sosta",
+      "parcheggio",
+      "marciapiede",
+      "attraversamento pedonale",
+      "linea di divieto di sosta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Parcheggio sul marciapiede prima di un attraversamento pedonale accanto a una linea di divieto di sosta.",
+    "source": {
+      "page": 8,
+      "line_hint": "236.1."
+    }
+  }
+]

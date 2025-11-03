@@ -1,0 +1,541 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Mancata segnalazione di danni, malfunzionamenti, perdita o furto della carta tachigrafo del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "carta tachigrafo del conducente",
+      "segnalazione",
+      "danno",
+      "furto",
+      "ARV",
+      "carta tachigrafo",
+      "segnalazione"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Riguarda la carta per il tachigrafo digitale utilizzata dai conducenti professionisti.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Mancata restituzione della carta del conducente",
+    "fine_chf": 20,
+    "keywords": [
+      "carta del conducente",
+      "restituzione",
+      "ARV",
+      "carta tachigrafo",
+      "restituzione"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente professionista",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Riguarda la carta per il tachigrafo digitale utilizzata dai conducenti professionisti.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Mancata restituzione della carta del laboratorio",
+    "fine_chf": 20,
+    "keywords": [
+      "carta del laboratorio",
+      "restituzione",
+      "ARV",
+      "carta del laboratorio",
+      "restituzione",
+      "tachigrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personale del laboratorio"
+    ],
+    "conditions": null,
+    "notes": "Riguarda la carta tachigrafo del laboratorio, essenziale per le normative sui conducenti professionisti.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Superamento del tempo di parcheggio consentito\n  a. fino a 2 ore",
+    "fine_chf": 40,
+    "keywords": [
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "parcheggio",
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "fino a 2 ore",
+    "notes": "Multa per aver superato la durata di parcheggio consentita.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Superamento del tempo di parcheggio consentito\n  b. per più di 2, ma non più di 4 ore",
+    "fine_chf": 60,
+    "keywords": [
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "parcheggio",
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "per più di 2, ma non più di 4 ore",
+    "notes": "Multa per aver superato la durata di parcheggio consentita.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Superamento del tempo di parcheggio consentito\n  c. per più di 4, ma non più di 10 ore",
+    "fine_chf": 100,
+    "keywords": [
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "parcheggio",
+      "tempo di parcheggio",
+      "sosta eccessiva",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "per più di 4, ma non più di 10 ore",
+    "notes": "Multa per aver superato la durata di parcheggio consentita.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Mancata affissione o visibile esposizione del disco di parcheggio sul veicolo",
+    "fine_chf": 40,
+    "keywords": [
+      "disco di parcheggio",
+      "posizionamento",
+      "visibilità",
+      "disco di parcheggio",
+      "posizionamento",
+      "visibilità",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per esposizione errata o scarsa visibilità del disco di parcheggio.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Mancata affissione o visibile esposizione del biglietto di parcheggio sul veicolo",
+    "fine_chf": 40,
+    "keywords": [
+      "biglietto di parcheggio",
+      "biglietto di parcheggio",
+      "posizionamento",
+      "visibilità",
+      "biglietto di parcheggio",
+      "posizionamento",
+      "visibilità",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per esposizione errata o scarsa visibilità del biglietto di parcheggio.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Mancata affissione o visibile esposizione del permesso di parcheggio per persone disabili sul veicolo",
+    "fine_chf": 40,
+    "keywords": [
+      "permesso di parcheggio",
+      "disabili",
+      "posizionamento",
+      "visibilità",
+      "parcheggio per disabili",
+      "tessera",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per esposizione errata o scarsa visibilità del badge di parcheggio per disabili.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Impostazione di un orario di arrivo errato sul disco di parcheggio",
+    "fine_chf": 40,
+    "keywords": [
+      "disco di parcheggio",
+      "orario di arrivo",
+      "errato",
+      "impostazione",
+      "disco di parcheggio",
+      "orario di arrivo",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per aver impostato un orario di arrivo errato sul disco di parcheggio.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Modifica dell'orario di arrivo impostato senza spostare il veicolo",
+    "fine_chf": 40,
+    "keywords": [
+      "disco di parcheggio",
+      "orario di arrivo",
+      "modifica",
+      "partenza",
+      "disco di parcheggio",
+      "orario di arrivo",
+      "reimpostazione",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per la reimpostazione dell'orario di arrivo del disco di parcheggio senza spostare il veicolo (illegale 'alimentazione del disco').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manomissione del parchimetro",
+    "fine_chf": 40,
+    "keywords": [
+      "parchimetro",
+      "manomissione",
+      "difettoso",
+      "parchimetro",
+      "manomissione",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per aver reso il parchimetro inoperabile.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Pagamento anticipato proibito prima della scadenza del tempo di parcheggio",
+    "fine_chf": 40,
+    "keywords": [
+      "pagamento anticipato",
+      "tempo di parcheggio",
+      "prima della scadenza",
+      "tariffa di parcheggio",
+      "ricarica",
+      "in anticipo",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per aver pagato tempo di parcheggio aggiuntivo prima che il tempo pagato corrente sia scaduto, per estendere la sosta.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Pagamento dopo la scadenza del tempo di parcheggio",
+    "fine_chf": 40,
+    "keywords": [
+      "pagamento dopo",
+      "tempo di parcheggio",
+      "scaduto",
+      "tariffa di parcheggio",
+      "ricarica",
+      "scaduto",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per aver pagato tempo di parcheggio aggiuntivo dopo che il tempo consentito è già scaduto.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Fermarsi in luoghi con scarsa visibilità, soprattutto nelle zone di curve e creste",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "scarsa visibilità",
+      "curve",
+      "creste",
+      "fermata",
+      "visibilità",
+      "curve",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per fermarsi in luoghi con scarsa visibilità, come vicino a curve o creste.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Fermarsi nei colli di bottiglia",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "collo di bottiglia",
+      "fermata",
+      "collo di bottiglia",
+      "stretto",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per fermarsi nei colli di bottiglia o in passaggi stretti.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Fermarsi accanto a un ostacolo sulla carreggiata",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "ostacolo",
+      "carreggiata",
+      "fermata",
+      "ostacolo",
+      "carreggiata",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per fermarsi accanto a un ostacolo nella corsia, che ostacolerebbe il traffico.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parcheggio su una sezione a corsia unica (Art. 18 Abs. 2 Bst. c e 19 Abs. 2 Bst. a VRV) fino a 60 minuti",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "corsia unica",
+      "parcheggio",
+      "corsia unica",
+      "collo di bottiglia",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "fino a 60 minuti",
+    "notes": "Multa per parcheggio in una sezione dove il traffico è limitato a una sola corsia (ad esempio, a causa di un ostacolo temporaneo).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Fermata su una sezione a corsia unica",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "corsia unica",
+      "fermata",
+      "corsia unica",
+      "collo di bottiglia",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": null,
+    "notes": "Multa per fermarsi in una sezione dove il traffico è limitato a una sola corsia (ad esempio, a causa di un ostacolo temporaneo).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parcheggio accanto a una linea di sicurezza, se non viene lasciato libero un passaggio di almeno 3 m di larghezza",
+    "fine_chf": 120,
+    "keywords": [
+      "parcheggio",
+      "linea di sicurezza",
+      "passaggio",
+      "parcheggio",
+      "linea di sicurezza",
+      "corsia di sorpasso",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "se non viene lasciato libero un passaggio di almeno 3 m di larghezza",
+    "notes": "Multa per parcheggio accanto a una linea di sicurezza (linea di divieto di sorpasso) se rimane meno di 3 m di spazio libero per il traffico.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Fermata accanto a una linea di sicurezza, se non viene lasciato libero un passaggio di almeno 3 m di larghezza",
+    "fine_chf": 80,
+    "keywords": [
+      "fermata",
+      "linea di sicurezza",
+      "passaggio",
+      "fermata",
+      "linea di sicurezza",
+      "corsia di sorpasso",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducente di veicolo a motore",
+      "Conducente"
+    ],
+    "conditions": "se non viene lasciato libero un passaggio di almeno 3 m di larghezza",
+    "notes": "Multa per fermarsi accanto a una linea di sicurezza (linea di divieto di sorpasso) se rimane meno di 3 m di spazio libero per il traffico.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

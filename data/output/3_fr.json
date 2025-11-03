@@ -1,0 +1,567 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Défaut de signaler les dommages, le dysfonctionnement, la perte ou le vol de la carte de tachygraphe du conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "carte de tachygraphe du conducteur",
+      "signalement",
+      "dommage",
+      "vol",
+      "ARV",
+      "carte de tachygraphe",
+      "signalement"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Concerne la carte du tachygraphe numérique utilisée par les conducteurs professionnels.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Défaut de restituer la carte du conducteur",
+    "fine_chf": 20,
+    "keywords": [
+      "carte du conducteur",
+      "restitution",
+      "ARV",
+      "carte de tachygraphe",
+      "restitution"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducteur professionnel",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Concerne la carte du tachygraphe numérique utilisée par les conducteurs professionnels.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Défaut de restituer la carte d'atelier",
+    "fine_chf": 20,
+    "keywords": [
+      "carte d'atelier",
+      "restitution",
+      "ARV",
+      "carte d'atelier",
+      "restitution",
+      "tachygraphe"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personnel d'atelier"
+    ],
+    "conditions": null,
+    "notes": "Concerne la carte d'atelier du tachygraphe, essentielle aux réglementations des conducteurs professionnels.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Dépasser le temps de stationnement autorisé\n  a. jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "temps de stationnement",
+      "débordement",
+      "stationnement",
+      "temps de stationnement",
+      "débordement",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Amende pour dépassement de la durée de stationnement autorisée.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Dépasser le temps de stationnement autorisé\n  b. de plus de 2, mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "temps de stationnement",
+      "débordement",
+      "stationnement",
+      "temps de stationnement",
+      "débordement",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "de plus de 2, mais pas plus de 4 heures",
+    "notes": "Amende pour dépassement de la durée de stationnement autorisée.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Dépasser le temps de stationnement autorisé\n  c. de plus de 4, mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "temps de stationnement",
+      "débordement",
+      "stationnement",
+      "temps de stationnement",
+      "débordement",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "de plus de 4, mais pas plus de 10 heures",
+    "notes": "Amende pour dépassement de la durée de stationnement autorisée.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Défaut d'attacher ou d'afficher visiblement le disque de stationnement sur le véhicule",
+    "fine_chf": 40,
+    "keywords": [
+      "disque de stationnement",
+      "placement",
+      "visibilité",
+      "disque de stationnement",
+      "placement",
+      "visibilité",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour affichage incorrect ou visibilité insuffisante du disque de stationnement.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Défaut d'attacher ou d'afficher visiblement le ticket de stationnement sur le véhicule",
+    "fine_chf": 40,
+    "keywords": [
+      "ticket de stationnement",
+      "ticket de stationnement",
+      "placement",
+      "visibilité",
+      "ticket de stationnement",
+      "placement",
+      "visibilité",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour affichage incorrect ou visibilité insuffisante du ticket de stationnement.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Défaut d'attacher ou d'afficher visiblement le permis de stationnement pour personnes handicapées sur le véhicule",
+    "fine_chf": 40,
+    "keywords": [
+      "permis de stationnement",
+      "handicapé",
+      "placement",
+      "visibilité",
+      "stationnement handicapé",
+      "badge",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour affichage incorrect ou visibilité insuffisante du badge de stationnement pour personnes handicapées.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Définir une heure d'arrivée incorrecte sur le disque de stationnement",
+    "fine_chf": 40,
+    "keywords": [
+      "disque de stationnement",
+      "heure d'arrivée",
+      "incorrect",
+      "réglage",
+      "disque de stationnement",
+      "heure d'arrivée",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour avoir défini une heure d'arrivée incorrecte sur le disque de stationnement.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Modifier l'heure d'arrivée définie sans déplacer le véhicule",
+    "fine_chf": 40,
+    "keywords": [
+      "disque de stationnement",
+      "heure d'arrivée",
+      "changement",
+      "départ du véhicule",
+      "disque de stationnement",
+      "heure d'arrivée",
+      "réinitialisation",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour réinitialiser l'heure d'arrivée du disque de stationnement sans déplacer le véhicule (illégal « alimenter le disque »).",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Altération du parcmètre",
+    "fine_chf": 40,
+    "keywords": [
+      "parcmètre",
+      "altération",
+      "défectueux",
+      "parcmètre",
+      "altération",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour rendre le parcmètre inopérant.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Paiement anticipé interdit avant l'expiration du temps de stationnement",
+    "fine_chf": 40,
+    "keywords": [
+      "paiement anticipé",
+      "temps de stationnement",
+      "avant expiration",
+      "frais de stationnement",
+      "rechargement",
+      "à l'avance",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour payer du temps de stationnement supplémentaire avant l'expiration du temps déjà payé, afin de prolonger le séjour.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Paiement après l'expiration du temps de stationnement",
+    "fine_chf": 40,
+    "keywords": [
+      "paiement après",
+      "temps de stationnement",
+      "expiré",
+      "frais de stationnement",
+      "rechargement",
+      "expiré",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour payer du temps de stationnement supplémentaire après que le temps autorisé soit déjà expiré.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Arrêt à des emplacements avec mauvaise visibilité, notamment dans les zones de courbes et de sommets",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "mauvaise visibilité",
+      "courbes",
+      "sommets",
+      "arrêt",
+      "visibilité",
+      "courbes",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour arrêt dans des lieux à mauvaise visibilité, comme près de courbes ou de sommets.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Arrêt dans les goulots d'étranglement",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "goulots d'étranglement",
+      "arrêt",
+      "goulot d'étranglement",
+      "étroit",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour arrêt dans les goulots d'étranglement ou passages étroits.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Arrêt à côté d'un obstacle sur la chaussée",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "obstacle",
+      "chaussée",
+      "arrêt",
+      "obstacle",
+      "chaussée",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour arrêt à côté d'un obstacle sur la voie, ce qui gênerait la circulation.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur une section à voie unique (Art. 18 Abs. 2 Bst. c et 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "voie unique",
+      "stationnement",
+      "voie unique",
+      "goulot d'étranglement",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Amende pour stationnement dans une section où la circulation est limitée à une seule voie (par ex. en raison d'un obstacle temporaire).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Arrêt sur une section à voie unique",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "voie unique",
+      "arrêt",
+      "voie unique",
+      "goulot d'étranglement",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": null,
+    "notes": "Amende pour arrêt dans une section où la circulation est limitée à une seule voie (par ex. en raison d'un obstacle temporaire).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Stationnement à côté d'une ligne de sécurité, si au moins un passage de 3 m de large n'est pas laissé libre",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "ligne de sécurité",
+      "passage",
+      "stationnement",
+      "ligne de sécurité",
+      "voie de dépassement",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "si au moins un passage de 3 m de large n'est pas laissé libre",
+    "notes": "Amende pour stationnement à côté d'une ligne de sécurité (ligne d'interdiction de dépassement) si moins de 3 m de dégagement restent pour la circulation.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Stationnement à côté d'une ligne de sécurité, si au moins un passage de 3 m de large n'est pas laissé libre",
+    "fine_chf": 80,
+    "keywords": [
+      "stationnement",
+      "ligne de sécurité",
+      "passage",
+      "stationnement",
+      "ligne de sécurité",
+      "voie de dépassement",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "si au moins un passage de 3 m de large n'est pas laissé libre",
+    "notes": "Amende pour stationnement à côté d'une ligne de sécurité (ligne d'interdiction de dépassement) si moins de 3 m de dégagement restent pour la circulation.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Arrêt à côté d'une ligne de sécurité, si au moins un passage de 3 m de large n'est pas laissé libre",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "ligne de sécurité",
+      "passage",
+      "arrêt",
+      "ligne de sécurité",
+      "voie de dépassement",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule à moteur",
+      "Conducteur"
+    ],
+    "conditions": "si au moins un passage de 3 m de large n'est pas laissé libre",
+    "notes": "Amende pour arrêt à côté d'une ligne de sécurité (ligne d'interdiction de dépassement) si moins de 3 m de dégagement restent pour la circulation.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

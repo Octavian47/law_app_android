@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Swiss Laws",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "ok": "Tamam",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "search": "Ara",
+    "close": "Kapat"
+  },
+  "tabs": {
+    "laws": "Kanunlar",
+    "search": "Ara",
+    "favorites": "Favoriler"
+  },
+  "home": {
+    "title": "Swiss Laws",
+    "subtitle": "Karayolu trafiğindeki haklarınızı bilin!",
+    "categories": "Kategoriler",
+    "currentlyAvailable": "Şu anda Mevcut",
+    "tips": "İpuçları",
+    "roadTrafficAct": "Karayolu Trafik Yasası (SR 741.01)",
+    "articlesIndexed": "{{count}} makale tam olarak indekslendi",
+    "finesIndexed": "420 trafik cezası indekslendi",
+    "languagesAvailable": "18 dilde mevcut",
+    "offlineAccess": "Çevrimdışı erişim ve arama",
+    "tipContent": "Belirli maddeleri veya konuları hızlıca bulmak için arama fonksiyonunu kullanın.",
+    "tipDescription": "Anahtar kelime, tutar veya madde referansına göre cezaları bulmak için arama sekmesini kullanın. Ceza vermeyi favorilere eklemek için yıldız simgesine dokunun."
+  },
+  "search": {
+    "title": "Ceza ara",
+    "subtitle": "420 trafik cezası aranabilir",
+    "placeholder": "Mad. 27, park, CHF 40...",
+    "resultsFound": "{{count}} ceza bulundu",
+    "resultsFound_other": "{{count}} ceza bulundu",
+    "filters": {
+      "traffic": "Trafik",
+      "criminal": "Ceza",
+      "fines": "Cezalar",
+      "quick": "Hızlı"
+    },
+    "emptyState": {
+      "title": "Trafik cezalarını ara",
+      "description": "Madde numarası, anahtar kelime veya CHF tutarı ile ara"
+    },
+    "noResults": {
+      "title": "Sonuç yok",
+      "description": "\"{{query}}\" için ceza bulunamadı. Farklı anahtar kelimeler veya tutarlar deneyin."
+    },
+    "tips": {
+      "title": "Arama İpuçları",
+      "article": "Mad. 27 - Madde numarası ile ara",
+      "keyword": "park - Anahtar kelimeyle ara",
+      "amount": "CHF 40 - Ceza tutarı ile ara"
+    },
+    "inDevelopment": {
+      "title": "Geliştirme Aşamasında",
+      "description": "Arama fonksiyonu şu anda geliştiriliyor.\n\nAranıyor: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favoriler",
+    "subtitle": "Kaydettiğiniz cezalar",
+    "resultsCount": "{{count}} Favori",
+    "resultsCount_other": "{{count}} Favori",
+    "emptyState": {
+      "title": "Henüz Favori Yok",
+      "description": "Önemli cezaları favorilere ekleyin ve hızlıca erişin"
+    },
+    "howTo": {
+      "title": "Favori Nasıl Eklenir",
+      "step1": "Bir ceza açın",
+      "step2": "Yıldız simgesine dokunun",
+      "step3": "Ceza burada görünecek"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Ceza bulunamadı",
+    "articleInformation": "Madde bilgileri",
+    "violationDescription": "İhlal açıklaması",
+    "appliesTo": "Geçerli olduğu",
+    "conditions": "Koşullar",
+    "notes": "Notlar",
+    "keywords": "Anahtar kelimeler",
+    "labels": {
+      "article": "Madde:",
+      "law": "Kanun:",
+      "category": "Kategori:"
+    },
+    "source": "Kaynak: Sayfa {{page}}, Satır {{line}}",
+    "laws": {
+      "svg": "Karayolu Trafik Kanunu",
+      "vrv": "Trafik Kuralları Yönetmeliği",
+      "arv1": "Çalışma Saatleri Yönetmeliği 1",
+      "arv2": "Çalışma Saatleri Yönetmeliği 2",
+      "ssv": "Trafik İşaretleri Yönetmeliği"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Trafik Hukuku",
+      "description": "Karayolu Trafik Sicili ve Trafik Hukuku"
+    },
+    "criminal": {
+      "name": "Ceza Hukuku",
+      "description": "Ceza Kanunu ve Ceza Usulü"
+    },
+    "civil": {
+      "name": "İdare Hukuku",
+      "description": "İdare Kanunu ve Yükümlülükler"
+    },
+    "commercial": {
+      "name": "Ticaret Hukuku",
+      "description": "Ticaret Sicili ve Ticaret Yasası"
+    },
+    "administrative": {
+      "name": "İdari Hukuk",
+      "description": "İdari Usuller ve Kamu Hukuku"
+    },
+    "constitutional": {
+      "name": "Anayasa Hukuku",
+      "description": "Federal Anayasa ve Temel Haklar"
+    }
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "theme": "Tema",
+    "about": "Hakkında"
+  }
+}

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Brak wprowadzenia wymaganych informacji w tygodniowym arkuszu",
+    "fine_chf": 40,
+    "keywords": [
+      "tygodniowy arkusz",
+      "informacja",
+      "wprowadzić",
+      "ARV 2",
+      "czas pracy",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak wprowadzenia wymaganych informacji w tygodniowym arkuszu dla kierowców zawodowych.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Brak wprowadzenia wymaganych informacji w dziennym arkuszu",
+    "fine_chf": 40,
+    "keywords": [
+      "dzienny arkusz",
+      "informacja",
+      "wprowadzić",
+      "ARV 2",
+      "czas pracy",
+      "kierowca zawodowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak wprowadzenia wymaganych informacji w dziennym arkuszu dla kierowców zawodowych.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Brak wprowadzenia wymaganych informacji w karcie kontrolnej dla kierowców taksówek",
+    "fine_chf": 40,
+    "keywords": [
+      "karta kontrolna",
+      "kierowca taksówki",
+      "informacja",
+      "wprowadzić",
+      "ARV",
+      "taksówka"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Kierowca taksówki"
+    ],
+    "conditions": null,
+    "notes": "Brak wprowadzenia wymaganych informacji w karcie kontrolnej dla kierowców taksówek (odniesienia zarówno do ARV 2, jak i ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Brak wprowadzenia wymaganych informacji w cyfrowym tachografie",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "cyfrowy",
+      "informacja",
+      "wprowadzić",
+      "ARV",
+      "kierowca zawodowy",
+      "tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak wprowadzenia wymaganych informacji w cyfrowym tachografie.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Brak oznakowania wykresu tachografu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "wykres",
+      "etykieta",
+      "nieoznaczony",
+      "arkusz tachografu",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak oznakowania wykresu tachografu (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Brak oznakowania wydruku",
+    "fine_chf": 40,
+    "keywords": [
+      "wydruk",
+      "etykieta",
+      "nieoznaczony",
+      "wydruk tachografu",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak oznakowania wydruku z tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Niekompletne oznakowanie wykresu tachografu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "wykres",
+      "niekompletny",
+      "etykieta",
+      "arkusz tachografu",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niekompletne oznakowanie wykresu tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Niekompletne oznakowanie wydruku",
+    "fine_chf": 40,
+    "keywords": [
+      "wydruk",
+      "niekompletny",
+      "etykieta",
+      "wydruk tachografu",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niekompletne oznakowanie wydruku tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Fałszywe/nieprawdziwe oznakowanie wykresu tachografu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "wykres",
+      "fałszywy",
+      "nieprawdziwy",
+      "oznaczenie",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Fałszywe/nieprawdziwe oznakowanie wykresu tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Fałszywe/nieprawdziwe oznakowanie wydruku",
+    "fine_chf": 40,
+    "keywords": [
+      "wydruk",
+      "fałszywy",
+      "nieprawdziwy",
+      "oznaczenie",
+      "ARV",
+      "wydruk tachografu"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Fałszywe/nieprawdziwe oznakowanie wydruku tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Użycie wykresu tachografu, który nie jest zatwierdzony typowo",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "wykres",
+      "niezatwierdzony typowo",
+      "niezatwierdzony",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Użycie wykresu tachografu, który nie jest zatwierdzony typowo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Użycie wykresu tachografu, który nie pasuje do urządzenia tachografu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "wykres",
+      "niewłaściwy",
+      "nieprawidłowy",
+      "niedopasowany",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Użycie wykresu tachografu, który nie pasuje do konkretnego urządzenia tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Użycie nieprawidłowego papieru do drukarki",
+    "fine_chf": 40,
+    "keywords": [
+      "papier do drukarki",
+      "niewłaściwy",
+      "nieprawidłowy",
+      "papier do drukarki",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Użycie nieprawidłowego papieru do drukarki dla cyfrowego tachografu/urządzenia kontrolnego.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Brak posiadania certyfikatu szkoleniowego dla ładunków niebezpiecznych",
+    "fine_chf": 20,
+    "keywords": [
+      "towary niebezpieczne",
+      "ładunek",
+      "certyfikat szkoleniowy",
+      "ADR",
+      "SDR",
+      "towary niebezpieczne",
+      "dokumenty"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak posiadania certyfikatu szkoleniowego dla transportu towarów niebezpiecznych, przy świadomości obecności niebezpiecznego ładunku.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Brak posiadania dokumentu transportowego dla ładunków niebezpiecznych",
+    "fine_chf": 140,
+    "keywords": [
+      "towary niebezpieczne",
+      "ładunek",
+      "dokument transportowy",
+      "ADR",
+      "SDR",
+      "towary niebezpieczne",
+      "dokument transportowy"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak posiadania dokumentu transportowego dla towarów niebezpiecznych, przy świadomości obecności niebezpiecznego ładunku. Ta kara jest wyraźnie wyższa.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Brak posiadania pisemnej instrukcji (arkusza wypadkowego) dla ładunków niebezpiecznych",
+    "fine_chf": 40,
+    "keywords": [
+      "towary niebezpieczne",
+      "ładunek",
+      "pisemna instrukcja",
+      "arkusz wypadkowy",
+      "ADR",
+      "SDR",
+      "instrukcje awaryjne"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak posiadania pisemnych instrukcji (arkusza awaryjnego/wypadkowego) dla towarów niebezpiecznych, przy świadomości obecności niebezpiecznego ładunku.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Brak usunięcia lub przykrycia pomarańczowych tabliczek przy transporcie bez towarów niebezpiecznych",
+    "fine_chf": 60,
+    "keywords": [
+      "towary niebezpieczne",
+      "pomarańczowa tabliczka",
+      "usunąć",
+      "przykryć",
+      "SDR",
+      "wyświetlanie",
+      "tabliczka"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Brak usunięcia lub przykrycia pomarańczowych tabliczek (oznaczających towary niebezpieczne), gdy pojazd NIE przewozi towary niebezpieczne (pusty/oczyszczony).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Brak zgłoszenia lub zgłoszenia w terminie faktów wymagających zmiany lub wymiany licencji lub zezwolenia",
+    "fine_chf": 20,
+    "keywords": [
+      "obowiązek zgłaszania",
+      "licencja",
+      "zezwolenie",
+      "zmiana",
+      "wymiana",
+      "VZV",
+      "zgłaszanie"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Posiadacz licencji/zezwolenia"
+    ],
+    "conditions": null,
+    "notes": "Brak zgłoszenia lub spóźnione zgłoszenie faktów wymagających modyfikacji lub wymiany prawa jazdy lub zezwolenia.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Brak zgłoszenia lub zgłoszenia w terminie zmiany miejsca zamieszkania na nowy szwajcarski adres",
+    "fine_chf": 20,
+    "keywords": [
+      "zmiana miejsca zamieszkania",
+      "adres",
+      "zgłoszenie",
+      "VZV",
+      "zgłaszanie",
+      "zmiana miejsca zamieszkania"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Kierowca pojazdu",
+      "Posiadacz licencji"
+    ],
+    "conditions": null,
+    "notes": "Brak zgłoszenia lub spóźnione zgłoszenie zmiany na nowy szwajcarski adres zamieszkania.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Brak zgłoszenia zmian na kartach tachografu",
+    "fine_chf": 20,
+    "keywords": [
+      "karta tachografu",
+      "zmiana",
+      "zgłoszenie",
+      "ARV",
+      "karta tachografu",
+      "zgłaszanie"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Posiadacz karty kierowcy"
+    ],
+    "conditions": null,
+    "notes": "Brak zgłoszenia zmian związanych z kartą tachografu kierowcy.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Jízda bez požadované kontrolní desky (desek) s výjimkou dealerových značek (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolní deska",
+      "poznávací značka",
+      "poznávací značka",
+      "jízda",
+      "chybějící",
+      "řidič"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Jízda bez požadovaných poznávacích značek (s výjimkou obchodních značek).",
+    "source": {
+      "page": 19,
+      "line_hint": "404"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Jízda bez značky maximální rychlosti (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximální rychlost",
+      "značka",
+      "značka maximální rychlosti",
+      "chybějící",
+      "jízda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Jízda vozidlem, které vyžaduje, ale postrádá povinnou značku rychlosti.",
+    "source": {
+      "page": 19,
+      "line_hint": "405"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Jízda bez zadní značky (Art. 68 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "zadní značka",
+      "zadní značka",
+      "chybějící",
+      "jízda"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič"
+    ],
+    "conditions": null,
+    "notes": "Jízda vozidlem, které vyžaduje, ale postrádá povinnou zadní značku (např. pomalá vozidla).",
+    "source": {
+      "page": 19,
+      "line_hint": "406"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Provozování motocyklu bez trvale připevněných odrazek (Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "motocykl",
+      "odrazka",
+      "odrazka",
+      "motocykl",
+      "chybějící"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič (motocykl)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 19,
+      "line_hint": "407"
+    }
+  },
+  {
+    "law_name": "ADR",
+    "article_ref": "Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR",
+    "law_text": "Provádění přepravy nebezpečného zboží s chybějící, neúplnou nebo nevyhovující součástí vybavení (Art. 4 i. V. m. Anlage B Ziff. 8.1.5 ADR)",
+    "fine_chf": 40,
+    "keywords": [
+      "nebezpečný náklad",
+      "ADR",
+      "nebezpečný náklad",
+      "vybavení",
+      "profesionální řidič",
+      "chybějící"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič (přeprava nebezpečného zboží)"
+    ],
+    "conditions": null,
+    "notes": "Chybějící, neúplné nebo nevyhovující vybavení během přepravy nebezpečného zboží.",
+    "source": {
+      "page": 19,
+      "line_hint": "408"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV",
+    "law_text": "Nedodržení hlášení nebo včasného hlášení skutečností, které vyžadují změnu nebo výměnu povolení či oprávnění (Art. 26, 74 Abs. 5, Art. 95 Abs. 3 und 4 VZV)",
+    "fine_chf": 20,
+    "keywords": [
+      "hlášení",
+      "povolení",
+      "oprávnění",
+      "změna",
+      "oznámení",
+      "papírování",
+      "vlastník vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení povinnosti vlastníka/držitele hlásit změny vyžadující úpravu nebo výměnu dokumentu.",
+    "source": {
+      "page": 19,
+      "line_hint": "500"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Překročení stanoveného termínu povinné emisní kontroly: až 1 měsíc",
+    "fine_chf": 40,
+    "keywords": [
+      "emisní kontrola",
+      "emisní kontrola",
+      "zpožděný",
+      "termín",
+      "údržba",
+      "vlastník vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": "až 1 měsíc",
+    "notes": "Povinná emisní kontrola zpožděná až 1 měsíc.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Překročení stanoveného termínu povinné emisní kontroly: více než 1 měsíc, ale ne více než 3 měsíce",
+    "fine_chf": 100,
+    "keywords": [
+      "emisní kontrola",
+      "emisní kontrola",
+      "zpožděný",
+      "termín",
+      "údržba",
+      "vlastník vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": "více než 1 měsíc, ale ne více než 3 měsíce",
+    "notes": "Povinná emisní kontrola zpožděná mezi 1 a 3 měsíci.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 59b VRV",
+    "law_text": "Překročení stanoveného termínu povinné emisní kontroly: více než 3 měsíce, ale ne více než 6 měsíců",
+    "fine_chf": 200,
+    "keywords": [
+      "emisní kontrola",
+      "emisní kontrola",
+      "zpožděný",
+      "termín",
+      "údržba",
+      "vlastník vozidla"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": "více než 3 měsíce, ale ne více než 6 měsíců",
+    "notes": "Povinná emisní kontrola zpožděná mezi 3 a 6 měsíci.",
+    "source": {
+      "page": 19,
+      "line_hint": "501.c."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Uvedení motorového vozidla do provozu s vadnou pneumatikou (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneumatika",
+      "vadná",
+      "pneumatika",
+      "poškozená",
+      "uvádění do provozu",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Vlastník umožňuje uvést motorové vozidlo s vadnými pneumatikami do provozu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Uvedení přívěsu do provozu s vadnou pneumatikou (Art. 58 Abs. 4 VTS)",
+    "fine_chf": 100,
+    "keywords": [
+      "pneumatika",
+      "vadná",
+      "přívěs",
+      "přívěs",
+      "uvádění do provozu",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Vlastník umožňuje uvést přívěs s vadnými pneumatikami do provozu.",
+    "source": {
+      "page": 19,
+      "line_hint": "502.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nedodržení připevnění rychlostní značky při používání vozidla s hroty (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "rychlostní značka",
+      "pneumatiky s hroty",
+      "pneumatiky s hroty",
+      "rychlostní značka",
+      "chybějící",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Vlastník nepřipevnil požadovanou rychlostní značku při použití pneumatik s hroty.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Nesprávná instalace rychlostní značky při používání vozidla s hroty (Art. 62 Abs. 2 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "rychlostní značka",
+      "pneumatiky s hroty",
+      "pneumatiky s hroty",
+      "rychlostní značka",
+      "instalace",
+      "nevyhovující"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nevyhovující připevnění rychlostní značky při použití pneumatik s hroty.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Nedodržení odstranění rychlostní značky, i když nejsou použity pneumatiky s hroty (Art. 62 Abs. 3 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "rychlostní značka",
+      "pneumatiky s hroty",
+      "rychlostní značka",
+      "odstranění",
+      "odstranění"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Vlastník neodstranil rychlostní značku, když již nejsou použity pneumatiky s hroty.",
+    "source": {
+      "page": 19,
+      "line_hint": "503.3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nedodržení připevnění požadované kontrolní desky (desek) s výjimkou dealerových značek (Art. 10 Abs. 1 SVG, Art. 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 140,
+    "keywords": [
+      "kontrolní deska",
+      "poznávací značka",
+      "poznávací značka",
+      "instalace",
+      "chybějící",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení povinnosti vlastníka připevnit požadované poznávací značky (s výjimkou obchodních značek).",
+    "source": {
+      "page": 19,
+      "line_hint": "504.1."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Nesprávná instalace kontrolních desek (Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolní deska",
+      "poznávací značka",
+      "poznávací značka",
+      "instalace",
+      "nevyhovující",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nevyhovující způsob připevnění poznávacích značek.",
+    "source": {
+      "page": 19,
+      "line_hint": "504.2."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 117 Abs. 2 und 144 Abs. 7 VTS",
+    "law_text": "Nedodržení připevnění značky maximální rychlosti (Art. 117 Abs. 2 und 144 Abs. 7 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "maximální rychlost",
+      "značka",
+      "značka maximální rychlosti",
+      "instalace",
+      "chybějící",
+      "vlastník vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vlastník vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení povinnosti vlastníka připevnit povinnou rychlostní značku.",
+    "source": {
+      "page": 19,
+      "line_hint": "505"
+    }
+  }
+]

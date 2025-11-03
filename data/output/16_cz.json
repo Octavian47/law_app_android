@@ -1,0 +1,361 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 29 SVG",
+    "law_text": "Zastavení motorového vozidla na dálnicích a rychlostních silnicích, když motorové vozidlo zastavilo na nouzovém pruhu nebo na parkovišti pro porouchaná vozidla kvůli nedostatku paliva nebo elektrické energie.",
+    "fine_chf": 120,
+    "keywords": [
+      "dálnice",
+      "rychlostní silnice",
+      "nouzový pruh",
+      "nedostatek paliva",
+      "zastavení",
+      "nouzový pruh",
+      "bez paliva"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorové vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Zastavení kvůli nedostatku paliva nebo elektrické energie.",
+    "source": {
+      "page": 18,
+      "line_hint": "340."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Jízda přes nebo překročení bezpečnostní čáry v zastavěných oblastech.",
+    "fine_chf": 140,
+    "keywords": [
+      "bezpečnostní čára",
+      "překročení",
+      "zastavěná oblast",
+      "plná čára",
+      "zastavěná oblast"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení plné bezpečnostní čáry v zastavěné oblasti.",
+    "source": {
+      "page": 18,
+      "line_hint": "341."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 78 SSV",
+    "law_text": "Jízda přes nebo překročení zakázané oblasti v zastavěných oblastech.",
+    "fine_chf": 140,
+    "keywords": [
+      "zakázaná oblast",
+      "překročení",
+      "zastavěná oblast",
+      "zakázaná oblast",
+      "zastavěná oblast"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Překročení vyznačené zakázané oblasti (Sperrfläche) v zastavěné oblasti.",
+    "source": {
+      "page": 18,
+      "line_hint": "342."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 90 Abs. 2 VTS",
+    "law_text": "Nedodržení povinnosti mít výstražný trojúhelník.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržení povinnosti",
+      "výstražný trojúhelník",
+      "výbava",
+      "výbava",
+      "výstražný trojúhelník"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 1 VTS",
+    "law_text": "Nedodržení povinnosti mít klín pod kolo u těžkých motorových vozidel.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržení povinnosti",
+      "klín pod kolo",
+      "těžké vozidlo",
+      "výbava",
+      "klín pod kolo",
+      "těžké vozidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Těžká motorová vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 123 Abs. 4 VTS",
+    "law_text": "Nedodržení povinnosti mít palubní lékárničku v dálkových autobusech.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržení povinnosti",
+      "lékárnička",
+      "dálkový autobus",
+      "dálkový autobus",
+      "lékárnička",
+      "dálkový autobus"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Dálkový autobus"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 114 Abs. 2 und 3 VTS und Abschnitt 8.1.4 ADR",
+    "law_text": "Nedodržení povinnosti mít požadovaný hasicí přístroj.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržení povinnosti",
+      "hasicí přístroj",
+      "ADR",
+      "nebezpečný náklad",
+      "výbava",
+      "hasicí přístroj"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla",
+      "přeprava nebezpečného nákladu"
+    ],
+    "conditions": null,
+    "notes": "Často relevantní pro komerční nebo přepravu nebezpečného nákladu.",
+    "source": {
+      "page": 18,
+      "line_hint": "400.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 195 Abs. 3 VTS",
+    "law_text": "Nedodržení povinnosti mít klín pod kolo na přívěsech, jejichž celková hmotnost přesahuje 0,75 t.",
+    "fine_chf": 40,
+    "keywords": [
+      "nedodržení povinnosti",
+      "klín pod kolo",
+      "přívěs",
+      "celková hmotnost",
+      "přívěs",
+      "klín pod kolo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Přívěs > 0,75 t"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "400.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 45 Abs. 2, 96, 124 Abs. 1, 136 Abs. 4, 162 Abs. 1, 167 und 185 VTS",
+    "law_text": "Provoz nebo parkování vozidla s kontrolními značkami neinstalovanými podle předpisů.",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrolní značky",
+      "registrační značka",
+      "montáž",
+      "parkování",
+      "registrační značka",
+      "nesprávně namontováno"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla",
+      "Zaparkované vozidlo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "401."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Provoz motorového vozidla s vadnou pneumatikou.",
+    "fine_chf": 100,
+    "keywords": [
+      "motorové vozidlo",
+      "vadná pneumatika",
+      "pneumatika",
+      "vadná pneumatika",
+      "údržba",
+      "defekt vozidla"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motorové vozidlo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 58 Abs. 4 VTS",
+    "law_text": "Přeprava přívěsu s vadnou pneumatikou.",
+    "fine_chf": 100,
+    "keywords": [
+      "přívěs",
+      "vadná pneumatika",
+      "pneumatika",
+      "vadná pneumatika",
+      "přívěs",
+      "údržba"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Přívěs"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 18,
+      "line_hint": "402.2"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 2 VTS",
+    "law_text": "Jízda s hřebíkovými pneumatikami bez nebo s nesprávně instalovanou rychlostní tabulí.",
+    "fine_chf": 20,
+    "keywords": [
+      "hřebíkové pneumatiky",
+      "rychlostní tabule",
+      "zimní pneumatiky",
+      "hřebíkové pneumatiky",
+      "rychlostní tabule",
+      "výbava"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Chybějící nebo nesprávná rychlostní tabule/štítek vyžadovaný při použití hřebíkových pneumatik.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.3"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 1 VTS",
+    "law_text": "Použití hřebíkových pneumatik mimo povolené období.",
+    "fine_chf": 60,
+    "keywords": [
+      "hřebíkové pneumatiky",
+      "použití",
+      "mimo čas",
+      "zakázáno",
+      "hřebíkové pneumatiky",
+      "sezónní pravidlo"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Používání hřebíkových pneumatik mimo legálně povolenou sezónu.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.4"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 62 Abs. 3 VTS",
+    "law_text": "Jízda s rychlostní tabulí, i když nejsou použity hřebíkové pneumatiky.",
+    "fine_chf": 20,
+    "keywords": [
+      "hřebíkové pneumatiky",
+      "rychlostní tabule",
+      "nesprávné vybavení",
+      "porušení vybavení",
+      "rychlostní tabule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zobrazení rychlostního štítku požadovaného pro hřebíkové pneumatiky, když vozidlo není s nimi vybaveno.",
+    "source": {
+      "page": 18,
+      "line_hint": "402.5"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 82 Abs. 1 VTS",
+    "law_text": "Použití vozidla s neautorizovaným akustickým výstražným zařízením.",
+    "fine_chf": 40,
+    "keywords": [
+      "akustické výstražné zařízení",
+      "houkač",
+      "neautorizovaný",
+      "siréna",
+      "houkač",
+      "výbava"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozidlo"
+    ],
+    "conditions": null,
+    "notes": "Použití vozidla s neautorizovaným houkačem nebo výstražným zařízením.",
+    "source": {
+      "page": 18,
+      "line_hint": "403."
+    }
+  }
+]

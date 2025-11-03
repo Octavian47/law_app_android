@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "za vozila i kombinacije vozila sa ukupnom težinom ili ukupnom vučnom težinom koja ne prelazi 3500 kg, prekoračenje više od 100 kg, ali ne više od 5 procenata.",
+    "fine_chf": 200,
+    "keywords": [
+      "bruto težina",
+      "preopterećenje",
+      "kombinacija vozila",
+      "dozvoljena težina",
+      "preopterećenje",
+      "bruto težina"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila",
+      "Kombinacija vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekomerna težina: >100 kg, ali <= 5% iznad maksimalne bruto težine (<= 3500 kg). Kazna se odnosi na stav 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "za vozila i kombinacije vozila sa ukupnom težinom ili ukupnom vučnom težinom većom od 3500 kg, za više od 100 kg do 5 procenata, ali ne više od 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "bruto težina",
+      "preopterećenje",
+      "kombinacija vozila",
+      "težak saobraćaj",
+      "preopterećenje",
+      "teška teretna vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila",
+      "Teška vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekomerna težina: >100 kg i <= 1000 kg, ali <= 5% iznad maksimalne bruto težine (> 3500 kg). Kazna se odnosi na stav 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "do najviše 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "opterećenje osovine",
+      "preopterećenje",
+      "dozvoljena težina",
+      "opterećenje osovine",
+      "preopterećenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje dozvoljenog opterećenja osovine (posle odbitka tolerancije merenja), do 100 kg. Kazna se odnosi na stav 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "za vozila sa ukupnom težinom većom od 3500 kg, prekoračenje više od 100 kg, ali ne više od 2 procenata.",
+    "fine_chf": 250,
+    "keywords": [
+      "opterećenje osovine",
+      "preopterećenje",
+      "težak saobraćaj",
+      "opterećenje osovine",
+      "teška teretna vozila",
+      "preopterećenje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila",
+      "Teška vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje dozvoljenog opterećenja osovine (>100 kg, ali <= 2% iznad limita) za vozila > 3500 kg. Kazna se odnosi na stav 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "više od 2 procenata, ali ne više od 5 procenata",
+    "fine_chf": 40,
+    "keywords": [
+      "dozvoljena težina",
+      "preopterećenje",
+      "opterećenje osovine",
+      "bruto težina",
+      "opterećenje osovine",
+      "kombinacija vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje dozvoljene ukupne težine/težine kombinacije (posle odbitka tolerancije merenja) za >2% ali <=5%. Kazna se odnosi na stav 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "više od 5 procenata",
+    "fine_chf": 100,
+    "keywords": [
+      "dozvoljena težina",
+      "preopterećenje",
+      "opterećenje osovine",
+      "bruto težina",
+      "opterećenje osovine",
+      "kombinacija vozila"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje dozvoljene ukupne težine/težine kombinacije (posle odbitka tolerancije merenja) za >5%. Kazna se odnosi na stav 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Vožnja motocikla po trotoaru",
+    "fine_chf": 100,
+    "keywords": [
+      "motocikl",
+      "trotoar",
+      "pešački put",
+      "vožnja",
+      "motocikl",
+      "trotoar"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vozač motocikla"
+    ],
+    "conditions": null,
+    "notes": "Vožnja motocikla po trotoaru.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Nepridržavanje mesta od strane motociklista unutar kolone kada je saobraćaj zaustavljen.",
+    "fine_chf": 60,
+    "keywords": [
+      "motociklista",
+      "kolona",
+      "mesto",
+      "saobraćaj zaustavljen",
+      "motocikl",
+      "zagušenje saobraćaja",
+      "prolazak između traka"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motociklista"
+    ],
+    "conditions": null,
+    "notes": "Motociklista ne zadržava svoje mesto unutar kolone kada je saobraćaj zaustavljen (npr. filtriranje/prolazak između traka kada je zaustavljen).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "za 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "unutrašnji grad",
+      "Astra",
+      "prekoračenje brzine",
+      "naseljeno područje"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine u naseljenim područjima, 1-5 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "za 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "unutrašnji grad",
+      "Astra",
+      "prekoračenje brzine",
+      "naseljeno područje"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine u naseljenim područjima, 6-10 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "za 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "unutrašnji grad",
+      "Astra",
+      "prekoračenje brzine",
+      "naseljeno područje"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine u naseljenim područjima, 11-15 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "za 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "vanjski grad",
+      "autoput",
+      "prekoračenje brzine",
+      "vanjski grad",
+      "autoput"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine izvan naseljenih područja ili na autoputu/poluputima, 1-5 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "za 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "vanjski grad",
+      "autoput",
+      "prekoračenje brzine",
+      "vanjski grad",
+      "autoput"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine izvan naseljenih područja ili na autoputu/poluputima, 6-10 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "za 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "vanjski grad",
+      "autoput",
+      "prekoračenje brzine",
+      "vanjski grad",
+      "autoput"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine izvan naseljenih područja ili na autoputu/poluputima, 11-15 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "za 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "brzina",
+      "prekoračenje",
+      "vanjski grad",
+      "autoput",
+      "prekoračenje brzine",
+      "vanjski grad",
+      "autoput"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Prekoračenje brzine izvan naseljenih područja ili na autoputu/poluputima, 16-20 km/h iznad ograničenja (posle odbitka tolerancije merenja). Kazna se odnosi na stav 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

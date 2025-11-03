@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "A hátsó jelzőtábla telepítésének elmulasztása",
+    "fine_chf": 20,
+    "keywords": [
+      "hátsó jelzőtábla",
+      "jelzőtábla",
+      "VTS",
+      "felszerelés",
+      "hátsó jelzés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A hátsó jelzőtáblákra vonatkozik, általában bizonyos járművekre/teherre.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Motorkerékpár forgalomba helyezése állandóan rögzített visszaverőkkel",
+    "fine_chf": 60,
+    "keywords": [
+      "motorkerékpár",
+      "visszaverő",
+      "visszaverő",
+      "VTS",
+      "felszerelés",
+      "üzembe helyezés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Tulajdonos",
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Motorkerékpár forgalomba helyezése rögzített visszaverők nélkül.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Kormányeszköz elengedése",
+    "fine_chf": 20,
+    "keywords": [
+      "kormányeszköz",
+      "kéz nélküli",
+      "kormányeszköz",
+      "vezérlés",
+      "kerékpár",
+      "motorkerékpár"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Kormányeszköz elengedése (pl. kéz nélküli vezetés). Motorkerékpárokra/kerékpárokra vonatkozik.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Védő sisak viselésének elmulasztása motorkerékpáron",
+    "fine_chf": 30,
+    "keywords": [
+      "védő sisak",
+      "sisak",
+      "motorkerékpár",
+      "sisak",
+      "biztonsági felszerelés",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető",
+      "Utas"
+    ],
+    "conditions": null,
+    "notes": "Védő sisak viselésének elmulasztása motorkerékpáron.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Megállás a gyalogátkelőhelyen forgalmi torlódás esetén",
+    "fine_chf": 20,
+    "keywords": [
+      "gyalogátkelőhely",
+      "zebra átkelőhely",
+      "gyalogátkelőhely",
+      "forgalmi torlódás",
+      "megállás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás a gyalogátkelőhelyen forgalmi torlódás esetén.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Felesleges járatási üzemmód egy álló motoros kerékpár motorjában",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "járatás",
+      "felesleges járatás",
+      "motoros kerékpár",
+      "moped",
+      "kibocsátás"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Felesleges járatási üzemmód egy álló motoros kerékpár/moped esetén.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Közlekedés világítás nélkül: éjszaka megvilágított úton",
+    "fine_chf": 40,
+    "keywords": [
+      "fény",
+      "éjszakai közlekedés",
+      "megvilágítás",
+      "fényszóró",
+      "megvilágított út"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "Éjszaka, megvilágított úton.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Közlekedés világítás nélkül: éjszaka megvilágítatlan úton",
+    "fine_chf": 60,
+    "keywords": [
+      "fény",
+      "éjszakai közlekedés",
+      "megvilágítatlan út",
+      "fényszóró",
+      "sötétség"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "Éjszaka, megvilágítatlan úton.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Közlekedés világítás nélkül: megvilágított alagútban",
+    "fine_chf": 20,
+    "keywords": [
+      "fény",
+      "alagút",
+      "fényszóró",
+      "alagúti közlekedés",
+      "megvilágítás"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "Megvilágított alagútban.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Közlekedés világítás nélkül: nappali időben",
+    "fine_chf": 20,
+    "keywords": [
+      "fény",
+      "nappali idő",
+      "nappali járófény",
+      "fényszóró",
+      "nap"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "Nappal (azokra a járművekre vonatkozik, ahol a nappali fény kötelező).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Jogtalan közlekedés a járdán",
+    "fine_chf": 40,
+    "keywords": [
+      "járda",
+      "járda",
+      "jogtalan közlekedés",
+      "kerékpár",
+      "úthasználat",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpár",
+      "Moped",
+      "E-Scooter"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan közlekedés a járdán.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Akadályozó közlekedés a gyalogos hosszúcsíkokon",
+    "fine_chf": 40,
+    "keywords": [
+      "gyalogos",
+      "hosszúcsík",
+      "út",
+      "akadályozás",
+      "gyalogos út"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Közlekedés a gyalogos hosszúcsíkokon oly módon, hogy akadályozza a gyalogosokat.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Tárgyak szállítása, amelyek megnehezítik a jelzést",
+    "fine_chf": 20,
+    "keywords": [
+      "poggyász",
+      "teher",
+      "jelzés",
+      "jelzés",
+      "tárgyak szállítása",
+      "kézjel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Tárgyak szállítása, amelyek lehetetlenné teszik a kézjeleket.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Előreállás egy váró gépjármű sor előtt",
+    "fine_chf": 20,
+    "keywords": [
+      "előzés",
+      "sor",
+      "gépjármű sor",
+      "sávszétszakadás",
+      "vonalba szúrás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Előreállás egy várakozó autósor előtt (általában a sor körül szökkenve).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Váró jármű sor előzés szlalomozással",
+    "fine_chf": 20,
+    "keywords": [
+      "szlalomozás",
+      "előzés",
+      "sor",
+      "gépjármű sor",
+      "előzés",
+      "szökkenés"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Várakozó autósor előzése szalagozó/ szlalomozó vezetés által.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Tiltott egymás melletti közlekedés: több kerékpár",
+    "fine_chf": 20,
+    "keywords": [
+      "egymás melletti közlekedés",
+      "kerékpár",
+      "kerékpározás egymás mellett",
+      "kerékpárok"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kerékpáros"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan egymás melletti közlekedés: több kerékpár.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Tiltott egymás melletti közlekedés: több motoros kerékpár",
+    "fine_chf": 20,
+    "keywords": [
+      "egymás melletti közlekedés",
+      "motoros kerékpár",
+      "moped",
+      "E-Scooter",
+      "mopedok"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Moped sofőr"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan egymás melletti közlekedés: több motoros kerékpár (Mofák/E-Scooter).",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Tiltott egymás melletti közlekedés: több elektromos riksha",
+    "fine_chf": 20,
+    "keywords": [
+      "egymás melletti közlekedés",
+      "elektromos rikshák",
+      "e-riksha",
+      "egymás mellett"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Riksha sofőr"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan egymás melletti közlekedés: több elektromos riksha.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Tiltott egymás melletti közlekedés: kerékpárok, motoros kerékpárok vagy elektromos rikshák kombinációi",
+    "fine_chf": 20,
+    "keywords": [
+      "egymás melletti közlekedés",
+      "kevert kombináció",
+      "kerékpár",
+      "moped",
+      "riksha",
+      "egymás mellett"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan egymás melletti közlekedés: kevert kombinációk kerékpárok, mopeds vagy e-rikshák között.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Vontatás engedélyezése",
+    "fine_chf": 20,
+    "keywords": [
+      "vontatás",
+      "vontatás",
+      "vontatás",
+      "SVG",
+      "biztonság",
+      "kerékpár",
+      "motorkerékpár"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Megengedni, hogy más jármű vagy személy által vontassák.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Húzás engedélyezése",
+    "fine_chf": 20,
+    "keywords": [
+      "húzás",
+      "vontatás",
+      "vontatás",
+      "SVG",
+      "biztonság",
+      "kerékpár",
+      "motorkerékpár"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Megengedni, hogy más jármű vagy személy által húzzák.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Tolás engedélyezése",
+    "fine_chf": 20,
+    "keywords": [
+      "tolás",
+      "tolás",
+      "biztonság",
+      "segítség",
+      "kerékpár",
+      "motorkerékpár"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Megengedni, hogy tolják.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "Jogtalan szállítás: személy",
+    "fine_chf": 20,
+    "keywords": [
+      "szállítás",
+      "utas",
+      "személy",
+      "szállítás",
+      "jogtalan",
+      "társutas"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan személy szállítása (pl. utas szállítása olyan járművel, amely erre nem alkalmas, vagy ahol nem engedélyezett).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "Jogtalan szállítás: gyermek biztonságos gyermekülés nélkül",
+    "fine_chf": 40,
+    "keywords": [
+      "gyermekülés",
+      "gyermekülés",
+      "gyermek",
+      "biztonság",
+      "szállítás",
+      "kerékpár"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kerékpár",
+      "Motorkerékpár"
+    ],
+    "conditions": null,
+    "notes": "Jogtalan gyermek szállítása biztonságos gyermekülés nélkül (ahol kötelező).",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

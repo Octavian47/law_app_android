@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zaustavljanje na trotoaru ispred pešačkog prelaza pored linije zabrane zaustavljanja",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Parkiranje",
+      "Trotoar",
+      "Pešački prelaz",
+      "Linija zabrane zaustavljanja",
+      "zaustavljanje",
+      "pešački prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na trotoaru pored linije 'Zabrana zaustavljanja' ispred pešačkog prelaza.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkiranje na trotoaru manje od 5 m od pešačkog prelaza gde nije postavljena linija zabrane zaustavljanja (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Trotoar",
+      "Pešački prelaz",
+      "Linija zabrane zaustavljanja",
+      "Udaljenost",
+      "parkiranje",
+      "trotoar",
+      "pešački prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na trotoaru manje od 5 m od pešačkog prelaza, gde nema linije 'Zabrana zaustavljanja'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parkiranje na trotoaru manje od 5 m od pešačkog prelaza gde nije postavljena linija zabrane zaustavljanja",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkiranje",
+      "Trotoar",
+      "Pešački prelaz",
+      "Linija zabrane zaustavljanja",
+      "Udaljenost",
+      "parkiranje",
+      "trotoar",
+      "pešački prelaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje na trotoaru manje od 5 m od pešačkog prelaza, gde nema linije 'Zabrana zaustavljanja'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parkiranje na ograničenom području",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Ograničeno područje",
+      "Zaustavljanje",
+      "Ograničena zona",
+      "parkiranje",
+      "šrafiranje",
+      "područje zabrane parkiranja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Parkiranje na šrafiranom/označenom ograničenom području.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Zaustavljanje na ograničenom području",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkiranje",
+      "Ograničeno područje",
+      "Zaustavljanje",
+      "Ograničena zona",
+      "zaustavljanje",
+      "šrafiranje",
+      "područje zabrane zaustavljanja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na šrafiranom/označenom ograničenom području.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parkiranje na cik-cak liniji",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Cik-cak linija",
+      "Zaustavljanje",
+      "Zona čekanja",
+      "parkiranje",
+      "cik-cak linija",
+      "Zona za utovar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na cik-cak liniji (često za autobuske stanice ili zone za utovar).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Ometanje zaustavljanja na cik-cak liniji u svrhu ukrcavanja i iskrcavanja putnika",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Cik-cak linija",
+      "Ukrcavanje",
+      "Iskrcavanje",
+      "Ometanje",
+      "zaustavljanje",
+      "cik-cak linija",
+      "ometanje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Ometanje zaustavljanja na cik-cak liniji u svrhu preuzimanja/iskrcavanja ljudi.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Zaustavljanje na cik-cak liniji za rukovanje robom",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Cik-cak linija",
+      "Rukovanje robom",
+      "Zona isporuke",
+      "zaustavljanje",
+      "cik-cak linija",
+      "utovar robe"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na cik-cak liniji u svrhu utovara/istovara robe.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parkiranje neovlašćenog vozila na parking mestu rezervisanom za osobe sa smanjenom pokretljivošću",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Osobe sa smanjenom pokretljivošću",
+      "Parking mesto",
+      "Invalidska kolica",
+      "Neovlašćeno",
+      "parkiranje",
+      "invalidi",
+      "handikap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Neovlašćeno parkiranje na mestu rezervisanom za osobe sa invaliditetom.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Neovlašćena upotreba „Parking kartice za osobe sa invaliditetom“",
+    "fine_chf": 120,
+    "keywords": [
+      "Parking kartica",
+      "Osobe sa smanjenom pokretljivošću",
+      "Zloupotreba",
+      "Neovlašćeno",
+      "Dozvola",
+      "parking kartica",
+      "invalidi",
+      "zlopotreba"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Neovlašćena upotreba 'Parking dozvole za osobe sa invaliditetom'.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkiranje na liniji zabrane zaustavljanja",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Linija zabrane zaustavljanja",
+      "Zabranjeno",
+      "parkiranje",
+      "linija zabrane zaustavljanja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na liniji 'Zabrana zaustavljanja'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Zaustavljanje na liniji zabrane zaustavljanja",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Linija zabrane zaustavljanja",
+      "Zabranjeno",
+      "zaustavljanje",
+      "linija zabrane zaustavljanja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na liniji 'Zabrana zaustavljanja'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkiranje na glavnoj cesti izvan naseljenih područja: do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "izvan naseljenog područja",
+      "Uz put",
+      "parkiranje",
+      "glavna cesta",
+      "izvan naseljenog područja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Parkiranje na glavnoj cesti izvan naseljenih područja, do 2 sata.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkiranje na glavnoj cesti izvan naseljenih područja: više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "izvan naseljenog područja",
+      "Uz put",
+      "parkiranje",
+      "glavna cesta",
+      "izvan naseljenog područja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Parkiranje na glavnoj cesti izvan naseljenih područja, više od 2, ali ne više od 4 sata.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkiranje na glavnoj cesti izvan naseljenih područja: više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "izvan naseljenog područja",
+      "Uz put",
+      "parkiranje",
+      "glavna cesta",
+      "izvan naseljenog područja"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Parkiranje na glavnoj cesti izvan naseljenih područja, više od 4, ali ne više od 10 sati.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkiranje na glavnoj cesti unutar naseljenih područja kada nema dovoljno prostora za prolaz dva motorna vozila: do 2 sata",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "u gradu",
+      "Prelaz",
+      "Ometanje",
+      "parkiranje",
+      "glavna cesta",
+      "u gradu",
+      "prolaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 2 sata",
+    "notes": "Parkiranje na glavnoj cesti unutar naseljenih područja, ako nema dovoljno prostora za prolaz dva motorna vozila, do 2 sata.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkiranje na glavnoj cesti unutar naseljenih područja kada nema dovoljno prostora za prolaz dva motorna vozila: više od 2, ali ne više od 4 sata",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "u gradu",
+      "Prelaz",
+      "Ometanje",
+      "parkiranje",
+      "glavna cesta",
+      "u gradu",
+      "prolaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "više od 2, ali ne više od 4 sata",
+    "notes": "Parkiranje na glavnoj cesti unutar naseljenih područja, ako nema dovoljno prostora za prolaz dva motorna vozila, više od 2, ali ne više od 4 sata.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkiranje na glavnoj cesti unutar naseljenih područja kada nema dovoljno prostora za prolaz dva motorna vozila: više od 4, ali ne više od 10 sati",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkiranje",
+      "Glavna cesta",
+      "u gradu",
+      "Prelaz",
+      "Ometanje",
+      "parkiranje",
+      "glavna cesta",
+      "u gradu",
+      "prolaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "više od 4, ali ne više od 10 sati",
+    "notes": "Parkiranje na glavnoj cesti unutar naseljenih područja, ako nema dovoljno prostora za prolaz dva motorna vozila, više od 4, ali ne više od 10 sati.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

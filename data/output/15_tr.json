@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Otoyollarda veya hızlı yollarda acil durum şeridinde sürüş",
+    "fine_chf": 140,
+    "keywords": [
+      "acil durum şeridi",
+      "otoyol",
+      "hızlı yol",
+      "acil durum şeridi",
+      "otoyol"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Aynı yönde en az üç şeridi bulunan otoyollarda, 100 km/s'yi aşmayan motorlu taşıtların en dış sol şeridi kullanması",
+    "fine_chf": 60,
+    "keywords": [
+      "sol şerit",
+      "otoyol",
+      "hız",
+      "100 km/h",
+      "şerit kullanımı",
+      "otoyol"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motorlu taşıtlar"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Kurtarma şeridi oluşturulmaması",
+    "fine_chf": 100,
+    "keywords": [
+      "kurtarma şeridi",
+      "yükümlülük",
+      "acil durum koridoru",
+      "acil durum aracı"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Yaya uzunlamasına şeritte engelleyici sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "yayalar",
+      "uzunlamasına şerit",
+      "engel",
+      "yaya şeridi",
+      "engel"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Okunması zor kontrol plakalarıyla sürüş",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakaları",
+      "plaka",
+      "okunabilir",
+      "kayıt plakası",
+      "donanım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "İzin verilen koltuk sayısını aşan bir yolcuyu taşıma",
+    "fine_chf": 60,
+    "keywords": [
+      "fazla yolcu",
+      "koltuklar",
+      "aşırı kapasite",
+      "yolcu",
+      "kapasite"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İzin verilen koltuk sayısını aşan bir yolcu.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Gece sürüş yasağını ihlal etme\na. bir saate kadar",
+    "fine_chf": 100,
+    "keywords": [
+      "gece sürüş yasağı",
+      "gece sürüş yasağı",
+      "taşıma",
+      "süre"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü (ağır motorlu taşıtlar)"
+    ],
+    "conditions": "bir saate kadar",
+    "notes": "Genellikle ağır ticari araçlar için gece sürüş yasağı ihlali.",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Gece sürüş yasağını ihlal etme\nb. bir saatten fazla, ancak iki saatten fazla olmayan",
+    "fine_chf": 200,
+    "keywords": [
+      "gece sürüş yasağı",
+      "gece sürüş yasağı",
+      "taşıma",
+      "süre"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Araç sürücüsü (ağır motorlu taşıtlar)"
+    ],
+    "conditions": "1 saatten fazla, ancak 2 saatten fazla olmayan",
+    "notes": "Genellikle ağır ticari araçlar için gece sürüş yasağı ihlali.",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Yük nedeniyle gizlenmiş kontrol plakalarıyla sürüş\n1. yük",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakası",
+      "gizlenmiş",
+      "yük",
+      "yük",
+      "gizlenmiş",
+      "kayıt plakası"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kayıt plakası yük tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Yük taşıyıcı nedeniyle gizlenmiş kontrol plakalarıyla sürüş\n2. yük taşıyıcı",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakası",
+      "gizlenmiş",
+      "yük taşıyıcı",
+      "bisiklet rafı",
+      "gizlenmiş",
+      "taşıyıcı"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kayıt plakası yük taşıyıcı (ör. bisiklet rafı) tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Aletler ve benzeri nedeniyle gizlenmiş kontrol plakalarıyla sürüş\n3. aletler",
+    "fine_chf": 60,
+    "keywords": [
+      "kontrol plakası",
+      "gizlenmiş",
+      "aletler",
+      "aletler",
+      "donanım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kayıt plakası takılı çalışan aletler tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Yük nedeniyle gizlenmiş aydınlatma cihazlarıyla sürüş\n1. yük",
+    "fine_chf": 60,
+    "keywords": [
+      "aydınlatma",
+      "gizlenmiş",
+      "yük",
+      "ışıklar",
+      "gizlenmiş",
+      "donanım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatma cihazı yük tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Yük taşıyıcı nedeniyle gizlenmiş aydınlatma cihazlarıyla sürüş\n2. yük taşıyıcı",
+    "fine_chf": 60,
+    "keywords": [
+      "aydınlatma",
+      "gizlenmiş",
+      "yük taşıyıcı",
+      "ışıklar",
+      "gizlenmiş",
+      "donanım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatma cihazı yük taşıyıcı tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Aletler ve benzeri nedeniyle gizlenmiş aydınlatma cihazlarıyla sürüş\n3. aletler",
+    "fine_chf": 60,
+    "keywords": [
+      "aydınlatma",
+      "gizlenmiş",
+      "aletler",
+      "ışıklar",
+      "gizlenmiş",
+      "donanım"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Aydınlatma cihazı takılı çalışan aletler tarafından gizlenmiş.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Yoğun trafik sırasında yaya geçidinde durma",
+    "fine_chf": 60,
+    "keywords": [
+      "durma",
+      "yaya geçidi",
+      "yoğun trafik",
+      "yaya geçidi",
+      "durma",
+      "tıkanıklık"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "yoğun trafik sırasında",
+    "notes": "Yoğun trafik sırasında bir yaya geçidini engelleme.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Yoğun trafik sırasında karşı yön trafiği için yol şeridindeki bir kavşakta durma",
+    "fine_chf": 60,
+    "keywords": [
+      "durma",
+      "kavşak",
+      "karşı yön trafiği",
+      "yoğun trafik",
+      "kavşak",
+      "durma"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "yoğun trafik sırasında",
+    "notes": "Yoğunluk sırasında karşı yön trafiği için tasarlanmış kavşak alanını engelleme.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Yaya geçidinde öncelik hakkını vermeme",
+    "fine_chf": 140,
+    "keywords": [
+      "öncelik hakkı",
+      "yaya geçidi",
+      "öncelik hakkı",
+      "öncelik",
+      "yaya geçidi"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İşaretli bir geçitte yayalara öncelik vermeme.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Mal taşıma araçları ve tarım-ormancılık araçlarında izinsiz kişi taşıma",
+    "fine_chf": 60,
+    "keywords": [
+      "taşıma",
+      "malların taşınması",
+      "tarım araçları",
+      "tarım araçları",
+      "yolcu taşımacılığı"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Mal taşıma veya ormancılık/tarım amaçlı araçlarda izinsiz yolcu taşıma.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Engelli olmayan bir kişi tarafından yaya alanında motorlu tekerlekli sandalye veya elektrikli ayakta scooter ile sürüş",
+    "fine_chf": 40,
+    "keywords": [
+      "yaya bölgesi",
+      "motorlu tekerlekli sandalye",
+      "elektrikli ayakta scooter",
+      "E-Scooter",
+      "hareket kısıtlaması",
+      "yaya alanı"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Engelli olmayan kişi"
+    ],
+    "conditions": null,
+    "notes": "Engelli olmayan bireylerin yaya yollarında yardımcı cihazları (tekerlekli sandalye/e-scooter) izinsiz kullanması.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

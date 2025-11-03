@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Schweizer Gesetze",
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "ok": "OK",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "close": "Schliessen"
+  },
+  "tabs": {
+    "laws": "Gesetze",
+    "search": "Suche",
+    "favorites": "Favoriten"
+  },
+  "home": {
+    "title": "Schweizer Gesetze",
+    "subtitle": "Kenne deine Rechte im Strassenverkehr!",
+    "categories": "Kategorien",
+    "currentlyAvailable": "Aktuell verfügbar",
+    "tips": "Tipps",
+    "roadTrafficAct": "Strassenverkehrsgesetz (SR 741.01)",
+    "articlesIndexed": "{{count}} Artikel vollständig indexiert",
+    "finesIndexed": "420 Verkehrsbussen indexiert",
+    "languagesAvailable": "Verfügbar in 18 Sprachen",
+    "offlineAccess": "Offline-Zugriff & Suche",
+    "tipContent": "Verwenden Sie die Suchfunktion, um schnell bestimmte Artikel oder Themen zu finden.",
+    "tipDescription": "Verwenden Sie den Suchtab, um Bussen nach Stichwort, Betrag oder Artikelreferenz zu finden. Tippen Sie auf das Sternsymbol, um Bussen als Favoriten zu speichern."
+  },
+  "search": {
+    "title": "Bussen suchen",
+    "subtitle": "420 Verkehrsbussen durchsuchbar",
+    "placeholder": "Art. 27, Parkieren, CHF 40...",
+    "resultsFound": "{{count}} Busse gefunden",
+    "resultsFound_other": "{{count}} Bussen gefunden",
+    "filters": {
+      "traffic": "Verkehr",
+      "criminal": "Straf",
+      "fines": "Bussen",
+      "quick": "Schnell"
+    },
+    "emptyState": {
+      "title": "Verkehrsbussen suchen",
+      "description": "Suchen Sie nach Artikelnummer, Stichwort oder CHF-Betrag"
+    },
+    "noResults": {
+      "title": "Keine Ergebnisse",
+      "description": "Keine Bussen gefunden für \"{{query}}\". Versuchen Sie andere Stichwörter oder Beträge."
+    },
+    "tips": {
+      "title": "Suchtipps",
+      "article": "Art. 27 - Nach Artikelnummer suchen",
+      "keyword": "Parkieren - Nach Stichwort suchen",
+      "amount": "CHF 40 - Nach Bussbetrag suchen"
+    },
+    "inDevelopment": {
+      "title": "In Entwicklung",
+      "description": "Die Suchfunktion wird gerade implementiert.\n\nSuche nach: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favoriten",
+    "subtitle": "Ihre gespeicherten Bussen",
+    "resultsCount": "{{count}} Favorit",
+    "resultsCount_other": "{{count}} Favoriten",
+    "emptyState": {
+      "title": "Noch keine Favoriten",
+      "description": "Speichern Sie wichtige Bussen als Favoriten für schnellen Zugriff"
+    },
+    "howTo": {
+      "title": "So fügen Sie Favoriten hinzu",
+      "step1": "Öffnen Sie eine Busse",
+      "step2": "Tippen Sie auf das Stern-Symbol",
+      "step3": "Die Busse erscheint hier"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Busse nicht gefunden",
+    "articleInformation": "Artikelinformationen",
+    "violationDescription": "Verstoßbeschreibung",
+    "appliesTo": "Gilt für",
+    "conditions": "Bedingungen",
+    "notes": "Hinweise",
+    "keywords": "Stichwörter",
+    "labels": {
+      "article": "Artikel:",
+      "law": "Gesetz:",
+      "category": "Kategorie:"
+    },
+    "source": "Quelle: Seite {{page}}, Zeile {{line}}",
+    "laws": {
+      "svg": "Strassenverkehrsgesetz",
+      "vrv": "Verkehrsregelnverordnung",
+      "arv1": "Arbeitszeitverordnung 1",
+      "arv2": "Arbeitszeitverordnung 2",
+      "ssv": "Strassenschilderverordnung"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Verkehrsrecht",
+      "description": "Strassenverkehrsregister und Verkehrsrecht"
+    },
+    "criminal": {
+      "name": "Strafrecht",
+      "description": "Strafgesetzbuch und Strafprozessordnung"
+    },
+    "civil": {
+      "name": "Zivilrecht",
+      "description": "Zivilgesetzbuch und Obligationen"
+    },
+    "commercial": {
+      "name": "Handelsrecht",
+      "description": "Handelsregister und Handelsrecht"
+    },
+    "administrative": {
+      "name": "Verwaltungsrecht",
+      "description": "Verwaltungsverfahren und öffentliches Recht"
+    },
+    "constitutional": {
+      "name": "Verfassungsrecht",
+      "description": "Bundesverfassung und Grundrechte"
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "theme": "Design",
+    "about": "Über"
+  }
+}

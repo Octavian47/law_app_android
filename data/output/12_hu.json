@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Fordulás tilos (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Fordulás tilos",
+      "Fordulás tilos",
+      "Jel 2.46",
+      "Fordulás",
+      "Szabályozó jel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Hólánc kötelező (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Hólánc",
+      "kötelező",
+      "hólánc",
+      "kötelező",
+      "Jel 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Gyalogos zóna (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Gyalogos zóna",
+      "gyalogos zóna",
+      "Belépés tilos",
+      "Jel 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jogosulatlan belépés a gyalogos zónába.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Kerékpár sáv (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Kerékpár sáv",
+      "kerékpár sáv",
+      "vezetés tilos",
+      "Jel 2.60",
+      "Vezetés tiltott"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető (kivéve kerékpárok)"
+    ],
+    "conditions": null,
+    "notes": "Kizárólag kerékpárok számára fenntartott út használata.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Gyalogos út (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Gyalogos út",
+      "gyalogos út",
+      "vezetés tilos",
+      "Jel 2.61",
+      "Vezetés tiltott"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető (kivéve gyalogosok)"
+    ],
+    "conditions": null,
+    "notes": "Kizárólag gyalogosok számára fenntartott út használata.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Kerékpár és gyalogos út (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Kerékpár és gyalogos út",
+      "közös út",
+      "vezetés tilos",
+      "Jel 2.63",
+      "Vezetés tiltott"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető (kivéve kerékpárok/gyalogosok)"
+    ],
+    "conditions": null,
+    "notes": "Kerékpárok és gyalogosok számára fenntartott út használata.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Gondoló tilalom, kivéve szekér és középső tengelyű gondolók (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Gondoló tilalom",
+      "Gondoló tilalom",
+      "Szekér",
+      "Középső tengelyű gondola",
+      "Jel 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető (gondolóval)"
+    ],
+    "conditions": null,
+    "notes": "Tiltott típusú gondolóval való közlekedés.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "A szabályozó jel „Teherautók számára előzés tilos” betartásának elmulasztása autópályán (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Előzés tilos",
+      "Teherautó",
+      "Autópálya",
+      "Teherautó",
+      "Előzés tilos",
+      "Jel 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Teherautó-vezető"
+    ],
+    "conditions": null,
+    "notes": "Illegális előzés teherautóval autópályán, ahol tilos.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Villamosvágányon való közlekedés",
+    "fine_chf": 60,
+    "keywords": [
+      "Villamosvágány",
+      "Villamosvágány",
+      "jogosulatlan közlekedés",
+      "különleges sávok",
+      "villamosvágányok"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "A sávdiszciplinát megszegő, a jelzett iránynyilat figyelmen kívül hagyó",
+    "fine_chf": 100,
+    "keywords": [
+      "Sávdiszciplin",
+      "Iránynyíl",
+      "Útburkolati jelzés",
+      "Sávdiszciplin",
+      "jelzett nyíl",
+      "Figyelmen kívül hagyás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A sávnyilak/disciplin figyelmen kívül hagyása.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "A sávdiszciplinát megszegő, a közlekedési lámpa kontúrnyilat figyelmen kívül hagyó",
+    "fine_chf": 100,
+    "keywords": [
+      "Sávdiszciplin",
+      "Kontúrnyíl",
+      "Közlekedési lámpa rendszer",
+      "Közlekedési lámpa",
+      "jelző nyíl",
+      "Sávdiszciplin"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A közlekedési lámpákon megjelenő iránynyíl figyelmen kívül hagyása.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Az iránynyíl által jelzett irányban való haladás elmulasztása (beleértve a biztonsági vonal átlépését, amely ugyanabba az irányba haladó sávokat elválasztja [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Iránynyíl irány",
+      "Haladás elmulasztása",
+      "Biztonsági vonal",
+      "kötelező irány",
+      "folyamatos vonal",
+      "Átlépés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A kötelező sávirány betartásának elmulasztása, amelyet egy nyíl jelöl (beleértve a folyamatos vonal átlépését a kerülés érdekében).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "A sávdiszciplinát megszegő, a zippel összeolvadást figyelmen kívül hagyó",
+    "fine_chf": 100,
+    "keywords": [
+      "Sávdiszciplin",
+      "Zippel összeolvadás",
+      "Összeolvadás",
+      "zippel összeolvadás",
+      "sávvége",
+      "Figyelmen kívül hagyás"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A zippel összeolvadás elhagyása, amikor a sávok véget érnek.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Buszsávban való közlekedés",
+    "fine_chf": 60,
+    "keywords": [
+      "Buszsáv",
+      "Buszsáv",
+      "Különleges sáv",
+      "jogosulatlan használat"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető (kivéve busz)"
+    ],
+    "conditions": null,
+    "notes": "Jelölt buszsávban való közlekedés.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Buszúton való közlekedés",
+    "fine_chf": 60,
+    "keywords": [
+      "Buszút",
+      "Buszút",
+      "Különleges sáv",
+      "jogosulatlan használat"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető (kivéve busz)"
+    ],
+    "conditions": null,
+    "notes": "Jelölt buszúton vagy -pályán való közlekedés (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Nem teljes megállás a megálló jelzéseknél (gördülő megállás) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Megálló jel",
+      "Gördülő megállás",
+      "Megállás",
+      "Megálló tábla",
+      "megállás elmulasztása",
+      "Jel 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A 'gördülő megállás', amikor a jármű nem áll teljesen meg a megálló vonalnál.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Közlekedési lámpa figyelmen kívül hagyása",
+    "fine_chf": 250,
+    "keywords": [
+      "Közlekedési lámpa",
+      "Vörös lámpa",
+      "Közlekedési lámpa",
+      "Figyelmen kívül hagyás",
+      "Vörös lámpa",
+      "Jel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Általános szabálysértés a vörös lámpa vagy egyenértékű jelzés áthágása esetén.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "A „váltakozó villogó fényjel” (3.20) vagy az „egyszerű villogó fényjel” (3.21) figyelmen kívül hagyása",
+    "fine_chf": 250,
+    "keywords": [
+      "Váltakozó villogó fényjel",
+      "Egyszerű villogó fényjel",
+      "Villogó jel",
+      "vasúti átjáró",
+      "szintátmenet",
+      "Jel 3.20",
+      "Jel 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A villogó figyelmeztetések figyelmen kívül hagyása, amelyek általában vasúti átjáróknál vagy kritikus veszélyes pontoknál használatosak.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Kerékpár sáv átkelése folytonos vonallal jelölve",
+    "fine_chf": 60,
+    "keywords": [
+      "Kerékpár sáv",
+      "folyamatos vonal",
+      "kerékpár sáv",
+      "folyamatos vonal",
+      "átkelés tilos",
+      "Átkelés"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető (kivéve kerékpárok)"
+    ],
+    "conditions": null,
+    "notes": "Kerékpár sáv átkelése vagy rajta való közlekedés, amelyet egy folyamatos fehér vonal jelöl.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

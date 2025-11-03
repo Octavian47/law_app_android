@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "Zákaz otáčení (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zákaz otáčení",
+      "Zakázáno otáčet",
+      "Signál 2.46",
+      "Otáčení",
+      "Regulační signál"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Povinné sněhové řetězy (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Sněhové řetězy",
+      "povinné",
+      "Sněhové řetězy",
+      "povinné",
+      "Signál 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Pěší zóna (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pěší zóna",
+      "Pěší zóna",
+      "Vstup zakázán",
+      "Signál 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoprávněný vstup do pěší zóny.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Cyklopruh (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Cyklopruh",
+      "Cyklopruh",
+      "jízda zakázána",
+      "Signál 2.60",
+      "Jízda zakázána"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla (kromě kol)"
+    ],
+    "conditions": null,
+    "notes": "Použití cesty vyhrazené výhradně pro cyklisty.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Pěší cesta (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pěší cesta",
+      "Pěší cesta",
+      "jízda zakázána",
+      "Signál 2.61",
+      "Jízda zakázána"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla (kromě chodců)"
+    ],
+    "conditions": null,
+    "notes": "Použití cesty vyhrazené výhradně pro chodce.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Cyklopruh a pěší cesta (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Cyklopruh a pěší cesta",
+      "spojená cesta",
+      "jízda zakázána",
+      "Signál 2.63",
+      "Jízda zakázána"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla (kromě kol a chodců)"
+    ],
+    "conditions": null,
+    "notes": "Použití cesty vyhrazené pro cyklisty a chodce.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Zákaz přívěsů s výjimkou sedlových a centrálně osových přívěsů (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zákaz přívěsů",
+      "Zákaz přívěsů",
+      "Sedlový přívěs",
+      "Centrálně osový přívěs",
+      "Signál 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla (s přívěsem)"
+    ],
+    "conditions": null,
+    "notes": "Jízda s zakázaným typem přívěsu.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Nedodržení regulačního signálu „Zákaz předjíždění pro nákladní vozidla“ na dálnicích (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Zákaz předjíždění",
+      "Nákladní vozidlo",
+      "Dálnice",
+      "Nákladní vozidlo",
+      "Zákaz předjíždění",
+      "Signál 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič nákladního vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nelegální předjíždění nákladním vozidlem na dálnicích, kde je zakázáno.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Jízda po tramvajové trati",
+    "fine_chf": 60,
+    "keywords": [
+      "Tramvajová trať",
+      "Tramvajová trať",
+      "jízda zakázána",
+      "speciální pruhy",
+      "tramvajové tratě"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Porušení disciplíny pruhu ignorováním označené šipky směru",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplína pruhu",
+      "Šipka směru",
+      "Dopravní značení",
+      "Disciplína pruhu",
+      "označená šipka",
+      "Ignorování"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování šipek pruhu/disciplíny.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Porušení disciplíny pruhu ignorováním konturové šipky dopravního signalizačního systému",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplína pruhu",
+      "Konturová šipka",
+      "Systém semaforů",
+      "semafor",
+      "signalizační šipka",
+      "Disciplína pruhu"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Ignorování konturové šipky dopravního signalizačního systému.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Nedodržení jízdy ve směru šipky (včetně možného přejíždění bezpečnostní čáry oddělující pruhy ve stejném směru [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Směr šipky",
+      "Nedodržení jízdy",
+      "Bezpečnostní čára",
+      "povinný směr",
+      "plná čára",
+      "překročení"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení povinného směru pruhu ukázaného šipkou (včetně překročení plné čáry, aby se tomu vyhnulo).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Porušení disciplíny pruhu ignorováním zipového sloučení",
+    "fine_chf": 100,
+    "keywords": [
+      "Disciplína pruhu",
+      "Zipové sloučení",
+      "sloučení",
+      "zipové sloučení",
+      "ukončení pruhu",
+      "Ignorování"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nedodržení zipového sloučení při konci pruhu.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Jízda v autobusovém pruhu",
+    "fine_chf": 60,
+    "keywords": [
+      "Autobusový pruh",
+      "Autobusový pruh",
+      "Speciální pruh",
+      "neoprávněné použití"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla (kromě autobusu)"
+    ],
+    "conditions": null,
+    "notes": "Jízda v označeném autobusovém pruhu.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Jízda na autobusové trati",
+    "fine_chf": 60,
+    "keywords": [
+      "Autobusová trasa",
+      "Autobusová trasa",
+      "Speciální pruh",
+      "neoprávněné použití"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla (kromě autobusu)"
+    ],
+    "conditions": null,
+    "notes": "Jízda na vyhrazené autobusové silnici/trasě (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Neúplné zastavení na stop signálech (přechodné zastavení) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Stop signál",
+      "Přechodné zastavení",
+      "Zastavení",
+      "Stopka",
+      "nedodržení zastavení",
+      "Signál 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "A 'rolling stop' where the vehicle does not fully halt at the stop line.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nedodržení dopravního signalizačního zařízení",
+    "fine_chf": 250,
+    "keywords": [
+      "Dopravní signalizační zařízení",
+      "Červené světlo",
+      "Dopravní signalizační zařízení",
+      "ignorování",
+      "Červené světlo",
+      "Signál"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "General offense for running a red light or equivalent traffic signal violation.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Nedodržení „střídavého blikajícího světelného signálu“ (3.20) nebo „jednoduchého blikajícího světelného signálu“ (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Střídavý blikající světelný signál",
+      "Jednoduchý blikající světelný signál",
+      "blikající signál",
+      "železniční přejezd",
+      "úrovňový přejezd",
+      "Signál 3.20",
+      "Signál 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Disregarding flashing warnings, typically used at railway crossings or critical danger points.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Překročení cyklopruhu označeného souvislou čárou",
+    "fine_chf": 60,
+    "keywords": [
+      "Cyklopruh",
+      "souvislá čára",
+      "Cyklopruh",
+      "plná čára",
+      "překročení zakázáno",
+      "Překročení"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Řidič vozidla (kromě kol)"
+    ],
+    "conditions": null,
+    "notes": "Překročení nebo jízda po cyklopruhu označeném plnou bílou čárou.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

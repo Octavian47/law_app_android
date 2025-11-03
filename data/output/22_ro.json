@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Stare defectuoasă a anvelopei pe roată",
+    "fine_chf": 20,
+    "keywords": [
+      "anvelopă",
+      "stare",
+      "defect",
+      "VTS",
+      "roată",
+      "anvelopă",
+      "echipament"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicul"
+    ],
+    "conditions": "pe roată",
+    "notes": "Se referă la elementul 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Nerespectarea purtării centurilor de siguranță de către pasager",
+    "fine_chf": 60,
+    "keywords": [
+      "centuri de siguranță",
+      "obligație de centură",
+      "pasager",
+      "pasager",
+      "centură de siguranță",
+      "pasager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasager",
+      "Pasager"
+    ],
+    "conditions": null,
+    "notes": "Secțiunea 800.1: Neutilizarea centurilor de siguranță de către pasageri.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Nerespectarea purtării căștii de protecție de către pasagerii pe motociclete, vehicule ușoare, mici și cu trei roți",
+    "fine_chf": 60,
+    "keywords": [
+      "cască",
+      "obligație de cască",
+      "pasager",
+      "motocicletă",
+      "cască",
+      "pasager"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pasager",
+      "Motociclete"
+    ],
+    "conditions": null,
+    "notes": "Secțiunea 800.2: Neutilizarea căștii de protecție de către pasagerii pe motociclete/vehicule cu trei roți.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Împingerea unui vehicul sau obiect de către pasager",
+    "fine_chf": 20,
+    "keywords": [
+      "împingere",
+      "vehicul",
+      "obiect",
+      "pasager",
+      "împinge",
+      "obiect",
+      "pasager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasager"
+    ],
+    "conditions": null,
+    "notes": "Secțiunea 801.1: Împingerea unui vehicul sau obiect de către pasager (probabil comportament interzis în mișcare/în trafic).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tragerea unui vehicul sau obiect de către pasager",
+    "fine_chf": 20,
+    "keywords": [
+      "tragere",
+      "vehicul",
+      "obiect",
+      "pasager",
+      "trage",
+      "obiect",
+      "pasager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasager"
+    ],
+    "conditions": null,
+    "notes": "Secțiunea 801.2: Tragerea unui vehicul sau obiect de către pasager.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Remorcarea unui vehicul sau obiect de către pasager",
+    "fine_chf": 20,
+    "keywords": [
+      "remorcare",
+      "vehicul",
+      "obiect",
+      "pasager",
+      "remorca",
+      "obiect",
+      "pasager"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasager"
+    ],
+    "conditions": null,
+    "notes": "Secțiunea 801.3: Remorcarea/tragerea unui vehicul sau obiect de către pasager.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Nerespectarea utilizării trotuarului",
+    "fine_chf": 10,
+    "keywords": [
+      "trotuar",
+      "pistă pietonală",
+      "neutilizare",
+      "pieton",
+      "trotuar",
+      "pieton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea utilizării trotuarului când este disponibil.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nerespectarea utilizării trecerii pietonale, dacă este la mai puțin de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "trecere pietonală",
+      "trecere zebra",
+      "neutilizare",
+      "50m",
+      "trecere pietonală"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": "dacă este la mai puțin de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nerespectarea utilizării pasarelei, dacă este la mai puțin de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "pasarelă",
+      "pod pietonal",
+      "neutilizare",
+      "50m",
+      "pasarelă pietonală"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": "dacă este la mai puțin de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Nerespectarea utilizării subtrecerii, dacă este la mai puțin de 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "subtrecere",
+      "tunel pietonal",
+      "neutilizare",
+      "50m",
+      "subtrecere pietonală"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": "dacă este la mai puțin de 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Nerespectarea semnalului „Nu sunt permise pietoni” (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "interdicție",
+      "pieton",
+      "semnal",
+      "neobservare",
+      "restricție",
+      "pieton",
+      "semn"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Nerespectarea semnalului „Traseu pietonal” (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "traseu pietonal",
+      "semnal",
+      "neobservare",
+      "traseu pietonal",
+      "semn"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pieton"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea semnului dedicat traseului pietonal.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Nerespectarea unui semnal luminos",
+    "fine_chf": 20,
+    "keywords": [
+      "semnal luminos",
+      "pieton",
+      "semnal",
+      "neobservare",
+      "semafor",
+      "pieton"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pieton",
+      "Utilizator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Traversarea pe roșu (ca pieton/utilizator de dispozitiv de mobilitate).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Nerespectarea unui „semnal luminos intermitent alternativ” (3.20) sau a unui „semnal luminos intermitent simplu” (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "semnal luminos intermitent",
+      "lumină intermitentă alternativă",
+      "semnal",
+      "trecere la nivel",
+      "lumina de avertizare",
+      "trecere la nivel"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pieton",
+      "Utilizator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea luminilor intermitente de avertizare (de ex., la treceri la nivel).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Intrarea pe autostrăzi",
+    "fine_chf": 20,
+    "keywords": [
+      "autostradă",
+      "intrare",
+      "pieton",
+      "interdicție",
+      "autostradă",
+      "acces",
+      "interzis"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pieton",
+      "Utilizator de dispozitive asemănătoare vehiculelor"
+    ],
+    "conditions": null,
+    "notes": "Intrarea sau mersul pe autostrăzi (care este în general restricționat la traficul motorizat).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Usar a calçada sem desmontar",
+    "fine_chf": 30,
+    "keywords": [
+      "calçada",
+      "desmontar",
+      "bicicleta",
+      "Velo",
+      "caminho de pedestres",
+      "desmontagem"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Condutor de bicicleta",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Usar a calçada/passadeira sem desmontar (aplica-se a ciclistas).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Usar a ciclofaixa na direção proibida",
+    "fine_chf": 30,
+    "keywords": [
+      "ciclofaixa",
+      "direção proibida",
+      "Velo",
+      "fluxo contrário",
+      "ciclofaixa"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Condutor de bicicleta",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Usar a ciclofaixa na direção errada.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Usar a faixa de bicicleta na direção proibida",
+    "fine_chf": 30,
+    "keywords": [
+      "faixa de bicicleta",
+      "direção proibida",
+      "Velo",
+      "fluxo contrário",
+      "faixa de bicicleta"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Condutor de bicicleta",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Usar a faixa de bicicleta na direção errada.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Falha em parar completamente nos sinais de parada (parada rolante) (3.01; Art. 27 Abs. 1 SVG e Art. 36 Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "sinal de parada",
+      "parada rolante",
+      "parada",
+      "regras de trânsito",
+      "sinal de stop",
+      "falha ao parar"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Falha em parar completamente (Parada rolante).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Falha em obedecer ao sinal de semáforo",
+    "fine_chf": 60,
+    "keywords": [
+      "sinal luminoso",
+      "desrespeito",
+      "luz vermelha",
+      "semáforo",
+      "falha ao obedecer",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Ignorar um semáforo (geralmente referindo-se a atravessar no vermelho/amarelo).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Falha em obedecer ao 'sinal luminoso intermitente alternado' (3.20) ou ao 'sinal luminoso intermitente simples' (3.21; Art. 28 SVG, Art. 68 Abs. 1 e seq. e Art. 93 Abs. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sinal luminoso intermitente alternado",
+      "sinal luminoso intermitente simples",
+      "desrespeito",
+      "luz intermitente",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Falha em obedecer a sinais luminosos especiais (ex.: cruzamentos ferroviários).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Violação da ordem de faixa única ao desrespeitar a seta de direção marcada e a seta de contorno do sistema de semáforos",
+    "fine_chf": 30,
+    "keywords": [
+      "ordem de faixa única",
+      "seta de direção",
+      "seta de contorno",
+      "desrespeito",
+      "disciplina de faixa",
+      "sinalização"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Violação da disciplina de faixa ao desrespeitar setas de direção ou de contorno marcadas perto de semáforos.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Falha em continuar a conduzir na direção da seta",
+    "fine_chf": 30,
+    "keywords": [
+      "direção da seta",
+      "continuar a conduzir",
+      "faixa",
+      "direção da faixa",
+      "fluxo de tráfego"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Falha em continuar a conduzir na direção indicada pela seta da faixa.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Falha em dar um sinal manual ou indicação de direção ao virar à direita",
+    "fine_chf": 20,
+    "keywords": [
+      "sinal manual",
+      "indicação de direção",
+      "viragem à direita",
+      "sinal de mudança",
+      "sinalização",
+      "virar à direita"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Falha em sinalizar ao virar à direita.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Falha em dar um sinal manual ou indicação de direção ao virar à esquerda",
+    "fine_chf": 30,
+    "keywords": [
+      "sinal manual",
+      "indicação de direção",
+      "viragem à esquerda",
+      "sinal de mudança",
+      "sinalização",
+      "virar à esquerda"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Falha em sinalizar ao virar à esquerda.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Falha em dar um sinal manual ou indicação de direção ao ultrapassar",
+    "fine_chf": 20,
+    "keywords": [
+      "sinal manual",
+      "indicação de direção",
+      "ultrapassagem",
+      "sinal de mudança",
+      "sinalização",
+      "ultrapassagem"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Condutor de veículo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Falha em sinalizar ao ultrapassar.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Conduzir sobre ou atravessar uma linha de segurança dentro de área urbana",
+    "fine_chf": 40,
+    "keywords": [
+      "linha de segurança",
+      "conduzir sobre",
+      "atravessar",
+      "em área urbana",
+      "linha contínua",
+      "disciplina de tráfego"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Atravessar uma linha branca contínua (proibido ultrapassar/atravessar) dentro de área urbana.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Conduzir em faixa de ônibus reservada sem autorização",
+    "fine_chf": 30,
+    "keywords": [
+      "faixa de ônibus",
+      "conduzir",
+      "proibido",
+      "faixa de ônibus",
+      "acesso restrito"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Condutor de veículo (não autorizado)"
+    ],
+    "conditions": null,
+    "notes": "Conduzir em faixa de ônibus reservada sem autorização.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Conduzir em caminho inadequado para bicicletas, motocicletas e riquixás elétricos ou evidentemente não destinado a eles",
+    "fine_chf": 30,
+    "keywords": [
+      "uso de caminho",
+      "inadequado",
+      "bicicleta",
+      "motocicleta",
+      "riquixá elétrico",
+      "caminho inadequado",
+      "acesso restrito"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Condutor de motocicleta",
+      "Condutor de riquixá elétrico"
+    ],
+    "conditions": null,
+    "notes": "Usar um caminho claramente inadequado ou não destinado a bicicletas/motocicletas/riquixás elétricos.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Falha em usar a ciclofaixa",
+    "fine_chf": 30,
+    "keywords": [
+      "ciclofaixa",
+      "não uso",
+      "uso obrigatório",
+      "uso compulsório",
+      "ciclofaixa"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Falha em usar uma ciclofaixa obrigatória.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Falha em usar a faixa de bicicleta",
+    "fine_chf": 30,
+    "keywords": [
+      "faixa de bicicleta",
+      "não uso",
+      "uso obrigatório",
+      "uso compulsório",
+      "faixa de bicicleta"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Falha em usar uma faixa de bicicleta obrigatória.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Estacionar ou parar uma bicicleta, motocicleta ou riquixá elétrico onde a parada ou estacionamento é proibido pelas regras gerais de trânsito",
+    "fine_chf": 20,
+    "keywords": [
+      "estacionamento proibido",
+      "parada proibida",
+      "bicicleta",
+      "motocicleta",
+      "riquixá elétrico",
+      "proibição de estacionamento",
+      "regras gerais de trânsito"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Condutor de motocicleta",
+      "Condutor de riquixá elétrico"
+    ],
+    "conditions": null,
+    "notes": "Estacionamento/parada proibidos por regras gerais (não por sinais).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Estacionar ou parar uma bicicleta, motocicleta ou riquixá elétrico onde a parada ou estacionamento é proibido por sinais",
+    "fine_chf": 20,
+    "keywords": [
+      "estacionamento proibido",
+      "parada proibida",
+      "sinais",
+      "bicicleta",
+      "motocicleta",
+      "riquixá elétrico",
+      "proibição de estacionamento",
+      "sinais"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Condutor de motocicleta",
+      "Condutor de riquixá elétrico"
+    ],
+    "conditions": null,
+    "notes": "Estacionamento/parada proibidos por sinais de trânsito específicos.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

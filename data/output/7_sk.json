@@ -1,0 +1,459 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 77 Abs. 2 SSV",
+    "law_text": "Zastavenie na chodníku pred prechodom pre chodcov pri čiare zakázaného zastavenia",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Parkovanie",
+      "Chodník",
+      "Prechod pre chodcov",
+      "Čiara zakázaného zastavenia",
+      "zastavenie",
+      "prechod pre chodcov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na chodníku pri čiare 'Zakázané zastavenie' pred prechodom pre chodcov.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkovanie na chodníku menej ako 5 m od prechodu pre chodcov, kde nie je nainštalovaná čiara zakázaného zastavenia (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "Chodník",
+      "Prechod pre chodcov",
+      "Čiara zakázaného zastavenia",
+      "Vzdialenosť",
+      "parkovanie",
+      "chodník",
+      "prechod pre chodcov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na chodníku menej ako 5 m od prechodu pre chodcov, kde nie je žiadna čiara 'Zakázané zastavenie'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Parkovanie na chodníku menej ako 5 m od prechodu pre chodcov, kde nie je nainštalovaná čiara zakázaného zastavenia",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkovanie",
+      "Chodník",
+      "Prechod pre chodcov",
+      "Čiara zakázaného zastavenia",
+      "Vzdialenosť",
+      "parkovanie",
+      "chodník",
+      "prechod pre chodcov"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie na chodníku menej ako 5 m od prechodu pre chodcov, kde nie je žiadna čiara 'Zakázané zastavenie'.",
+    "source": {
+      "page": 9,
+      "line_hint": "237. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Parkovanie v obmedzenej oblasti",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "Obmedzená oblasť",
+      "Zastavenie",
+      "Obmedzená zóna",
+      "parkovanie",
+      "šrafovanie",
+      "oblasť zakázaného parkovania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Parkovanie na šrafovanej/označenej obmedzenej oblasti.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 78 SSV",
+    "law_text": "Zastavenie v obmedzenej oblasti",
+    "fine_chf": 80,
+    "keywords": [
+      "Parkovanie",
+      "Obmedzená oblasť",
+      "Zastavenie",
+      "Obmedzená zóna",
+      "zastavenie",
+      "šrafovanie",
+      "oblasť zakázaného zastavenia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na šrafovanej/označenej obmedzenej oblasti.",
+    "source": {
+      "page": 9,
+      "line_hint": "238. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV) bis 60 Minuten",
+    "law_text": "Parkovanie na čiare v tvare ziga",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "Čiara v tvare ziga",
+      "Zastavenie",
+      "Čakacia zóna",
+      "parkovanie",
+      "čiara v tvare ziga",
+      "nakladacia zóna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na čiare v tvare ziga (často pre autobusové zastávky alebo nakladacie zóny).",
+    "source": {
+      "page": 9,
+      "line_hint": "239.12 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Prekážanie zastavenia na čiare v tvare ziga za účelom nastúpenia a výstupu cestujúcich",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Čiara v tvare ziga",
+      "Nastúpenie",
+      "Výstup",
+      "Prekážanie",
+      "zastavenie",
+      "čiara v tvare ziga",
+      "prekážanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Prekážanie zastavenia na čiare v tvare ziga za účelom vyzdvihnutia/odloženia osôb.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 3 SSV",
+    "law_text": "Zastavenie na čiare v tvare ziga pre manipuláciu s tovarom",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Čiara v tvare ziga",
+      "Manipulácia s tovarom",
+      "Dodacia zóna",
+      "zastavenie",
+      "čiara v tvare ziga",
+      "nakladanie tovaru"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na čiare v tvare ziga za účelom nakládania/vykládania tovaru.",
+    "source": {
+      "page": 9,
+      "line_hint": "239. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 65 Abs. 5 und 79 Abs. 4 SSV) bis 60 Minuten",
+    "law_text": "Parkovanie neoprávneného vozidla na parkovacom mieste vyhradenom pre osoby so zníženou pohyblivosťou",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "Osoby so zníženou pohyblivosťou",
+      "Parkovacie miesto",
+      "Invalidný vozík",
+      "Neoprávnené",
+      "parkovanie",
+      "invalidi",
+      "handicap"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Neoprávnené parkovanie na mieste vyhradenom pre osoby so zdravotným postihom.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a VRV",
+    "law_text": "Neoprávnené použitie „Parkovacej karty pre osoby so zdravotným postihom“",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovacia karta",
+      "Osoby so zníženou pohyblivosťou",
+      "Zneužitie",
+      "Neoprávnené",
+      "Povolenie",
+      "parkovacia karta",
+      "invalidi",
+      "zneužitie"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoprávnené použitie „Parkovacieho povolenia pre osoby so zdravotným postihom“.",
+    "source": {
+      "page": 9,
+      "line_hint": "240. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV und Art. 19 Abs. 2 Bst. a VRV) bis 60 Minuten",
+    "law_text": "Parkovanie na čiare zakázaného zastavenia",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkovanie",
+      "Čiara zakázaného zastavenia",
+      "Zákaz",
+      "parkovanie",
+      "čiara zakázaného zastavenia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 60 minút",
+    "notes": "Parkovanie na čiare 'Zakázané zastavenie'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241.13 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 2 SSV",
+    "law_text": "Zastavenie na čiare zakázaného zastavenia",
+    "fine_chf": 80,
+    "keywords": [
+      "Zastavenie",
+      "Čiara zakázaného zastavenia",
+      "Zákaz",
+      "zastavenie",
+      "čiara zakázaného zastavenia"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Zastavenie na čiare 'Zakázané zastavenie'.",
+    "source": {
+      "page": 9,
+      "line_hint": "241. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkovanie na hlavnej ceste mimo obývaných oblastí: až do 2 hodín",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "mimo obývaných oblastí",
+      "Po ceste",
+      "parkovanie",
+      "hlavná cesta",
+      "mimo obývaných oblastí"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 2 hodín",
+    "notes": "Parkovanie na hlavnej ceste mimo obývaných oblastí, až do 2 hodín.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkovanie na hlavnej ceste mimo obývaných oblastí: viac ako 2, ale nie viac ako 4 hodiny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "mimo obývaných oblastí",
+      "Po ceste",
+      "parkovanie",
+      "hlavná cesta",
+      "mimo obývaných oblastí"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "viac ako 2, ale nie viac ako 4 hodiny",
+    "notes": "Parkovanie na hlavnej ceste mimo obývaných oblastí, viac ako 2, ale nie viac ako 4 hodiny.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. b VRV",
+    "law_text": "Parkovanie na hlavnej ceste mimo obývaných oblastí: viac ako 4, ale nie viac ako 10 hodín",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "mimo obývaných oblastí",
+      "Po ceste",
+      "parkovanie",
+      "hlavná cesta",
+      "mimo obývaných oblastí"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "viac ako 4, ale nie viac ako 10 hodín",
+    "notes": "Parkovanie na hlavnej ceste mimo obývaných oblastí, viac ako 4, ale nie viac ako 10 hodín.",
+    "source": {
+      "page": 9,
+      "line_hint": "242. c."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkovanie na hlavnej ceste v obývaných oblastiach, keď nie je dostatok miesta pre prechod dvoch motorových vozidiel: až do 2 hodín",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "v meste",
+      "Prechod",
+      "Prekážka",
+      "parkovanie",
+      "hlavná cesta",
+      "v meste",
+      "prechod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "až do 2 hodín",
+    "notes": "Parkovanie na hlavnej ceste v obývaných oblastiach, ak nie je dostatok miesta pre prechod dvoch motorových vozidiel, až do 2 hodín.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. a."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkovanie na hlavnej ceste v obývaných oblastiach, keď nie je dostatok miesta pre prechod dvoch motorových vozidiel: viac ako 2, ale nie viac ako 4 hodiny",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "v meste",
+      "Prechod",
+      "Prekážka",
+      "parkovanie",
+      "hlavná cesta",
+      "v meste",
+      "prechod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "viac ako 2, ale nie viac ako 4 hodiny",
+    "notes": "Parkovanie na hlavnej ceste v obývaných oblastiach, ak nie je dostatok miesta pre prechod dvoch motorových vozidiel, viac ako 2, ale nie viac ako 4 hodiny.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. c VRV",
+    "law_text": "Parkovanie na hlavnej ceste v obývaných oblastiach, keď nie je dostatok miesta pre prechod dvoch motorových vozidiel: viac ako 4, ale nie viac ako 10 hodín",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkovanie",
+      "Hlavná cesta",
+      "v meste",
+      "Prechod",
+      "Prekážka",
+      "parkovanie",
+      "hlavná cesta",
+      "v meste",
+      "prechod"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vodič vozidla"
+    ],
+    "conditions": "viac ako 4, ale nie viac ako 10 hodín",
+    "notes": "Parkovanie na hlavnej ceste v obývaných oblastiach, ak nie je dostatok miesta pre prechod dvoch motorových vozidiel, viac ako 4, ale nie viac ako 10 hodín.",
+    "source": {
+      "page": 9,
+      "line_hint": "243. c."
+    }
+  }
+]

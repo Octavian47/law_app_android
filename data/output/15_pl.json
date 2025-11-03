@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Jazda na pasie awaryjnym autostrad lub dróg szybkiego ruchu",
+    "fine_chf": 140,
+    "keywords": [
+      "pas awaryjny",
+      "autostrada",
+      "droga szybkiego ruchu",
+      "pas awaryjny",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "Korzystanie z najbardziej lewego pasa na autostradach z co najmniej trzema pasami w tym samym kierunku przez pojazdy silnikowe, które nie mogą przekraczać 100 km/h",
+    "fine_chf": 60,
+    "keywords": [
+      "lewy pas",
+      "autostrada",
+      "prędkość",
+      "100 km/h",
+      "użycie pasa",
+      "autostrada"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Pojazdy silnikowe"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Niezapewnienie pasa ratunkowego",
+    "fine_chf": 100,
+    "keywords": [
+      "pas ratunkowy",
+      "obowiązek",
+      "korytarz awaryjny",
+      "pojazd ratunkowy"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Uciążliwa jazda na pasie wzdłużnym przeznaczonym dla pieszych",
+    "fine_chf": 60,
+    "keywords": [
+      "piesi",
+      "pas wzdłużny",
+      "przeszkoda",
+      "pas dla pieszych",
+      "przeszkoda"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z tablicami kontrolnymi, które nie są łatwo czytelne",
+    "fine_chf": 60,
+    "keywords": [
+      "tablice kontrolne",
+      "tablica rejestracyjna",
+      "czytelna",
+      "tablica rejestracyjna",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Przewóz osoby przekraczającej dozwoloną liczbę miejsc",
+    "fine_chf": 60,
+    "keywords": [
+      "nadmiarowy pasażer",
+      "miejsca",
+      "przeciążenie",
+      "pasażer",
+      "pojemność"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Jeden pasażer ponad dozwoloną liczbę miejsc.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nieprzestrzeganie zakazu jazdy nocnej\na. do jednej godziny",
+    "fine_chf": 100,
+    "keywords": [
+      "zakaz jazdy nocnej",
+      "zakaz jazdy nocnej",
+      "Transport",
+      "czas trwania"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu (ciężkie pojazdy silnikowe)"
+    ],
+    "conditions": "do jednej godziny",
+    "notes": "Naruszenie zakazu jazdy nocnej dla ciężkich pojazdów towarowych (zwykle).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Nieprzestrzeganie zakazu jazdy nocnej\nb. ponad jedną, ale nie więcej niż 2 godziny",
+    "fine_chf": 200,
+    "keywords": [
+      "zakaz jazdy nocnej",
+      "zakaz jazdy nocnej",
+      "Transport",
+      "czas trwania"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Kierowca pojazdu (ciężkie pojazdy silnikowe)"
+    ],
+    "conditions": "powyżej 1 godziny, ale nie więcej niż 2 godziny",
+    "notes": "Naruszenie zakazu jazdy nocnej dla ciężkich pojazdów towarowych (zwykle).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętą tablicą kontrolną z powodu\n1. ładunku",
+    "fine_chf": 60,
+    "keywords": [
+      "tablica kontrolna",
+      "zasłonięta",
+      "ładunek",
+      "ładunek",
+      "zasłonięta",
+      "tablica rejestracyjna"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Tablica rejestracyjna zasłonięta przez ładunek.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętą tablicą kontrolną z powodu\n2. przenośnik ładunku",
+    "fine_chf": 60,
+    "keywords": [
+      "tablica kontrolna",
+      "zasłonięta",
+      "przenośnik ładunku",
+      "bagażnik rowerowy",
+      "zasłonięta",
+      "przenośnik"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Tablica rejestracyjna zasłonięta przez przenośnik ładunku (np. bagażnik rowerowy).",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętą tablicą kontrolną z powodu\n3. narzędzi i podobnych",
+    "fine_chf": 60,
+    "keywords": [
+      "tablica kontrolna",
+      "zasłonięta",
+      "narzędzia",
+      "narzędzia",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Tablica rejestracyjna zasłonięta przez zamoczone narzędzia robocze.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętym oświetleniem z powodu\n1. ładunku",
+    "fine_chf": 60,
+    "keywords": [
+      "oświetlenie",
+      "zasłonięte",
+      "ładunek",
+      "światła",
+      "zasłonięte",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Urządzenie oświetleniowe zasłonięte przez ładunek.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętym oświetleniem z powodu\n2. przenośnik ładunku",
+    "fine_chf": 60,
+    "keywords": [
+      "oświetlenie",
+      "zasłonięte",
+      "przenośnik ładunku",
+      "światła",
+      "zasłonięte",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Urządzenie oświetleniowe zasłonięte przez przenośnik ładunku.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Jazda z zasłoniętym oświetleniem z powodu\n3. narzędzi i podobnych",
+    "fine_chf": 60,
+    "keywords": [
+      "oświetlenie",
+      "zasłonięte",
+      "narzędzia",
+      "światła",
+      "zasłonięte",
+      "sprzęt"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Urządzenie oświetleniowe zasłonięte przez zamoczone narzędzia robocze.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zatrzymanie na przejściu dla pieszych podczas korka",
+    "fine_chf": 60,
+    "keywords": [
+      "zatrzymanie",
+      "przejście dla pieszych",
+      "korek",
+      "przejście dla pieszych",
+      "zatrzymanie",
+      "zator"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "podczas korka",
+    "notes": "Zablokowanie przejścia dla pieszych podczas korka.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Zatrzymanie na skrzyżowaniu drogi na jezdni dla ruchu poprzecznego podczas korka",
+    "fine_chf": 60,
+    "keywords": [
+      "zatrzymanie",
+      "skrzyżowanie",
+      "ruch poprzeczny",
+      "korek",
+      "skrzyżowanie",
+      "zatrzymanie"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "podczas korka",
+    "notes": "Zablokowanie obszaru skrzyżowania przeznaczonego dla ruchu poprzecznego podczas korka.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Niezastosowanie się do pierwszeństwa przejazdu na przejściu dla pieszych",
+    "fine_chf": 140,
+    "keywords": [
+      "pierwszeństwo przejazdu",
+      "przejście dla pieszych",
+      "pierwszeństwo przejazdu",
+      "priorytet",
+      "przejście dla pieszych"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niezastosowanie się do pierwszeństwa pieszych na oznakowanym przejściu.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Nieuprawniony przewóz osoby w pojazdach przeznaczonych do transportu towarów oraz w pojazdach rolniczych i leśnych",
+    "fine_chf": 60,
+    "keywords": [
+      "przewóz",
+      "transport towarów",
+      "pojazdy rolnicze",
+      "pojazdy rolnicze",
+      "transport pasażerów"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawniony przewóz pasażerów w pojazdach przeznaczonych do transportu towarów lub w pojazdach leśnych/rolniczych.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Jazda po strefie pieszej z motorowerem lub elektryczną hulajnogą stojącą przez osobę niebędącą niepełnosprawną",
+    "fine_chf": 40,
+    "keywords": [
+      "strefa piesza",
+      "elektryczny wózek inwalidzki",
+      "elektryczna hulajnoga stojąca",
+      "E-Hulajnoga",
+      "niepełnosprawność ruchowa",
+      "obszar pieszy"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Osoba niebędąca niepełnosprawną"
+    ],
+    "conditions": null,
+    "notes": "Nieuprawnione użycie urządzeń wspomagających (wózka inwalidzkiego/e-hulajnogi) na ścieżkach pieszych przez osoby niebędące niepełnosprawnymi.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Korišćenje nacionalne ceste prve ili druge klase bez vinjete potrebne za period važenja",
+    "fine_chf": 200,
+    "keywords": [
+      "Nacionalna cesta",
+      "Vinjet",
+      "Nedostajuća vinjeta",
+      "Izdavanje",
+      "Nalepnica za putarinu",
+      "Autoput"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja po nacionalnim cestama bez potrebne vinjete za putarinu.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Korišćenje nacionalne ceste prve ili druge klase sa potrebnom samolepljivom vinjetom za period važenja koja nije pričvršćena, ili nije pričvršćena na propisano mesto direktno na vozilu, ili je oštećena",
+    "fine_chf": 200,
+    "keywords": [
+      "Vinjet",
+      "Samolepljiva vinjeta",
+      "Primena",
+      "Oštećeno",
+      "Lepljenje",
+      "Postavljanje"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Vožnja sa vinjetom koja je nepravilno pričvršćena (ne direktno na vozilo) ili je oštećena.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

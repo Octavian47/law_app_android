@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "относно маркировките (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "Маркировки",
+      "Сигнали",
+      "VRV",
+      "SSV",
+      "пътни маркировки",
+      "нарушение"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Подразбира нарушение на правилата за пътна маркировка.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Неизпълнение на предимството на пешеходна пътека (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Предимство",
+      "Пешеходна пътека",
+      "Зебра пътека",
+      "SVG",
+      "VRV",
+      "предимство",
+      "пешеходна пътека"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Използване на телефон без хендс‑фри устройство по време на шофиране (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Телефон",
+      "Мобилен телефон",
+      "Хендс‑фри устройство",
+      "Шофиране",
+      "Отвличане на внимание",
+      "мобилен телефон",
+      "шофиране"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "Превишаване на общата или обозначената максимална скорост от шофьори на мотоциклети след отчитане на уреда и измервателната несигурност, определени от ASTRA (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Скорост",
+      "Максимална скорост",
+      "Мотоциклет",
+      "Мопед",
+      "SVG",
+      "нарушение на скоростта"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Водач на мотоциклет"
+    ],
+    "conditions": null,
+    "notes": "Фиксиран глоби за лека надскорост (вероятно до 5 км/ч над лимита) за мопеди/моторизирани велосипеди.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Използване на мотоциклет или електрически рикша без регистрационна табелка или без валидна винетка, докато има застраховка (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Регистрационна табелка",
+      "Винетка",
+      "Мотоциклет",
+      "Електрически рикша",
+      "Регистрационна табелка",
+      "Стикер",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Водач на мотоциклет",
+      "Водач на електрически рикша"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от потребителя (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Използване на мотоциклет или електрически рикша без необходимото разрешително за превозното средство (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Разрешително за превозно средство",
+      "Мотоциклет",
+      "Електрически рикша",
+      "SVG",
+      "Разрешително за превозно средство",
+      "Документи"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Водач на мотоциклет",
+      "Водач на електрически рикша"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от потребителя (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Използване на мотоциклет без валидна застраховка (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Застраховка",
+      "Мотоциклет",
+      "VZV",
+      "Застраховка",
+      "Мопед",
+      "Задължително"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Водач на мотоциклет"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от потребителя (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Отдаване на мотоциклет или електрически рикша без регистрационна табелка или без валидна винетка, докато има застраховка за ползване (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Отдаване",
+      "Регистрационна табелка",
+      "Винетка",
+      "Мотоциклет",
+      "Електрически рикша",
+      "отдаване",
+      "табелка",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Собственик",
+      "Отдаващ"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от собственика/отдаващия (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Отдаване на мотоциклет или електрически рикша без необходимото разрешително за превозното средство за ползване (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Отдаване",
+      "Разрешително за превозно средство",
+      "Мотоциклет",
+      "Електрически рикша",
+      "VZV",
+      "отдаване",
+      "документи за превозното средство"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Собственик",
+      "Отдаващ"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от собственика/отдаващия (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Отдаване на мотоциклет без валидна застраховка за ползване (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Отдаване",
+      "Застраховка",
+      "Мотоциклет",
+      "VZV",
+      "отдаване",
+      "застраховка"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Собственик",
+      "Отдаващ"
+    ],
+    "conditions": null,
+    "notes": "Нарушението се извършва от собственика/отдаващия (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Шофиране с регистрационна табелка, която не е лесно четима (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Регистрационна табелка",
+      "четливост",
+      "Шофиране",
+      "VRV",
+      "VTS",
+      "Регистрационен номер",
+      "четливост",
+      "мръсна табелка"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Шофиране без задължителен звънец на мотоциклети (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "Звънец",
+      "Мотоциклет",
+      "Оборудване",
+      "VTS",
+      "Мопед",
+      "звънец",
+      "оборудване"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Водач на мотоциклет"
+    ],
+    "conditions": null,
+    "notes": "Шофиране на мопед/моторизиран велосипед без задължителен звънец.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Шофиране без постоянно закрепени отражатели (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "Отразител",
+      "Отразител",
+      "Оборудване",
+      "VTS",
+      "отразител",
+      "оборудване",
+      "липсва"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Шофиране без фиксирани отражатели (важи общо за превозни средства, които ги изискват, често велосипеди/мопеди в тази секция).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

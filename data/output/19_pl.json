@@ -1,0 +1,503 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Uderzenie pojazdu lub przedmiotu przez kierowcę",
+    "fine_chf": 20,
+    "keywords": [
+      "Uderzenie",
+      "Kolizja",
+      "Przedmiot",
+      "Kierowca",
+      "kolizja",
+      "przedmiot",
+      "kierowca"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kobieta kierowca",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Przypadkowe uderzenie pojazdu lub przedmiotu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Ciągnięcie pojazdu lub przedmiotu przez kierowcę",
+    "fine_chf": 20,
+    "keywords": [
+      "Ciągnięcie",
+      "Przedmiot",
+      "Kierowca",
+      "ciągnięcie",
+      "przedmiot",
+      "kierowca"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kobieta kierowca",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Spowodowanie szkody przez ciągnięcie lub przeciąganie pojazdu lub przedmiotu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Holowanie pojazdu lub przedmiotu przez kierowcę",
+    "fine_chf": 20,
+    "keywords": [
+      "Holowanie",
+      "Przedmiot",
+      "Kierowca",
+      "holowanie",
+      "przeciąganie",
+      "przedmiot",
+      "kierowca"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Kobieta kierowca",
+      "Kierowca"
+    ],
+    "conditions": null,
+    "notes": "Spowodowanie szkody podczas holowania lub przeciągania pojazdu lub przedmiotu.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Ogólny zakaz ruchu w obu kierunkach» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zakaz ruchu",
+      "Sygnał zakazu",
+      "W obu kierunkach",
+      "Ogólny zakaz",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku 'Zakaz pojazdów w obu kierunkach'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Wjazd zabroniony» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Wjazd",
+      "Zabroniony",
+      "Sygnał zakazu",
+      "Zakaz wjazdu",
+      "Zakazany wjazd",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku 'Zakaz wjazdu'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zakaz dla rowerów i motorowerów» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rower",
+      "Motorower",
+      "Rower",
+      "Motorower",
+      "Zakaz",
+      "rower",
+      "motorower",
+      "sygnalizacja"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Rowerzysta",
+      "Motorowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku zakazu dla rowerów i motorowerów.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Zakaz dla motorowerów» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Motorower",
+      "Motorower",
+      "Zakaz",
+      "motorower",
+      "Sygnalizacja"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Motorowerzysta"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku zakazu wyłącznie dla motorowerów.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Kierunek w prawo» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kierunek",
+      "Prawo",
+      "Sygnał regulacyjny",
+      "kierunek w prawo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego sygnału kierunku (prawo).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Kierunek w lewo» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Kierunek",
+      "Lewo",
+      "Sygnał regulacyjny",
+      "kierunek w lewo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego sygnału kierunku (lewo).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Omijanie przeszkody po prawej» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Przeszkoda",
+      "Prawo",
+      "Omijanie",
+      "omijanie przeszkody po prawej",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego kierunku omijania przeszkody po prawej stronie.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Omijanie przeszkody po lewej» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Przeszkoda",
+      "Lewo",
+      "Omijanie",
+      "omijanie przeszkody po lewej",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego kierunku omijania przeszkody po lewej stronie.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Jedź prosto przed siebie» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Jedź prosto",
+      "Kierunek",
+      "Sygnał regulacyjny",
+      "prosto przed siebie",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego znaku kierunku 'prosto przed siebie'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Zawróć w prawo» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zawróć w prawo",
+      "Skręcanie",
+      "Kierunek",
+      "Sygnał regulacyjny",
+      "skręt w prawo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego znaku 'skręt w prawo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Zawróć w lewo» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zawróć w lewo",
+      "Skręcanie",
+      "Kierunek",
+      "Sygnał regulacyjny",
+      "skręt w lewo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego znaku 'skręt w lewo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rondo» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rondo",
+      "Rondo drogowe",
+      "Sygnał regulacyjny",
+      "rondo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie obowiązkowego kierunku (zwykle przeciwnie do ruchu wskazówek zegara) na rondzie.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zakaz skrętu w prawo» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skręcanie",
+      "Prawo",
+      "Zakazany",
+      "Sygnał zakazu",
+      "zakaz skrętu w prawo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku 'Zakaz skrętu w prawo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Zakaz skrętu w lewo» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Skręcanie",
+      "Lewo",
+      "Zakazany",
+      "Sygnał zakazu",
+      "zakaz skrętu w lewo",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku 'Zakaz skrętu w lewo'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Zakaz zawracania» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zawracanie",
+      "Zakazany",
+      "Sygnał zakazu",
+      "zakaz zawracania",
+      "Sygnalizacja"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie znaku 'Zakaz zawracania'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Ścieżka rowerowa» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Ścieżka rowerowa",
+      "Rower",
+      "Rower",
+      "Sygnał obowiązkowy",
+      "ścieżka rowerowa",
+      "Sygnalizacja"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Niewłaściwe korzystanie lub blokowanie obowiązkowej ścieżki rowerowej.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Strefa współdzielonej przestrzeni» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Strefa współdzielonej przestrzeni",
+      "Strefa",
+      "przestrzeń współdzielona",
+      "sygnalizacja",
+      "strefa wolna"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie zasad lub granic strefy współdzielonej przestrzeni (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Strefa piesza» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Strefa piesza",
+      "Strefa",
+      "strefa piesza",
+      "sygnalizacja",
+      "pieszy"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zignorowanie zasad lub granic strefy pieszej.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

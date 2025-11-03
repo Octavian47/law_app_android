@@ -1,0 +1,133 @@
+{
+  "common": {
+    "appName": "Legi Elvețiene",
+    "loading": "Se încarcă...",
+    "error": "Eroare",
+    "ok": "OK",
+    "cancel": "Anulează",
+    "save": "Salvează",
+    "delete": "Șterge",
+    "search": "Caută",
+    "close": "Închide"
+  },
+  "tabs": {
+    "laws": "Legi",
+    "search": "Caută",
+    "favorites": "Favorite"
+  },
+  "home": {
+    "title": "Legi Elvețiene",
+    "subtitle": "Cunoaște-ți drepturile în trafic!",
+    "categories": "Categorii",
+    "currentlyAvailable": "Disponibil în prezent",
+    "tips": "Sfaturi",
+    "roadTrafficAct": "Legea traficului rutier (SR 741.01)",
+    "articlesIndexed": "{{count}} articole complet indexate",
+    "finesIndexed": "420 amenzi de trafic indexate",
+    "languagesAvailable": "Disponibil în 18 limbi",
+    "offlineAccess": "Acces offline și căutare",
+    "tipContent": "Folosește funcția de căutare pentru a găsi rapid articole sau subiecte specifice.",
+    "tipDescription": "Folosește tabul de căutare pentru a găsi amenzi după cuvânt cheie, sumă sau referință articol. Apasă pe iconița cu stea pentru a salva amenzi ca favorite."
+  },
+  "search": {
+    "title": "Caută amenzi",
+    "subtitle": "420 amenzi de trafic căutabile",
+    "placeholder": "Art. 27, parcare, CHF 40...",
+    "resultsFound": "{{count}} amendă găsită",
+    "resultsFound_other": "{{count}} amenzi găsite",
+    "filters": {
+      "traffic": "Trafic",
+      "criminal": "Penal",
+      "fines": "Amenzi",
+      "quick": "Rapid"
+    },
+    "emptyState": {
+      "title": "Caută amenzi de trafic",
+      "description": "Caută după numărul articolului, cuvânt cheie sau sumă CHF"
+    },
+    "noResults": {
+      "title": "Fără rezultate",
+      "description": "Nicio amendă găsită pentru \"{{query}}\". Încercați alte cuvinte cheie sau sume."
+    },
+    "tips": {
+      "title": "Sfaturi de căutare",
+      "article": "Art. 27 - Caută după numărul articolului",
+      "keyword": "parcare - Caută după cuvânt cheie",
+      "amount": "CHF 40 - Caută după suma amenzi"
+    },
+    "inDevelopment": {
+      "title": "În dezvoltare",
+      "description": "Funcția de căutare este în curs de implementare.\n\nSe caută: \"{{query}}\""
+    }
+  },
+  "favorites": {
+    "title": "Favorite",
+    "subtitle": "Amenzile tale salvate",
+    "resultsCount": "{{count}} Favorit",
+    "resultsCount_other": "{{count}} Favorite",
+    "emptyState": {
+      "title": "Încă nu există favorite",
+      "description": "Salvează amenzi importante ca favorite pentru acces rapid"
+    },
+    "howTo": {
+      "title": "Cum să adaugi favorite",
+      "step1": "Deschide o amendă",
+      "step2": "Apasă pe pictograma stea",
+      "step3": "Amenda va apărea aici"
+    }
+  },
+  "fineDetail": {
+    "notFound": "Amendă negăsită",
+    "articleInformation": "Informații despre articol",
+    "violationDescription": "Descrierea încălcării",
+    "appliesTo": "Se aplică pentru",
+    "conditions": "Condiții",
+    "notes": "Note",
+    "keywords": "Cuvinte cheie",
+    "labels": {
+      "article": "Articol:",
+      "law": "Lege:",
+      "category": "Categorie:"
+    },
+    "source": "Sursă: Pagina {{page}}, Linia {{line}}",
+    "laws": {
+      "svg": "Legea circulației rutiere",
+      "vrv": "Ordonanța regulilor de circulație",
+      "arv1": "Ordonanța orelor de lucru 1",
+      "arv2": "Ordonanța orelor de lucru 2",
+      "ssv": "Ordonanța indicatorilor de trafic"
+    }
+  },
+  "categories": {
+    "traffic": {
+      "name": "Legea traficului",
+      "description": "Registrul traficului rutier și legea traficului"
+    },
+    "criminal": {
+      "name": "Legea penală",
+      "description": "Cod penal și procedură penală"
+    },
+    "civil": {
+      "name": "Legea civilă",
+      "description": "Cod civil și obligații"
+    },
+    "commercial": {
+      "name": "Legea comercială",
+      "description": "Registrul comercial și legea comerțului"
+    },
+    "administrative": {
+      "name": "Legea administrativă",
+      "description": "Proceduri administrative și drept public"
+    },
+    "constitutional": {
+      "name": "Legea constituțională",
+      "description": "Constituția federală și drepturi fundamentale"
+    }
+  },
+  "settings": {
+    "title": "Setări",
+    "language": "Limbă",
+    "theme": "Temă",
+    "about": "Despre"
+  }
+}

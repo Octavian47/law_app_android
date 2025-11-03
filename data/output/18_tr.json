@@ -1,0 +1,578 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 68 Abs. 4 VTS",
+    "law_text": "Arka işaret levhasının takılmaması",
+    "fine_chf": 20,
+    "keywords": [
+      "arka işaret levhası",
+      "işaret levhası",
+      "VTS",
+      "ekipman",
+      "arka işaret"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Arka işaret levhalarıyla ilgilidir, genellikle belirli araçlar/yükler için.",
+    "source": {
+      "page": 20,
+      "line_hint": "506."
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 140 Abs. 1 Bst. b und 148 Abs. 1 VTS",
+    "law_text": "Kalıcı olarak takılı yansıtıcılar olmadan bir motosikleti trafiğe sokmak",
+    "fine_chf": 60,
+    "keywords": [
+      "motosiklet",
+      "yansıtıcı",
+      "yansıtıcı",
+      "VTS",
+      "ekipman",
+      "devreye alma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Sahip",
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Sabit yansıtıcılar olmadan bir motosikleti trafiğe sokmak.",
+    "source": {
+      "page": 20,
+      "line_hint": "507."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Direksiyon cihazını serbest bırakmak",
+    "fine_chf": 20,
+    "keywords": [
+      "direksiyon cihazı",
+      "eller serbest",
+      "direksiyon cihazı",
+      "kontrol",
+      "bisiklet",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Direksiyon cihazını serbest bırakmak (örneğin, eller serbest sürmek). Motosiklet ve bisikletlerde geçerlidir.",
+    "source": {
+      "page": 20,
+      "line_hint": "600. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "Motosiklet kullanan kişiler tarafından koruyucu kask takılmaması",
+    "fine_chf": 30,
+    "keywords": [
+      "koruyucu kask",
+      "kask",
+      "motosiklet",
+      "kask",
+      "güvenlik ekipmanı",
+      "VRV"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Sürücü",
+      "Yolcu"
+    ],
+    "conditions": null,
+    "notes": "Motosiklette koruyucu kask takılmaması.",
+    "source": {
+      "page": 20,
+      "line_hint": "601."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Trafik sıkışık olduğunda yaya geçidinde durmak",
+    "fine_chf": 20,
+    "keywords": [
+      "yaya geçidi",
+      "zebra geçidi",
+      "yaya geçidi",
+      "trafik sıkışıklığı",
+      "durma"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Trafik sıkışıklığı sırasında yaya geçidinde durmak.",
+    "source": {
+      "page": 20,
+      "line_hint": "602."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 und Art. 33 Bst. a VRV",
+    "law_text": "Durma konumundaki motorlu bisikletin motorunun gereksiz boşta çalıştırılması",
+    "fine_chf": 20,
+    "keywords": [
+      "motor",
+      "boşta",
+      "gereksiz boşta çalıştırma",
+      "motorlu bisiklet",
+      "moped",
+      "emisyon"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Durma konumundaki motorlu bisiklet/mopedin gereksiz boşta çalıştırılması.",
+    "source": {
+      "page": 20,
+      "line_hint": "603."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Işıkları açmadan sürmek: gece aydınlatılmış yolda",
+    "fine_chf": 40,
+    "keywords": [
+      "ışık",
+      "gece sürüşü",
+      "aydınlatma",
+      "far",
+      "aydınlatılmış yol"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "Gece, aydınlatılmış yolda.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Işıkları açmadan sürmek: gece aydınlatılmamış yolda",
+    "fine_chf": 60,
+    "keywords": [
+      "ışık",
+      "gece sürüşü",
+      "aydınlatılmamış yol",
+      "far",
+      "karanlık"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "Gece, aydınlatılmamış yolda.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Işıkları açmadan sürmek: aydınlatılmış tünelde",
+    "fine_chf": 20,
+    "keywords": [
+      "ışık",
+      "tünel",
+      "far",
+      "tünel sürüşü",
+      "aydınlatma"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "Aydınlatılmış bir tünelde.",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 41 Abs. 1 SVG, Art. 30 Abs. 1 und 2 sowie 39 Abs. 2 VRV",
+    "law_text": "Işıkları açmadan sürmek: gündüz",
+    "fine_chf": 20,
+    "keywords": [
+      "ışık",
+      "gündüz",
+      "gündüz farı",
+      "far",
+      "gün"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "Gündüz (gündüz farı zorunlu olan araçlar için geçerlidir).",
+    "notes": null,
+    "source": {
+      "page": 20,
+      "line_hint": "604. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG und 41 Abs. 2 VRV",
+    "law_text": "Kaldırıma izinsiz binmek",
+    "fine_chf": 40,
+    "keywords": [
+      "kaldırım",
+      "kaldırım",
+      "yasadışı sürüş",
+      "bisiklet",
+      "yol kullanımı",
+      "VRV"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisiklet",
+      "Moped",
+      "E-Scooter"
+    ],
+    "conditions": null,
+    "notes": "Kaldırımda izinsiz sürüş.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Yaya uzunlamasına şeritlerde engelleyici sürüş",
+    "fine_chf": 40,
+    "keywords": [
+      "yaya",
+      "uzunlamasına şerit",
+      "yol",
+      "engel",
+      "yaya yolu"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yaya uzunlamasına şeritlerde yaya trafiğini engelleyecek şekilde sürmek.",
+    "source": {
+      "page": 20,
+      "line_hint": "605. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 2 VRV",
+    "law_text": "Sinyal vermeyi imkansız kılan nesneleri taşımak",
+    "fine_chf": 20,
+    "keywords": [
+      "bagaj",
+      "yük",
+      "sinyal",
+      "sinyal",
+      "nesne taşıma",
+      "el sinyali"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "El sinyallerini imkansız kılan nesneleri taşımak.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Bekleyen motorlu araç kuyruğunun önüne geçmek",
+    "fine_chf": 20,
+    "keywords": [
+      "geçmek",
+      "kuyruk",
+      "araç kuyruğu",
+      "şerit bölme",
+      "sıraya girme"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Araç kuyruğunun önüne geçmek (genellikle kuyruğun arasından geçerek).",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 42 Abs. 3 VRV",
+    "law_text": "Bekleyen araç kuyruğunu slalom sürüşle geçmek",
+    "fine_chf": 20,
+    "keywords": [
+      "slalom sürüşü",
+      "geçmek",
+      "kuyruk",
+      "araç kuyruğu",
+      "geçmek",
+      "dalgalanma"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Araç kuyruğunu zigzag/ slalom sürüşle geçmek.",
+    "source": {
+      "page": 20,
+      "line_hint": "606. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Yan yana sürüş yasaktır: birden fazla bisiklet",
+    "fine_chf": 20,
+    "keywords": [
+      "yan yana sürüş",
+      "bisiklet",
+      "yan yana bisiklet sürüşü",
+      "bisikletler"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bisiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yan yana birden fazla bisikletle sürmek yasaktır.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Yan yana sürüş yasaktır: birden fazla motorlu bisiklet",
+    "fine_chf": 20,
+    "keywords": [
+      "yan yana sürüş",
+      "motorlu bisikletler",
+      "moped",
+      "E-Scooter",
+      "mopedler"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Moped sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yan yana birden fazla motorlu bisiklet (Mofa/E-Scooter) sürmek yasaktır.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Yan yana sürüş yasaktır: birden fazla elektrikli rikşa",
+    "fine_chf": 20,
+    "keywords": [
+      "yan yana sürüş",
+      "elektrikli rikşalar",
+      "e-rikşa",
+      "yan yana"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yan yana birden fazla elektrikli rikşa sürmek yasaktır.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43 Abs. 1 und 2 VRV",
+    "law_text": "Yan yana sürüş yasaktır: bisiklet, motorlu bisiklet veya elektrikli rikşa kombinasyonları",
+    "fine_chf": 20,
+    "keywords": [
+      "yan yana sürüş",
+      "karışık kombinasyon",
+      "bisiklet",
+      "moped",
+      "rikşa",
+      "yan yana"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Yan yana birden fazla bisiklet, moped veya e-rikşa kombinasyonu sürmek yasaktır.",
+    "source": {
+      "page": 20,
+      "line_hint": "607. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Kendisinin çekilmesine izin vermek",
+    "fine_chf": 20,
+    "keywords": [
+      "çekilmek",
+      "çekilmek",
+      "çekme",
+      "SVG",
+      "güvenlik",
+      "bisiklet",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Kendisinin başka bir araç ya da kişi tarafından çekilmesine izin vermek.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Kendisinin çekilmesine izin vermek",
+    "fine_chf": 20,
+    "keywords": [
+      "çekilmek",
+      "çekilmek",
+      "çekme",
+      "SVG",
+      "güvenlik",
+      "bisiklet",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Kendisinin başka bir araç ya da kişi tarafından çekilmesine izin vermek.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 4 SVG",
+    "law_text": "Kendisinin itilmesine izin vermek",
+    "fine_chf": 20,
+    "keywords": [
+      "itilmek",
+      "itilmek",
+      "güvenlik",
+      "yardım",
+      "bisiklet",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Kendisinin itilmesine izin vermek.",
+    "source": {
+      "page": 20,
+      "line_hint": "608. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 3 VRV",
+    "law_text": "İzinsiz taşıma: bir kişi",
+    "fine_chf": 20,
+    "keywords": [
+      "taşıma",
+      "yolcu",
+      "kişi",
+      "taşıma",
+      "izinsiz",
+      "ortak yolcu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Araç tasarımı gerektirmeyen veya izin verilmeyen bir kişiyi (yolcuyu) izinsiz taşıma.",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 63 Abs. 4 VRV",
+    "law_text": "İzinsiz taşıma: güvenli çocuk koltuğu olmadan bir çocuk",
+    "fine_chf": 40,
+    "keywords": [
+      "çocuk koltuğu",
+      "çocuk koltuğu",
+      "çocuk",
+      "güvenlik",
+      "taşıma",
+      "bisiklet"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Bisiklet",
+      "Motosiklet"
+    ],
+    "conditions": null,
+    "notes": "Gerekli olduğu durumlarda güvenli bir çocuk koltuğu olmadan çocuğu izinsiz taşıma.",
+    "source": {
+      "page": 20,
+      "line_hint": "609. 2."
+    }
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Gjendje e dëmtuar e gomës për rrotë",
+    "fine_chf": 20,
+    "keywords": [
+      "goma",
+      "gjendje",
+      "defektuar",
+      "VTS",
+      "rrotë",
+      "goma",
+      "pajisje"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "për rrotë",
+    "notes": "Lidhur me artikullin 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Mos veshja e rripave të sigurimit nga pasagjeri",
+    "fine_chf": 60,
+    "keywords": [
+      "rripa sigurie",
+      "detyrim i rripit",
+      "pasagjer",
+      "pasagjer",
+      "rrip sigurie",
+      "pasagjer"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasagjer",
+      "Pasagjer"
+    ],
+    "conditions": null,
+    "notes": "Seksioni 800.1: Mos përdorimi i rripave të sigurimit nga pasagjerët.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Mos veshja e helmetit mbrojtës nga pasagjerët në motoçikleta, mjete të lehta, të vogla dhe me tre rrota",
+    "fine_chf": 60,
+    "keywords": [
+      "helmet",
+      "detyrim i helmetit",
+      "pasagjer",
+      "motoçikletë",
+      "helmet",
+      "pasagjer"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Pasagjer",
+      "Motoçikleta"
+    ],
+    "conditions": null,
+    "notes": "Seksioni 800.2: Mos përdorimi i helmetit nga pasagjerët në motoçikleta/mjete me tre rrota.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Shtypja e një mjeti ose objekti nga pasagjeri",
+    "fine_chf": 20,
+    "keywords": [
+      "shtypje",
+      "mjet",
+      "objekt",
+      "pasagjer",
+      "shtyp",
+      "objekt",
+      "pasagjer"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasagjer"
+    ],
+    "conditions": null,
+    "notes": "Seksioni 801.1: Shtypja e një mjeti ose objekti nga pasagjeri (së pari i ndaluar gjatë lëvizjes/në trafikun).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tërheqja e një mjeti ose objekti nga pasagjeri",
+    "fine_chf": 20,
+    "keywords": [
+      "tërheqje",
+      "mjet",
+      "objekt",
+      "pasagjer",
+      "tërhiq",
+      "objekt",
+      "pasagjer"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasagjer"
+    ],
+    "conditions": null,
+    "notes": "Seksioni 801.2: Tërheqja e një mjeti ose objekti nga pasagjeri.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tërheqja me rrjetë e një mjeti ose objekti nga pasagjeri",
+    "fine_chf": 20,
+    "keywords": [
+      "tërheqje me rrjetë",
+      "mjet",
+      "objekt",
+      "pasagjer",
+      "tërhiq me rrjetë",
+      "objekt",
+      "pasagjer"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Pasagjer"
+    ],
+    "conditions": null,
+    "notes": "Seksioni 801.3: Tërheqja me rrjetë e një mjeti ose objekti nga pasagjeri.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Mos përdorimi i trotuarit",
+    "fine_chf": 10,
+    "keywords": [
+      "trotuar",
+      "shteg këmbësori",
+      "mospërdorim",
+      "këmbësor",
+      "trotuar",
+      "këmbësor"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": null,
+    "notes": "Mos përdorimi i trotuarit kur është i disponueshëm.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mos përdorimi i kalimit për këmbësorë, nëse është më pak se 50 m larg",
+    "fine_chf": 10,
+    "keywords": [
+      "kalim për këmbësorë",
+      "kalim zebra",
+      "mospërdorim",
+      "50m",
+      "kalim për këmbësorë"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": "nëse është më pak se 50 m larg",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mos përdorimi i kalimit i lartë, nëse është më pak se 50 m larg",
+    "fine_chf": 10,
+    "keywords": [
+      "kalim i lartë",
+      "urë për këmbësorë",
+      "mospërdorim",
+      "50m",
+      "kalim i lartë për këmbësorë"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": "nëse është më pak se 50 m larg",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mos përdorimi i kalimit i ulët, nëse është më pak se 50 m larg",
+    "fine_chf": 10,
+    "keywords": [
+      "kalim i ulët",
+      "tunel për këmbësorë",
+      "mospërdorim",
+      "50m",
+      "kalim i ulët për këmbësorë"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": "nëse është më pak se 50 m larg",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Mos respektimi i sinjalit 'Nuk lejohet kalimi i këmbësorëve' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "ndalim",
+      "këmbësor",
+      "sinjal",
+      "mosrespektim",
+      "kufizim",
+      "këmbësor",
+      "shenjë"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Mos respektimi i sinjalit 'Rruga për këmbësorë' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "rrugë për këmbësorë",
+      "sinjal",
+      "mosrespektim",
+      "rrugë për këmbësorë",
+      "shenjë"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Këmbësor"
+    ],
+    "conditions": null,
+    "notes": "Mosrespektimi i shenjës së dedikuar për rrugën e këmbësorëve.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Mos respektimi i sinjalit të dritës",
+    "fine_chf": 20,
+    "keywords": [
+      "sinjal dritë",
+      "këmbësor",
+      "sinjal",
+      "mosrespektim",
+      "dritë trafiku",
+      "këmbësor"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Këmbësor",
+      "Përdorues i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Kalimi në dritë të kuqe (si këmbësor/përdorues i pajisjes së lëvizjes).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Mos respektimi i sinjalit 'dritë xixëllonëse alternuese' (3.20) ose 'dritë xixëllonëse e thjeshtë' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "sinjal dritë xixëllonëse",
+      "dritë xixëllonëse alternuese",
+      "sinjal",
+      "kalim i nivelit",
+      "dritë paralajmëruese",
+      "kalim i nivelit"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Këmbësor",
+      "Përdorues i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Injorimi i dritave sinjalizuese xixëllonëse (p.sh., në kalimet e nivelit).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Hyrja në autostradë",
+    "fine_chf": 20,
+    "keywords": [
+      "autostradë",
+      "hyrja",
+      "këmbësor",
+      "ndalim",
+      "Autostradë",
+      "akses",
+      "i ndaluar"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Këmbësor",
+      "Përdorues i pajisjeve të ngjashme me mjetet"
+    ],
+    "conditions": null,
+    "notes": "Hyrja ose ecja në autostradë (e cila është në përgjithësi e ndaluar për trafikun jo-motorik).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Condizione difettosa del pneumatico per ruota",
+    "fine_chf": 20,
+    "keywords": [
+      "pneumatico",
+      "condizione",
+      "difettoso",
+      "VTS",
+      "ruota",
+      "pneumatico",
+      "attrezzatura"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Veicolo"
+    ],
+    "conditions": "per ruota",
+    "notes": "Riguarda l'elemento 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Mancata indossatura delle cinture di sicurezza da parte del passeggero",
+    "fine_chf": 60,
+    "keywords": [
+      "cinture di sicurezza",
+      "obbligo di cintura",
+      "passeggero",
+      "passeggero",
+      "cintura di sicurezza",
+      "passeggero"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passeggero",
+      "Passeggero"
+    ],
+    "conditions": null,
+    "notes": "Sezione 800.1: Mancato utilizzo delle cinture di sicurezza da parte dei passeggeri.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Mancata indossatura del casco protettivo da parte dei passeggeri su motocicli, veicoli leggeri, piccoli e a tre ruote",
+    "fine_chf": 60,
+    "keywords": [
+      "casco",
+      "obbligo di casco",
+      "passeggero",
+      "motocicletta",
+      "casco",
+      "passeggero"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Passeggero",
+      "Motocicli"
+    ],
+    "conditions": null,
+    "notes": "Sezione 800.2: Non-use of helmet by passengers on motorcycles/three-wheeled vehicles.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Spingere un veicolo o un oggetto da parte di un passeggero",
+    "fine_chf": 20,
+    "keywords": [
+      "spinta",
+      "veicolo",
+      "oggetto",
+      "passeggero",
+      "spingere",
+      "oggetto",
+      "passeggero"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passeggero"
+    ],
+    "conditions": null,
+    "notes": "Sezione 801.1: Spingere un veicolo o un oggetto da parte di un passeggero (probabilmente comportamento proibito durante il movimento/in traffico).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Trascinare un veicolo o un oggetto da parte di un passeggero",
+    "fine_chf": 20,
+    "keywords": [
+      "tirare",
+      "veicolo",
+      "oggetto",
+      "passeggero",
+      "tirare",
+      "oggetto",
+      "passeggero"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passeggero"
+    ],
+    "conditions": null,
+    "notes": "Sezione 801.2: Trascinare un veicolo o un oggetto da parte di un passeggero.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Trainare un veicolo o un oggetto da parte di un passeggero",
+    "fine_chf": 20,
+    "keywords": [
+      "traino",
+      "veicolo",
+      "oggetto",
+      "passeggero",
+      "trainare",
+      "oggetto",
+      "passeggero"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passeggero"
+    ],
+    "conditions": null,
+    "notes": "Sezione 801.3: Trainare/trascinare un veicolo o un oggetto da parte di un passeggero.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Mancato utilizzo del marciapiede",
+    "fine_chf": 10,
+    "keywords": [
+      "marciapiede",
+      "sentiero pedonale",
+      "mancato utilizzo",
+      "pedone",
+      "marciapiede",
+      "pedone"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": null,
+    "notes": "Mancato utilizzo del marciapiede quando disponibile.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mancato utilizzo dell'attraversamento pedonale, se a meno di 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "attraversamento pedonale",
+      "attraversamento zebra",
+      "mancato utilizzo",
+      "50 m",
+      "attraversamento pedonale"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": "se a meno di 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mancato utilizzo di un passaggio sopraelevato, se a meno di 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "passaggio sopraelevato",
+      "ponte pedonale",
+      "mancato utilizzo",
+      "50 m",
+      "passaggio sopraelevato pedonale"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": "se a meno di 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Mancato utilizzo di un sottopassaggio, se a meno di 50 m",
+    "fine_chf": 10,
+    "keywords": [
+      "sottopassaggio",
+      "tunnel pedonale",
+      "mancato utilizzo",
+      "50 m",
+      "sottopassaggio pedonale"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": "se a meno di 50 m",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Mancata osservanza del segnale 'Divieto di pedoni' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "divieto",
+      "pedone",
+      "segnale",
+      "mancata osservanza",
+      "restrizione",
+      "pedone",
+      "segno"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Mancata osservanza del segnale 'Percorso pedonale' (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "percorso pedonale",
+      "segnale",
+      "mancata osservanza",
+      "percorso pedonale",
+      "segno"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedone"
+    ],
+    "conditions": null,
+    "notes": "Mancato rispetto del segnale dedicato al percorso pedonale.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Mancata osservanza di un segnale luminoso",
+    "fine_chf": 20,
+    "keywords": [
+      "segnale luminoso",
+      "pedone",
+      "segnale",
+      "mancata osservanza",
+      "semaforo",
+      "pedone"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedone",
+      "Utente di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Attraversamento di un semaforo rosso (come pedone/utente di dispositivo di mobilità).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Mancata osservanza di un 'segnale luminoso lampeggiante alternato' (3.20) o di un 'segnale luminoso lampeggiante semplice' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "segnale luminoso lampeggiante",
+      "luce lampeggiante alternata",
+      "segnale",
+      "attraversamento a livello",
+      "luce di avvertimento",
+      "attraversamento a livello"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedone",
+      "Utente di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Ignorare le luci di avvertimento lampeggianti (ad esempio, agli attraversamenti a livello).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Entrare sulle autostrade",
+    "fine_chf": 20,
+    "keywords": [
+      "autostrada",
+      "entrata",
+      "pedone",
+      "divieto",
+      "Autostrada",
+      "accesso",
+      "proibito"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedone",
+      "Utente di dispositivi simili a veicoli"
+    ],
+    "conditions": null,
+    "notes": "Entrare o camminare sulle autostrade (che è generalmente riservato al traffico motorizzato).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

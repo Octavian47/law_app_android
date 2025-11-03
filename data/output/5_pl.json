@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zatrzymanie w celu załadunku towarów w odległości 10 m przed znakiem przystanku transportu publicznego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Załadunek towarów",
+      "Znak stopu",
+      "transport publiczny",
+      "zatrzymanie",
+      "towary",
+      "przystanek transportu publicznego"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie w celu załadunku/rozładunku towarów w odległości 10 m przed znakiem przystanku transportu publicznego.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie w odległości 10 m po znaku przystanku transportu publicznego (Art. 18 Abs. 3 i 19 Abs. 2 a VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "Znak stopu",
+      "transport publiczny",
+      "60 minut",
+      "parkowanie",
+      "przystanek transportu publicznego",
+      "limit czasu"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie w odległości 10 m po znaku przystanku transportu publicznego, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zatrzymanie utrudniające w celu wsiadania i wysiadania pasażerów w odległości 10 m po znaku przystanku transportu publicznego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Utrudniające",
+      "wsiadanie/wysiadanie",
+      "Znak stopu",
+      "zatrzymanie",
+      "utrudniające",
+      "przystanek transportu publicznego"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie utrudniające w celu wsiadania i wysiadania osób w odległości 10 m po znaku przystanku transportu publicznego.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zatrzymanie w celu załadunku towarów w odległości 10 m po znaku przystanku transportu publicznego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Załadunek towarów",
+      "Znak stopu",
+      "transport publiczny",
+      "zatrzymanie",
+      "towary",
+      "przystanek transportu publicznego"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie w celu załadunku/rozładunku towarów w odległości 10 m po znaku przystanku transportu publicznego.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkowanie przed terenami straży pożarnej i magazynami sprzętu gaśniczego (Art. 18 Abs. 3 i Art. 19 Abs. 2 a VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "straż pożarna",
+      "magazyn",
+      "sprzęt gaśniczy",
+      "60 minut",
+      "parkowanie",
+      "straż pożarna",
+      "sprzęt gaśniczy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie przed terenami straży pożarnej lub magazynami sprzętu gaśniczego, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zatrzymanie w celu załadunku towarów przed terenami straży pożarnej lub magazynami sprzętu gaśniczego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Załadunek towarów",
+      "straż pożarna",
+      "sprzęt gaśniczy",
+      "zatrzymanie",
+      "towary",
+      "straż pożarna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie w celu załadunku/rozładunku towarów przed terenami straży pożarnej lub magazynami sprzętu gaśniczego.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zatrzymanie utrudniające w celu wsiadania i wysiadania osób przed terenami straży pożarnej i magazynami sprzętu gaśniczego (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Utrudniające",
+      "wsiadanie/wysiadanie",
+      "straż pożarna",
+      "zatrzymanie",
+      "utrudniające",
+      "straż pożarna"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie utrudniające w celu wsiadania i wysiadania osób przed terenami straży pożarnej lub magazynami sprzętu gaśniczego.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Zatrzymanie utrudniające w celu załadunku towarów obok pojazdów zaparkowanych przy krawędzi drogi (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "Utrudniające",
+      "Załadunek towarów",
+      "wzdłuż",
+      "zaparkowane",
+      "zatrzymanie",
+      "utrudniające",
+      "towary",
+      "podwójne parkowanie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie utrudniające w celu załadunku/rozładunku towarów obok pojazdów zaparkowanych przy krawędzi drogi (podwójne parkowanie dla towarów).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkowanie na pasie rowerowym (Art. 19 Abs. 2 d VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "pas rowerowy",
+      "pas rowerowy",
+      "60 minut",
+      "parkowanie",
+      "pas rowerowy",
+      "pas rowerowy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na pasie rowerowym, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Zatrzymanie na pasie rowerowym, gdy utrudnia ruch rowerowy (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "pas rowerowy",
+      "ruch rowerowy",
+      "utrudniony",
+      "zatrzymanie",
+      "pas rowerowy",
+      "utrudniające"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie na pasie rowerowym, gdy utrudnia ruch rowerowy.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkowanie na jezdni obok pasa rowerowego (Art. 19 Abs. 2 d VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "jezdnia",
+      "pas rowerowy",
+      "obok",
+      "60 minut",
+      "parkowanie",
+      "jezdnia",
+      "pas rowerowy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na jezdni obok pasa rowerowego, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkowanie na torach tramwajowych (Art. 19 Abs. 2 a i 25 Abs. 5 VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "tory tramwajowe",
+      "tory tramwajowe",
+      "60 minut",
+      "parkowanie",
+      "tory tramwajowe"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na torach tramwajowych, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zatrzymanie na torach tramwajowych (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "tory tramwajowe",
+      "tory tramwajowe",
+      "zatrzymanie",
+      "tory tramwajowe"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie na torach tramwajowych.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkowanie bliżej niż 1,5 m od najbliższego szyny toru tramwajowego (Art. 19 Abs. 2 a i 25 Abs. 5 VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "tor tramwajowy",
+      "tory tramwajowe",
+      "1,5 m",
+      "60 minut",
+      "parkowanie",
+      "tor tramwajowy",
+      "odległość"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie bliżej niż 1,5 m od najbliższej szyny toru tramwajowego, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zatrzymanie bliżej niż 1,5 m od najbliższego szyny toru tramwajowego (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "tor tramwajowy",
+      "tory tramwajowe",
+      "1,5 m",
+      "zatrzymanie",
+      "tor tramwajowy",
+      "odległość"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": null,
+    "notes": "Zatrzymanie bliżej niż 1,5 m od najbliższej szyny toru tramwajowego.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkowanie na poboczu autostrady (Art. 36 Abs. 3 VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "pobocze",
+      "autostrada",
+      "60 minut",
+      "parkowanie",
+      "pobocze",
+      "autostrada"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na poboczu autostrady, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zatrzymanie na poboczu autostrady, z wyjątkiem zatrzymania awaryjnego (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zatrzymanie",
+      "pobocze",
+      "autostrada",
+      "zatrzymanie awaryjne",
+      "zatrzymanie",
+      "pobocze",
+      "autostrada",
+      "awaryjny"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "z wyjątkiem zatrzymania awaryjnego",
+    "notes": "Zatrzymanie na poboczu autostrady, z wyłączeniem sytuacji awaryjnych.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkowanie na poboczu drogi szybkiego ruchu (Art. 36 Abs. 3 VRV) do 60 minut",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkowanie",
+      "pobocze",
+      "droga szybkiego ruchu",
+      "60 minut",
+      "parkowanie",
+      "pobocze",
+      "droga szybkiego ruchu"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Kierowca pojazdu"
+    ],
+    "conditions": "do 60 minut",
+    "notes": "Parkowanie na poboczu drogi szybkiego ruchu, do 60 minut.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

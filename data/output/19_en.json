@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Bumping a vehicle or object by the driver",
+    "fine_chf": 20,
+    "keywords": [
+      "Bumping",
+      "Collision",
+      "Object",
+      "Driver",
+      "collision",
+      "object",
+      "driver"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Female driver",
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Accidentally striking a vehicle or object.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Pulling a vehicle or object by the driver",
+    "fine_chf": 20,
+    "keywords": [
+      "Pulling",
+      "Object",
+      "Driver",
+      "pulling",
+      "object",
+      "driver"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Female driver",
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Causing damage by pulling/dragging a vehicle or object.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Towing a vehicle or object by the driver",
+    "fine_chf": 20,
+    "keywords": [
+      "Towing",
+      "Object",
+      "Driver",
+      "towing",
+      "dragging",
+      "object",
+      "driver"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Female driver",
+      "Driver"
+    ],
+    "conditions": null,
+    "notes": "Causing damage while towing/dragging a vehicle or object.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«General traffic prohibition in both directions» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Traffic prohibition",
+      "Prohibition signal",
+      "both directions",
+      "General prohibition",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the 'No vehicles in both directions' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Entry prohibited» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Entry",
+      "prohibited",
+      "Prohibition signal",
+      "No entry",
+      "forbidden entry",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the 'No entry' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Prohibition for bicycles and mopeds» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Bicycles",
+      "Mopeds",
+      "Bike",
+      "Moped",
+      "Prohibition",
+      "bicycle",
+      "moped",
+      "signaling"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Bicycle rider",
+      "Moped rider"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the prohibition sign for bicycles and mopeds.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Prohibition for mopeds» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mopeds",
+      "Moped",
+      "Prohibition",
+      "moped",
+      "signaling"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Moped rider"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the prohibition sign specifically for mopeds.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direction right» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direction",
+      "right",
+      "Regulatory signal",
+      "direction right",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory direction signal (right).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direction left» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direction",
+      "left",
+      "Regulatory signal",
+      "direction left",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory direction signal (left).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Pass obstruction right» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstruction",
+      "right",
+      "bypass",
+      "Regulatory signal",
+      "pass obstruction right",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory direction to pass an obstruction on the right.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Pass obstruction left» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstruction",
+      "left",
+      "bypass",
+      "Regulatory signal",
+      "pass obstruction left",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory direction to pass an obstruction on the left.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Go straight ahead» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Go straight",
+      "Direction",
+      "Regulatory signal",
+      "straight ahead",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory 'straight ahead' direction sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Turn right» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Turn right",
+      "Turning",
+      "Direction",
+      "Regulatory signal",
+      "turn right",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory 'turn right' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Turn left» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Turn left",
+      "Turning",
+      "Direction",
+      "Regulatory signal",
+      "turn left",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory 'turn left' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Roundabout» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Roundabout",
+      "Traffic circle",
+      "Regulatory signal",
+      "roundabout",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring mandatory direction (typically counter-clockwise) in a roundabout.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Turning right prohibited» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Turning",
+      "right",
+      "prohibited",
+      "Prohibition signal",
+      "No right turn",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the 'No right turn' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Turning left prohibited» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Turning",
+      "left",
+      "prohibited",
+      "Prohibition signal",
+      "No left turn",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the 'No left turn' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«U-turn prohibited» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "U-turn",
+      "prohibited",
+      "Prohibition signal",
+      "U-turn prohibited",
+      "signaling"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the 'No U-turn' sign.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Cycle path» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Cycle path",
+      "Bicycle",
+      "Bike",
+      "Mandatory signal",
+      "cycle path",
+      "signaling"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Misusing or obstructing a mandatory cycle path.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Shared space zone» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Shared space zone",
+      "Zone",
+      "shared space",
+      "signaling",
+      "slow zone"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the rules or boundaries of a shared space zone (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Pedestrian zone» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pedestrian zone",
+      "Zone",
+      "pedestrian zone",
+      "signaling",
+      "pedestrian"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Ignoring the rules or boundaries of a pedestrian zone.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

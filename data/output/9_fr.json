@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "pendant plus de 2, mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Place de stationnement",
+      "Temps supplémentaire",
+      "Signalisation",
+      "Durée de stationnement",
+      "stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 2 et 4 heures",
+    "notes": "Extension de l'amende 254.b pour le stationnement d'un véhicule dans une zone de stationnement indiquée par des panneaux ou où le stationnement est réservé à une certaine catégorie de véhicules, dépassant le temps autorisé.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "pendant plus de 4, mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Place de stationnement",
+      "Temps supplémentaire",
+      "Signalisation",
+      "Durée de stationnement",
+      "stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 4 et 10 heures",
+    "notes": "Extension de l'amende 254.c pour le stationnement d'un véhicule dans une zone de stationnement indiquée par des panneaux ou où le stationnement est réservé à une certaine catégorie de véhicules, dépassant le temps autorisé.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Stationnement sur une ligne d'interdiction de stationnement\\na. jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "Stationnement",
+      "Ligne d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "ligne jaune",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Stationnement sur une ligne d'interdiction de stationnement (généralement jaune) pendant jusqu'à 2 heures.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "pendant plus de 2, mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Ligne d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "ligne jaune",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 2 et 4 heures",
+    "notes": "Extension de l'amende 255.b pour le stationnement sur une ligne d'interdiction de stationnement.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "pendant plus de 4, mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Ligne d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "ligne jaune",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 4 et 10 heures",
+    "notes": "Extension de l'amende 255.c pour le stationnement sur une ligne d'interdiction de stationnement.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Stationnement dans une zone d'interdiction de stationnement\\na. jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "Stationnement",
+      "Zone d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "zone d'interdiction de stationnement",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Stationnement dans une zone d'interdiction de stationnement (généralement marquée d'un hachurage jaune ou similaire) pendant jusqu'à 2 heures.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "pendant plus de 2, mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Zone d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "zone d'interdiction de stationnement",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 2 et 4 heures",
+    "notes": "Extension de l'amende 256.b pour le stationnement dans une zone d'interdiction de stationnement.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "pendant plus de 4, mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Zone d'interdiction de stationnement",
+      "Temps supplémentaire",
+      "zone d'interdiction de stationnement",
+      "interdiction de stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 4 et 10 heures",
+    "notes": "Extension de l'amende 256.c pour le stationnement dans une zone d'interdiction de stationnement.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Stationnement obstructif sur une piste cyclable avec un véhicule non autorisé (2.60 ; Art. 37 al. 2 et 43 al. 2 SVG) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Piste cyclable",
+      "Obstruction",
+      "Véhicule",
+      "Vélo",
+      "piste cyclable",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement obstructif sur une piste cyclable avec un véhicule non autorisé, pendant jusqu'à 60 minutes.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Arrêt obstructif sur une piste cyclable avec un véhicule non autorisé (2.60 ; Art. 37 al. 2 et 43 al. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Piste cyclable",
+      "Obstruction",
+      "Véhicule",
+      "Vélo",
+      "piste cyclable",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif sur une piste cyclable avec un véhicule non autorisé.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Stationnement obstructif sur un chemin piéton avec un véhicule non autorisé (2.61 ; Art. 37 al. 2 SVG, Art. 33 al. 2 SSV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "Chemin piéton",
+      "Obstruction",
+      "Véhicule",
+      "chemin piéton",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement obstructif sur un chemin piéton avec un véhicule non autorisé, pendant jusqu'à 60 minutes.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Arrêt obstructif sur un chemin piéton avec un véhicule non autorisé (2.61 ; Art. 37 al. 2 SVG, Art. 33 al. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Chemin piéton",
+      "Obstruction",
+      "Véhicule",
+      "chemin piéton",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif sur un chemin piéton avec un véhicule non autorisé.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Stationnement dans une zone piétonne à des emplacements non marqués\\na. jusqu'à 2 heures",
+    "fine_chf": 40,
+    "keywords": [
+      "Stationnement",
+      "Zone piétonne",
+      "Temps supplémentaire",
+      "zone piétonne",
+      "emplacement non marqué"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "jusqu'à 2 heures",
+    "notes": "Stationnement dans une zone piétonne à un emplacement non marqué pendant jusqu'à 2 heures.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "pendant plus de 2, mais pas plus de 4 heures",
+    "fine_chf": 60,
+    "keywords": [
+      "Stationnement",
+      "Zone piétonne",
+      "Temps supplémentaire",
+      "zone piétonne",
+      "emplacement non marqué"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 2 et 4 heures",
+    "notes": "Extension de l'amende 259.b pour le stationnement dans une zone piétonne à un emplacement non marqué.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "pendant plus de 4, mais pas plus de 10 heures",
+    "fine_chf": 100,
+    "keywords": [
+      "Stationnement",
+      "Zone piétonne",
+      "Temps supplémentaire",
+      "zone piétonne",
+      "emplacement non marqué"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Véhicule"
+    ],
+    "conditions": "entre 4 et 10 heures",
+    "notes": "Extension de l'amende 259.c pour le stationnement dans une zone piétonne à un emplacement non marqué.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Dépassement du poids admissible après déduction de l'appareil et de l'incertitude de mesure fixée par l'Office fédéral des routes (ASTRA)\\na. de pas plus de 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Poids",
+      "Dépassement",
+      "Poids admissible",
+      "ASTRA",
+      "Véhicule à moteur",
+      "surpoids",
+      "charge"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducteur de véhicule à moteur"
+    ],
+    "conditions": "jusqu'à 100 kg de surpoids",
+    "notes": "Dépassement de la limite de poids autorisée pour les véhicules à moteur, après déduction de la tolérance et de l'incertitude de mesure, de jusqu'à 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

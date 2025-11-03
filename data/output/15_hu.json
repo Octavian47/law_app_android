@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Közlekedés a motorúton vagy gyorsúton a mentőpályán",
+    "fine_chf": 140,
+    "keywords": [
+      "mentőpálya",
+      "autópálya",
+      "gyorsút",
+      "mentőpálya",
+      "autópálya"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 6 VRV",
+    "law_text": "A legalább három sávos, egyirányú motorúton a legkülső bal sáv használata olyan gépjárművekkel, amelyek sebessége nem haladhatja meg a 100 km/h-t",
+    "fine_chf": 60,
+    "keywords": [
+      "bal sáv",
+      "autópálya",
+      "sebesség",
+      "100 km/h",
+      "sávhasználat",
+      "autópálya"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Gépjárművek"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 7 VRV",
+    "law_text": "Mentőpálya kialakításának elmulasztása",
+    "fine_chf": 100,
+    "keywords": [
+      "mentőpálya",
+      "kötelezettség",
+      "vészkoridor",
+      "vészjármű"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "328.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 3 VRV",
+    "law_text": "Zavaró közlekedés a gyalogosok számára kijelölt hosszanti sávon",
+    "fine_chf": 60,
+    "keywords": [
+      "gyalogosok",
+      "hosszanti sáv",
+      "zavarás",
+      "gyalogos sáv",
+      "zavarás"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "329"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés nehezen olvasható ellenőrző táblákkal",
+    "fine_chf": 60,
+    "keywords": [
+      "ellenőrző táblák",
+      "rendszám",
+      "olvasható",
+      "rendszám",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 17,
+      "line_hint": "330"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 60 Abs. 2 und 63 Abs. 2 VRV",
+    "law_text": "Az engedélyezett ülőhelyek számát meghaladó személy szállítása",
+    "fine_chf": 60,
+    "keywords": [
+      "túlzott utas",
+      "ülőhelyek",
+      "túlkapacitás",
+      "utas",
+      "kapacitás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Egy utas az engedélyezett ülőhelyek számán túl.",
+    "source": {
+      "page": 17,
+      "line_hint": "331"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Az éjszakai közlekedési tilalom figyelmen kívül hagyása\na. legfeljebb egy órára",
+    "fine_chf": 100,
+    "keywords": [
+      "éjszakai közlekedési tilalom",
+      "éjszakai közlekedési tilalom",
+      "szállítás",
+      "időtartam"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető (nehéz gépjárművek)"
+    ],
+    "conditions": "legfeljebb egy óra",
+    "notes": "Éjszakai közlekedési tilalom megsértése nehéz áruszállító járműveknél (általában).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 91 Abs. 2 und 3 VRV",
+    "law_text": "Az éjszakai közlekedési tilalom figyelmen kívül hagyása\nb. több mint egy, de legfeljebb 2 órára",
+    "fine_chf": 200,
+    "keywords": [
+      "éjszakai közlekedési tilalom",
+      "éjszakai közlekedési tilalom",
+      "szállítás",
+      "időtartam"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Járművezető (nehéz gépjárművek)"
+    ],
+    "conditions": "több mint 1 óra, de legfeljebb 2 óra",
+    "notes": "Éjszakai közlekedési tilalom megsértése nehéz áruszállító járműveknél (általában).",
+    "source": {
+      "page": 17,
+      "line_hint": "332.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart ellenőrző táblákkal a\n1. rakomány miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "ellenőrző tábla",
+      "eltakarított",
+      "rakomány",
+      "rakomány",
+      "eltakarított",
+      "rendszám"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A rendszámot a rakomány takarja.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart ellenőrző táblákkal a\n2. teherhordó miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "ellenőrző tábla",
+      "eltakarított",
+      "teherhordó",
+      "kerékpárállvány",
+      "eltakarított",
+      "hordó"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A rendszámot a teherhordó (pl. kerékpárállvány) takarja.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart ellenőrző táblákkal a\n3. szerszámok és hasonlók miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "ellenőrző tábla",
+      "eltakarított",
+      "szerszámok",
+      "szerszámok",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A rendszámot a rögzített munkaszerszámok takarják.",
+    "source": {
+      "page": 17,
+      "line_hint": "333.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart világítóeszközökkel a\n1. rakomány miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "világítás",
+      "eltakarított",
+      "rakomány",
+      "lámpák",
+      "eltakarított",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A világítóeszközt a rakomány takarja.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart világítóeszközökkel a\n2. teherhordó miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "világítás",
+      "eltakarított",
+      "teherhordó",
+      "lámpák",
+      "eltakarított",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A világítóeszközt a teherhordó takarja.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV",
+    "law_text": "Közlekedés eltakart világítóeszközökkel a\n3. szerszámok és hasonlók miatt",
+    "fine_chf": 60,
+    "keywords": [
+      "világítás",
+      "eltakarított",
+      "szerszámok",
+      "lámpák",
+      "eltakarított",
+      "felszerelés"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A világítóeszközt a rögzített munkaszerszámok takarják.",
+    "source": {
+      "page": 17,
+      "line_hint": "334.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Megállás a gyalogátkelőhelyen a torlódott forgalom során",
+    "fine_chf": 60,
+    "keywords": [
+      "megállás",
+      "gyalogátkelőhely",
+      "torlódott forgalom",
+      "gyalogátkelőhely",
+      "megállás",
+      "torlódás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "torlódott forgalom során",
+    "notes": "Átkelőhely blokkolása a forgalmi torlódás során.",
+    "source": {
+      "page": 17,
+      "line_hint": "335"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 12 Abs. 3 VRV",
+    "law_text": "Megállás a kereszteződésnél a forgalmi sávban keresztforgalomra a torlódott forgalom során",
+    "fine_chf": 60,
+    "keywords": [
+      "megállás",
+      "kereszteződés",
+      "keresztforgalom",
+      "torlódott forgalom",
+      "kereszteződés",
+      "megállás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": "torlódott forgalom során",
+    "notes": "A keresztforgalomra szánt kereszteződés területének blokkolása a torlódás során.",
+    "source": {
+      "page": 17,
+      "line_hint": "336"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Elsőbbség megtagadása a gyalogátkelőhelyen",
+    "fine_chf": 140,
+    "keywords": [
+      "elsőbbség",
+      "gyalogátkelőhely",
+      "elsőbbség",
+      "prioritás",
+      "gyalogátkelőhely"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Elsőbbség megtagadása a jelölt átkelőhelyen a gyalogosoknak.",
+    "source": {
+      "page": 17,
+      "line_hint": "337"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 61 VRV",
+    "law_text": "Jogosulatlan személyszállítás áruszállító járműveken és mezőgazdasági illetve erdészeti járműveken",
+    "fine_chf": 60,
+    "keywords": [
+      "szállítás",
+      "áruszállítás",
+      "mezőgazdasági járművek",
+      "mezőgazdasági járművek",
+      "utas szállítás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jogosulatlan utasok szállítása áruszállító vagy erdészeti/mezőgazdasági járműveken.",
+    "source": {
+      "page": 17,
+      "line_hint": "338"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 43a Abs. 1 VRV",
+    "law_text": "Közlekedés gyalogos területen motoros kerekesszékkel vagy elektromos állórollerrel nem fogyatékos személy által",
+    "fine_chf": 40,
+    "keywords": [
+      "gyalogos zóna",
+      "motoros kerekessék",
+      "elektromos állóroller",
+      "E-roller",
+      "mobilitási korlátozás",
+      "gyalogos terület"
+    ],
+    "road_category": "e-scooter",
+    "applies_to": [
+      "Nem fogyatékos személy"
+    ],
+    "conditions": null,
+    "notes": "Segédeszközök (kerekesszek/E-roller) jogosulatlan használata gyalogos úton nem fogyatékos személyek által.",
+    "source": {
+      "page": 17,
+      "line_hint": "339"
+    }
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Удряне на превозно средство или предмет от водача",
+    "fine_chf": 20,
+    "keywords": [
+      "Удряне",
+      "Сблъсък",
+      "Предмет",
+      "Водач",
+      "сблъсък",
+      "предмет",
+      "водач"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Женски водач",
+      "Водач"
+    ],
+    "conditions": null,
+    "notes": "Случайно удряне на превозно средство или предмет.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Тягане на превозно средство или предмет от водача",
+    "fine_chf": 20,
+    "keywords": [
+      "Тягане",
+      "Предмет",
+      "Водач",
+      "тягане",
+      "предмет",
+      "водач"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Женски водач",
+      "Водач"
+    ],
+    "conditions": null,
+    "notes": "Нанасяне на щети чрез теглене/влачене на превозно средство или предмет.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Теглене на превозно средство или предмет от водача",
+    "fine_chf": 20,
+    "keywords": [
+      "Теглене",
+      "Предмет",
+      "Водач",
+      "теглене",
+      "влачене",
+      "предмет",
+      "водач"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Женски водач",
+      "Водач"
+    ],
+    "conditions": null,
+    "notes": "Нанасяне на щети при теглене/влачене на превозно средство или предмет.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Обща забрана за движение в двете посоки» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Забрана за движение",
+      "Сигнал за забрана",
+      "две посоки",
+      "Обща забрана",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака 'Забрана за превозни средства в двете посоки'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Вход забранен» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Вход",
+      "забранен",
+      "Сигнал за забрана",
+      "Забранен вход",
+      "забранен вход",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака 'Забранен вход'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Забрана за велосипеди и мопеди» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Велосипеди",
+      "Мопеди",
+      "Велосипед",
+      "Мопед",
+      "Забрана",
+      "велосипед",
+      "мопед",
+      "сигнализация"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Карач на велосипед",
+      "Карач на мопед"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака за забрана за велосипеди и мопеди.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Забрана за мопеди» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Мопеди",
+      "Мопед",
+      "Забрана",
+      "мопед",
+      "сигнализация"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Карач на мопед"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака за забрана, специфично за мопеди.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Посока надясно» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Посока",
+      "надясно",
+      "Регулаторен сигнал",
+      "посока надясно",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителния сигнал за посока (надясно).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Посока наляво» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Посока",
+      "наляво",
+      "Регулаторен сигнал",
+      "посока наляво",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителния сигнал за посока (наляво).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Препъване отстрани надясно» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Препятствие",
+      "надясно",
+      "обикаляне",
+      "Регулаторен сигнал",
+      "препъване надясно",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителната посока за преминаване около препятствие отдясно.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Препъване отстрани наляво» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Препятствие",
+      "наляво",
+      "обикаляне",
+      "Регулаторен сигнал",
+      "препъване наляво",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителната посока за преминаване около препятствие отляво.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Продължете право» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Продължи право",
+      "Посока",
+      "Регулаторен сигнал",
+      "право напред",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителния знак за посока 'право напред'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Завой надясно» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Завой надясно",
+      "Завиване",
+      "Посока",
+      "Регулаторен сигнал",
+      "завой надясно",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителния знак за завой надясно.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Завой наляво» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Завой наляво",
+      "Завиване",
+      "Посока",
+      "Регулаторен сигнал",
+      "завой наляво",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителния знак за завой наляво.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Кръгово движение» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Кръгово движение",
+      "Трафик кръг",
+      "Регулаторен сигнал",
+      "кръгово движение",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на задължителната посока (обикновено обратно на часовниковата стрелка) в кръговото движение.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Забрана за завой надясно» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Завиване",
+      "надясно",
+      "забранено",
+      "Сигнал за забрана",
+      "Забранен завой надясно",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака 'Забрана за завой надясно'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Забрана за завой наляво» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Завиване",
+      "наляво",
+      "забранено",
+      "Сигнал за забрана",
+      "Забранен завой наляво",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака 'Забрана за завой наляво'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Забрана за обратен завой» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Обратен завой",
+      "забранено",
+      "Сигнал за забрана",
+      "Забранен обратен завой",
+      "сигнализация"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на знака 'Забрана за обратен завой'.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Велосипедна пътека» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Велосипедна пътека",
+      "Велосипед",
+      "Велосипед",
+      "Задължителен сигнал",
+      "велосипедна пътека",
+      "сигнализация"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Неправилна употреба или пречене на задължителната велосипедна пътека.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Зона за споделено пространство» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Зона за споделено пространство",
+      "Зона",
+      "споделено пространство",
+      "сигнализация",
+      "зона за бавене"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на правилата или границите на зона за споделено пространство (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Пешеходна зона» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Пешеходна зона",
+      "Зона",
+      "пешеходна зона",
+      "сигнализация",
+      "пешеходец"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Водач на превозно средство"
+    ],
+    "conditions": null,
+    "notes": "Игнориране на правилата или границите на пешеходната зона.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

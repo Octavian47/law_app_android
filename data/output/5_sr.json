@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zaustavljanje radi utovara robe u 10 m pre znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Utovar robe",
+      "Znak zaustavljanja",
+      "javni prevoz",
+      "zaustavljanje",
+      "roba",
+      "zaustavni znak javnog prevoza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje radi utovara/istovara robe u 10 m pre znaka zaustavljanja javnog prevoza.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje u 10 m nakon znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 i 19 Abs. 2 a VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "Znak zaustavljanja",
+      "javni prevoz",
+      "60 minuta",
+      "parkiranje",
+      "zaustavni znak javnog prevoza",
+      "vremensko ograničenje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje u 10 m nakon znaka zaustavljanja javnog prevoza, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zaustavljanje koje ometa, radi ukrcavanja i iskrcavanja osoba u 10 m nakon znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Ometajuće",
+      "ukrcavanje/iskrcavanje",
+      "Znak zaustavljanja",
+      "zaustavljanje",
+      "ometajuće",
+      "zaustavni znak javnog prevoza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje koje ometa, radi ukrcavanja i iskrcavanja osoba u 10 m nakon znaka zaustavljanja javnog prevoza.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zaustavljanje radi utovara robe u 10 m nakon znaka zaustavljanja javnog prevoza (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Utovar robe",
+      "Znak zaustavljanja",
+      "javni prevoz",
+      "zaustavljanje",
+      "roba",
+      "zaustavni znak javnog prevoza"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje radi utovara/istovara robe u 10 m nakon znaka zaustavljanja javnog prevoza.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkiranje ispred prostorija vatrogasne stanice i magacina vatrogasne opreme (Art. 18 Abs. 3 i Art. 19 Abs. 2 a VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "vatrogasna stanica",
+      "magacin",
+      "vatrogasna oprema",
+      "60 minuta",
+      "parkiranje",
+      "vatrogasna stanica",
+      "vatrogasna oprema"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje ispred prostorija vatrogasne stanice/opreme, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zaustavljanje radi utovara robe ispred prostorija vatrogasne stanice ili magacina vatrogasne opreme (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Utovar robe",
+      "vatrogasna stanica",
+      "vatrogasna oprema",
+      "zaustavljanje",
+      "roba",
+      "vatrogasna stanica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje radi utovara/istovara robe ispred prostorija vatrogasne stanice/opreme.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Zaustavljanje koje ometa, radi ukrcavanja i iskrcavanja osoba ispred prostorija vatrogasne stanice i magacina vatrogasne opreme (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Ometajuće",
+      "ukrcavanje/iskrcavanje",
+      "vatrogasna stanica",
+      "zaustavljanje",
+      "ometajuće",
+      "vatrogasna stanica"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje koje ometa, radi ukrcavanja i iskrcavanja osoba ispred prostorija vatrogasne stanice/opreme.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Zaustavljanje koje ometa, radi utovara robe pored vozila parkiranih uz ivicu puta (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "Ometajuće",
+      "Utovar robe",
+      "duž",
+      "parkirano",
+      "zaustavljanje",
+      "ometajuće",
+      "roba",
+      "dvostruko parkiranje"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje koje ometa, radi utovara/istovara robe pored vozila parkiranih uz ivicu puta (dvostruko parkiranje za robu).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkiranje na biciklističkom traku (Art. 19 Abs. 2 d VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "biciklistički traka",
+      "biciklistički pojas",
+      "60 minuta",
+      "parkiranje",
+      "biciklistički traka",
+      "biciklistički pojas"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na biciklističkom traku/pojasu, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na biciklističkom traku kada ometa biciklistički saobraćaj (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "biciklistički traka",
+      "biciklistički saobraćaj",
+      "ometen",
+      "zaustavljanje",
+      "biciklistički traka",
+      "ometajuće"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na biciklističkom traku/pojasu kada ometa biciklistički saobraćaj.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. d VRV",
+    "law_text": "Parkiranje na kolovozu pored biciklističkog traka (Art. 19 Abs. 2 d VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "kolovoz",
+      "biciklistički traka",
+      "pored",
+      "60 minuta",
+      "parkiranje",
+      "kolovoz",
+      "biciklistički traka"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na kolovozu pored biciklističkog traka/pojas, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkiranje na tramvajskim šinama (Art. 19 Abs. 2 a i 25 Abs. 5 VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "tramvajske šine",
+      "tramvajske šine",
+      "60 minuta",
+      "parkiranje",
+      "tramvajske šine"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na tramvajskim šinama, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zaustavljanje na tramvajskim šinama (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "tramvajske šine",
+      "tramvajske šine",
+      "zaustavljanje",
+      "tramvajske šine"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje na tramvajskim šinama.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Parkiranje bliže od 1,5 m pored najbliže šine tramvajske pruge (Art. 19 Abs. 2 a i 25 Abs. 5 VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "tramvajska šina",
+      "tramvajske šine",
+      "1,5 m",
+      "60 minuta",
+      "parkiranje",
+      "tramvajska šina",
+      "udaljenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje bliže od 1,5 m najbližoj šini tramvajske pruge, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Zaustavljanje bliže od 1,5 m pored najbliže šine tramvajske pruge (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "tramvajska šina",
+      "tramvajske šine",
+      "1,5 m",
+      "zaustavljanje",
+      "tramvajska šina",
+      "udaljenost"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": null,
+    "notes": "Zaustavljanje bliže od 1,5 m najbližoj šini tramvajske pruge.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkiranje na uslužnoj traci autoputa (Art. 36 Abs. 3 VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "uslužna traka",
+      "autoput",
+      "60 minuta",
+      "parkiranje",
+      "uslužna traka",
+      "autoput"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na uslužnoj traci autoputa, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Zaustavljanje na uslužnoj traci autoputa, osim u slučaju hitnog zaustavljanja (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Zaustavljanje",
+      "uslužna traka",
+      "autoput",
+      "hitno zaustavljanje",
+      "zaustavljanje",
+      "uslužna traka",
+      "autoput",
+      "hitno"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "osim hitnog zaustavljanja",
+    "notes": "Zaustavljanje na uslužnoj traci autoputa, izuzev hitnih slučajeva.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Parkiranje na uslužnoj traci brze ceste (Art. 36 Abs. 3 VRV) do 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkiranje",
+      "uslužna traka",
+      "brza cesta",
+      "60 minuta",
+      "parkiranje",
+      "uslužna traka",
+      "brza cesta"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Vozač vozila"
+    ],
+    "conditions": "do 60 minuta",
+    "notes": "Parkiranje na uslužnoj traci brze ceste, do 60 minuta.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

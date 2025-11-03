@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt pour charger des marchandises à moins de 10 m avant un panneau d'arrêt de transport public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Chargement de marchandises",
+      "Panneau d'arrêt",
+      "transport public",
+      "arrêt",
+      "marchandises",
+      "arrêt de transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt pour charger/décharger des marchandises à moins de 10 m avant un panneau d'arrêt de transport public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à moins de 10 m après un panneau d'arrêt de transport public (Art. 18 Abs. 3 et 19 Abs. 2 a VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "panneau d'arrêt",
+      "transport public",
+      "60 minutes",
+      "stationnement",
+      "arrêt de transport public",
+      "limite de temps"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement à moins de 10 m après un panneau d'arrêt de transport public, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt obstructif pour permettre aux personnes de monter et descendre à moins de 10 m après un panneau d'arrêt de transport public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Obstructif",
+      "montée/descente",
+      "panneau d'arrêt",
+      "arrêt",
+      "obstructif",
+      "arrêt de transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif pour laisser les personnes monter/descendre à moins de 10 m après un panneau d'arrêt de transport public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt pour charger des marchandises à moins de 10 m après un panneau d'arrêt de transport public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Chargement de marchandises",
+      "Panneau d'arrêt",
+      "transport public",
+      "arrêt",
+      "marchandises",
+      "arrêt de transport public"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt pour charger/décharger des marchandises à moins de 10 m après un panneau d'arrêt de transport public.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement devant les locaux de la caserne de pompiers et les dépôts d'équipement de lutte contre l'incendie (Art. 18 Abs. 3 et Art. 19 Abs. 2 a VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "caserne de pompiers",
+      "magasin",
+      "équipement de lutte contre l'incendie",
+      "60 minutes",
+      "stationnement",
+      "caserne de pompiers",
+      "équipement de lutte contre l'incendie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement devant les locaux de la caserne de pompiers ou des équipements, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt pour charger des marchandises devant les locaux de la caserne de pompiers ou les dépôts d'équipement de lutte contre l'incendie (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Chargement de marchandises",
+      "caserne de pompiers",
+      "équipement de lutte contre l'incendie",
+      "arrêt",
+      "marchandises",
+      "caserne de pompiers"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt pour charger/décharger des marchandises devant les locaux de la caserne de pompiers ou des équipements.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt obstructif pour permettre aux personnes de monter et descendre devant les locaux de la caserne de pompiers et les dépôts d'équipement de lutte contre l'incendie (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Obstructif",
+      "montée/descente",
+      "caserne de pompiers",
+      "arrêt",
+      "obstructif",
+      "caserne de pompiers"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif pour laisser les personnes monter/descendre devant les locaux de la caserne de pompiers ou des équipements.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Arrêt obstructif pour charger des marchandises à côté de véhicules stationnés le long du bord de la route (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "Obstructif",
+      "Chargement de marchandises",
+      "le long de",
+      "stationnés",
+      "arrêt",
+      "obstructif",
+      "marchandises",
+      "double stationnement"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif pour charger/décharger des marchandises à côté de véhicules stationnés le long du bord de la route (double stationnement pour marchandises).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Stationnement sur une piste cyclable (Art. 19 Abs. 2 d VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "piste cyclable",
+      "bande cyclable",
+      "60 minutes",
+      "stationnement",
+      "piste cyclable",
+      "bande cyclable"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur une piste cyclable, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Arrêt sur une piste cyclable lorsqu'il gêne la circulation cycliste (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "piste cyclable",
+      "circulation cycliste",
+      "gêné",
+      "arrêt",
+      "piste cyclable",
+      "obstructif"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur une piste cyclable lorsqu'il gêne la circulation des cyclistes.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Stationnement sur la chaussée à côté d'une piste cyclable (Art. 19 Abs. 2 d VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "chaussée",
+      "piste cyclable",
+      "à côté de",
+      "60 minutes",
+      "stationnement",
+      "chaussée",
+      "piste cyclable"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur la route à côté d'une piste cyclable, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Stationnement sur les voies de tram (Art. 19 Abs. 2 a et 25 Abs. 5 VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "voies de tram",
+      "voies de tram",
+      "60 minutes",
+      "stationnement",
+      "voies de tram"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur les voies de tram, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Arrêt sur les voies de tram (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "voies de tram",
+      "voies de tram",
+      "arrêt",
+      "voies de tram"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur les voies de tram.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Stationnement à moins de 1,5 m à côté du rail de voie de tram le plus proche (Art. 19 Abs. 2 a et 25 Abs. 5 VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "rail de voie de tram",
+      "voies de tram",
+      "1,5 m",
+      "60 minutes",
+      "stationnement",
+      "rail de voie de tram",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement à moins de 1,5 m du rail de voie de tram le plus proche, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Arrêt à moins de 1,5 m à côté du rail de voie de tram le plus proche (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "rail de voie de tram",
+      "voies de tram",
+      "1,5 m",
+      "arrêt",
+      "rail de voie de tram",
+      "distance"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt à moins de 1,5 m du rail de voie de tram le plus proche.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Stationnement sur la bande d'arrêt d'urgence d'une autoroute (Art. 36 Abs. 3 VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "bande d'arrêt d'urgence",
+      "autoroute",
+      "60 minutes",
+      "stationnement",
+      "bande d'arrêt d'urgence",
+      "autoroute"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur la bande d'arrêt d'urgence d'une autoroute, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Arrêt sur la bande d'arrêt d'urgence d'une autoroute, sauf en cas d'arrêt d'urgence (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Arrêt",
+      "bande d'arrêt d'urgence",
+      "autoroute",
+      "arrêt d'urgence",
+      "arrêt",
+      "bande d'arrêt d'urgence",
+      "autoroute",
+      "urgence"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "sauf arrêt d'urgence",
+    "notes": "Arrêt sur la bande d'arrêt d'urgence d'une autoroute, à l'exception des urgences.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Stationnement sur la bande d'arrêt d'urgence d'une voie rapide (Art. 36 Abs. 3 VRV) jusqu'à 60 minutes",
+    "fine_chf": 120,
+    "keywords": [
+      "Stationnement",
+      "bande d'arrêt d'urgence",
+      "voie rapide",
+      "60 minutes",
+      "stationnement",
+      "bande d'arrêt d'urgence",
+      "voie rapide"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur la bande d'arrêt d'urgence d'une voie rapide, jusqu'à 60 minutes.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

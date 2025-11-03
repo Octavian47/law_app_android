@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Utilizzare un marciapiede senza scendere",
+    "fine_chf": 30,
+    "keywords": [
+      "marciapiede",
+      "scendere",
+      "bicicletta",
+      "Velo",
+      "sentiero pedonale",
+      "scendere"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Utilizzare un marciapiede senza scendere (si applica ai ciclisti).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilizzare una pista ciclabile nella direzione proibita",
+    "fine_chf": 30,
+    "keywords": [
+      "pista ciclabile",
+      "direzione proibita",
+      "Velo",
+      "controflusso",
+      "pista ciclabile"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Utilizzare una pista ciclabile nella direzione sbagliata.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilizzare una corsia ciclabile nella direzione proibita",
+    "fine_chf": 30,
+    "keywords": [
+      "corsia ciclabile",
+      "direzione proibita",
+      "Velo",
+      "controflusso",
+      "corsia ciclabile"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Utilizzare una corsia ciclabile nella direzione sbagliata.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Mancata completa fermata ai segnali di stop (stop in corsa) (3.01; Art. 27 par. 1 SVG e Art. 36 par. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "segnale di stop",
+      "stop in corsa",
+      "fermare",
+      "regole del traffico",
+      "segnale di stop",
+      "mancata fermata"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata completa fermata (stop in corsa).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Mancato rispetto del segnale semaforico",
+    "fine_chf": 60,
+    "keywords": [
+      "segnale luminoso",
+      "non rispetto",
+      "semaforo rosso",
+      "semaforo",
+      "mancato rispetto",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Ignorare un semaforo (spesso riferito al passaggio con luce rossa/ambra).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Mancato rispetto di un 'segnale luminoso lampeggiante alternato' (3.20) o di un 'segnale luminoso lampeggiante semplice' (3.21; Art. 28 SVG, Art. 68 par. 1 e ss. e Art. 93 par. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "segnale luminoso lampeggiante alternato",
+      "segnale luminoso lampeggiante semplice",
+      "non rispetto",
+      "luce lampeggiante",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancato rispetto di segnali luminosi speciali (es. attraversamenti ferroviari).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Violazione dell'ordine a corsia singola ignorando la freccia di direzione segnata e la freccia di contorno del sistema semaforico",
+    "fine_chf": 30,
+    "keywords": [
+      "ordine a corsia singola",
+      "freccia di direzione",
+      "freccia di contorno",
+      "ignorare",
+      "disciplina di corsia",
+      "segnalazione"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Violazione della disciplina di corsia ignorando le frecce di direzione o di contorno segnate vicino ai semafori.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Mancata prosecuzione della guida nella direzione della freccia",
+    "fine_chf": 30,
+    "keywords": [
+      "direzione della freccia",
+      "proseguire la guida",
+      "corsia",
+      "direzione della corsia",
+      "flusso del traffico"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata prosecuzione della guida nella direzione indicata dalla freccia della corsia.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Mancata segnalazione manuale o indicazione di direzione durante la svolta a destra",
+    "fine_chf": 20,
+    "keywords": [
+      "segnale manuale",
+      "indicazione di direzione",
+      "svolta a destra",
+      "segnale di svolta",
+      "segnalazione",
+      "girare a destra"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione durante la svolta a destra.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Mancata segnalazione manuale o indicazione di direzione durante la svolta a sinistra",
+    "fine_chf": 30,
+    "keywords": [
+      "segnale manuale",
+      "indicazione di direzione",
+      "svolta a sinistra",
+      "segnale di svolta",
+      "segnalazione",
+      "girare a sinistra"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione durante la svolta a sinistra.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Mancata segnalazione manuale o indicazione di direzione durante il sorpasso",
+    "fine_chf": 20,
+    "keywords": [
+      "segnale manuale",
+      "indicazione di direzione",
+      "sorpasso",
+      "segnale di svolta",
+      "segnalazione",
+      "sorpasso"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione durante il sorpasso.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Guidare sopra o attraversare una linea di sicurezza all'interno di zona edificata",
+    "fine_chf": 40,
+    "keywords": [
+      "linea di sicurezza",
+      "guidare sopra",
+      "attraversare",
+      "all'interno di zona edificata",
+      "linea continua",
+      "disciplina del traffico"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Attraversare una linea bianca continua (divieto di sorpasso/attraversamento) all'interno di zona edificata.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Guidare su una corsia riservata agli autobus senza autorizzazione",
+    "fine_chf": 30,
+    "keywords": [
+      "corsia autobus",
+      "guidare",
+      "proibito",
+      "corsia autobus",
+      "accesso limitato"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducente del veicolo (non autorizzato)"
+    ],
+    "conditions": null,
+    "notes": "Guidare su una corsia riservata agli autobus senza autorizzazione.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Guidare su un percorso non adatto a biciclette, motocicli e rickshaw elettrici o evidentemente non destinato a loro",
+    "fine_chf": 30,
+    "keywords": [
+      "uso del percorso",
+      "inadeguato",
+      "bicicletta",
+      "motocicletta",
+      "rickshaw elettrico",
+      "percorso inadeguato",
+      "accesso limitato"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista",
+      "Motociclista",
+      "Conducente di rickshaw elettrico"
+    ],
+    "conditions": null,
+    "notes": "Utilizzare un percorso chiaramente inadeguato o non destinato a biciclette/mopeds/rickshaw elettrici.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Mancato utilizzo della pista ciclabile",
+    "fine_chf": 30,
+    "keywords": [
+      "pista ciclabile",
+      "non utilizzo",
+      "uso obbligatorio",
+      "uso compulsorio",
+      "pista ciclabile"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Mancato utilizzo di una pista ciclabile obbligatoria.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Mancato utilizzo della corsia ciclabile",
+    "fine_chf": 30,
+    "keywords": [
+      "corsia ciclabile",
+      "non utilizzo",
+      "uso obbligatorio",
+      "uso compulsorio",
+      "corsia ciclabile"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclista"
+    ],
+    "conditions": null,
+    "notes": "Mancato utilizzo di una corsia ciclabile obbligatoria.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parcheggiare o fermare una bicicletta, motocicletta o rickshaw elettrico dove il parcheggio o la sosta è proibito dalle norme generali del traffico",
+    "fine_chf": 20,
+    "keywords": [
+      "parcheggio proibito",
+      "sosta proibita",
+      "bicicletta",
+      "motocicletta",
+      "rickshaw elettrico",
+      "divieto di parcheggio",
+      "norme generali del traffico"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Motociclista",
+      "Conducente di rickshaw elettrico"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio/sosta proibiti dalle norme generali (non da segnali).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parcheggiare o fermare una bicicletta, motocicletta o rickshaw elettrico dove il parcheggio o la sosta è proibito dai segnali",
+    "fine_chf": 20,
+    "keywords": [
+      "parcheggio proibito",
+      "sosta proibita",
+      "segnali",
+      "bicicletta",
+      "motocicletta",
+      "rickshaw elettrico",
+      "divieto di parcheggio",
+      "segnali"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclista",
+      "Motociclista",
+      "Conducente di rickshaw elettrico"
+    ],
+    "conditions": null,
+    "notes": "Parcheggio/sosta proibiti da segnali stradali specifici.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]

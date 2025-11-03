@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Mancata immissione delle informazioni richieste nel foglio settimanale",
+    "fine_chf": 40,
+    "keywords": [
+      "foglio settimanale",
+      "informazione",
+      "inserire",
+      "ARV 2",
+      "orario di lavoro",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata immissione delle informazioni richieste nel foglio settimanale per i conducenti professionisti.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Mancata immissione delle informazioni richieste nel foglio giornaliero",
+    "fine_chf": 40,
+    "keywords": [
+      "foglio giornaliero",
+      "informazione",
+      "inserire",
+      "ARV 2",
+      "orario di lavoro",
+      "conducente professionista"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata immissione delle informazioni richieste nel foglio giornaliero per i conducenti professionisti.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Mancata immissione delle informazioni richieste nella scheda di controllo per i conducenti di taxi",
+    "fine_chf": 40,
+    "keywords": [
+      "scheda di controllo",
+      "conducente di taxi",
+      "informazione",
+      "inserire",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Conducente di taxi"
+    ],
+    "conditions": null,
+    "notes": "Mancata immissione delle informazioni richieste nella scheda di controllo per i conducenti di taxi (riferimenti sia ARV 2 che ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Mancata immissione delle informazioni richieste nel tachigrafo digitale",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "digitale",
+      "informazione",
+      "inserire",
+      "ARV",
+      "conducente professionista",
+      "tachigrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata immissione delle informazioni richieste nel tachigrafo digitale.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Mancata etichettatura del foglio del tachigrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "foglio",
+      "etichetta",
+      "senza etichetta",
+      "foglio del tachigrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata etichettatura del foglio del tachigrafo (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Mancata etichettatura della stampa",
+    "fine_chf": 40,
+    "keywords": [
+      "stampa",
+      "etichetta",
+      "senza etichetta",
+      "stampa del tachigrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata etichettatura della stampa del tachigrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Etichettatura incompleta del foglio del tachigrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "foglio",
+      "incompleto",
+      "etichetta",
+      "foglio del tachigrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Etichettatura incompleta del foglio del tachigrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etichettatura incompleta della stampa",
+    "fine_chf": 40,
+    "keywords": [
+      "stampa",
+      "incompleto",
+      "etichetta",
+      "stampa del tachigrafo",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Etichettatura incompleta della stampa del tachigrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Etichettatura falsa/ingannevole del foglio del tachigrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "foglio",
+      "falso",
+      "ingannevole",
+      "etichettatura",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Etichettatura falsa/ingannevole del foglio del tachigrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Etichettatura falsa/ingannevole della stampa",
+    "fine_chf": 40,
+    "keywords": [
+      "stampa",
+      "falso",
+      "ingannevole",
+      "etichettatura",
+      "ARV",
+      "stampa del tachigrafo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Etichettatura falsa/ingannevole della stampa del tachigrafo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Uso di un foglio del tachigrafo non omologato",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "foglio",
+      "non omologato",
+      "non approvato",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di un foglio del tachigrafo non omologato.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Uso di un foglio del tachigrafo non corrispondente al dispositivo tachigrafo",
+    "fine_chf": 40,
+    "keywords": [
+      "tachigrafo",
+      "foglio",
+      "non idoneo",
+      "errato",
+      "non corrispondente",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di un foglio del tachigrafo che non corrisponde al dispositivo tachigrafo specifico.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Uso di carta per stampante non corretta",
+    "fine_chf": 40,
+    "keywords": [
+      "carta per stampante",
+      "non idonea",
+      "errata",
+      "carta per stampante",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Uso di carta per stampante non corretta per il tachigrafo digitale/dispositivo di controllo.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mancata presenza del certificato di formazione per carichi di merci pericolose",
+    "fine_chf": 20,
+    "keywords": [
+      "merci pericolose",
+      "carico",
+      "certificato di formazione",
+      "ADR",
+      "SDR",
+      "merci pericolose",
+      "documenti"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata presenza del certificato di formazione per il trasporto di merci pericolose, sapendo che è presente un carico pericoloso.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mancata presenza del documento di trasporto per carichi di merci pericolose",
+    "fine_chf": 140,
+    "keywords": [
+      "merci pericolose",
+      "carico",
+      "documento di trasporto",
+      "ADR",
+      "SDR",
+      "merci pericolose",
+      "documento di trasporto"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata presenza del documento di trasporto per merci pericolose, sapendo che è presente un carico pericoloso. Questa multa è notevolmente più alta.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Mancata presenza dell'istruzione scritta (scheda di incidente) per carichi di merci pericolose",
+    "fine_chf": 40,
+    "keywords": [
+      "merci pericolose",
+      "carico",
+      "istruzione scritta",
+      "scheda di incidente",
+      "ADR",
+      "SDR",
+      "istruzioni di emergenza"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata presenza delle istruzioni scritte (scheda di emergenza/incidente) per merci pericolose, sapendo che è presente un carico pericoloso.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Mancata rimozione o copertura dei cartelli arancioni quando non si trasportano merci pericolose",
+    "fine_chf": 60,
+    "keywords": [
+      "merci pericolose",
+      "cartello arancione",
+      "rimuovere",
+      "coprire",
+      "SDR",
+      "esposizione",
+      "cartello"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Conducente del veicolo"
+    ],
+    "conditions": null,
+    "notes": "Mancata rimozione o copertura dei cartelli arancioni (che indicano merci pericolose) quando il veicolo NON trasporta merci pericolose (vuoto/pulito).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Mancata segnalazione o segnalazione tardiva di fatti che richiedono una modifica o sostituzione di una licenza o permesso",
+    "fine_chf": 20,
+    "keywords": [
+      "obbligo di segnalazione",
+      "licenza",
+      "permesso",
+      "cambio",
+      "sostituzione",
+      "VZV",
+      "segnalazione"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Titolare della licenza/permesso"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione o segnalazione tardiva di fatti che richiedono la modifica o la sostituzione di una patente di guida o di un permesso.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Mancata segnalazione o segnalazione tardiva di un cambio di residenza a un nuovo indirizzo svizzero",
+    "fine_chf": 20,
+    "keywords": [
+      "cambio di residenza",
+      "indirizzo",
+      "segnalare",
+      "VZV",
+      "segnalazione",
+      "cambio di residenza"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Conducente del veicolo",
+      "Titolare della licenza"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione o segnalazione tardiva di un cambio a un nuovo indirizzo di residenza svizzero.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Mancata segnalazione delle modifiche sulle schede del tachigrafo",
+    "fine_chf": 20,
+    "keywords": [
+      "carta del tachigrafo",
+      "modifica",
+      "segnalare",
+      "ARV",
+      "carta del tachigrafo",
+      "segnalazione"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Titolare della carta del conducente"
+    ],
+    "conditions": null,
+    "notes": "Mancata segnalazione delle modifiche relative alla carta del tachigrafo del conducente.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

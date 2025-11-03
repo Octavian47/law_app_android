@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "Toplam ağırlığı veya toplam çekme ağırlığı 3500 kg'ı geçmeyen araçlar ve araç kombinasyonları için, 100 kg'dan fazla ancak %5'ten fazla olmayan bir aşım.",
+    "fine_chf": 200,
+    "keywords": [
+      "brüt ağırlık",
+      "aşırı yük",
+      "araç kombinasyonu",
+      "izin verilen ağırlık",
+      "aşırı yük",
+      "brüt ağırlık"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Araç kombinasyonu"
+    ],
+    "conditions": null,
+    "notes": "Aşırı ağırlık: >100 kg, ancak maksimum brüt ağırlığın %5'inden fazla değil (<= 3500 kg). Ceza, madde 1.b.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "Toplam ağırlığı veya toplam çekme ağırlığı 3500 kg'dan fazla olan araçlar ve araç kombinasyonları için, 100 kg'dan fazla ve %5'e kadar, ancak 1000 kg'ı geçmeyen bir aşım.",
+    "fine_chf": 250,
+    "keywords": [
+      "brüt ağırlık",
+      "aşırı yük",
+      "araç kombinasyonu",
+      "ağır trafik",
+      "aşırı yük",
+      "Ağır Ticari Araç"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Ağır araçlar"
+    ],
+    "conditions": null,
+    "notes": "Aşırı ağırlık: >100 kg ve <= 1000 kg, ancak maksimum brüt ağırlığın %5'inden fazla değil (> 3500 kg). Ceza, madde 1.c.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "100 kg'ı geçmeyecek şekilde",
+    "fine_chf": 100,
+    "keywords": [
+      "aks yükü",
+      "aşırı yük",
+      "izin verilen ağırlık",
+      "aks yükü",
+      "aşırı yük"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İzin verilen aks yükünü (ölçüm toleransı düşüldükten sonra) 100 kg'a kadar aşmak. Ceza, madde 2.a.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "Toplam ağırlığı 3500 kg'dan fazla olan araçlar için, 100 kg'dan fazla ancak %2'yi geçmeyen bir aşım.",
+    "fine_chf": 250,
+    "keywords": [
+      "aks yükü",
+      "aşırı yük",
+      "ağır trafik",
+      "aks yükü",
+      "Ağır Ticari Araç",
+      "aşırı yük"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü",
+      "Ağır araçlar"
+    ],
+    "conditions": null,
+    "notes": "3500 kg'dan fazla araçlar için izin verilen aks yükünü (>100 kg, ancak limitin %2'sini geçmeyen) aşmak. Ceza, madde 2.b.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "%2'den fazla ancak %5'i geçmeyen",
+    "fine_chf": 40,
+    "keywords": [
+      "izin verilen ağırlık",
+      "aşırı yük",
+      "aks yükü",
+      "brüt ağırlık",
+      "aks yükü",
+      "araç kombinasyonu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İzin verilen toplam ağırlık/kompozisyon ağırlığını (ölçüm toleransı düşüldükten sonra) %2'den fazla ancak %5'i geçmeyecek şekilde aşmak. Ceza, madde 3.a.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "%5'ten fazla",
+    "fine_chf": 100,
+    "keywords": [
+      "izin verilen ağırlık",
+      "aşırı yük",
+      "aks yükü",
+      "brüt ağırlık",
+      "aks yükü",
+      "araç kombinasyonu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İzin verilen toplam ağırlık/kompozisyon ağırlığını (ölçüm toleransı düşüldükten sonra) %5'ten fazla aşmak. Ceza, madde 3.b.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Kaldırıma motosiklet sürmek",
+    "fine_chf": 100,
+    "keywords": [
+      "motosiklet",
+      "kaldırım",
+      "yaya yolu",
+      "sürme",
+      "Motosiklet",
+      "kaldırım"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kaldırıma motosiklet sürmek.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Trafik durduğunda motosiklet sürücüsünün kolonda yerini korumaması.",
+    "fine_chf": 60,
+    "keywords": [
+      "motosiklet sürücüsü",
+      "kolon",
+      "yer",
+      "trafik durdu",
+      "Motosiklet",
+      "trafik sıkışıklığı",
+      "şerit bölme"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Motosiklet sürücüsü, trafik durduğunda kolondaki yerini korumuyor (örneğin, durduğunda şerit geçişi/filtreleme).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "1–5 km/h fazla",
+    "fine_chf": 40,
+    "keywords": [
+      "hız",
+      "aşma",
+      "şehir içi",
+      "Astra",
+      "hız aşımı",
+      "yerleşim alanı"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanları içinde, limitin 1-5 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.1.a.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "6–10 km/h fazla",
+    "fine_chf": 120,
+    "keywords": [
+      "hız",
+      "aşma",
+      "şehir içi",
+      "Astra",
+      "hız aşımı",
+      "yerleşim alanı"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanları içinde, limitin 6-10 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.1.b.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "11–15 km/h fazla",
+    "fine_chf": 250,
+    "keywords": [
+      "hız",
+      "aşma",
+      "şehir içi",
+      "Astra",
+      "hız aşımı",
+      "yerleşim alanı"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanları içinde, limitin 11-15 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.1.c.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "1–5 km/h fazla",
+    "fine_chf": 40,
+    "keywords": [
+      "hız",
+      "aşma",
+      "yerleşim dışı alan",
+      "otoyol",
+      "hız aşımı",
+      "yerleşim dışı alan",
+      "otoyol"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim dışı alanlarda veya otoyollarda/yarı otoyollarda, limitin 1-5 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.2.a.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "6–10 km/h fazla",
+    "fine_chf": 100,
+    "keywords": [
+      "hız",
+      "aşma",
+      "yerleşim dışı alan",
+      "otoyol",
+      "hız aşımı",
+      "yerleşim dışı alan",
+      "otoyol"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim dışı alanlarda veya otoyollarda/yarı otoyollarda, limitin 6-10 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.2.b.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "11–15 km/h fazla",
+    "fine_chf": 160,
+    "keywords": [
+      "hız",
+      "aşma",
+      "yerleşim dışı alan",
+      "otoyol",
+      "hız aşımı",
+      "yerleşim dışı alan",
+      "otoyol"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim dışı alanlarda veya otoyollarda/yarı otoyollarda, limitin 11-15 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.2.c.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "16–20 km/h fazla",
+    "fine_chf": 240,
+    "keywords": [
+      "hız",
+      "aşma",
+      "yerleşim dışı alan",
+      "otoyol",
+      "hız aşımı",
+      "yerleşim dışı alan",
+      "otoyol"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim dışı alanlarda veya otoyollarda/yarı otoyollarda, limitin 16-20 km/h üzeri hız aşımı (ölçüm toleransı düşüldükten sonra). Ceza, madde 303.2.d.'ye uygulanır.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

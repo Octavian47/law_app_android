@@ -1,0 +1,539 @@
+[
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 4 ARV 1",
+    "law_text": "Mosraportimi i dëmtimit, defektimit, humbjes ose vjedhjes së kartës së takografit të drejtuesit",
+    "fine_chf": 20,
+    "keywords": [
+      "karta e takografit të drejtuesit",
+      "raportim",
+      "dëmtim",
+      "vjedhje",
+      "ARV",
+      "kartë takograf",
+      "raportim"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me kartën e takografit dixhital të përdorur nga drejtuesit profesionistë.",
+    "source": {
+      "page": 5,
+      "line_hint": "4."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13b Abs. 6 ARV 1",
+    "law_text": "Mos kthimi i kartës së drejtuesit",
+    "fine_chf": 20,
+    "keywords": [
+      "kartë e drejtuesit",
+      "kthim",
+      "ARV",
+      "kartë takograf",
+      "kthim"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Drejtues profesionist",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me kartën e takografit dixhital të përdorur nga drejtuesit profesionistë.",
+    "source": {
+      "page": 5,
+      "line_hint": "5."
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13c Abs. 5 ARV 1",
+    "law_text": "Mos kthimi i kartës së punëtorisë",
+    "fine_chf": 20,
+    "keywords": [
+      "kartë punëtorie",
+      "kthim",
+      "ARV",
+      "kartë punëtorie",
+      "kthim",
+      "takograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Personeli i punëtorisë"
+    ],
+    "conditions": null,
+    "notes": "Lidhur me kartën e takografit punëtorie, thelbësore për rregulloret e drejtuesve profesionistë.",
+    "source": {
+      "page": 5,
+      "line_hint": "6."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Kalimi i kohës së lejuar të parkimit\n  a. deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "kohë parkimi",
+      "tejkalim",
+      "parkim",
+      "kohë parkimi",
+      "tejkalim",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.a."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Kalimi i kohës së lejuar të parkimit\n  b. më shumë se 2, por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "kohë parkimi",
+      "tejkalim",
+      "parkim",
+      "kohë parkimi",
+      "tejkalim",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "më shumë se 2, por jo më shumë se 4 orë",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.b."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 3 SSV",
+    "law_text": "Kalimi i kohës së lejuar të parkimit\n  c. më shumë se 4, por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "kohë parkimi",
+      "tejkalim",
+      "parkim",
+      "kohë parkimi",
+      "tejkalim",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "më shumë se 4, por jo më shumë se 10 orë",
+    "notes": "Fine for exceeding the permitted parking duration.",
+    "source": {
+      "page": 5,
+      "line_hint": "200.c."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Mos vendosja ose shfaqja e dukshme e disku të parkimit në automjet",
+    "fine_chf": 40,
+    "keywords": [
+      "disk parkimi",
+      "vendosje",
+      "dukshmëri",
+      "disk parkimi",
+      "vendosje",
+      "dukshmëri",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 2 SSV",
+    "law_text": "Mos vendosja ose shfaqja e dukshme e biletës së parkimit në automjet",
+    "fine_chf": 40,
+    "keywords": [
+      "biletë parkimi",
+      "biletë parkimi",
+      "vendosje",
+      "dukshmëri",
+      "biletë parkimi",
+      "vendosje",
+      "dukshmëri",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the parking ticket.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 20a Abs. 4 Bst. a VRV, Art. 65 Abs. 5 SSV",
+    "law_text": "Mos vendosja ose shfaqja e dukshme e lejes së parkimit për personat me aftësi të kufizuara në automjet",
+    "fine_chf": 40,
+    "keywords": [
+      "leje parkimi",
+      "person me aftësi të kufizuara",
+      "vendosje",
+      "dukshmëri",
+      "parkim për personat me aftësi të kufizuara",
+      "shenjë",
+      "VRV",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for incorrect display or poor visibility of the disabled parking badge.",
+    "source": {
+      "page": 5,
+      "line_hint": "201.3."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 4 SSV",
+    "law_text": "Vendosja e një ore ardhjeje të pasaktë në diskun e parkimit",
+    "fine_chf": 40,
+    "keywords": [
+      "disk parkimi",
+      "ora e ardhjes",
+      "e pasaktë",
+      "vendosje",
+      "disk parkimi",
+      "ora e ardhjes",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for setting an incorrect arrival time on the parking disc.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 3 SSV",
+    "law_text": "Ndryshimi i orës së vendosur të ardhjes pa lëvizur automjetin",
+    "fine_chf": 40,
+    "keywords": [
+      "disk parkimi",
+      "ora e ardhjes",
+      "ndryshim",
+      "lëvizje",
+      "rivendosje",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for resetting the parking disc's arrival time without moving the vehicle (illegal 'feeding the meter').",
+    "source": {
+      "page": 5,
+      "line_hint": "203.2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48a Abs. 1 SSV",
+    "law_text": "Manipulimi i matësit të parkimit",
+    "fine_chf": 40,
+    "keywords": [
+      "matës parkimi",
+      "manipulim",
+      "defekt",
+      "matës parkimi",
+      "manipulim",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for making a parking meter inoperable.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48a Abs. 1 VRV",
+    "law_text": "Parapagesë e ndaluar para se koha e parkimit të skadojë",
+    "fine_chf": 40,
+    "keywords": [
+      "pagesë paraprake",
+      "kohë parkimi",
+      "para skadimit",
+      "tarifë parkimi",
+      "ri-ngarkim",
+      "paraprakisht",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time before the current paid time has expired, to extend the stay.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.4."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48b Abs. 1 SSV",
+    "law_text": "Pagesa pas skadimit të kohës së parkimit",
+    "fine_chf": 40,
+    "keywords": [
+      "pagesë pas",
+      "kohë parkimi",
+      "i skaduar",
+      "tarifë parkimi",
+      "ri-ngarkim",
+      "i skaduar",
+      "SSV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for paying for additional parking time after the permitted time has already expired.",
+    "source": {
+      "page": 5,
+      "line_hint": "203.5."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. a VRV",
+    "law_text": "Ndërprerja në vende me dukshmëri të dobët, veçanërisht në zonat e kthesave dhe majave",
+    "fine_chf": 80,
+    "keywords": [
+      "ndërprerje",
+      "dukshmëri e dobët",
+      "kthesa",
+      "majë",
+      "ndërprerje",
+      "dukshmëri",
+      "kthesa",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in places with poor visibility, such as near curves or crests.",
+    "source": {
+      "page": 5,
+      "line_hint": "204."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Ndërprerja në ngushticë",
+    "fine_chf": 80,
+    "keywords": [
+      "ndërprerje",
+      "ngushticë",
+      "ndërprerje",
+      "ngushticë",
+      "i ngushtë",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in bottlenecks or narrow passages.",
+    "source": {
+      "page": 5,
+      "line_hint": "205."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. b VRV",
+    "law_text": "Ndërprerja pranë një pengese në rrugë",
+    "fine_chf": 80,
+    "keywords": [
+      "ndërprerje",
+      "pengesë",
+      "rrugë",
+      "ndërprerje",
+      "pengesë",
+      "rrugë",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping next to an obstacle in the lane, which would impede traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "206."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Parkim në një seksion me brez të vetëm (Art. 18 Abs. 2 Bst. c dhe 19 Abs. 2 Bst. a VRV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "brez i vetëm",
+      "parkim",
+      "brez i vetëm",
+      "ngushticë",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Fine for parking in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Ndërprerja në një seksion me brez të vetëm",
+    "fine_chf": 80,
+    "keywords": [
+      "ndërprerje",
+      "brez i vetëm",
+      "ndërprerje",
+      "brez i vetëm",
+      "ngushticë",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": null,
+    "notes": "Fine for stopping in a section where traffic is restricted to a single lane (e.g., due to a temporary obstacle).",
+    "source": {
+      "page": 5,
+      "line_hint": "207.2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Parkim pranë një linje sigurie, nëse nuk lihet një kalim i gjerë së paku 3 m",
+    "fine_chf": 120,
+    "keywords": [
+      "parkim",
+      "linjë sigurie",
+      "kalim",
+      "parkim",
+      "linjë sigurie",
+      "brez kalim",
+      "VRV"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "nëse nuk lihet një kalim i gjerë së paku 3 m",
+    "notes": "Fine for parking next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Ndërprerja pranë një linje sigurie, nëse nuk lihet një kalim i gjerë së paku 3 m",
+    "fine_chf": 80,
+    "keywords": [
+      "ndërprerje",
+      "linjë sigurie",
+      "kalim",
+      "ndërprerje",
+      "linjë sigurie",
+      "brez kalim",
+      "VRV"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Drejtues i automjetit",
+      "Drejtues"
+    ],
+    "conditions": "nëse nuk lihet një kalim i gjerë së paku 3 m",
+    "notes": "Fine for stopping next to a safety line (no-passing line) if less than 3m of clearance remains for traffic.",
+    "source": {
+      "page": 5,
+      "line_hint": "208.2."
+    }
+  }
+]

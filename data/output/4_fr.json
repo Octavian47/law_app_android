@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à côté d'une ligne longitudinale ininterrompue lorsqu'un passage d'au moins 3 m de large n'est pas maintenu libre (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 40,
+    "keywords": [
+      "stationnement",
+      "ligne longitudinale",
+      "passage",
+      "moins de 3 m",
+      "stationnement",
+      "ligne longitudinale",
+      "passage de moins de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement à côté d'une ligne longitudinale ininterrompue, obstruant le passage de moins de 3 m, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Arrêt à côté d'une ligne longitudinale ininterrompue lorsqu'un passage d'au moins 3 m de large n'est pas maintenu libre (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "ligne longitudinale",
+      "passage",
+      "moins de 3 m",
+      "arrêt",
+      "ligne longitudinale",
+      "passage de moins de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt à côté d'une ligne longitudinale ininterrompue, obstruant le passage de moins de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "209. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à côté d'une double ligne lorsqu'un passage d'au moins 3 m de large n'est pas maintenu libre (Art. 18 Abs. 2 Bst. c und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 40,
+    "keywords": [
+      "stationnement",
+      "double ligne",
+      "passage",
+      "moins de 3 m",
+      "stationnement",
+      "double ligne",
+      "passage de moins de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement à côté d'une double ligne, obstruant le passage de moins de 3 m, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. c VRV",
+    "law_text": "Arrêt à côté d'une double ligne lorsqu'un passage d'au moins 3 m de large n'est pas maintenu libre (Art. 18 Abs. 2 Bst. c VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "double ligne",
+      "passage",
+      "moins de 3 m",
+      "arrêt",
+      "double ligne",
+      "passage de moins de 3 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt à côté d'une double ligne, obstruant le passage de moins de 3 m.",
+    "source": {
+      "page": 6,
+      "line_hint": "210. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur un carrefour (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 40,
+    "keywords": [
+      "stationnement",
+      "carrefour",
+      "intersection",
+      "stationnement",
+      "carrefour"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur un carrefour, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Arrêt sur un carrefour (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "carrefour",
+      "intersection",
+      "arrêt",
+      "carrefour"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur un carrefour.",
+    "source": {
+      "page": 6,
+      "line_hint": "211. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à moins de 5 m avant un carrefour depuis la voie transversale (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "stationnement",
+      "carrefour",
+      "voie transversale",
+      "5 m",
+      "stationnement",
+      "intersection",
+      "voie transversale",
+      "moins de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Stationnement à moins de 5 m avant un carrefour depuis la voie transversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Arrêt à moins de 5 m avant un carrefour depuis la voie transversale (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "arrêt",
+      "carrefour",
+      "voie transversale",
+      "5 m",
+      "arrêt",
+      "intersection",
+      "voie transversale",
+      "moins de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt à moins de 5 m avant un carrefour depuis la voie transversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "212. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à moins de 5 m après un carrefour depuis la voie transversale (Art. 18 Abs. 2 Bst. d und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 40,
+    "keywords": [
+      "stationnement",
+      "carrefour",
+      "voie transversale",
+      "5 m",
+      "stationnement",
+      "intersection",
+      "voie transversale",
+      "moins de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement à moins de 5 m après un carrefour depuis la voie transversale, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. d VRV",
+    "law_text": "Arrêt à moins de 5 m après un carrefour depuis la voie transversale (Art. 18 Abs. 2 Bst. d VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "carrefour",
+      "voie transversale",
+      "5 m",
+      "arrêt",
+      "intersection",
+      "voie transversale",
+      "moins de 5 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt à moins de 5 m après un carrefour depuis la voie transversale.",
+    "source": {
+      "page": 6,
+      "line_hint": "213. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement sur un passage piéton (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 80,
+    "keywords": [
+      "stationnement",
+      "passage piéton",
+      "stationnement",
+      "passage piéton",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement sur un passage piéton, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Arrêt sur un passage piéton (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "passage piéton",
+      "arrêt",
+      "passage piéton",
+      "passage piéton"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur un passage piéton.",
+    "source": {
+      "page": 6,
+      "line_hint": "214. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement adjacent à un passage piéton (Art. 18 Abs. 2 Bst. e und 19 Abs. 2 Bst. a VRV) jusqu'à 60 minutes",
+    "fine_chf": 80,
+    "keywords": [
+      "stationnement",
+      "passage piéton",
+      "adjacent",
+      "stationnement",
+      "passage piéton",
+      "adjacent"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": "jusqu'à 60 minutes",
+    "notes": "Stationnement adjacent à un passage piéton, jusqu'à 60 minutes.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. e VRV",
+    "law_text": "Arrêt adjacent à un passage piéton (Art. 18 Abs. 2 Bst. e VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "passage piéton",
+      "adjacent",
+      "arrêt",
+      "passage piéton",
+      "adjacent"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt adjacent à un passage piéton.",
+    "source": {
+      "page": 6,
+      "line_hint": "215. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Arrêt sur un passage à niveau (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "passage à niveau",
+      "arrêt",
+      "passage à niveau",
+      "passage à niveau"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt sur un passage à niveau.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 2 Bst. f VRV",
+    "law_text": "Arrêt dans un passage souterrain (Art. 18 Abs. 2 Bst. f VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "passage souterrain",
+      "arrêt",
+      "passage souterrain"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt dans un passage souterrain.",
+    "source": {
+      "page": 6,
+      "line_hint": "216. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Stationnement à moins de 10 m avant un panneau d'arrêt de transport public (Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 120,
+    "keywords": [
+      "stationnement",
+      "arrêt",
+      "transport public",
+      "10 m",
+      "stationnement",
+      "arrêt de bus",
+      "transport public",
+      "moins de 10 m"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Stationnement à moins de 10 m avant un panneau d'arrêt de transport public.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Arrêt obstructif pour faire monter/descendre des personnes à moins de 10 m avant un panneau d'arrêt de transport public (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "arrêt",
+      "arrêt",
+      "transport public",
+      "10 m",
+      "obstruction",
+      "arrêt",
+      "arrêt de bus",
+      "transport public",
+      "moins de 10 m",
+      "obstruction"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Conducteur de véhicule"
+    ],
+    "conditions": null,
+    "notes": "Arrêt obstructif pour faire monter/descendre des personnes à moins de 10 m avant un panneau d'arrêt de transport public.",
+    "source": {
+      "page": 6,
+      "line_hint": "217. 2."
+    }
+  }
+]

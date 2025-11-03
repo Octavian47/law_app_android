@@ -1,0 +1,50 @@
+[
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a–7a und 8 NSAG",
+    "law_text": "Use of a national road of first or second class without the vignette required for the validity period",
+    "fine_chf": 200,
+    "keywords": [
+      "National road",
+      "Vignette",
+      "Missing vignette",
+      "Issuance",
+      "Toll sticker",
+      "Motorway"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving on national roads without the required toll vignette.",
+    "source": {
+      "page": 27,
+      "line_hint": "6001"
+    }
+  },
+  {
+    "law_name": "NSAG",
+    "article_ref": "Art. 14 Abs. 1 i. V. m. Art. 6a, 7 und 8 NSAG",
+    "law_text": "Use of a national road of first or second class with a required adhesive vignette for the validity period that is not affixed, or not affixed at the prescribed location directly on the vehicle, or is damaged",
+    "fine_chf": 200,
+    "keywords": [
+      "Vignette",
+      "Adhesive vignette",
+      "Application",
+      "Damaged",
+      "Adhesion",
+      "Placement"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Driving with a vignette that is incorrectly affixed (not directly to the vehicle) or damaged.",
+    "source": {
+      "page": 27,
+      "line_hint": "6002"
+    }
+  }
+]

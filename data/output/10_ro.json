@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pentru vehicule și combinații de vehicule cu o greutate totală sau greutate totală de remorcare de maximum 3500 kg, depășind cu mai mult de 100 kg, dar nu mai mult de 5 la sută.",
+    "fine_chf": 200,
+    "keywords": [
+      "greutate brută",
+      "suprasarcină",
+      "combinație de vehicule",
+      "greutate permisă",
+      "suprasarcină",
+      "greutate brută"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Combinație de vehicule"
+    ],
+    "conditions": null,
+    "notes": "Supraîncărcare: >100 kg, dar <= 5% peste greutatea brută maximă (<= 3500 kg). Amenda se aplică la punctul 1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.b."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pentru vehicule și combinații de vehicule cu o greutate totală sau greutate totală de remorcare de peste 3500 kg, cu mai mult de 100 kg până la 5 la sută, dar nu mai mult de 1000 kg.",
+    "fine_chf": 250,
+    "keywords": [
+      "greutate brută",
+      "suprasarcină",
+      "combinație de vehicule",
+      "trafic intens",
+      "suprasarcină",
+      "vehicul de marfă greu"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Vehicule grele"
+    ],
+    "conditions": null,
+    "notes": "Supraîncărcare: >100 kg și <= 1000 kg, dar <= 5% peste greutatea brută maximă (> 3500 kg). Amenda se aplică la punctul 1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "cu nu mai mult de 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "sarcină pe axă",
+      "suprasarcină",
+      "greutate permisă",
+      "sarcină pe axă",
+      "suprasarcină"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea sarcinii permise pe axă (după deducerea toleranței de măsurare), până la 100 kg. Amenda se aplică la punctul 2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "pentru vehicule cu o greutate totală de peste 3500 kg, depășind cu mai mult de 100 kg, dar nu mai mult de 2 la sută.",
+    "fine_chf": 250,
+    "keywords": [
+      "sarcină pe axă",
+      "suprasarcină",
+      "trafic intens",
+      "sarcină pe axă",
+      "vehicul de marfă greu",
+      "suprasarcină"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Vehicule grele"
+    ],
+    "conditions": null,
+    "notes": "Depășirea sarcinii permise pe axă (>100 kg, dar <= 2% peste limită) pentru vehicule > 3500 kg. Amenda se aplică la punctul 2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "cu mai mult de 2 la sută, dar nu mai mult de 5 la sută",
+    "fine_chf": 40,
+    "keywords": [
+      "greutate permisă",
+      "suprasarcină",
+      "sarcină pe axă",
+      "greutate brută",
+      "sarcină pe axă",
+      "combinație de vehicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea greutății totale/greutății combinației permise (după deducerea toleranței de măsurare) cu >2% dar <=5%. Amenda se aplică la punctul 3.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 9 Abs. 2 und 30 Abs. 2 SVG, Art. 67 Abs. 2 und 3 VRV",
+    "law_text": "cu mai mult de 5 la sută",
+    "fine_chf": 100,
+    "keywords": [
+      "greutate permisă",
+      "suprasarcină",
+      "sarcină pe axă",
+      "greutate brută",
+      "sarcină pe axă",
+      "combinație de vehicule"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea greutății totale/greutății combinației permise (după deducerea toleranței de măsurare) cu >5%. Amenda se aplică la punctul 3.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "3.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 2 SVG",
+    "law_text": "Conducerea unei motociclete pe trotuar",
+    "fine_chf": 100,
+    "keywords": [
+      "motocicletă",
+      "trotuar",
+      "pistă pietonală",
+      "conducere",
+      "motocicletă",
+      "trotuar"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Conducerea unei motociclete pe trotuar.",
+    "source": {
+      "page": 12,
+      "line_hint": "301."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 17 Abs. 2 SVG",
+    "law_text": "Nerespectarea poziției de către un motociclist în cadrul coloanei când traficul este oprit.",
+    "fine_chf": 60,
+    "keywords": [
+      "motociclist",
+      "coloană",
+      "poziție",
+      "trafic oprit",
+      "motocicletă",
+      "ambuteiaj",
+      "împărțirea benzii"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Conducător de motocicletă"
+    ],
+    "conditions": null,
+    "notes": "Motociclistul nu își păstrează poziția în cadrul coloanei când traficul este oprit (de ex., filtrarea/împărțirea benzii când este oprit).",
+    "source": {
+      "page": 12,
+      "line_hint": "302."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "cu 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în oraș",
+      "Astra",
+      "depășire de viteză",
+      "zonă construită"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în zone construite, cu 1-5 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.1.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "cu 6–10 km/h",
+    "fine_chf": 120,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în oraș",
+      "Astra",
+      "depășire de viteză",
+      "zonă construită"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în zone construite, cu 6-10 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.1.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "cu 11–15 km/h",
+    "fine_chf": 250,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în oraș",
+      "Astra",
+      "depășire de viteză",
+      "zonă construită"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în zone construite, cu 11-15 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.1.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.1.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "cu 1–5 km/h",
+    "fine_chf": 40,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în afara zonei construite",
+      "autostradă",
+      "depășire de viteză",
+      "în afara zonei construite",
+      "autostradă"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în afara zonelor construite sau pe autostrăzi/semiautostrăzi, cu 1-5 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.2.a.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.a."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "cu 6–10 km/h",
+    "fine_chf": 100,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în afara zonei construite",
+      "autostradă",
+      "depășire de viteză",
+      "în afara zonei construite",
+      "autostradă"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în afara zonelor construite sau pe autostrăzi/semiautostrăzi, cu 6-10 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.2.b.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.b."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "cu 11–15 km/h",
+    "fine_chf": 160,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în afara zonei construite",
+      "autostradă",
+      "depășire de viteză",
+      "în afara zonei construite",
+      "autostradă"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în afara zonelor construite sau pe autostrăzi/semiautostrăzi, cu 11-15 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.2.c.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.c."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG; Art. 4a Abs. 1 und 5 VRV; Art. 22 Abs. 1 SSV",
+    "law_text": "cu 16–20 km/h",
+    "fine_chf": 240,
+    "keywords": [
+      "viteză",
+      "depășire",
+      "în afara zonei construite",
+      "autostradă",
+      "depășire de viteză",
+      "în afara zonei construite",
+      "autostradă"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Depășirea vitezei în afara zonelor construite sau pe autostrăzi/semiautostrăzi, cu 16-20 km/h peste limită (după deducerea toleranței de măsurare). Amenda se aplică la punctul 303.2.d.",
+    "source": {
+      "page": 12,
+      "line_hint": "303.2.d."
+    }
+  }
+]

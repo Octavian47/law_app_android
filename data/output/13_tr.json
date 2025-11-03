@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Sürüş sırasında eller serbest cihaz olmadan telefon kullanmak (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "cep telefonu",
+      "eller serbest cihaz",
+      "sürüş sırasında",
+      "sürüş",
+      "cep telefonu"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Sürücü"
+    ],
+    "conditions": null,
+    "notes": "Sürüş sırasında eller serbest cihaz olmadan telefon kullanmak.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "Sürücü tarafından emniyet kemeri takılmaması (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "emniyet kemeri",
+      "kemer",
+      "bağlama",
+      "araç sürücüsü",
+      "emniyet kemeri",
+      "sürücü"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Sürücü tarafından emniyet kemeri takılmaması.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "12 yaş altındaki emniyetsiz çocuğu taşıma (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "çocuk",
+      "güvenlik",
+      "çocuk koltuğu",
+      "taşıma",
+      "güvenlik cihazı",
+      "çocuklar"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "12 yaş altındaki emniyetsiz çocuğu taşıma.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Motosiklet, hafif, küçük ve üç tekerlekli motorlu araç sürücüsü tarafından koruyucu kask takılmaması (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "koruyucu kask",
+      "kask",
+      "motosiklet",
+      "motorlu araç",
+      "sürücü",
+      "kask",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Motosiklet/hafif/küçük/üç tekerlekli araç sürücüsü koruyucu kask takmıyor.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "12 yaş altındaki çocuğu motosiklet, hafif, küçük ve üç tekerlekli motorlu araçlarda kasksız taşıma (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "çocuk",
+      "kask",
+      "motosiklet",
+      "taşıma",
+      "koruyucu kask",
+      "çocuklar",
+      "motosiklet"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "12 yaş altındaki çocuğu motosiklet/hafif/küçük/üç tekerlekli araçta kasksız taşıma.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "Çok şeritli yollarda en dış sağ şeridi, sollama, birleşme, paralel sıralarda sürüş veya yerleşim alanları içinde kullanılmadığında kullanmamak (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "şerit",
+      "sağa sürüş",
+      "en dış şerit",
+      "sollama",
+      "şerit kullanımı",
+      "sağa kalma"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çok şeritli yollarda en dış sağ şeridi, sollama, birleşme, paralel sıralarda sürüş veya yerleşim alanı içinde kullanılmadığında kullanmamak.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Yerleşim alanları içinde çok şeritli yollarda dışa kayarak ve tekrar girerek sağdan sollama (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "sağdan sollama",
+      "yerleşim alanı içinde",
+      "şerit değişikliği",
+      "sağdan sollama",
+      "yerleşim alanı",
+      "şerit değişikliği"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yerleşim alanları içinde çok şeritli yollarda dışa kayarak ve tekrar girerek sağdan sollama.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Otoyol ve otobanlarda çok şeritli yollarda dışa kayarak ve tekrar girerek sağdan sollama (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "sağdan sollama",
+      "hız yolu",
+      "otoban",
+      "şerit değişikliği",
+      "sağdan sollama",
+      "karayolu",
+      "otoban"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çok şeritli yarı otoban ve otobanlarda dışa kayarak ve tekrar girerek sağdan sollama.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Tek şeritli yolda sollama için başka bir şeride geçme (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "sollama",
+      "şerit değişikliği",
+      "tek şeritli yol",
+      "sollama",
+      "şerit değişikliği",
+      "tek şeritli yol"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tek şeritli yol bölümünde sollama için şerit değiştirme.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Tramvay hattı bulunmamasına, park/stop yasağı işareti olmamasına ve yol geniş olmasına rağmen yolun sol tarafına durma veya park etme (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "durma",
+      "park",
+      "yolun sol tarafı",
+      "park",
+      "durma",
+      "yanlış taraf"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tramvay hattı, park/stop yasağı işareti bulunmamasına ve yol geniş olmasına rağmen yolun sol tarafına durma veya park etme.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "Araç anahtarını çıkarmadan aracı terk etme (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "aracı terk etme",
+      "marş anahtarı",
+      "anahtar",
+      "marş anahtarı",
+      "aracı terk etme"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Araç anahtarını çıkarmadan aracı terk etme.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "Arıza uyarı üçgeni kurulmamaması (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "arıza sinyali",
+      "uyarı üçgeni",
+      "kurma",
+      "uyarı üçgeni",
+      "arıza"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Uyarı üçgeni (arıza işareti) kurulmamaması.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "Arıza uyarı üçgeninin hatalı kurulması (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "arıza sinyali",
+      "uyarı üçgeni",
+      "kurma",
+      "uygunsuz",
+      "uyarı üçgeni",
+      "arıza"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kuralların aksine (örneğin çok yakın) uyarı üçgeni (arıza işareti) kurulması.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Durma halindeki araçta tehlike ışıklarının kötüye kullanılması (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "tehlike ışıkları",
+      "tehlike ışıkları",
+      "kötüye kullanım",
+      "durma halindeki araç",
+      "tehlike ışıkları",
+      "durma halindeki araç"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Durma halindeki araçta tehlike ışıklarının kötüye kullanılması.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Hareket halindeki araçta tehlike ışıklarının kötüye kullanılması (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "tehlike ışıkları",
+      "tehlike ışıkları",
+      "kötüye kullanım",
+      "hareket halindeki araç",
+      "tehlike ışıkları",
+      "hareket halindeki araç"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Hareket halindeki araçta tehlike ışıklarının kötüye kullanılması.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "Çekilen aracın arkasına arıza uyarı üçgeni takılmaması (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "arıza sinyali",
+      "çekilen araç",
+      "arka",
+      "uyarı üçgeni",
+      "çekilen araç",
+      "sinyalizasyon"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Çekilen aracın arkasına uyarı üçgeni takılmaması.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

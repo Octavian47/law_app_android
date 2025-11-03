@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Estacionamento a menos de 20 m de uma passagem de nível",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "passagem de nível",
+      "distância",
+      "20m",
+      "estacionamento",
+      "passagem de nível",
+      "distância"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar a menos de 20 m de uma passagem de nível por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Estacionamento a menos de 20 m de uma passagem de nível",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "passagem de nível",
+      "distância",
+      "20m",
+      "estacionamento",
+      "passagem de nível",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar a menos de 20 m de uma passagem de nível por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Estacionamento a menos de 20 m de uma passagem de nível",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "passagem de nível",
+      "distância",
+      "20m",
+      "estacionamento",
+      "passagem de nível",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar a menos de 20 m de uma passagem de nível por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Estacionamento em uma ponte",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "ponte",
+      "proibição",
+      "estacionamento",
+      "ponte",
+      "proibição"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar em uma ponte por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Estacionamento em uma ponte",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "ponte",
+      "proibição",
+      "estacionamento",
+      "ponte",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar em uma ponte por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Estacionamento em uma ponte",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "ponte",
+      "proibição",
+      "estacionamento",
+      "ponte",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar em uma ponte por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outro edifício",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "edifício",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "edifício"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outro edifício por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outro edifício",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "edifício",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outro edifício por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outro edifício",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "edifício",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outro edifício por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outra propriedade",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "propriedade",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "propriedade"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outra propriedade por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outra propriedade",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "propriedade",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outra propriedade por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Estacionamento em frente a um acesso a outra propriedade",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "acesso",
+      "propriedade",
+      "entrada",
+      "estacionamento",
+      "acesso",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar em frente a um acesso a outra propriedade por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Estacionamento na calçada onde sinais ou marcações não permitem explicitamente, se permanecer ao menos um espaço de 1.5 m de largura para pedestres",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "calçada",
+      "calçada",
+      "distância mínima",
+      "pedestre",
+      "1.5m",
+      "estacionamento",
+      "calçada",
+      "pedestre"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar na calçada sem sinais/marcações explícitas, mesmo que 1.5 m sejam deixados para pedestres, por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Estacionamento na calçada onde sinais ou marcações não permitem explicitamente, se permanecer ao menos um espaço de 1.5 m de largura para pedestres",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "calçada",
+      "calçada",
+      "distância mínima",
+      "pedestre",
+      "estacionamento",
+      "calçada",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar na calçada sem sinais/marcações explícitas, mesmo que 1.5 m sejam deixados para pedestres, por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Estacionamento na calçada onde sinais ou marcações não permitem explicitamente, se permanecer ao menos um espaço de 1.5 m de largura para pedestres",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "calçada",
+      "calçada",
+      "distância mínima",
+      "pedestre",
+      "estacionamento",
+      "calçada",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar na calçada sem sinais/marcações explícitas, mesmo que 1.5 m sejam deixados para pedestres, por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Estacionamento dentro da proibição de estacionamento sinalizada (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "proibição",
+      "sinalização",
+      "estacionamento",
+      "proibição",
+      "sinal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar dentro de uma área sinalizada com 'Estacionamento proibido' (Sinal 2.50) por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Estacionamento dentro da proibição de estacionamento sinalizada (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "proibição",
+      "sinalização",
+      "estacionamento",
+      "proibição",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar dentro de uma área sinalizada com 'Estacionamento proibido' (Sinal 2.50) por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Estacionamento dentro da proibição de estacionamento sinalizada (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "proibição",
+      "sinalização",
+      "estacionamento",
+      "proibição",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar dentro de uma área sinalizada com 'Estacionamento proibido' (Sinal 2.50) por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Estacionamento em zona de encontro em locais não marcados para isso",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "zona de encontro",
+      "marcação",
+      "estacionamento",
+      "zona de encontro",
+      "espaço marcado"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar em uma 'Zona de Encontro' (Begegnungszone) em espaços não marcados por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Estacionamento em zona de encontro em locais não marcados para isso",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "zona de encontro",
+      "marcação",
+      "estacionamento",
+      "zona de encontro",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar em uma 'Zona de Encontro' (Begegnungszone) em espaços não marcados por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Estacionamento em zona de encontro em locais não marcados para isso",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "zona de encontro",
+      "marcação",
+      "estacionamento",
+      "zona de encontro",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar em uma 'Zona de Encontro' (Begegnungszone) em espaços não marcados por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Estacionamento dentro de vagas de estacionamento",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "vaga de estacionamento",
+      "marcação",
+      "estacionamento",
+      "vaga de estacionamento",
+      "marcação"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar dentro de uma vaga de estacionamento marcada por até 2 horas (implicando não conformidade com as regras do espaço de estacionamento, provavelmente limite de tempo excedido ou similar).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Estacionamento dentro de vagas de estacionamento",
+    "fine_chf": 60,
+    "keywords": [
+      "Estacionamento",
+      "vaga de estacionamento",
+      "marcação",
+      "estacionamento",
+      "vaga de estacionamento",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 2 mas não mais de 4 horas",
+    "notes": "Multa por estacionar dentro de uma vaga de estacionamento marcada por mais de 2 até 4 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Estacionamento dentro de vagas de estacionamento",
+    "fine_chf": 100,
+    "keywords": [
+      "Estacionamento",
+      "vaga de estacionamento",
+      "marcação",
+      "estacionamento",
+      "vaga de estacionamento",
+      "duração"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "por mais de 4 mas não mais de 10 horas",
+    "notes": "Multa por estacionar dentro de uma vaga de estacionamento marcada por mais de 4 até 10 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Estacionar um veículo em uma vaga de estacionamento quando não é dimensionada para esse tipo de veículo",
+    "fine_chf": 40,
+    "keywords": [
+      "Estacionamento",
+      "vaga de estacionamento",
+      "tipo de veículo",
+      "tamanho",
+      "estacionamento",
+      "tipo de veículo",
+      "tamanho"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Veículo"
+    ],
+    "conditions": "até 2 horas",
+    "notes": "Multa por estacionar um veículo em uma vaga não designada para seu tamanho/tipo por até 2 horas.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

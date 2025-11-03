@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Failure to enter the required information in the weekly sheet",
+    "fine_chf": 40,
+    "keywords": [
+      "weekly sheet",
+      "information",
+      "enter",
+      "ARV 2",
+      "working time",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the weekly sheet for professional drivers.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Failure to enter the required information in the daily sheet",
+    "fine_chf": 40,
+    "keywords": [
+      "daily sheet",
+      "information",
+      "enter",
+      "ARV 2",
+      "working time",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the daily sheet for professional drivers.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Failure to enter the required information in the control card for taxi drivers",
+    "fine_chf": 40,
+    "keywords": [
+      "control card",
+      "taxi driver",
+      "information",
+      "enter",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxi driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the control card for taxi drivers (references both ARV 2 and ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Failure to enter the required information in the digital tachograph",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "digital",
+      "information",
+      "enter",
+      "ARV",
+      "professional driver",
+      "tachograph"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the digital tachograph.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Failure to label the tachograph chart",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "chart",
+      "label",
+      "unlabelled",
+      "tachograph sheet",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to label the tachograph chart (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Failure to label the printout",
+    "fine_chf": 40,
+    "keywords": [
+      "printout",
+      "label",
+      "unlabelled",
+      "tachograph printout",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to label the printout from the tachograph.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Incomplete labeling of the tachograph chart",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "chart",
+      "incomplete",
+      "label",
+      "tachograph sheet",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Incomplete labelling of the tachograph chart.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Incomplete labeling of the printout",
+    "fine_chf": 40,
+    "keywords": [
+      "printout",
+      "incomplete",
+      "label",
+      "tachograph printout",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Incomplete labelling of the tachograph printout.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "False/untruthful labeling of the tachograph chart",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "chart",
+      "false",
+      "untruthful",
+      "labeling",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "False/untruthful labelling of the tachograph chart.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "False/untruthful labeling of the printout",
+    "fine_chf": 40,
+    "keywords": [
+      "printout",
+      "false",
+      "untruthful",
+      "labeling",
+      "ARV",
+      "tachograph printout"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "False/untruthful labelling of the tachograph printout.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Use of a tachograph chart that is not type-approved",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "chart",
+      "not type-approved",
+      "unapproved",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Use of a tachograph chart that is not type-approved.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Use of a tachograph chart that does not match the tachograph device",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograph",
+      "chart",
+      "not suitable",
+      "incorrect",
+      "mismatched",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Use of a tachograph chart that does not match the specific tachograph device.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Use of incorrect printer paper",
+    "fine_chf": 40,
+    "keywords": [
+      "printer paper",
+      "not suitable",
+      "incorrect",
+      "printer paper",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Use of incorrect printer paper for the digital tachograph/control device.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Failure to carry the training certificate for dangerous goods loads",
+    "fine_chf": 20,
+    "keywords": [
+      "dangerous goods",
+      "load",
+      "training certificate",
+      "ADR",
+      "SDR",
+      "dangerous goods",
+      "documents"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the training certificate for dangerous goods transport, knowing a dangerous load is present.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Failure to carry the transport document for dangerous goods loads",
+    "fine_chf": 140,
+    "keywords": [
+      "dangerous goods",
+      "load",
+      "transport document",
+      "ADR",
+      "SDR",
+      "dangerous goods",
+      "transport document"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the transport document for dangerous goods, knowing a dangerous load is present. This fine is notably higher.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Failure to carry the written instruction (accident sheet) for dangerous goods loads",
+    "fine_chf": 40,
+    "keywords": [
+      "dangerous goods",
+      "load",
+      "written instruction",
+      "accident sheet",
+      "ADR",
+      "SDR",
+      "emergency instructions"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the written instructions (emergency/accident sheet) for dangerous goods, knowing a dangerous load is present.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Failure to remove or cover the orange placards when transporting no dangerous goods",
+    "fine_chf": 60,
+    "keywords": [
+      "dangerous goods",
+      "orange placard",
+      "remove",
+      "cover",
+      "SDR",
+      "display",
+      "placard"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failure to remove or cover the orange placards (indicating dangerous goods) when the vehicle is NOT transporting dangerous goods (empty/clean).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Failure to report or to report in time facts that require a change or replacement of a license or permit",
+    "fine_chf": 20,
+    "keywords": [
+      "reporting obligation",
+      "license",
+      "permit",
+      "change",
+      "replace",
+      "VZV",
+      "reporting"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "License/permit holder"
+    ],
+    "conditions": null,
+    "notes": "Failure to report or late reporting of facts that require the modification or replacement of a driving license or permit.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Failure to report or to report in time a change of residence to a new Swiss address",
+    "fine_chf": 20,
+    "keywords": [
+      "change of residence",
+      "address",
+      "report",
+      "VZV",
+      "reporting",
+      "change of residence"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Vehicle driver",
+      "License holder"
+    ],
+    "conditions": null,
+    "notes": "Failure to report or late reporting of a change to a new Swiss residence address.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Failure to report changes on the tachograph cards",
+    "fine_chf": 20,
+    "keywords": [
+      "tachograph card",
+      "change",
+      "report",
+      "ARV",
+      "tachograph card",
+      "reporting"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Driver card holder"
+    ],
+    "conditions": null,
+    "notes": "Failure to report changes related to the driver tachograph card.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Nichteintragen der erforderlichen Angaben im Wochenblatt",
+    "fine_chf": 40,
+    "keywords": [
+      "Wochenblatt",
+      "Angaben",
+      "eintragen",
+      "ARV 2",
+      "Arbeitszeit",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the weekly sheet for professional drivers.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Nichteintragen der erforderlichen Angaben im Tagesblatt",
+    "fine_chf": 40,
+    "keywords": [
+      "Tagesblatt",
+      "Angaben",
+      "eintragen",
+      "ARV 2",
+      "Arbeitszeit",
+      "professional driver"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the daily sheet for professional drivers.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nichteintragen der erforderlichen Angaben in der Kontrollkarte für Taxifahrer",
+    "fine_chf": 40,
+    "keywords": [
+      "Kontrollkarte",
+      "Taxifahrer",
+      "Angaben",
+      "eintragen",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Taxifahrer"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the control card for taxi drivers (references both ARV 2 and ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nichteintragen der erforderlichen Angaben im digitalen Fahrtschreiber",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "digital",
+      "Angaben",
+      "eintragen",
+      "ARV",
+      "professional driver",
+      "tachograph"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to enter required information in the digital tachograph.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Nichtbeschriften des Fahrtschreiber-Einlegeblattes",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "Einlegeblatt",
+      "beschriften",
+      "unbeschriftet",
+      "tachograph sheet",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to label the tachograph chart (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Nichtbeschriften des Ausdruckes",
+    "fine_chf": 40,
+    "keywords": [
+      "Ausdruck",
+      "beschriften",
+      "unbeschriftet",
+      "tachograph printout",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to label the printout from the tachograph.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Unvollständiges Beschriften des Fahrtschreiber-Einlegeblattes",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "Einlegeblatt",
+      "unvollständig",
+      "beschriften",
+      "tachograph sheet",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Incomplete labelling of the tachograph chart.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Unvollständiges Beschriften des Ausdruckes",
+    "fine_chf": 40,
+    "keywords": [
+      "Ausdruck",
+      "unvollständig",
+      "beschriften",
+      "tachograph printout",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Incomplete labelling of the tachograph printout.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Wahrheitswidriges Beschriften des Fahrtschreiber-Einlege-blattes",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "Einlegeblatt",
+      "falsch",
+      "wahrheitswidrig",
+      "Beschriftung",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "False/untruthful labelling of the tachograph chart.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Wahrheitswidriges Beschriften des Ausdruckes",
+    "fine_chf": 40,
+    "keywords": [
+      "Ausdruck",
+      "falsch",
+      "wahrheitswidrig",
+      "Beschriftung",
+      "ARV",
+      "tachograph printout"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "False/untruthful labelling of the tachograph printout.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Verwenden eines nicht typengeprüften Fahrtschreiber-Einlegeblattes",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "Einlegeblatt",
+      "nicht typengeprüft",
+      "unapproved",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Use of a tachograph chart that is not type-approved.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Verwenden eines nicht zum Fahrtschreiber passenden Einlegeblattes",
+    "fine_chf": 40,
+    "keywords": [
+      "Fahrtschreiber",
+      "Einlegeblatt",
+      "nicht passend",
+      "incorrect",
+      "mismatched",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Use of a tachograph chart that does not match the specific tachograph device.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Verwenden von nicht passendem Druckerpapier",
+    "fine_chf": 40,
+    "keywords": [
+      "Druckerpapier",
+      "nicht passend",
+      "incorrect",
+      "printer paper",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Use of incorrect printer paper for the digital tachograph/control device.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nichtmitführen mit Kenntnis von Gefahrgutladungen der Schulungsbescheinigung",
+    "fine_chf": 20,
+    "keywords": [
+      "Gefahrgut",
+      "Ladung",
+      "Schulungsbescheinigung",
+      "ADR",
+      "SDR",
+      "dangerous goods",
+      "documents"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the training certificate for dangerous goods transport, knowing a dangerous load is present.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nichtmitführen mit Kenntnis von Gefahrgutladungen des Beförderungspapiers",
+    "fine_chf": 140,
+    "keywords": [
+      "Gefahrgut",
+      "Ladung",
+      "Beförderungspapier",
+      "ADR",
+      "SDR",
+      "dangerous goods",
+      "transport document"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the transport document for dangerous goods, knowing a dangerous load is present. This fine is notably higher.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Nichtmitführen mit Kenntnis von Gefahrgutladungen der schriftlichen Weisung (Unfallmerkblatt)",
+    "fine_chf": 40,
+    "keywords": [
+      "Gefahrgut",
+      "Ladung",
+      "schriftliche Weisung",
+      "Unfallmerkblatt",
+      "ADR",
+      "SDR",
+      "emergency instructions"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to carry the written instructions (emergency/accident sheet) for dangerous goods, knowing a dangerous load is present.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Nistentfernen oder Nichtabdecken der orangen Tafeln bei einem Transport ohne gefährliche Güter",
+    "fine_chf": 60,
+    "keywords": [
+      "Gefahrgut",
+      "orange Tafel",
+      "entfernen",
+      "abdecken",
+      "SDR",
+      "display",
+      "placard"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Fahrzeugführer"
+    ],
+    "conditions": null,
+    "notes": "Failure to remove or cover the orange placards (indicating dangerous goods) when the vehicle is NOT transporting dangerous goods (empty/clean).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Unterlassen der Meldung oder nicht rechtzeitiges Melden von Tatsachen, die eine Änderung oder Ersetzung eines Ausweises oder einer Bewilligung erfordern",
+    "fine_chf": 20,
+    "keywords": [
+      "Meldepflicht",
+      "Ausweis",
+      "Bewilligung",
+      "ändern",
+      "ersetzen",
+      "VZV",
+      "reporting"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Inhaber von Ausweisen/Bewilligungen"
+    ],
+    "conditions": null,
+    "notes": "Failure to report or late reporting of facts that require the modification or replacement of a driving license or permit.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Unterlassen der Meldung oder nicht rechtzeitiges Melden eines Wohnsitzwechsels an neuen schweizerischen Wohnsitz",
+    "fine_chf": 20,
+    "keywords": [
+      "Wohnsitzwechsel",
+      "Adresse",
+      "melden",
+      "VZV",
+      "reporting",
+      "change of residence"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Fahrzeugführer",
+      "Ausweisinhaber"
+    ],
+    "conditions": null,
+    "notes": "Failure to report or late reporting of a change to a new Swiss residence address.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Unterlassen der Meldung von Änderungen auf den Fahrt-schreiberkarten",
+    "fine_chf": 20,
+    "keywords": [
+      "Fahrtschreiberkarte",
+      "Änderung",
+      "melden",
+      "ARV",
+      "tachograph card",
+      "reporting"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Inhaber der Fahrerkarte"
+    ],
+    "conditions": null,
+    "notes": "Failure to report changes related to the driver tachograph card.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

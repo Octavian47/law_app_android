@@ -1,0 +1,619 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "przejazd kolejowy",
+      "odległość",
+      "20m",
+      "parkowanie",
+      "przejazd kolejowy",
+      "odległość"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "przejazd kolejowy",
+      "odległość",
+      "20m",
+      "parkowanie",
+      "przejazd kolejowy",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. e VRV",
+    "law_text": "Parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "przejazd kolejowy",
+      "odległość",
+      "20m",
+      "parkowanie",
+      "przejazd kolejowy",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie w odległości mniejszej niż 20 m od przejazdu kolejowego przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "245.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkowanie na moście",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "most",
+      "zakaz",
+      "parkowanie",
+      "most",
+      "zakaz"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie na moście do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkowanie na moście",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "most",
+      "zakaz",
+      "parkowanie",
+      "most",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie na moście przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. f VRV",
+    "law_text": "Parkowanie na moście",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "most",
+      "zakaz",
+      "parkowanie",
+      "most",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie na moście przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "246.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innego budynku",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "budynek",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "budynek"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie przed wjazdem do innego budynku do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innego budynku",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "budynek",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie przed wjazdem do innego budynku przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innego budynku",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "budynek",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie przed wjazdem do innego budynku przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "247.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innej nieruchomości",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "nieruchomość",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "nieruchomość"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie przed wjazdem do innej nieruchomości do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innej nieruchomości",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "nieruchomość",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie przed wjazdem do innej nieruchomości przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. g VRV",
+    "law_text": "Parkowanie przed wjazdem do innej nieruchomości",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "dostęp",
+      "nieruchomość",
+      "wejście",
+      "parkowanie",
+      "dostęp",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie przed wjazdem do innej nieruchomości przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "248.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkowanie na chodniku, gdzie sygnały lub oznakowanie nie zezwalają wyraźnie, jeśli pozostaje przynajmniej 1,5 m szeroki pas dla pieszych",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "chodnik",
+      "chodnik",
+      "minimalna odległość",
+      "pieszy",
+      "1,5m",
+      "parkowanie",
+      "chodnik",
+      "pieszy"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie na chodniku bez wyraźnych znaków/oznaczeń, nawet jeśli pozostaje 1,5 m dla pieszych do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.a"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkowanie na chodniku, gdzie sygnały lub oznakowanie nie zezwalają wyraźnie, jeśli pozostaje przynajmniej 1,5 m szeroki pas dla pieszych",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "chodnik",
+      "chodnik",
+      "minimalna odległość",
+      "pieszy",
+      "parkowanie",
+      "chodnik",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie na chodniku bez wyraźnych znaków/oznaczeń, nawet jeśli pozostaje 1,5 m dla pieszych przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.b"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 41 Abs. 1bis VRV",
+    "law_text": "Parkowanie na chodniku, gdzie sygnały lub oznakowanie nie zezwalają wyraźnie, jeśli pozostaje przynajmniej 1,5 m szeroki pas dla pieszych",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "chodnik",
+      "chodnik",
+      "minimalna odległość",
+      "pieszy",
+      "parkowanie",
+      "chodnik",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie na chodniku bez wyraźnych znaków/oznaczeń, nawet jeśli pozostaje 1,5 m dla pieszych przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "249.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkowanie w miejscu oznaczonym zakazem parkowania (2.50)",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "zakaz",
+      "oznaki",
+      "parkowanie",
+      "zakaz",
+      "znak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie w obszarze oznaczonym znakiem 'Parking zakazany' (Znak 2.50) do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkowanie w miejscu oznaczonym zakazem parkowania (2.50)",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "zakaz",
+      "oznaki",
+      "parkowanie",
+      "zakaz",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie w obszarze oznaczonym znakiem 'Parking zakazany' (Znak 2.50) przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 30 Abs. 1 SSV",
+    "law_text": "Parkowanie w miejscu oznaczonym zakazem parkowania (2.50)",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "zakaz",
+      "oznaki",
+      "parkowanie",
+      "zakaz",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie w obszarze oznaczonym znakiem 'Parking zakazany' (Znak 2.50) przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "250.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkowanie w strefie spotkań w miejscach nieoznaczonych do tego",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "strefa spotkań",
+      "oznaczenie",
+      "parkowanie",
+      "strefa spotkań",
+      "oznaczone miejsce"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie w 'Strefie spotkań' (Begegnungszone) w nieoznaczonych miejscach do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkowanie w strefie spotkań w miejscach nieoznaczonych do tego",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "strefa spotkań",
+      "oznaczenie",
+      "parkowanie",
+      "strefa spotkań",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie w 'Strefie spotkań' (Begegnungszone) w nieoznaczonych miejscach przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22b Abs. 3 SSV",
+    "law_text": "Parkowanie w strefie spotkań w miejscach nieoznaczonych do tego",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "strefa spotkań",
+      "oznaczenie",
+      "parkowanie",
+      "strefa spotkań",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie w 'Strefie spotkań' (Begegnungszone) w nieoznaczonych miejscach przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "251.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkowanie w wyznaczonych miejscach parkingowych",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "miejsce parkingowe",
+      "oznaczenie",
+      "parkowanie",
+      "miejsce parkingowe",
+      "oznaczenie"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie w oznaczonym miejscu parkingowym do 2 godzin (co sugeruje nieprzestrzeganie zasad pola parkingowego, prawdopodobnie przekroczenie limitu czasu lub podobne).",
+    "source": {
+      "page": 10,
+      "line_hint": "252.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkowanie w wyznaczonych miejscach parkingowych",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkowanie",
+      "miejsce parkingowe",
+      "oznaczenie",
+      "parkowanie",
+      "miejsce parkingowe",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 2 godziny, ale nie więcej niż 4 godziny",
+    "notes": "Mandat za parkowanie w oznaczonym miejscu parkingowym przez ponad 2 godziny, ale nie więcej niż 4 godziny.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkowanie w wyznaczonych miejscach parkingowych",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkowanie",
+      "miejsce parkingowe",
+      "oznaczenie",
+      "parkowanie",
+      "miejsce parkingowe",
+      "czas trwania"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "więcej niż 4 godziny, ale nie więcej niż 10 godzin",
+    "notes": "Mandat za parkowanie w oznaczonym miejscu parkingowym przez ponad 4 godziny, ale nie więcej niż 10 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "252.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79 Abs. 6 SSV",
+    "law_text": "Parkowanie pojazdu w miejscu parkingowym, które nie jest przeznaczone dla tego typu pojazdu",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkowanie",
+      "miejsce parkingowe",
+      "typ pojazdu",
+      "rozmiar",
+      "parkowanie",
+      "typ pojazdu",
+      "rozmiar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Pojazd"
+    ],
+    "conditions": "do 2 godzin",
+    "notes": "Mandat za parkowanie pojazdu w miejscu nie przeznaczonym dla jego rozmiaru/typu do 2 godzin.",
+    "source": {
+      "page": 10,
+      "line_hint": "253.a"
+    }
+  }
+]

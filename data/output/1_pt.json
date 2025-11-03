@@ -1,0 +1,445 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Não portar a carta de condução",
+    "fine_chf": 20,
+    "keywords": [
+      "carta de condução",
+      "portar a carta",
+      "não portar",
+      "condutor",
+      "inspeção",
+      "carta de condução",
+      "documentos de estrada"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Não portar a permissão de aprendiz",
+    "fine_chf": 20,
+    "keywords": [
+      "permissão de aprendiz",
+      "portar a permissão",
+      "não portar",
+      "permissão de aprendiz",
+      "condutor"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo (aprendiz)"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Não portar o registro do veículo",
+    "fine_chf": 20,
+    "keywords": [
+      "registro do veículo",
+      "portar o registro",
+      "não portar",
+      "registro do veículo",
+      "documentos de estrada"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Não portar a permissão para transportes especiais",
+    "fine_chf": 20,
+    "keywords": [
+      "transportes especiais",
+      "permissão",
+      "não portar",
+      "transporte especial",
+      "permissão"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Permissão para transportes especiais ou de grande porte.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 48 Abs. 1 VRV",
+    "law_text": "Não portar o documento de manutenção de emissões",
+    "fine_chf": 20,
+    "keywords": [
+      "documento de manutenção de emissões",
+      "não portar",
+      "documento de manutenção de emissões",
+      "inspeção"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 3,
+      "line_hint": "100.5"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 10 Abs. 4 SVG und Art. 17 Abs. 1 SSV",
+    "law_text": "Não portar a permissão de isenção para uma regulamentação sinalizada",
+    "fine_chf": 20,
+    "keywords": [
+      "permissão de isenção",
+      "sinalizada",
+      "regulamentação",
+      "não portar",
+      "permissão de isenção",
+      "sinais de trânsito"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Condutor de veículo"
+    ],
+    "conditions": null,
+    "notes": "Permissão de exceção para uma regra ou sinal de trânsito específico.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.6"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 10 Abs. 4 SVG",
+    "law_text": "Não portar o certificado de qualificação do condutor",
+    "fine_chf": 20,
+    "keywords": [
+      "certificado de qualificação do condutor",
+      "não portar",
+      "certificado de competência",
+      "certificado de qualificação de condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Comprovante de qualificação de condutor profissional.",
+    "source": {
+      "page": 3,
+      "line_hint": "100.7"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Não portar a folha de inserção do dia anterior",
+    "fine_chf": 140,
+    "keywords": [
+      "folha de inserção",
+      "dia anterior",
+      "não portar",
+      "Tacógrafo",
+      "folha de tacógrafo",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Relacionado ao uso de tacógrafo analógico para condutores profissionais (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Não portar a impressão do dia anterior",
+    "fine_chf": 140,
+    "keywords": [
+      "impressão",
+      "dia anterior",
+      "não portar",
+      "Tacógrafo",
+      "impressão de tacógrafo digital",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Relacionado ao uso de tacógrafo digital para condutores profissionais (ARV 1).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.b"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 1 und 3 ARV 1",
+    "law_text": "Não portar as outras folhas de inserção exigidas",
+    "fine_chf": 60,
+    "keywords": [
+      "folhas de inserção",
+      "não portar",
+      "Tacógrafo",
+      "condutor profissional",
+      "folhas"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": "taxa fixa por 7 dias",
+    "notes": "Multa aplicada por período de 7 dias por falta de folhas de tacógrafo não diárias.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.c"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 3 ARV 1",
+    "law_text": "Não portar as outras impressões exigidas",
+    "fine_chf": 60,
+    "keywords": [
+      "impressões",
+      "não portar",
+      "Tacógrafo",
+      "condutor profissional",
+      "impressões"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": "taxa fixa por 7 dias",
+    "notes": "Multa aplicada por período de 7 dias por falta de impressões de tacógrafo não diárias.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.d"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14c Abs. 2 und 3 ARV 1",
+    "law_text": "Não portar o cartão de condutor",
+    "fine_chf": 140,
+    "keywords": [
+      "cartão de condutor",
+      "não portar",
+      "cartão de condutor",
+      "Tacógrafo",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Cartão de condutor para tacógrafo digital. ARV 1 são as horas de trabalho suíças para *alguns* condutores profissionais.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.1.e"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 7 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Não portar os registros de tacógrafo de substituição ou o pacote semanal",
+    "fine_chf": 40,
+    "keywords": [
+      "registros de tacógrafo de substituição",
+      "pacote semanal",
+      "não portar",
+      "registros de tacógrafo",
+      "condutor profissional",
+      "pacote"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Registros de tacógrafo de substituição ou pacotes semanais (ARV 1/ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.a"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Não portar o papel de impressão de substituição",
+    "fine_chf": 40,
+    "keywords": [
+      "papel de impressão de substituição",
+      "não portar",
+      "papel de impressão",
+      "tacógrafo digital",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Não portar papel de impressão de substituição para o tacógrafo digital.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.2.b"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 16 Abs. 1 ARV 2",
+    "law_text": "Não portar a folha de inserção do dia anterior",
+    "fine_chf": 40,
+    "keywords": [
+      "folha de inserção",
+      "dia anterior",
+      "não portar",
+      "Tacógrafo",
+      "folha de tacógrafo",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Relacionado ao uso de tacógrafo analógico para condutores profissionais (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.3"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 1 ARV 2",
+    "law_text": "Não portar o livro de trabalho",
+    "fine_chf": 40,
+    "keywords": [
+      "livro de trabalho",
+      "não portar",
+      "livro de trabalho",
+      "condutor profissional",
+      "registro de bordo"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Relacionado a condutores profissionais que trabalham sob as regras do ARV 2.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.4"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Não portar os relatórios diários internos da semana corrente ou o dobro",
+    "fine_chf": 40,
+    "keywords": [
+      "relatórios diários",
+      "semana",
+      "não portar",
+      "relatórios diários",
+      "condutor profissional"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": "taxa fixa",
+    "notes": "Relatórios diários internos para condutores profissionais (ARV 2). A multa é fixa para a semana/período.",
+    "source": {
+      "page": 3,
+      "line_hint": "101.5"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 19 Abs. 2 und 4 ARV 2",
+    "law_text": "Não portar a permissão de isenção de manter o livro de trabalho",
+    "fine_chf": 40,
+    "keywords": [
+      "permissão",
+      "livro de trabalho",
+      "isenção",
+      "não portar",
+      "permissão de isenção"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Condutor profissional"
+    ],
+    "conditions": null,
+    "notes": "Permissão que isenta o condutor de manter um livro de trabalho (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.6"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 25 Abs. 4 ARV 2",
+    "law_text": "Não portar o cartão de controle para motoristas de táxi",
+    "fine_chf": 40,
+    "keywords": [
+      "cartão de controle",
+      "motorista de táxi",
+      "não portar",
+      "motorista de táxi",
+      "cartão de controle",
+      "condutor profissional"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Motorista de táxi"
+    ],
+    "conditions": null,
+    "notes": "Cartão de controle para motoristas de táxi (ARV 2).",
+    "source": {
+      "page": 3,
+      "line_hint": "101.7"
+    }
+  }
+]

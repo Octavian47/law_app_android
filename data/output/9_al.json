@@ -1,0 +1,380 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "gjatë më shumë se 2, por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Hapësirë parkimi",
+      "Mbi orë",
+      "Tabelë",
+      "Kohëzgjatja e parkimit",
+      "parkim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 2 dhe 4 orë",
+    "notes": "Zgjerim i gjobës 254.b për parkimin e një mjeti në një zonë parkimi e shënuar me tabela ose ku parkimi është i rezervuar për një kategori të caktuar mjetesh, duke e tejkaluar kohën e lejuar.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 48 Abs. 1 SSV und Art. 79 Abs. 6 SSV",
+    "law_text": "gjatë më shumë se 4, por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Hapësirë parkimi",
+      "Mbi orë",
+      "Tabelë",
+      "Kohëzgjatja e parkimit",
+      "parkim"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 4 dhe 10 orë",
+    "notes": "Zgjerim i gjobës 254.c për parkimin e një mjeti në një zonë parkimi e shënuar me tabela ose ku parkimi është i rezervuar për një kategori të caktuar mjetesh, duke e tejkaluar kohën e lejuar.",
+    "source": {
+      "page": 11,
+      "line_hint": "254.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkim në vijë të ndaluar parkimin\\na. deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkim",
+      "Vijë e ndaluar parkimin",
+      "Mbi orë",
+      "Vijë e verdhë",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Parkim në vijë të ndaluar parkimin (zakonisht e verdhë) deri në 2 orë.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "gjatë më shumë se 2, por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Vijë e ndaluar parkimin",
+      "Mbi orë",
+      "Vijë e verdhë",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 2 dhe 4 orë",
+    "notes": "Zgjerim i gjobës 255.b për parkimin në vijë të ndaluar parkimin.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "gjatë më shumë se 4, por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Vijë e ndaluar parkimin",
+      "Mbi orë",
+      "Vijë e verdhë",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 4 dhe 10 orë",
+    "notes": "Zgjerim i gjobës 255.c për parkimin në vijë të ndaluar parkimin.",
+    "source": {
+      "page": 11,
+      "line_hint": "255.c"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "Parkim në zonë të ndaluar parkimin\\na. deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkim",
+      "Zonë e ndaluar parkimin",
+      "Mbi orë",
+      "Zonë e ndaluar parkimin",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Parkim në zonë të ndaluar parkimin (zakonisht e shënuar me kryqëzime të verdha ose të ngjashme) deri në 2 orë.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "gjatë më shumë se 2, por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Zonë e ndaluar parkimin",
+      "Mbi orë",
+      "Zonë e ndaluar parkimin",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 2 dhe 4 orë",
+    "notes": "Zgjerim i gjobës 256.b për parkimin në zonë të ndaluar parkimin.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 79a Abs. 1 SSV",
+    "law_text": "gjatë më shumë se 4, por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Zonë e ndaluar parkimin",
+      "Mbi orë",
+      "Zonë e ndaluar parkimin",
+      "Ndalo parkimin"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 4 dhe 10 orë",
+    "notes": "Zgjerim i gjobës 256.c për parkimin në zonë të ndaluar parkimin.",
+    "source": {
+      "page": 11,
+      "line_hint": "256.c"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Parkim pengues në shteg për biçikleta me një mjet që nuk lejohet atje (2.60; Art. 37 p. 2 dhe 43 p. 2 SVG) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shteg për biçikleta",
+      "Pengesë",
+      "Mjet",
+      "Biçikletë",
+      "shteg për biçikleta",
+      "pengesë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim pengues në shteg për biçikleta me një mjet që nuk lejohet atje, deri në 60 minuta.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 und 43 Abs. 2 SVG",
+    "law_text": "Ndërprerje penguese në shteg për biçikleta me një mjet që nuk lejohet atje (2.60; Art. 37 p. 2 dhe 43 p. 2 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndërprerje",
+      "Shteg për biçikleta",
+      "Pengesë",
+      "Mjet",
+      "Biçikletë",
+      "shteg për biçikleta",
+      "pengesë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": null,
+    "notes": "Ndërprerje penguese në shteg për biçikleta me një mjet që nuk lejohet atje.",
+    "source": {
+      "page": 11,
+      "line_hint": "257. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Parkim pengues në shteg për këmbësorë me një mjet që nuk lejohet atje (2.61; Art. 37 p. 2 SVG, Art. 33 p. 2 SSV) deri në 60 minuta",
+    "fine_chf": 120,
+    "keywords": [
+      "Parkim",
+      "Shteg për këmbësorë",
+      "Pengesë",
+      "Mjet",
+      "shteg për këmbësorë",
+      "pengesë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "deri në 60 minuta",
+    "notes": "Parkim pengues në shteg për këmbësorë me një mjet që nuk lejohet atje, deri në 60 minuta.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG, Art. 33 Abs. 2 SSV",
+    "law_text": "Ndërprerje penguese në shteg për këmbësorë me një mjet që nuk lejohet atje (2.61; Art. 37 p. 2 SVG, Art. 33 p. 2 SSV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ndërprerje",
+      "Shteg për këmbësorë",
+      "Pengesë",
+      "Mjet",
+      "shteg për këmbësorë",
+      "pengesë"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": null,
+    "notes": "Ndërprerje penguese në shteg për këmbësorë me një mjet që nuk lejohet atje.",
+    "source": {
+      "page": 11,
+      "line_hint": "258. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "Parkim në zonë këmbësori në vende të pa shënuara\\na. deri në 2 orë",
+    "fine_chf": 40,
+    "keywords": [
+      "Parkim",
+      "Zonë këmbësori",
+      "Mbi orë",
+      "zonë këmbësori",
+      "vend i pa shënuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "deri në 2 orë",
+    "notes": "Parkim në zonë këmbësori në një vend të pa shënuar deri në 2 orë.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.a"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "gjatë më shumë se 2, por jo më shumë se 4 orë",
+    "fine_chf": 60,
+    "keywords": [
+      "Parkim",
+      "Zonë këmbësori",
+      "Mbi orë",
+      "zonë këmbësori",
+      "vend i pa shënuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 2 dhe 4 orë",
+    "notes": "Zgjerim i gjobës 259.b për parkimin në zonë këmbësori në një vend të pa shënuar.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.b"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 22c Abs. 2 SSV",
+    "law_text": "gjatë më shumë se 4, por jo më shumë se 10 orë",
+    "fine_chf": 100,
+    "keywords": [
+      "Parkim",
+      "Zonë këmbësori",
+      "Mbi orë",
+      "zonë këmbësori",
+      "vend i pa shënuar"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Mjet"
+    ],
+    "conditions": "midis 4 dhe 10 orë",
+    "notes": "Zgjerim i gjobës 259.c për parkimin në zonë këmbësori në një vend të pa shënuar.",
+    "source": {
+      "page": 11,
+      "line_hint": "259.c"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 9 Abs. 1 und 30 Abs. 2 SVG, Art. 67 Abs. 1 und 3 VRV",
+    "law_text": "Kalimi i peshës të lejuar pas zbritjes së pajisjes dhe pas pasigurisë së matjes së caktuar nga Zyrja Federale e Rrugëve (ASTRA)\\na. jo më shumë se 100 kg",
+    "fine_chf": 100,
+    "keywords": [
+      "Peshë",
+      "Kalim",
+      "Peshë e lejuar",
+      "ASTRA",
+      "Mjet motorik",
+      "Mbipeshë",
+      "Ngarkesë"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Drejtues i mjetit motorik"
+    ],
+    "conditions": "deri në 100 kg mbipeshë",
+    "notes": "Kalimi i kufirit të lejuar të peshës për mjetet motorikë, pas zbritjes për tolerancë dhe pasiguri matjeje, deri në 100 kg.",
+    "source": {
+      "page": 11,
+      "line_hint": "300. 1.a"
+    }
+  }
+]

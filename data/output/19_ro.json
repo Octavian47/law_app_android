@@ -1,0 +1,505 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Lovirea unui vehicul sau obiect de către conducător",
+    "fine_chf": 20,
+    "keywords": [
+      "Lovire",
+      "Coliziune",
+      "Obiect",
+      "Conducător",
+      "coliziune",
+      "obiect",
+      "conducător"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducătoare",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Lovirea accidentală a unui vehicul sau obiect.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Tragerea unui vehicul sau obiect de către conducător",
+    "fine_chf": 20,
+    "keywords": [
+      "Tragere",
+      "Obiect",
+      "Conducător",
+      "tragere",
+      "obiect",
+      "conducător"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducătoare",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Prin tragere/tragere a unui vehicul sau obiect.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Remorcarea unui vehicul sau obiect de către conducător",
+    "fine_chf": 20,
+    "keywords": [
+      "Remorcare",
+      "Obiect",
+      "Conducător",
+      "remorcare",
+      "tragere",
+      "obiect",
+      "conducător"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducătoare",
+      "Conducător"
+    ],
+    "conditions": null,
+    "notes": "Provocarea de daune în timpul remorcării/tragării unui vehicul sau obiect.",
+    "source": {
+      "page": 21,
+      "line_hint": "610. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV",
+    "law_text": "«Interdicție generală de trafic în ambele sensuri» (2.01)",
+    "fine_chf": 30,
+    "keywords": [
+      "Interdicție de trafic",
+      "Semnal de interdicție",
+      "ambele sensuri",
+      "Interdicție generală",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului „Fără vehicule în ambele sensuri”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV",
+    "law_text": "«Intrare interzisă» (2.02)",
+    "fine_chf": 30,
+    "keywords": [
+      "Intrare",
+      "interzis",
+      "Semnal de interdicție",
+      "Fără intrare",
+      "Intrare interzisă",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului „Fără intrare”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Interdicție pentru biciclete și mopede» (2.05)",
+    "fine_chf": 30,
+    "keywords": [
+      "Biciclete",
+      "Mopede",
+      "Bicicletă",
+      "Moped",
+      "Interdicție",
+      "bicicletă",
+      "moped",
+      "semnalizare"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist",
+      "Conducător de moped"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului de interdicție pentru biciclete și mopede.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV",
+    "law_text": "«Interdicție pentru mopede» (2.06)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mopede",
+      "Moped",
+      "Interdicție",
+      "moped",
+      "semnalizare"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducător de moped"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului de interdicție specific pentru mopede.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 4."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direcție dreapta» (2.32)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direcție",
+      "dreapta",
+      "Semnal de reglementare",
+      "direcție dreapta",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnalului de direcție obligatoriu (dreapta).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 5."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV",
+    "law_text": "«Direcție stânga» (2.33)",
+    "fine_chf": 30,
+    "keywords": [
+      "Direcție",
+      "stânga",
+      "Semnal de reglementare",
+      "direcție stânga",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnalului de direcție obligatoriu (stânga).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 6."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Depășire obstacol dreapta» (2.34)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstacol",
+      "dreapta",
+      "evitare",
+      "Semnal de reglementare",
+      "depășire obstacol dreapta",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea direcției obligatorii de a trece un obstacol pe dreapta.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 7."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV",
+    "law_text": "«Depășire obstacol stânga» (2.35)",
+    "fine_chf": 30,
+    "keywords": [
+      "Obstacol",
+      "stânga",
+      "evitare",
+      "Semnal de reglementare",
+      "depășire obstacol stânga",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea direcției obligatorii de a trece un obstacol pe stânga.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 8."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. c und 3 SSV",
+    "law_text": "«Mergi drept înainte» (2.36, 2.40, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Mergi drept",
+      "Direcție",
+      "Semnal de reglementare",
+      "drept înainte",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului de direcție obligatoriu „drept înainte”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 9."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Întoarce la dreapta» (2.37, 2.39, 2.40)",
+    "fine_chf": 30,
+    "keywords": [
+      "Întoarcere la dreapta",
+      "Întoarcere",
+      "Direcție",
+      "Semnal de reglementare",
+      "întoarcere la dreapta",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului obligatoriu „întoarcere la dreapta”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 10."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 2 und 3 SSV",
+    "law_text": "«Întoarce la stânga» (2.38, 2.39, 2.41)",
+    "fine_chf": 30,
+    "keywords": [
+      "Întoarcere la stânga",
+      "Întoarcere",
+      "Direcție",
+      "Semnal de reglementare",
+      "întoarcere la stânga",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului obligatoriu „întoarcere la stânga”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 11."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 24 Abs. 4 SSV",
+    "law_text": "«Rotonda» (2.41.1)",
+    "fine_chf": 30,
+    "keywords": [
+      "Rotonda",
+      "Cerc de trafic",
+      "Semnal de reglementare",
+      "rotondă",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea direcției obligatorii (de obicei în sens invers acelor de ceas) într-o rotondă.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 12."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Întoarcerea la dreapta interzisă» (2.42)",
+    "fine_chf": 30,
+    "keywords": [
+      "Întoarcere",
+      "dreapta",
+      "interzisă",
+      "Semnal de interdicție",
+      "Fără întoarcere la dreapta",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului „Fără întoarcere la dreapta”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 13."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 25 Abs. 1 SSV",
+    "law_text": "«Întoarcerea la stânga interzisă» (2.43)",
+    "fine_chf": 30,
+    "keywords": [
+      "Întoarcere",
+      "stânga",
+      "interzisă",
+      "Semnal de interdicție",
+      "Fără întoarcere la stânga",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului „Fără întoarcere la stânga”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 14."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "«Întoarcere în U interzisă» (2.46)",
+    "fine_chf": 30,
+    "keywords": [
+      "Întoarcere în U",
+      "interzisă",
+      "Semnal de interdicție",
+      "Întoarcere în U interzisă",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semnului „Fără întoarcere în U”.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 15."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 1 SSV",
+    "law_text": "«Pistă pentru biciclete» (2.60)",
+    "fine_chf": 30,
+    "keywords": [
+      "Pistă pentru biciclete",
+      "Bicicletă",
+      "Bicicletă",
+      "Semnal obligatoriu",
+      "pistă pentru biciclete",
+      "semnalizare"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Folosirea incorectă sau blocarea unei piste obligatorii pentru biciclete.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 16."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22b Abs. 1 SSV",
+    "law_text": "«Zonă de spațiu partajat» (2.59.5)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zonă de spațiu partajat",
+      "Zonă",
+      "spațiu partajat",
+      "semnalizare",
+      "zonă de viteză redusă"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea regulilor sau limitelor unei zone de spațiu partajat (Begegnungszone).",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 17."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "«Zonă pietonală» (2.59.3)",
+    "fine_chf": 30,
+    "keywords": [
+      "Zonă pietonală",
+      "Zonă",
+      "zonă pietonală",
+      "semnalizare",
+      "pieton"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea regulilor sau limitelor unei zone pietonale.",
+    "source": {
+      "page": 21,
+      "line_hint": "611. 18."
+    }
+  }
+]

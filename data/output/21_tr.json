@@ -1,0 +1,329 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV",
+    "law_text": "işaretlemelerle ilgili (Art 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79a SSV)",
+    "fine_chf": 20,
+    "keywords": [
+      "İşaretlemeler",
+      "Sinyaller",
+      "VRV",
+      "SSV",
+      "yol işaretlemeleri",
+      "ihlal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yol işaretleme kurallarının ihlalini ima eder.",
+    "source": {
+      "page": 23,
+      "line_hint": "3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV",
+    "law_text": "Yaya geçidinde öncelik vermeme (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Öncelik",
+      "Yaya geçidi",
+      "Zebra geçidi",
+      "SVG",
+      "VRV",
+      "öncelik",
+      "yaya geçidi"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "623"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 1 VRV",
+    "law_text": "Sürüş sırasında eller serbest cihaz olmadan telefon kullanma (Art. 3 Abs. 1 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "Telefon",
+      "Mobil telefon",
+      "Eller serbest cihaz",
+      "Sürüş",
+      "Dikkat dağınıklığı",
+      "mobil telefon",
+      "sürüş"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "624"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV",
+    "law_text": "ASTRA tarafından belirlenen cihaz ve ölçüm belirsizliği göz önünde bulundurularak motorlu bisiklet sürücülerinin genel veya işaretlenen maksimum hızı aşması (Art. 27 Abs. 1 SVG, Art. 4a Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22a, 22b Abs. 2 und 22c Abs. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "Hız",
+      "Maksimum hız",
+      "Motosiklet",
+      "Moped",
+      "SVG",
+      "hız ihlali"
+    ],
+    "road_category": "speeding",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Moped ve motorlu bisikletlerde hafif hız aşımı (muhtemelen 5 km/saat'e kadar) için sabit ceza.",
+    "source": {
+      "page": 23,
+      "line_hint": "625"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Sigorta mevcutken motorlu bisiklet veya elektrikli rikşa için tescil plakası veya geçerli vignette olmadan kullanma (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "tescil plakası",
+      "Vignette",
+      "Motosiklet",
+      "Elektrikli rikşa",
+      "tescil plakası",
+      "etiket",
+      "VTS"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motosiklet sürücüsü",
+      "Elektrikli rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Suç, kullanıcı tarafından işlenir (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Gerekli araç ruhsatı olmadan motorlu bisiklet veya elektrikli rikşa kullanma (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "araç ruhsatı",
+      "Motosiklet",
+      "Elektrikli rikşa",
+      "SVG",
+      "araç ruhsatı",
+      "belgeler"
+    ],
+    "road_category": "vehicle-docs",
+    "applies_to": [
+      "Motosiklet sürücüsü",
+      "Elektrikli rikşa sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Suç, kullanıcı tarafından işlenir (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Mevcut sigortası olmayan motosiklet kullanma (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "sigorta",
+      "Motosiklet",
+      "VZV",
+      "sigorta",
+      "moped",
+      "zorunlu"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Suç, kullanıcı tarafından işlenir (Benützen).",
+    "source": {
+      "page": 23,
+      "line_hint": "700.4"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 176 Abs. 4 VTS",
+    "law_text": "Kullanım için sigorta mevcutken motorlu bisiklet veya elektrikli rikşa'ya tescil plakası veya geçerli vignette olmadan ödünç verme (Art. 90 VZV; Art. 176 Abs. 4 VTS)",
+    "fine_chf": 60,
+    "keywords": [
+      "Ödünç verme",
+      "tescil plakası",
+      "Vignette",
+      "Motosiklet",
+      "Elektrikli rikşa",
+      "ödünç verme",
+      "plaka",
+      "VTS"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Sahibi",
+      "Ödünç veren"
+    ],
+    "conditions": null,
+    "notes": "Suç, sahibi/ödünç veren tarafından işlenir (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.2"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV; Art. 96 SVG",
+    "law_text": "Kullanım için gerekli araç ruhsatı olmadan motorlu bisiklet veya elektrikli rikşa'ya ödünç verme (Art. 90 VZV; Art. 96 SVG)",
+    "fine_chf": 80,
+    "keywords": [
+      "Ödünç verme",
+      "araç ruhsatı",
+      "Motosiklet",
+      "Elektrikli rikşa",
+      "VZV",
+      "ödünç verme",
+      "araç belgeleri"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Sahibi",
+      "Ödünç veren"
+    ],
+    "conditions": null,
+    "notes": "Suç, sahibi/ödünç veren tarafından işlenir (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.3"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 90 VZV",
+    "law_text": "Kullanım için mevcut sigortası olmayan motorlu bisiklet'e ödünç verme (Art. 90 VZV)",
+    "fine_chf": 120,
+    "keywords": [
+      "Ödünç verme",
+      "sigorta",
+      "Motosiklet",
+      "VZV",
+      "ödünç verme",
+      "sigorta"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Sahibi",
+      "Ödünç veren"
+    ],
+    "conditions": null,
+    "notes": "Suç, sahibi/ödünç veren tarafından işlenir (Überlassen).",
+    "source": {
+      "page": 23,
+      "line_hint": "701.4"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 57 Abs. 2 VRV und Art. 176 Abs. 4 VTS",
+    "law_text": "Okunması zor tescil plakası ile sürüş (Art. 57 Abs. 2 VRV and Art. 176 Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "tescil plakası",
+      "okunabilirlik",
+      "Sürüş",
+      "VRV",
+      "VTS",
+      "plaka",
+      "okunabilirlik",
+      "kirli plaka"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 23,
+      "line_hint": "702"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS",
+    "law_text": "Motorlu bisikletlerde gerekli zil olmadan sürüş (Art. 178b Abs. 1, 179b Abs. 2, 181a Abs. 4 VTS)",
+    "fine_chf": 20,
+    "keywords": [
+      "zil",
+      "Motosiklet",
+      "ekipman",
+      "VTS",
+      "moped",
+      "zil",
+      "ekipman"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Motosiklet sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Gerekli zil olmadan moped/motorlu bisiklet sürmek.",
+    "source": {
+      "page": 23,
+      "line_hint": "703.1"
+    }
+  },
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 178a Abs. 2 und 217 Abs. 1 VTS",
+    "law_text": "Kalıcı olarak takılmış reflektörler olmadan sürüş (Art. 178a Abs. 2 and 217 Abs. 1 VTS)",
+    "fine_chf": 40,
+    "keywords": [
+      "reflektör",
+      "reflektör",
+      "ekipman",
+      "VTS",
+      "reflektör",
+      "ekipman",
+      "eksik"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Sabit reflektörler olmadan sürüş (genellikle bu bölüme giren bisikletler/mopedler gibi, reflektör gerektiren araçlar için geçerlidir).",
+    "source": {
+      "page": 23,
+      "line_hint": "703.2"
+    }
+  }
+]

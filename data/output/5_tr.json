@@ -1,0 +1,455 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Kamu taşıma durak işaretinin 10 m öncesinde mal yüklemek için durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Mal yükleme",
+      "Durak işareti",
+      "Kamu taşıma",
+      "Durma",
+      "Mal",
+      "Kamu taşıma durak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kamu taşıma durak işaretinin 10 m öncesinde mal yükleme/boşaltma için durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Kamu taşıma durak işaretinin 10 m sonrasında park etme (Art. 18 Abs. 3 ve 19 Abs. 2 a VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Durak işareti",
+      "Kamu taşıma",
+      "60 dakika",
+      "Park etme",
+      "Kamu taşıma durak",
+      "Zaman sınırı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Kamu taşıma durak işaretinin 10 m sonrasında park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Kamu taşıma durak işaretinin 10 m sonrasında kişilerin binip inmelerine izin vermek amacıyla engelleyici durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Engelleyici",
+      "Binme/İnme",
+      "Durak işareti",
+      "Durma",
+      "Engelleyici",
+      "Kamu taşıma durak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kamu taşıma durak işaretinin 10 m sonrasında kişilerin binip inmelerine izin vermek için engelleyici durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "Kamu taşıma durak işaretinin 10 m sonrasında mal yüklemek için durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Mal yükleme",
+      "Durak işareti",
+      "Kamu taşıma",
+      "Durma",
+      "Mal",
+      "Kamu taşıma durak"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Kamu taşıma durak işaretinin 10 m sonrasında mal yükleme/boşaltma için durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "218.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 und Art. 19 Abs. 2 Bst. a VRV",
+    "law_text": "İtfaiye istasyonu binaları ve yangın ekipman depolarının önünde park etme (Art. 18 Abs. 3 ve Art. 19 Abs. 2 a VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "İtfaiye istasyonu",
+      "Depo",
+      "Yangın ekipmanı",
+      "60 dakika",
+      "Park etme",
+      "İtfaiye istasyonu",
+      "Yangın ekipmanı"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "İtfaiye istasyonu/ekipman binalarının önünde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "İtfaiye istasyonu binaları veya yangın ekipman depolarının önünde mal yüklemek için durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Mal yükleme",
+      "İtfaiye istasyonu",
+      "Yangın ekipmanı",
+      "Durma",
+      "Mal",
+      "İtfaiye istasyonu"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İtfaiye istasyonu/ekipman binalarının önünde mal yükleme/boşaltma için durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 3 VRV",
+    "law_text": "İtfaiye istasyonu binaları ve yangın ekipman depolarının önünde kişilerin binip inmelerine izin vermek için engelleyici durma (Art. 18 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Engelleyici",
+      "Binme/İnme",
+      "İtfaiye istasyonu",
+      "Durma",
+      "Engelleyici",
+      "İtfaiye istasyonu"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "İtfaiye istasyonu/ekipman binalarının önünde kişilerin binip inmelerine izin vermek için engelleyici durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "220.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 4 VRV",
+    "law_text": "Yol kenarında park etmiş araçların yanına mal yüklemek amacıyla engelleyici durma (Art. 18 Abs. 4 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Engelleyici",
+      "Mal yükleme",
+      "Boyunca",
+      "Park edilmiş",
+      "Durma",
+      "Engelleyici",
+      "Mal",
+      "Çift park"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Yol kenarında park etmiş araçların yanına mal yükleme/boşaltma için engelleyici durma (mal için çift park).",
+    "source": {
+      "page": 7,
+      "line_hint": "221."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Bisiklet şeridinde park etme (Art. 19 Abs. 2 d VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Bisiklet şeridi",
+      "Bisiklet şeridi",
+      "60 dakika",
+      "Park etme",
+      "Bisiklet şeridi",
+      "Bisiklet şeridi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Bisiklet şeridi/şeridinde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 40 Abs. 3 VRV",
+    "law_text": "Bisiklet trafiğini engellediği durumlarda bisiklet şeridinde durma (Art. 40 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Bisiklet şeridi",
+      "Bisiklet trafiği",
+      "Engellenmiş",
+      "Durma",
+      "Bisiklet şeridi",
+      "Engelleyici"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Bisiklet şeridinde durma, bisiklet trafiğini engellediğinde.",
+    "source": {
+      "page": 7,
+      "line_hint": "222.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 d VRV",
+    "law_text": "Bisiklet şeridinin yanındaki yol şeridinde park etme (Art. 19 Abs. 2 d VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Yol şeridi",
+      "Bisiklet şeridi",
+      "Yanında",
+      "60 dakika",
+      "Park etme",
+      "Yol şeridi",
+      "Bisiklet şeridi"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Yol şeridinde, bisiklet şeridinin yanına park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "223."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "Tramvay raylarında park etme (Art. 19 Abs. 2 a ve 25 Abs. 5 VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Tramvay rayları",
+      "Tramvay rayları",
+      "60 dakika",
+      "Park etme",
+      "Tramvay rayları"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Tramvay raylarında park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "Tramvay raylarında durma (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Tramvay rayları",
+      "Tramvay rayları",
+      "Durma",
+      "Tramvay rayları"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "Tramvay raylarında durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "224.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a und 25 Abs. 5 VRV",
+    "law_text": "En yakın tramvay rayına 1,5 m'den daha yakın bir şekilde park etme (Art. 19 Abs. 2 a ve 25 Abs. 5 VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Tramvay rayı",
+      "Tramvay rayları",
+      "1,5 m",
+      "60 dakika",
+      "Park etme",
+      "Tramvay rayı",
+      "Mesafe"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "En yakın tramvay rayına 1,5 m'den daha yakın bir şekilde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 25 Abs. 5 VRV",
+    "law_text": "En yakın tramvay rayına 1,5 m'den daha yakın bir şekilde durma (Art. 25 Abs. 5 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Tramvay rayı",
+      "Tramvay rayları",
+      "1,5 m",
+      "Durma",
+      "Tramvay rayı",
+      "Mesafe"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": null,
+    "notes": "En yakın tramvay rayına 1,5 m'den daha yakın bir şekilde durma.",
+    "source": {
+      "page": 7,
+      "line_hint": "225.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Otoyolun acil şeridinde park etme (Art. 36 Abs. 3 VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Acil şerit",
+      "Otoyol",
+      "60 dakika",
+      "Park etme",
+      "Acil şerit",
+      "Otoyol"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Otoyolun acil şeridinde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Acil durak haricinde otoyolun acil şeridinde durma (Art. 36 Abs. 3 VRV)",
+    "fine_chf": 80,
+    "keywords": [
+      "Durma",
+      "Acil şerit",
+      "Otoyol",
+      "Acil durak",
+      "Durma",
+      "Acil şerit",
+      "Otoyol",
+      "Acil"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "acil durak haricinde",
+    "notes": "Otoyolun acil şeridinde durma, acil durumlar hariç.",
+    "source": {
+      "page": 7,
+      "line_hint": "226.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 36 Abs. 3 VRV",
+    "law_text": "Ekspres yolun acil şeridinde park etme (Art. 36 Abs. 3 VRV) 60 dakikaya kadar",
+    "fine_chf": 120,
+    "keywords": [
+      "Park etme",
+      "Acil şerit",
+      "Ekspres yol",
+      "60 dakika",
+      "Park etme",
+      "Acil şerit",
+      "Ekspres yol"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Araç sürücüsü"
+    ],
+    "conditions": "60 dakikaya kadar",
+    "notes": "Ekspres yolun acil şeridinde park etme, 60 dakikaya kadar.",
+    "source": {
+      "page": 7,
+      "line_hint": "227.1"
+    }
+  }
+]

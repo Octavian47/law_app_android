@@ -1,0 +1,387 @@
+[
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3 Abs. 3 VRV",
+    "law_text": "Kéz‑szabad eszköz nélküli telefonhasználat vezetés közben (Art. 3 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "telefon",
+      "mobiltelefon",
+      "hands‑free eszköz",
+      "vezetés közben",
+      "vezetés",
+      "mobiltelefon"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Telefon használata kéz‑szabad eszköz nélkül vezetés közben.",
+    "source": {
+      "page": 15,
+      "line_hint": "311"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a VRV",
+    "law_text": "A vezető által a biztonsági öv nem viselése (Art. 3a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "biztonsági öv",
+      "öv",
+      "rögzítés",
+      "járművezető",
+      "biztonsági öv",
+      "vezető"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A vezető által a biztonsági öv nem viselése.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 und 4 VRV",
+    "law_text": "Nem megfelelően rögzített gyermek szállítása 12 éves kor alatt (Art. 3a Abs. 1 und 4 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "gyermek",
+      "biztonság",
+      "gyermekülés",
+      "szállítás",
+      "biztonsági eszköz",
+      "gyermekek"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Nem megfelelően rögzített gyermek szállítása 12 éves kor alatt.",
+    "source": {
+      "page": 15,
+      "line_hint": "312. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "A motoros, könnyű, kis és háromkerekű motorjárművek vezetője nem visel védő sisakot (Art. 3b VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "védő sisak",
+      "sisak",
+      "motor",
+      "motorjármű",
+      "vezető",
+      "sisak",
+      "motor"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motoros vezető"
+    ],
+    "conditions": null,
+    "notes": "A motoros/könnyű/kis/háromkerekű jármű vezetője nem visel védő sisakot.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b Abs. 1 VRV",
+    "law_text": "12 éves kor alatti gyermek sisak nélkül szállítása motorokon, könnyű, kis és háromkerekű motorjárműveken (Art. 3b Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "gyermek",
+      "sisak",
+      "motor",
+      "szállítás",
+      "védő sisak",
+      "gyermekek",
+      "motor"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Motoros vezető"
+    ],
+    "conditions": null,
+    "notes": "12 éves kor alatti gyermek sisak nélkül szállítása motoron/könnyű/kis/háromkerekű járművön.",
+    "source": {
+      "page": 15,
+      "line_hint": "313. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 1 VRV",
+    "law_text": "A több sávos úton a legkülső jobb sáv nem használata, kivéve előzés, beolvadás, párhuzamos sorokban haladás vagy épített területen belül (Art. 16 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "sáv",
+      "jobb oldali haladás",
+      "legkülső sáv",
+      "előzés",
+      "sávhasználat",
+      "jobbra tartás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A több sávos úton a legkülső jobb sáv nem használata, kivéve előzés, beolvadás, párhuzamos sorokban haladás vagy épített területen belüli haladás.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 2 VRV",
+    "law_text": "Jobb oldali előzés kanyarodással ki és vissza a több sávos úton épített területeken (Art. 16 Abs. 2 VRV)",
+    "fine_chf": 140,
+    "keywords": [
+      "jobb oldali előzés",
+      "épített területen belül",
+      "sávváltás",
+      "jobb oldali előzés",
+      "épített terület",
+      "sávváltás"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jobb oldali előzés kanyarodással ki és vissza a több sávos úton épített területeken.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 16 Abs. 3 VRV",
+    "law_text": "Jobb oldali előzés kanyarodással ki és vissza autópályákon és gyorsforgalmi út több sávon (Art. 16 Abs. 3 VRV)",
+    "fine_chf": 250,
+    "keywords": [
+      "jobb oldali előzés",
+      "gyorsforgalmi út",
+      "autópálya",
+      "sávváltás",
+      "jobb oldali előzés",
+      "autópálya",
+      "autópálya"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Jobb oldali előzés kanyarodással ki és vissza a több sávos félautópályákon és autópályákon.",
+    "source": {
+      "page": 15,
+      "line_hint": "314. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 13 Abs. 3 VRV",
+    "law_text": "Sávváltás egy másik sávra előzés céljából egy egy sávos úton (Art. 13 Abs. 3 VRV)",
+    "fine_chf": 100,
+    "keywords": [
+      "előzés",
+      "sávváltás",
+      "egy sávos út",
+      "előzés",
+      "sávváltás",
+      "egy sávos út"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Sávváltás előzés céljából egy egy sávos útszakaszon.",
+    "source": {
+      "page": 15,
+      "line_hint": "315"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV",
+    "law_text": "Megállás vagy parkolás az út bal oldalán, annak ellenére, hogy nincs villamosvonal, nincs parkolási vagy megállási tilalom jelzése, és az út széles (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "megállás",
+      "parkolás",
+      "az út bal oldala",
+      "parkolás",
+      "megállás",
+      "rossz oldal"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Megállás vagy parkolás az út bal oldalán, a villamosvonal hiánya, a parkolási/megállási tilalom jelzése és az út szélessége ellenére.",
+    "source": {
+      "page": 15,
+      "line_hint": "316"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 22 Abs. 1 VRV",
+    "law_text": "A jármű elhagyása a gyújtáskulcs eltávolítása nélkül (Art. 22 Abs. 1 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "jármű elhagyása",
+      "gyújtáskulcs",
+      "kulcs",
+      "gyújtáskulcs",
+      "jármű elhagyása"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A jármű elhagyása a gyújtáskulcs eltávolítása nélkül.",
+    "source": {
+      "page": 15,
+      "line_hint": "317"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 2 VRV",
+    "law_text": "A meghibásodási figyelmeztető háromszög kiállításának elmulasztása (Art. 23 Abs. 2 VRV)",
+    "fine_chf": 60,
+    "keywords": [
+      "meghibásodási jelzés",
+      "figyelmeztető háromszög",
+      "kiállítás",
+      "figyelmeztető háromszög",
+      "meghibásodás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A figyelmeztető háromszög (meghibásodási jel) kiállításának elmulasztása.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 VRV",
+    "law_text": "A meghibásodási figyelmeztető háromszög nem megfelelő kiállítása (Art. 23 Abs. 3 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "meghibásodási jelzés",
+      "figyelmeztető háromszög",
+      "kiállítás",
+      "nem megfelelő",
+      "figyelmeztető háromszög",
+      "meghibásodás"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A figyelmeztető háromszög (meghibásodási jel) kiállítása a szabályoknak nem megfelelően (pl. túl közel).",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. a VRV",
+    "law_text": "Vészvillogók visszaélő használata álló járművön (Art. 23 Abs. 3 Bst. a VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "vészvillogók",
+      "vészvillogók",
+      "visszaélés",
+      "álló jármű",
+      "vészvillogók",
+      "álló jármű"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Vészvillogók visszaélő használata álló járművön.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 3."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 3 Bst. b VRV",
+    "law_text": "Vészvillogók visszaélő használata mozgó járművön (Art. 23 Abs. 3 Bst. b VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "vészvillogók",
+      "vészvillogók",
+      "visszaélés",
+      "mozgó jármű",
+      "vészvillogók",
+      "mozgó jármű"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "Vészvillogók visszaélő használata mozgó járművön.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 4."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 23 Abs. 6 VRV",
+    "law_text": "A meghibásodási figyelmeztető háromszög hátsó részhez való rögzítésének elmulasztása vont járműnél (Art. 23 Abs. 6 VRV)",
+    "fine_chf": 40,
+    "keywords": [
+      "meghibásodási jelzés",
+      "vont jármű",
+      "hátsó",
+      "figyelmeztető háromszög",
+      "vont jármű",
+      "jelzés"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Járművezető"
+    ],
+    "conditions": null,
+    "notes": "A figyelmeztető háromszög hátsó részhez való rögzítésének elmulasztása a vont járműnél.",
+    "source": {
+      "page": 15,
+      "line_hint": "318. 5."
+    }
+  }
+]

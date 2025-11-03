@@ -1,0 +1,369 @@
+[
+  {
+    "law_name": "VTS",
+    "article_ref": "Art. 175 Abs. 1, 178 Abs. 2 und 214 Abs. 1 VTS",
+    "law_text": "Defective condition of the tire per wheel",
+    "fine_chf": 20,
+    "keywords": [
+      "tire",
+      "condition",
+      "defective",
+      "VTS",
+      "wheel",
+      "tire",
+      "equipment"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Vehicle"
+    ],
+    "conditions": "per wheel",
+    "notes": "Relates to item 704.",
+    "source": {
+      "page": 24,
+      "line_hint": "704."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3a Abs. 1 VRV",
+    "law_text": "Failure to wear seat belts by the passenger",
+    "fine_chf": 60,
+    "keywords": [
+      "seat belts",
+      "belt obligation",
+      "passenger",
+      "passenger",
+      "safety belt",
+      "passenger"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passenger",
+      "Passenger"
+    ],
+    "conditions": null,
+    "notes": "Section 800.1: Non-use of seat belts by passengers.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 3b VRV",
+    "law_text": "Failure to wear a protective helmet by passengers on motorcycles, light, small and three-wheeled motor vehicles",
+    "fine_chf": 60,
+    "keywords": [
+      "helmet",
+      "helmet duty",
+      "passenger",
+      "motorcycle",
+      "helmet",
+      "passenger"
+    ],
+    "road_category": "equipment",
+    "applies_to": [
+      "Passenger",
+      "Motorcycles"
+    ],
+    "conditions": null,
+    "notes": "Section 800.2: Non-use of helmet by passengers on motorcycles/three-wheeled vehicles.",
+    "source": {
+      "page": 24,
+      "line_hint": "800.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Pushing a vehicle or object by a passenger",
+    "fine_chf": 20,
+    "keywords": [
+      "pushing",
+      "vehicle",
+      "object",
+      "passenger",
+      "push",
+      "object",
+      "passenger"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passenger"
+    ],
+    "conditions": null,
+    "notes": "Section 801.1: Pushing a vehicle or object by a passenger (likely prohibited behavior while moving/in traffic).",
+    "source": {
+      "page": 24,
+      "line_hint": "801.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Pulling a vehicle or object by a passenger",
+    "fine_chf": 20,
+    "keywords": [
+      "pulling",
+      "vehicle",
+      "object",
+      "passenger",
+      "pull",
+      "object",
+      "passenger"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passenger"
+    ],
+    "conditions": null,
+    "notes": "Section 801.2: Pulling a vehicle or object by a passenger.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 71 Abs. 1 VRV",
+    "law_text": "Towing a vehicle or object by a passenger",
+    "fine_chf": 20,
+    "keywords": [
+      "towing",
+      "vehicle",
+      "object",
+      "passenger",
+      "tow",
+      "object",
+      "passenger"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Passenger"
+    ],
+    "conditions": null,
+    "notes": "Section 801.3: Towing/dragging a vehicle or object by a passenger.",
+    "source": {
+      "page": 24,
+      "line_hint": "801.3"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 49 Abs. 1 SVG",
+    "law_text": "Failure to use the sidewalk",
+    "fine_chf": 10,
+    "keywords": [
+      "sidewalk",
+      "footpath",
+      "non-use",
+      "pedestrian",
+      "sidewalk",
+      "pedestrian"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": null,
+    "notes": "Failure to use the sidewalk when available.",
+    "source": {
+      "page": 24,
+      "line_hint": "900."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Failure to use the pedestrian crossing, if it is less than 50 m away",
+    "fine_chf": 10,
+    "keywords": [
+      "pedestrian crossing",
+      "zebra crossing",
+      "non-use",
+      "50m",
+      "pedestrian crossing"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": "if less than 50 m away",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.1"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Failure to use an overpass, if it is less than 50 m away",
+    "fine_chf": 10,
+    "keywords": [
+      "overpass",
+      "pedestrian bridge",
+      "non-use",
+      "50m",
+      "pedestrian overpass"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": "if less than 50 m away",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.2"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 47 Abs. 1 und Art. 50a Abs. 1 VRV",
+    "law_text": "Failure to use an underpass, if it is less than 50 m away",
+    "fine_chf": 10,
+    "keywords": [
+      "underpass",
+      "pedestrian tunnel",
+      "non-use",
+      "50m",
+      "pedestrian underpass"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": "if less than 50 m away",
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "901.3"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.15; Art. 19 Abs. 3 SSV",
+    "law_text": "Failure to observe the signal 'No pedestrians allowed' (2.15)",
+    "fine_chf": 20,
+    "keywords": [
+      "prohibition",
+      "pedestrian",
+      "signal",
+      "non-observance",
+      "restriction",
+      "pedestrian",
+      "sign"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 24,
+      "line_hint": "902.1"
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "2.61; Art. 33 Abs. 2 SSV",
+    "law_text": "Failure to observe the 'Pedestrian path' signal (2.61)",
+    "fine_chf": 10,
+    "keywords": [
+      "pedestrian path",
+      "signal",
+      "non-observance",
+      "pedestrian path",
+      "sign"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestrian"
+    ],
+    "conditions": null,
+    "notes": "Non-compliance with the dedicated pedestrian path sign.",
+    "source": {
+      "page": 24,
+      "line_hint": "902.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 50a Abs. 1 VRV und Art. 68 SSV",
+    "law_text": "Failure to observe a light signal",
+    "fine_chf": 20,
+    "keywords": [
+      "light signal",
+      "pedestrian",
+      "signal",
+      "non-observance",
+      "traffic light",
+      "pedestrian"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestrian",
+      "User of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Running a red light (as a pedestrian/user of mobility device).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "3.20; 3.21; Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV und Art. 50a Abs. 1 VRV",
+    "law_text": "Failure to observe a 'alternating flashing light signal' (3.20) or a 'simple flashing light signal' (3.21)",
+    "fine_chf": 20,
+    "keywords": [
+      "flashing light signal",
+      "alternating flashing light",
+      "signal",
+      "level crossing",
+      "warning light",
+      "level crossing"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Pedestrian",
+      "User of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Ignoring flashing warning lights (e.g., at level crossings).",
+    "source": {
+      "page": 24,
+      "line_hint": "903.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 3 SVG, Art. 36 Abs. 3 und 50a Abs. 1 VRV",
+    "law_text": "Entering motorways",
+    "fine_chf": 20,
+    "keywords": [
+      "motorway",
+      "entering",
+      "pedestrian",
+      "prohibition",
+      "Motorway",
+      "access",
+      "forbidden"
+    ],
+    "road_category": "pedestrian",
+    "applies_to": [
+      "Pedestrian",
+      "User of vehicle-like devices"
+    ],
+    "conditions": null,
+    "notes": "Entering or walking on motorways (which is generally restricted to motorized traffic).",
+    "source": {
+      "page": 24,
+      "line_hint": "904.1"
+    }
+  }
+]

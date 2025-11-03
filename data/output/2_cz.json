@@ -1,0 +1,485 @@
+[
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 4 ARV 2",
+    "law_text": "Nezadání požadovaných informací do týdenního listu",
+    "fine_chf": 40,
+    "keywords": [
+      "týdenní list",
+      "informace",
+      "zadání",
+      "ARV 2",
+      "pracovní doba",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nezadání požadovaných informací do týdenního listu pro profesionální řidiče.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.1"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 17 Abs. 5 ARV 2",
+    "law_text": "Nezadání požadovaných informací do denního listu",
+    "fine_chf": 40,
+    "keywords": [
+      "denní list",
+      "informace",
+      "zadání",
+      "ARV 2",
+      "pracovní doba",
+      "profesionální řidič"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nezadání požadovaných informací do denního listu pro profesionální řidiče.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 25 Abs. 4 ARV 2, Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nezadání požadovaných informací do kontrolní karty pro řidiče taxíku",
+    "fine_chf": 40,
+    "keywords": [
+      "kontrolní karta",
+      "řidič taxíku",
+      "informace",
+      "zadání",
+      "ARV",
+      "Taxi"
+    ],
+    "road_category": "taxi/uber",
+    "applies_to": [
+      "Řidič taxíku"
+    ],
+    "conditions": null,
+    "notes": "Nezadání požadovaných informací do kontrolní karty pro řidiče taxíku (odkazuje na ARV 2 i ARV 1).",
+    "source": {
+      "page": 4,
+      "line_hint": "102.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 1 ARV 1",
+    "law_text": "Nezadání požadovaných informací do digitálního tachografu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "digitální",
+      "informace",
+      "zadání",
+      "ARV",
+      "profesionální řidič",
+      "tachograf"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nezadání požadovaných informací do digitálního tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "102.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Neoznačení tachografického listu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "graf",
+      "označení",
+      "neoznačený",
+      "tachografický list",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoznačení tachografického listu (Einlegeblatt).",
+    "source": {
+      "page": 4,
+      "line_hint": "103.1"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Neoznačení výtisku",
+    "fine_chf": 40,
+    "keywords": [
+      "výtisk",
+      "označení",
+      "neoznačený",
+      "tachografický výtisk",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neoznačení výtisku z tachografu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 1 ARV 1 und Art. 16 Abs. 3 und 4 ARV 2",
+    "law_text": "Neúplné označení tachografického listu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "list",
+      "neúplný",
+      "označení",
+      "tachografický list",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neúplné označení tachografického listu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.3"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Neúplné označení výtisku",
+    "fine_chf": 40,
+    "keywords": [
+      "výtisk",
+      "neúplný",
+      "označení",
+      "tachografický výtisk",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neúplné označení tachografického výtisku.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.4"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 4 ARV 2",
+    "law_text": "Nepravdivé/klamavé označení tachografického listu",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "list",
+      "nepravdivý",
+      "klamavý",
+      "označování",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nepravdivé/klamavé označení tachografického listu.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.5"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 5 ARV 1",
+    "law_text": "Nepravdivé/klamavé označení výtisku",
+    "fine_chf": 40,
+    "keywords": [
+      "výtisk",
+      "nepravdivý",
+      "klamavý",
+      "označování",
+      "ARV",
+      "tachografický výtisk"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Nepravdivé/klamavé označení tachografického výtisku.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.6"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14a Abs. 3 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Použití tachografického listu, který není typově schválený",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "list",
+      "ne typově schválený",
+      "neschválený",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Použití tachografického listu, který není typově schválený.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.7"
+    }
+  },
+  {
+    "law_name": "ARV 2",
+    "article_ref": "Art. 14a Abs. 5 ARV 1 und Art. 16 Abs. 1 ARV 2",
+    "law_text": "Použití tachografického listu, který neodpovídá tachografickému zařízení",
+    "fine_chf": 40,
+    "keywords": [
+      "tachograf",
+      "list",
+      "nevhodný",
+      "nesprávný",
+      "nesouladný",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Použití tachografického listu, který neodpovídá konkrétnímu tachografickému zařízení.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.8"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 14b Abs. 7 ARV 1",
+    "law_text": "Použití nesprávného papíru pro tiskárnu",
+    "fine_chf": 40,
+    "keywords": [
+      "tiskový papír",
+      "nevhodný",
+      "nesprávný",
+      "tiskový papír",
+      "ARV"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Použití nesprávného papíru pro digitální tachograf/řídící zařízení.",
+    "source": {
+      "page": 4,
+      "line_hint": "103.9"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Neponesení osvědčení o školení pro přepravu nebezpečného nákladu",
+    "fine_chf": 20,
+    "keywords": [
+      "nebezpečný náklad",
+      "náklad",
+      "osvědčení o školení",
+      "ADR",
+      "SDR",
+      "nebezpečný náklad",
+      "dokumenty"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neponesení osvědčení o školení pro přepravu nebezpečného nákladu, když je přítomen nebezpečný náklad.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.1"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Neponesení přepravního dokumentu pro nebezpečný náklad",
+    "fine_chf": 140,
+    "keywords": [
+      "nebezpečný náklad",
+      "náklad",
+      "přepravní dokument",
+      "ADR",
+      "SDR",
+      "nebezpečný náklad",
+      "přepravní dokument"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neponesení přepravního dokumentu pro nebezpečný náklad, když je přítomen nebezpečný náklad. Tato pokuta je výrazně vyšší.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.2"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. c SDR",
+    "law_text": "Neponesení písemného pokynu (nehodového listu) pro nebezpečný náklad",
+    "fine_chf": 40,
+    "keywords": [
+      "nebezpečný náklad",
+      "náklad",
+      "písemný pokyn",
+      "nehodový list",
+      "ADR",
+      "SDR",
+      "nouzové pokyny"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neponesení písemných pokynů (nouzový/nehodový list) pro nebezpečný náklad, když je přítomen nebezpečný náklad.",
+    "source": {
+      "page": 4,
+      "line_hint": "104.3"
+    }
+  },
+  {
+    "law_name": "SDR",
+    "article_ref": "Art. 21 Bst. d SDR",
+    "law_text": "Neodstranění nebo zakrytí oranžových štítků při přepravě bez nebezpečného nákladu",
+    "fine_chf": 60,
+    "keywords": [
+      "nebezpečný náklad",
+      "oranžový štítek",
+      "odstranit",
+      "zakrýt",
+      "SDR",
+      "zobrazit",
+      "štítek"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Řidič vozidla"
+    ],
+    "conditions": null,
+    "notes": "Neodstranění nebo zakrytí oranžových štítků (označujících nebezpečný náklad), když vozidlo NEPŘEPRAVUJE nebezpečný náklad (prázdné/čisté).",
+    "source": {
+      "page": 4,
+      "line_hint": "105"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 15 Abs. 4 und 26 Abs. 1 VZV",
+    "law_text": "Nehlášení nebo opožděné hlášení skutečností, které vyžadují změnu nebo výměnu řidičského oprávnění či povolení",
+    "fine_chf": 20,
+    "keywords": [
+      "povinnost hlášení",
+      "licence",
+      "povolení",
+      "změna",
+      "výměna",
+      "VZV",
+      "hlášení"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Držitel licence/povolení"
+    ],
+    "conditions": null,
+    "notes": "Nehlášení nebo opožděné hlášení skutečností, které vyžadují úpravu nebo výměnu řidičského oprávnění či povolení.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.1"
+    }
+  },
+  {
+    "law_name": "VZV",
+    "article_ref": "Art. 26 Abs. 2 VZV",
+    "law_text": "Nehlášení nebo opožděné hlášení změny bydliště na novou švýcarskou adresu",
+    "fine_chf": 20,
+    "keywords": [
+      "změna bydliště",
+      "adresa",
+      "hlášení",
+      "VZV",
+      "hlášení",
+      "změna bydliště"
+    ],
+    "road_category": "paperwork",
+    "applies_to": [
+      "Řidič vozidla",
+      "Držitel licence"
+    ],
+    "conditions": null,
+    "notes": "Nehlášení nebo opožděné hlášení změny na novou švýcarskou adresu bydliště.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.2"
+    }
+  },
+  {
+    "law_name": "ARV 1",
+    "article_ref": "Art. 13a Abs. 3 ARV 1",
+    "law_text": "Nehlášení změn na tachografických kartách",
+    "fine_chf": 20,
+    "keywords": [
+      "tachografická karta",
+      "změna",
+      "hlášení",
+      "ARV",
+      "tachografická karta",
+      "hlášení"
+    ],
+    "road_category": "professional-driver",
+    "applies_to": [
+      "Držitel řidičské karty"
+    ],
+    "conditions": null,
+    "notes": "Nehlášení změn souvisejících s řidičskou tachografickou kartou.",
+    "source": {
+      "page": 4,
+      "line_hint": "106.3"
+    }
+  }
+]

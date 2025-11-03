@@ -1,0 +1,446 @@
+[
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 27 Abs. 1 SSV",
+    "law_text": "U-turn prohibited (2.46)",
+    "fine_chf": 100,
+    "keywords": [
+      "U-turn prohibited",
+      "U-Turn forbidden",
+      "Signal 2.46",
+      "Turning",
+      "Regulatory signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "18"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 29 Abs. 1 SSV",
+    "law_text": "Snow chains mandatory (2.48)",
+    "fine_chf": 100,
+    "keywords": [
+      "Snow chains",
+      "mandatory",
+      "snow chains",
+      "mandatory",
+      "Signal 2.48"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "19"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 22c Abs. 1 SSV",
+    "law_text": "Pedestrian zone (2.59.3)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pedestrian zone",
+      "pedestrian zone",
+      "No entry",
+      "Signal 2.59.3"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Unauthorized entry into pedestrian zone.",
+    "source": {
+      "page": 14,
+      "line_hint": "20"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Bicycle lane (2.60)",
+    "fine_chf": 100,
+    "keywords": [
+      "Bicycle lane",
+      "bicycle lane",
+      "driving forbidden",
+      "Signal 2.60",
+      "Driving prohibited"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver (except bicycles)"
+    ],
+    "conditions": null,
+    "notes": "Using a path reserved exclusively for bicycles.",
+    "source": {
+      "page": 14,
+      "line_hint": "21"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 33 Abs. 2 SSV",
+    "law_text": "Pedestrian path (2.61)",
+    "fine_chf": 100,
+    "keywords": [
+      "Pedestrian path",
+      "pedestrian path",
+      "driving forbidden",
+      "Signal 2.61",
+      "Driving prohibited"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver (except pedestrians)"
+    ],
+    "conditions": null,
+    "notes": "Using a path reserved exclusively for pedestrians.",
+    "source": {
+      "page": 14,
+      "line_hint": "22"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 2 SVG",
+    "law_text": "Bicycle and pedestrian path (2.63, 2.63.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Bicycle and pedestrian path",
+      "combined path",
+      "driving forbidden",
+      "Signal 2.63",
+      "Driving prohibited"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver (except bicycles/pedestrians)"
+    ],
+    "conditions": null,
+    "notes": "Using a path reserved for bicycles and pedestrians.",
+    "source": {
+      "page": 14,
+      "line_hint": "23"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. fbis SSV",
+    "law_text": "Trailer prohibition except for saddle and central axle trailers (2.09.1)",
+    "fine_chf": 100,
+    "keywords": [
+      "Trailer prohibition",
+      "Trailer prohibition",
+      "Saddle trailer",
+      "Central axle trailer",
+      "Signal 2.09.1"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver (with trailer)"
+    ],
+    "conditions": null,
+    "notes": "Driving with a prohibited trailer type.",
+    "source": {
+      "page": 14,
+      "line_hint": "24"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 26 Abs. 2 SSV",
+    "law_text": "Failure to observe the regulatory signal “No overtaking for trucks” on motorways (2.45)",
+    "fine_chf": 100,
+    "keywords": [
+      "Overtaking ban",
+      "Truck",
+      "Motorway",
+      "Truck",
+      "overtaking ban",
+      "Signal 2.45"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Truck driver"
+    ],
+    "conditions": null,
+    "notes": "Illegal overtaking by LKW on motorways where prohibited.",
+    "source": {
+      "page": 14,
+      "line_hint": "25"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 und 43 Abs. 1 SVG",
+    "law_text": "Driving on a tram track",
+    "fine_chf": 60,
+    "keywords": [
+      "Tram track",
+      "Tram track",
+      "driving on forbidden",
+      "special lanes",
+      "tram tracks"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": null,
+    "source": {
+      "page": 14,
+      "line_hint": "305"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Violation of lane discipline by ignoring the marked direction arrow",
+    "fine_chf": 100,
+    "keywords": [
+      "Lane discipline",
+      "Direction arrow",
+      "Road marking",
+      "lane discipline",
+      "marked arrow",
+      "Disregard"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Disregarding lane arrows/discipline.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 68 Abs. 1bis SSV",
+    "law_text": "Violation of lane discipline by ignoring the contour arrow of the traffic light system",
+    "fine_chf": 100,
+    "keywords": [
+      "Lane discipline",
+      "Contour arrow",
+      "Traffic light system",
+      "traffic light",
+      "signal arrow",
+      "lane discipline"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Disregarding the direction arrow shown in traffic lights.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 73 Abs. 6 Bst. a und Art. 74 Abs. 1 und 2 SSV",
+    "law_text": "Failure to continue driving in the arrow direction (including possible crossing of a safety line that separates lanes in the same direction [6.01])",
+    "fine_chf": 100,
+    "keywords": [
+      "Arrow direction",
+      "Failure to continue driving",
+      "Safety line",
+      "mandatory direction",
+      "solid line",
+      "Crossing"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failing to follow the mandatory lane direction shown by an arrow (including crossing a solid line to avoid it).",
+    "source": {
+      "page": 14,
+      "line_hint": "306.3"
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 8 Abs. 5 und 36 Abs. 4 VRV",
+    "law_text": "Violation of lane discipline by ignoring zipper merging",
+    "fine_chf": 100,
+    "keywords": [
+      "Lane discipline",
+      "Zipper merging",
+      "merging",
+      "zip merging",
+      "lane ending",
+      "Disregard"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Failing to perform zipper merging when lanes end.",
+    "source": {
+      "page": 14,
+      "line_hint": "306.4"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74b Abs. 1 SSV",
+    "law_text": "Driving in a bus lane",
+    "fine_chf": 60,
+    "keywords": [
+      "Bus lane",
+      "bus lane",
+      "Special lane",
+      "unauthorized use"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver (except bus)"
+    ],
+    "conditions": null,
+    "notes": "Driving in a marked bus lane.",
+    "source": {
+      "page": 14,
+      "line_hint": "307.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 34 Abs. 1 SSV",
+    "law_text": "Driving on a busway",
+    "fine_chf": 60,
+    "keywords": [
+      "Busway",
+      "busway",
+      "Special lane",
+      "unauthorized use"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver (except bus)"
+    ],
+    "conditions": null,
+    "notes": "Driving on a designated bus road/path (Busfahrbahn).",
+    "source": {
+      "page": 14,
+      "line_hint": "307.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Incomplete stop at stop signals (rolling stop) (3.01)",
+    "fine_chf": 60,
+    "keywords": [
+      "Stop signal",
+      "Rolling stop",
+      "Stop",
+      "Stop sign",
+      "failure to stop",
+      "Signal 3.01"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "A 'rolling stop' where the vehicle does not fully halt at the stop line.",
+    "source": {
+      "page": 14,
+      "line_hint": "308"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Failure to observe a traffic light",
+    "fine_chf": 250,
+    "keywords": [
+      "Traffic light",
+      "Red light",
+      "traffic light",
+      "disregard",
+      "red light",
+      "Signal"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "General offense for running a red light or equivalent traffic signal violation.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.1"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1bis und 93 Abs. 2 SSV",
+    "law_text": "Failure to observe a “alternating flashing light signal” (3.20) or a “simple flashing light signal” (3.21)",
+    "fine_chf": 250,
+    "keywords": [
+      "Alternating flashing light signal",
+      "Simple flashing light signal",
+      "blinking signal",
+      "railway crossing",
+      "level crossing",
+      "Signal 3.20",
+      "Signal 3.21"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Vehicle driver"
+    ],
+    "conditions": null,
+    "notes": "Disregarding flashing warnings, typically used at railway crossings or critical danger points.",
+    "source": {
+      "page": 14,
+      "line_hint": "309.2"
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74a Abs. 1 SSV",
+    "law_text": "Crossing a bicycle lane marked with a continuous line",
+    "fine_chf": 60,
+    "keywords": [
+      "Bicycle lane",
+      "continuous line",
+      "bicycle lane",
+      "solid line",
+      "crossing forbidden",
+      "Crossing"
+    ],
+    "road_category": "other-road",
+    "applies_to": [
+      "Vehicle driver (except bicycles)"
+    ],
+    "conditions": null,
+    "notes": "Crossing or driving over a bicycle lane marked by a solid white line.",
+    "source": {
+      "page": 14,
+      "line_hint": "310"
+    }
+  }
+]

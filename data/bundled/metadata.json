@@ -1,0 +1,23 @@
+{
+  "generated": "2025-10-24T17:46:55.851Z",
+  "languages": [
+    "de",
+    "en",
+    "al",
+    "bg",
+    "cz",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sr",
+    "tr"
+  ],
+  "totalLanguages": 15,
+  "filesPerLanguage": 24,
+  "note": "South Slavic variants (bs, me, hr) use sr translations"
+}

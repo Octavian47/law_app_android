@@ -1,0 +1,443 @@
+[
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 Abs. 2 SSV",
+    "law_text": "Utilizarea trotuarului fără a coborî",
+    "fine_chf": 30,
+    "keywords": [
+      "trotuar",
+      "coborâre",
+      "bicicletă",
+      "Velo",
+      "cale pietonală",
+      "coborâre"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea trotuarului/aleii pietonale fără a coborî (se aplică cicliștilor).",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 1."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilizarea pistei pentru biciclete în direcția interzisă",
+    "fine_chf": 30,
+    "keywords": [
+      "pistă pentru biciclete",
+      "direcție interzisă",
+      "Velo",
+      "trafic în sens invers",
+      "pistă pentru biciclete"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea pistei pentru biciclete în direcția greșită.",
+    "source": {
+      "page": 22,
+      "line_hint": "612. 2."
+    }
+  },
+  {
+    "law_name": "SSV",
+    "article_ref": "Art. 33 und 74a Abs. 6 SSV",
+    "law_text": "Utilizarea benzii pentru biciclete în direcția interzisă",
+    "fine_chf": 30,
+    "keywords": [
+      "bandă pentru biciclete",
+      "direcție interzisă",
+      "Velo",
+      "trafic în sens invers",
+      "bandă pentru biciclete"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea benzii pentru biciclete în direcția greșită.",
+    "source": {
+      "page": 22,
+      "line_hint": "613."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 36 Abs. 1 SSV",
+    "law_text": "Nerespectarea opririi complete la semnalele de oprire (oprire în mișcare) (3.01; Art. 27 para. 1 SVG și Art. 36 para. 1 SSV)",
+    "fine_chf": 30,
+    "keywords": [
+      "semnal de oprire",
+      "oprire în mișcare",
+      "oprire",
+      "reguli de circulație",
+      "semn de oprire",
+      "neîndeplinirea opririi"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea opririi complete (oprire în mișcare).",
+    "source": {
+      "page": 22,
+      "line_hint": "614."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG, Art. 68 und 69 Abs. 3 SSV",
+    "law_text": "Nerespectarea semnalului de la semafor",
+    "fine_chf": 60,
+    "keywords": [
+      "semnal luminos",
+      "ignorare",
+      "semnal roșu",
+      "semafor",
+      "neîndeplinirea obligației de a respecta",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Ignorarea semaforului (de obicei referindu-se la trecerea pe roșu/galben).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 28 SVG, Art. 68 Abs. 1 bis und 93 Abs. 2 SSV",
+    "law_text": "Nerespectarea semnalului luminos intermitent alternativ (3.20) sau a semnalului luminos intermitent simplu (3.21; Art. 28 SVG, Art. 68 para. 1 și Art. 93 para. 2 SSV)",
+    "fine_chf": 60,
+    "keywords": [
+      "semnal luminos intermitent alternativ",
+      "semnal luminos intermitent simplu",
+      "ignorare",
+      "lumina intermitentă",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea semnalelor luminoase speciale (de ex., treceri la nivel cu calea ferată).",
+    "source": {
+      "page": 22,
+      "line_hint": "615. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 36 Abs. 1 SVG, Art. 68 Abs. 1 und 74 Abs. 2 SSV",
+    "law_text": "Încălcarea regulii de bandă unică prin ignorarea săgeții de direcție marcate și a săgeții de contur ale sistemului de semafoare",
+    "fine_chf": 30,
+    "keywords": [
+      "regula de bandă unică",
+      "săgeată de direcție",
+      "săgeată de contur",
+      "ignorare",
+      "disciplina benzii",
+      "semnalizare"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Încălcarea disciplinei benzii prin ignorarea săgeților marcate sau a săgeților de contur lângă semafoare.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1 SVG und Art. 74 Abs. 2 SSV",
+    "law_text": "Nerespectarea continuării conducerii în direcția săgeții",
+    "fine_chf": 30,
+    "keywords": [
+      "direcția săgeții",
+      "continuarea conducerii",
+      "bandă",
+      "direcția benzii",
+      "fluxul de trafic"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea continuării conducerii în direcția indicată de săgeata benzii.",
+    "source": {
+      "page": 22,
+      "line_hint": "616. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nerespectarea semnalului manual sau a indicației de direcție la virajul la dreapta",
+    "fine_chf": 20,
+    "keywords": [
+      "semnal manual",
+      "indicație de direcție",
+      "viraj la dreapta",
+      "semnal de viraj",
+      "semnalizare",
+      "viraj spre dreapta"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea semnalizării la virajul la dreapta.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 39 Abs. 1 SVG; Art. 28 Abs. 1 VRV",
+    "law_text": "Nerespectarea semnalului manual sau a indicației de direcție la virajul la stânga",
+    "fine_chf": 30,
+    "keywords": [
+      "semnal manual",
+      "indicație de direcție",
+      "viraj la stânga",
+      "semnal de viraj",
+      "semnalizare",
+      "viraj spre stânga"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea semnalizării la virajul la stânga.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 2."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 28 Abs. 1 VRV",
+    "law_text": "Nerespectarea semnalului manual sau a indicației de direcție la depășire",
+    "fine_chf": 20,
+    "keywords": [
+      "semnal manual",
+      "indicație de direcție",
+      "depășire",
+      "semnal de viraj",
+      "semnalizare",
+      "depășire"
+    ],
+    "road_category": "signaling",
+    "applies_to": [
+      "Conducător de vehicul",
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea semnalizării la depășire.",
+    "source": {
+      "page": 22,
+      "line_hint": "617. 3."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV",
+    "law_text": "Depășirea sau traversarea unei linii de siguranță în zona construită",
+    "fine_chf": 40,
+    "keywords": [
+      "linie de siguranță",
+      "depășirea",
+      "traversarea",
+      "în zona construită",
+      "linie solidă",
+      "disciplina traficului"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul"
+    ],
+    "conditions": null,
+    "notes": "Traversarea unei linii albe solide (interzicere de depășire/traversare) în zona construită.",
+    "source": {
+      "page": 22,
+      "line_hint": "618."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 27 Abs. 1, 43 Abs. 1 SVG und Art. 74b SSV",
+    "law_text": "Conducerea pe o bandă de autobuz rezervată fără autorizație",
+    "fine_chf": 30,
+    "keywords": [
+      "bandă de autobuz",
+      "conducere",
+      "interzis",
+      "bandă de autobuz",
+      "acces restricționat"
+    ],
+    "road_category": "driver",
+    "applies_to": [
+      "Conducător de vehicul (neautorizat)"
+    ],
+    "conditions": null,
+    "notes": "Conducerea pe o bandă de autobuz rezervată fără autorizație.",
+    "source": {
+      "page": 22,
+      "line_hint": "619."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 43 Abs. 1 SVG",
+    "law_text": "Conducerea pe o cale neadecvată pentru biciclete, motociclete și rickshawuri electrice sau evident neintentionată pentru acestea",
+    "fine_chf": 30,
+    "keywords": [
+      "utilizare a căii",
+      "neadecvat",
+      "bicicletă",
+      "motocicletă",
+      "rickshaw electric",
+      "cale neadecvată",
+      "acces restricționat"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist",
+      "Motociclist",
+      "Conducător de rickshaw electric"
+    ],
+    "conditions": null,
+    "notes": "Utilizarea unei căi clar neadecvate sau neintentionate pentru biciclete/mopede/rickshawuri electrice.",
+    "source": {
+      "page": 22,
+      "line_hint": "620."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nerespectarea utilizării pistei pentru biciclete",
+    "fine_chf": 30,
+    "keywords": [
+      "pistă pentru biciclete",
+      "neutilizare",
+      "utilizare obligatorie",
+      "utilizare obligatorie",
+      "pistă pentru biciclete"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea utilizării unei piste obligatorii pentru biciclete.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 1."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 46 Abs. 1 SVG",
+    "law_text": "Nerespectarea utilizării benzii pentru biciclete",
+    "fine_chf": 30,
+    "keywords": [
+      "bandă pentru biciclete",
+      "neutilizare",
+      "utilizare obligatorie",
+      "utilizare obligatorie",
+      "bandă pentru biciclete"
+    ],
+    "road_category": "bicycle",
+    "applies_to": [
+      "Ciclist"
+    ],
+    "conditions": null,
+    "notes": "Nerespectarea utilizării unei benzi obligatorii pentru biciclete.",
+    "source": {
+      "page": 22,
+      "line_hint": "621. 2."
+    }
+  },
+  {
+    "law_name": "SVG",
+    "article_ref": "Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV",
+    "law_text": "Parcarea sau oprirea unei biciclete, motociclete sau rickshaw electric acolo unde oprirea sau parcarea este interzisă de regulile generale de circulație",
+    "fine_chf": 20,
+    "keywords": [
+      "parcare interzisă",
+      "oprire interzisă",
+      "bicicletă",
+      "motocicletă",
+      "rickshaw electric",
+      "interdicție de parcare",
+      "reguli generale de circulație"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclist",
+      "Motociclist",
+      "Conducător de rickshaw electric"
+    ],
+    "conditions": null,
+    "notes": "Parcarea/oprirea interzisă de regulile generale (nu de semne).",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 1."
+    }
+  },
+  {
+    "law_name": "VRV",
+    "article_ref": "Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV",
+    "law_text": "Parcarea sau oprirea unei biciclete, motociclete sau rickshaw electric acolo unde oprirea sau parcarea este interzisă de semnale",
+    "fine_chf": 20,
+    "keywords": [
+      "parcare interzisă",
+      "oprire interzisă",
+      "semnale",
+      "bicicletă",
+      "motocicletă",
+      "rickshaw electric",
+      "interdicție de parcare",
+      "semne"
+    ],
+    "road_category": "parking",
+    "applies_to": [
+      "Ciclist",
+      "Motociclist",
+      "Conducător de rickshaw electric"
+    ],
+    "conditions": null,
+    "notes": "Parcarea/oprirea interzisă de semnele de circulație specifice.",
+    "source": {
+      "page": 22,
+      "line_hint": "622. 2."
+    }
+  }
+]
