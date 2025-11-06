@@ -63,7 +63,7 @@ export default function CategoryFinesScreen() {
 
   if (!category) {
     return (
-      <View style={[styles.container, { backgroundColor: colors.background }]}>
+      <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
         <Text style={[styles.errorText, { color: textColor }]}>Category not found</Text>
       </View>
     );
@@ -74,7 +74,7 @@ export default function CategoryFinesScreen() {
   };
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
       <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} />
 
       {/* Background Gradient */}

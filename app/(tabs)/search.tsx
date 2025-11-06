@@ -292,6 +292,7 @@ const styles = StyleSheet.create({
   },
   content: {
     flex: 1,
+    flexDirection: 'column',
     padding: 20,
   },
   header: {
@@ -314,6 +315,7 @@ const styles = StyleSheet.create({
   },
   resultsContent: {
     flexGrow: 1,
+    paddingBottom: 100,
   },
   resultsContainer: {
     gap: 12,

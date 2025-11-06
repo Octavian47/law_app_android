@@ -91,7 +91,7 @@ export default function FineDetailScreen() {
 
   if (!fine) {
     return (
-      <View style={[styles.container, { backgroundColor: colors.background }]}>
+      <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
         <SafeAreaView style={styles.safeArea}>
           <Text style={[styles.errorText, { color: textColor }]}>{t('fineDetail.notFound')}</Text>
         </SafeAreaView>
@@ -102,7 +102,7 @@ export default function FineDetailScreen() {
   const categoryColor = category?.color || colors.primary;
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
       <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} />
 
       {/* Background Gradient */}

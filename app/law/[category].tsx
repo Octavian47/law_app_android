@@ -41,7 +41,7 @@ export default function LawCategoryScreen() {
 
   if (!law) {
     return (
-      <View style={styles.container}>
+      <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
         <Text>Law not found</Text>
       </View>
     );
@@ -62,7 +62,7 @@ export default function LawCategoryScreen() {
   };
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.backgroundGradientStart }]}>
       <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} />
 
       {/* Background Gradient */}

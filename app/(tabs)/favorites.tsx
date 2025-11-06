@@ -287,6 +287,7 @@ const styles = StyleSheet.create({
   },
   content: {
     flex: 1,
+    flexDirection: 'column',
     padding: 20,
   },
   header: {
@@ -309,7 +310,7 @@ const styles = StyleSheet.create({
   scrollContent: {
     flexGrow: 1,
     gap: 12,
-    paddingBottom: 20,
+    paddingBottom: 100,
   },
   favoritesContainer: {
     gap: 12,

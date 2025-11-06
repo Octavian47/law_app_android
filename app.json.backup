@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
-      "resizeMode": "cover",
+      "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
@@ -29,10 +29,9 @@
       "package": "com.swisslaw.app",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "splash": {
-        "image": "./assets/splash-icon.png",
-        "resizeMode": "cover",
-        "backgroundColor": "#ffffff"
+      "navigationBar": {
+        "backgroundColor": "#000000",
+        "barStyle": "light-content"
       }
     },
     "web": {
