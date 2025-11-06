@@ -129,5 +129,10 @@
     "language": "Nyelv",
     "theme": "Téma",
     "about": "Névjegy"
+  },
+  "languageSelector": {
+    "title": "Nyelv kiválasztása",
+    "footerNote": "Közlekedési bírságok elérhetők mind a 18 nyelven",
+    "comingSoon": "Hamarosan"
   }
 }

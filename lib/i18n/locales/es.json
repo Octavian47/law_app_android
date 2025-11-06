@@ -129,5 +129,10 @@
     "language": "Idioma",
     "theme": "Tema",
     "about": "Acerca de"
+  },
+  "languageSelector": {
+    "title": "Seleccionar idioma",
+    "footerNote": "Multas de tráfico disponibles en los 18 idiomas",
+    "comingSoon": "Próximamente"
   }
 }

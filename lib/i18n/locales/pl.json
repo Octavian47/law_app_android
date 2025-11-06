@@ -129,5 +129,10 @@
     "language": "Język",
     "theme": "Motyw",
     "about": "O aplikacji"
+  },
+  "languageSelector": {
+    "title": "Wybierz język",
+    "footerNote": "Mandaty drogowe dostępne we wszystkich 18 językach",
+    "comingSoon": "Wkrótce"
   }
 }

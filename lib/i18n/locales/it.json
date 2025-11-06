@@ -129,5 +129,10 @@
     "language": "Lingua",
     "theme": "Tema",
     "about": "Informazioni"
+  },
+  "languageSelector": {
+    "title": "Seleziona lingua",
+    "footerNote": "Multe stradali disponibili in tutte le 18 lingue",
+    "comingSoon": "Prossimamente"
   }
 }

@@ -129,5 +129,10 @@
     "language": "Jezik",
     "theme": "Tema",
     "about": "O aplikaciji"
+  },
+  "languageSelector": {
+    "title": "Izaberite jezik",
+    "footerNote": "Saobraćajne kazne dostupne na svih 18 jezika",
+    "comingSoon": "Uskoro"
   }
 }

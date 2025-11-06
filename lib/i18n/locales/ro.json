@@ -129,5 +129,10 @@
     "language": "Limbă",
     "theme": "Temă",
     "about": "Despre"
+  },
+  "languageSelector": {
+    "title": "Selectează limba",
+    "footerNote": "Amenzi de trafic disponibile în toate cele 18 limbi",
+    "comingSoon": "În curând"
   }
 }

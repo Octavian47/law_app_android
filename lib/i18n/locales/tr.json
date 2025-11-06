@@ -129,5 +129,10 @@
     "language": "Dil",
     "theme": "Tema",
     "about": "Hakkında"
+  },
+  "languageSelector": {
+    "title": "Dil seç",
+    "footerNote": "Trafik cezaları 18 dilde mevcut",
+    "comingSoon": "Yakında"
   }
 }

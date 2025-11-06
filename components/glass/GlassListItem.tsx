@@ -5,7 +5,7 @@
 
 import React from 'react';
 import { StyleSheet, View, ViewStyle, Platform, useColorScheme, TouchableOpacity } from 'react-native';
-import { BlurView } from '@react-native-community/blur';
+import { BlurView } from 'expo-blur';
 import { Colors } from '@/constants/Colors';
 import { GlassStyles, FallbackGlassStyles } from '@/constants/GlassStyles';
 
@@ -30,9 +30,8 @@ export const GlassListItem: React.FC<GlassListItemProps> = ({
       {Platform.OS === 'android' ? (
         <BlurView
           style={[GlassStyles.listItem, style]}
-          blurType={colorScheme === 'dark' ? 'dark' : 'light'}
-          blurAmount={15}
-          reducedTransparencyFallbackColor={colors.glassBackground}
+          intensity={15}
+          tint={colorScheme === 'dark' ? 'dark' : 'light'}
         >
           <View style={[styles.fallbackOverlay, { backgroundColor: colors.glassBackground }]}>
             {children}

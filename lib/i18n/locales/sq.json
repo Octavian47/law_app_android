@@ -129,5 +129,10 @@
     "language": "Gjuha",
     "theme": "Tema",
     "about": "Rreth"
+  },
+  "languageSelector": {
+    "title": "Zgjidhni gjuhën",
+    "footerNote": "Gjoba të trafikut në dispozicion në të gjitha 18 gjuhët",
+    "comingSoon": "Së shpejti"
   }
 }

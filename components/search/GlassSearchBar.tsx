@@ -16,7 +16,7 @@ import {
   Alert,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { BlurView } from '@react-native-community/blur';
+import { BlurView } from 'expo-blur';
 import { Colors } from '@/constants/Colors';
 
 interface GlassSearchBarProps {
@@ -114,9 +114,8 @@ export const GlassSearchBar: React.FC<GlassSearchBarProps> = ({
       <View style={[styles.glassContainer, isFocused && styles.glassContainerFocused]}>
         <BlurView
           style={StyleSheet.absoluteFill}
-          blurType={colorScheme === 'dark' ? 'dark' : 'light'}
-          blurAmount={20}
-          reducedTransparencyFallbackColor={colors.glassBackground}
+          intensity={20}
+          tint={colorScheme === 'dark' ? 'dark' : 'light'}
         />
         <View style={[styles.blurOverlay, { backgroundColor: colors.glassBackground }]}>
           {renderContent()}

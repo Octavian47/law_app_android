@@ -129,5 +129,10 @@
     "language": "Language",
     "theme": "Theme",
     "about": "About"
+  },
+  "languageSelector": {
+    "title": "Select Language",
+    "footerNote": "Traffic fines available in all 18 languages",
+    "comingSoon": "Soon"
   }
 }

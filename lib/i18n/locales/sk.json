@@ -129,5 +129,10 @@
     "language": "Jazyk",
     "theme": "Motív",
     "about": "O aplikácii"
+  },
+  "languageSelector": {
+    "title": "Vyberte jazyk",
+    "footerNote": "Dopravné pokuty dostupné vo všetkých 18 jazykoch",
+    "comingSoon": "Čoskoro"
   }
 }

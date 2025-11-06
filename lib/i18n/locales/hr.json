@@ -129,5 +129,10 @@
     "language": "Jezik",
     "theme": "Tema",
     "about": "O programu"
+  },
+  "languageSelector": {
+    "title": "Odaberite jezik",
+    "footerNote": "Prometne kazne dostupne na svih 18 jezika",
+    "comingSoon": "Uskoro"
   }
 }

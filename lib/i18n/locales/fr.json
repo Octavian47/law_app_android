@@ -129,5 +129,10 @@
     "language": "Langue",
     "theme": "Thème",
     "about": "À propos"
+  },
+  "languageSelector": {
+    "title": "Sélectionner la langue",
+    "footerNote": "Amendes de circulation disponibles dans les 18 langues",
+    "comingSoon": "Bientôt"
   }
 }

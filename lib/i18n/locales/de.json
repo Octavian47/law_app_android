@@ -129,5 +129,10 @@
     "language": "Sprache",
     "theme": "Design",
     "about": "Über"
+  },
+  "languageSelector": {
+    "title": "Sprache auswählen",
+    "footerNote": "Verkehrsbussen verfügbar in allen 18 Sprachen",
+    "comingSoon": "Bald"
   }
 }

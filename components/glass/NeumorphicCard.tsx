@@ -7,7 +7,7 @@
 import React from 'react';
 import { StyleSheet, View, ViewStyle, Platform, useColorScheme } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
-import { BlurView } from '@react-native-community/blur';
+import { BlurView } from 'expo-blur';
 import { Colors } from '@/constants/Colors';
 
 interface NeumorphicCardProps {
@@ -17,6 +17,7 @@ interface NeumorphicCardProps {
   intensity?: 'subtle' | 'medium' | 'strong';
   interactive?: boolean;
   gradientColors?: readonly [string, string, ...string[]];
+  flexContent?: boolean; // Enable flex layout for content View
 }
 
 export const NeumorphicCard: React.FC<NeumorphicCardProps> = ({
@@ -26,6 +27,7 @@ export const NeumorphicCard: React.FC<NeumorphicCardProps> = ({
   intensity = 'medium',
   interactive = false,
   gradientColors,
+  flexContent = false,
 }) => {
   const colorScheme = useColorScheme() ?? 'light';
   const colors = Colors[colorScheme];
@@ -88,9 +90,8 @@ export const NeumorphicCard: React.FC<NeumorphicCardProps> = ({
       {Platform.OS === 'android' ? (
         <BlurView
           style={StyleSheet.absoluteFill}
-          blurType={colorScheme === 'dark' ? 'dark' : 'light'}
-          blurAmount={blurAmount}
-          reducedTransparencyFallbackColor={colors.glassBackground}
+          intensity={blurAmount}
+          tint={colorScheme === 'dark' ? 'dark' : 'light'}
         />
       ) : null}
       
@@ -120,7 +121,7 @@ export const NeumorphicCard: React.FC<NeumorphicCardProps> = ({
         ]}
       />
       
-      <View style={styles.content}>
+      <View style={[styles.content, flexContent && styles.contentFlex]}>
         {children}
       </View>
     </View>
@@ -136,6 +137,9 @@ const styles = StyleSheet.create({
   content: {
     position: 'relative',
     zIndex: 1,
+  },
+  contentFlex: {
+    flex: 1,
   },
   border: {
     borderRadius: 24,

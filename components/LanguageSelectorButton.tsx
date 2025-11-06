@@ -15,11 +15,15 @@ import {
   Platform,
   PlatformColor,
   ScrollView,
+  Dimensions,
+  ViewStyle,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useTranslation } from 'react-i18next';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { NeumorphicCard } from './glass/NeumorphicCard';
-import { GlassCard } from './glass/GlassCard';
+import { LinearGradient } from 'expo-linear-gradient';
+import { BlurView } from 'expo-blur';
 import { Colors } from '@/constants/Colors';
 import { changeLanguage } from '@/lib/i18n';
 
@@ -58,13 +62,22 @@ const LANGUAGES: Language[] = [
 ];
 
 export const LanguageSelectorButton: React.FC = () => {
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
   const colorScheme = useColorScheme() ?? 'light';
   const colors = Colors[colorScheme];
   const [modalVisible, setModalVisible] = useState(false);
+  const insets = useSafeAreaInsets();
+  const screenHeight = Dimensions.get('window').height;
+  const modalHeight = Math.min(screenHeight * 0.9, screenHeight - insets.top - 100);
 
   const textColor = Platform.OS === 'ios' ? PlatformColor('labelColor') : colors.text;
   const secondaryTextColor = Platform.OS === 'ios' ? PlatformColor('secondaryLabelColor') : colors.textSecondary;
+
+  // Android-specific button text color for better visibility
+  // In dark mode, ensure text is light for visibility
+  const buttonTextColor = Platform.OS === 'android' 
+    ? (colorScheme === 'dark' ? '#FFFFFF' : colors.text)
+    : textColor;
 
   const currentLanguage = LANGUAGES.find(lang => lang.code === i18n.language) || LANGUAGES[0];
 
@@ -84,13 +97,32 @@ export const LanguageSelectorButton: React.FC = () => {
         activeOpacity={0.7}
         style={styles.button}
       >
-        <GlassCard effect="clear" style={styles.buttonCard}>
-          <Text style={styles.flagIcon}>{currentLanguage.flag}</Text>
-          <Text style={[styles.buttonText, { color: textColor }]}>
-            {currentLanguage.code.toUpperCase()}
-          </Text>
-          <Ionicons name="chevron-down" size={16} color={colors.primary} />
-        </GlassCard>
+        <NeumorphicCard 
+          variant="raised" 
+          intensity="subtle" 
+          style={styles.buttonCard}
+        >
+          <LinearGradient
+            colors={colorScheme === 'dark' 
+              ? ['rgba(255, 255, 255, 0.1)', 'rgba(255, 255, 255, 0.05)'] 
+              : ['rgba(255, 255, 255, 0.4)', 'rgba(255, 255, 255, 0.2)']
+            }
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={StyleSheet.absoluteFill}
+          />
+          <View style={styles.buttonContent}>
+            <Text style={styles.flagIcon}>{currentLanguage.flag}</Text>
+            <Text style={[styles.buttonText, { color: buttonTextColor }]}>
+              {currentLanguage.code.toUpperCase()}
+            </Text>
+            <Ionicons 
+              name="chevron-down" 
+              size={14} 
+              color={Platform.OS === 'android' && colorScheme === 'dark' ? colors.text : colors.primary} 
+            />
+          </View>
+        </NeumorphicCard>
       </TouchableOpacity>
 
       {/* Language Selector Modal */}
@@ -101,78 +133,108 @@ export const LanguageSelectorButton: React.FC = () => {
         onRequestClose={() => setModalVisible(false)}
       >
         <View style={styles.modalOverlay}>
+          {/* Backdrop with blur */}
           <TouchableOpacity
             style={styles.modalBackdrop}
             activeOpacity={1}
             onPress={() => setModalVisible(false)}
-          />
+          >
+            <BlurView
+              style={StyleSheet.absoluteFill}
+              intensity={60}
+              tint={colorScheme === 'dark' ? 'dark' : 'light'}
+            />
+            <View style={[StyleSheet.absoluteFill, { backgroundColor: colorScheme === 'dark' ? 'rgba(0, 0, 0, 0.85)' : 'rgba(0, 0, 0, 0.7)' }]} />
+          </TouchableOpacity>
 
-          <View style={[styles.modalContent, { backgroundColor: colors.background }]}>
-            {/* Header */}
-            <View style={styles.modalHeader}>
-              <Text style={[styles.modalTitle, { color: textColor }]}>
-                Select Language
-              </Text>
-              <TouchableOpacity
-                onPress={() => setModalVisible(false)}
-                style={styles.closeButton}
-              >
-                <Ionicons name="close" size={24} color={colors.textSecondary} />
-              </TouchableOpacity>
-            </View>
-
-            {/* Language List */}
-            <ScrollView style={styles.languageList} showsVerticalScrollIndicator={false}>
-              {LANGUAGES.map((language) => (
+          {/* Modal Content with NeumorphicCard */}
+          <NeumorphicCard
+            variant="raised"
+            intensity="medium"
+            gradientColors={colorScheme === 'dark' 
+              ? ['rgba(40, 40, 60, 1)', 'rgba(35, 35, 55, 1)'] 
+              : ['rgba(255, 255, 255, 1)', 'rgba(252, 252, 255, 1)']
+            }
+            style={[
+              styles.modalContent, 
+              { 
+                height: modalHeight,
+                paddingBottom: Math.max(insets.bottom, 16) 
+              }
+            ] as unknown as ViewStyle}
+            flexContent={true}
+          >
+            <View style={styles.modalContentWrapper}>
+              {/* Header */}
+              <View style={styles.modalHeader}>
+                <Text style={[styles.modalTitle, { color: textColor }]}>
+                  {t('languageSelector.title')}
+                </Text>
                 <TouchableOpacity
-                  key={language.code}
-                  onPress={() => handleLanguageSelect(language.code)}
-                  disabled={!language.available}
-                  activeOpacity={0.7}
+                  onPress={() => setModalVisible(false)}
+                  style={styles.closeButton}
                 >
-                  <NeumorphicCard
-                    variant="flat"
-                    intensity="subtle"
-                    style={[
-                      styles.languageCard,
-                      language.code === i18n.language && styles.languageCardSelected,
-                      !language.available && styles.languageCardDisabled,
-                    ]}
+                  <Ionicons name="close" size={24} color={colors.textSecondary} />
+                </TouchableOpacity>
+              </View>
+
+              {/* Language List - Scrollable */}
+              <ScrollView 
+                style={styles.languageList} 
+                contentContainerStyle={styles.languageListContent}
+                showsVerticalScrollIndicator={false}
+              >
+                {LANGUAGES.map((language) => (
+                  <TouchableOpacity
+                    key={language.code}
+                    onPress={() => handleLanguageSelect(language.code)}
+                    disabled={!language.available}
+                    activeOpacity={0.7}
                   >
-                    <View style={styles.languageCardContent}>
-                      <Text style={styles.languageFlag}>{language.flag}</Text>
-                      <View style={styles.languageInfo}>
-                        <Text style={[styles.languageName, { color: textColor }]}>
-                          {language.nativeName}
-                        </Text>
-                        <Text style={[styles.languageEnglish, { color: secondaryTextColor }]}>
-                          {language.name}
-                        </Text>
-                      </View>
-                      {language.code === i18n.language && (
-                        <Ionicons name="checkmark-circle" size={24} color={colors.success} />
-                      )}
-                      {!language.available && (
-                        <View style={[styles.comingSoonBadge, { backgroundColor: colors.warning + '20' }]}>
-                          <Text style={[styles.comingSoonText, { color: colors.warning }]}>
-                            Soon
+                    <NeumorphicCard
+                      variant="flat"
+                      intensity="subtle"
+                      style={[
+                        styles.languageCard,
+                        language.code === i18n.language ? styles.languageCardSelected : null,
+                        !language.available ? styles.languageCardDisabled : null,
+                      ].filter(Boolean) as unknown as ViewStyle}
+                    >
+                      <View style={styles.languageCardContent}>
+                        <Text style={styles.languageFlag}>{language.flag}</Text>
+                        <View style={styles.languageInfo}>
+                          <Text style={[styles.languageName, { color: textColor }]}>
+                            {language.nativeName}
+                          </Text>
+                          <Text style={[styles.languageEnglish, { color: secondaryTextColor }]}>
+                            {language.name}
                           </Text>
                         </View>
-                      )}
-                    </View>
-                  </NeumorphicCard>
-                </TouchableOpacity>
-              ))}
-            </ScrollView>
+                        {language.code === i18n.language && (
+                          <Ionicons name="checkmark-circle" size={24} color={colors.success} />
+                        )}
+                        {!language.available && (
+                          <View style={[styles.comingSoonBadge, { backgroundColor: colors.warning + '20' }]}>
+                            <Text style={[styles.comingSoonText, { color: colors.warning }]}>
+                              {t('languageSelector.comingSoon')}
+                            </Text>
+                          </View>
+                        )}
+                      </View>
+                    </NeumorphicCard>
+                  </TouchableOpacity>
+                ))}
+              </ScrollView>
 
-            {/* Footer Note */}
-            <View style={[styles.footer, { backgroundColor: colors.glassBackground }]}>
-              <Ionicons name="information-circle" size={16} color={colors.info} />
-              <Text style={[styles.footerText, { color: secondaryTextColor }]}>
-                Traffic fines available in all 18 languages
-              </Text>
+              {/* Footer Note */}
+              <View style={[styles.footer, { backgroundColor: colors.glassBackground }]}>
+                <Ionicons name="information-circle" size={16} color={colors.info} />
+                <Text style={[styles.footerText, { color: secondaryTextColor }]}>
+                  {t('languageSelector.footerNote')}
+                </Text>
+              </View>
             </View>
-          </View>
+          </NeumorphicCard>
         </View>
       </Modal>
     </>
@@ -187,20 +249,25 @@ const styles = StyleSheet.create({
     zIndex: 100,
   },
   buttonCard: {
+    borderRadius: 16,
+    overflow: 'hidden',
+  },
+  buttonContent: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
-    paddingVertical: 8,
-    paddingHorizontal: 12,
-    borderRadius: 20,
+    gap: 6,
+    paddingVertical: 6,
+    paddingHorizontal: 10,
+    position: 'relative',
+    zIndex: 1,
   },
   flagIcon: {
-    fontSize: 20,
+    fontSize: 16,
   },
   buttonText: {
-    fontSize: 13,
+    fontSize: 12,
     fontWeight: '600',
-    letterSpacing: 0.5,
+    letterSpacing: 0.4,
   },
   modalOverlay: {
     flex: 1,
@@ -208,23 +275,19 @@ const styles = StyleSheet.create({
   },
   modalBackdrop: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: 'rgba(0, 0, 0, 0.5)',
   },
   modalContent: {
     borderTopLeftRadius: 24,
     borderTopRightRadius: 24,
-    maxHeight: '80%',
-    ...Platform.select({
-      ios: {
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: -4 },
-        shadowOpacity: 0.3,
-        shadowRadius: 12,
-      },
-      android: {
-        elevation: 8,
-      },
-    }),
+    maxHeight: '90%',
+    minHeight: 400,
+    overflow: 'hidden',
+    width: '100%',
+  },
+  modalContentWrapper: {
+    flex: 1,
+    flexDirection: 'column',
+    minHeight: 0,
   },
   modalHeader: {
     flexDirection: 'row',
@@ -246,7 +309,11 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   languageList: {
+    flex: 1,
     paddingHorizontal: 20,
+  },
+  languageListContent: {
+    paddingBottom: 8,
   },
   languageCard: {
     padding: 16,
@@ -294,7 +361,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 8,
     padding: 16,
-    marginTop: 8,
+    paddingTop: 12,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(255, 255, 255, 0.1)',
   },
   footerText: {
     flex: 1,

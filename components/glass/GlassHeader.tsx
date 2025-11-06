@@ -5,7 +5,7 @@
 
 import React from 'react';
 import { StyleSheet, View, ViewStyle, Platform, useColorScheme } from 'react-native';
-import { BlurView } from '@react-native-community/blur';
+import { BlurView } from 'expo-blur';
 import { Colors } from '@/constants/Colors';
 import { GlassStyles, FallbackGlassStyles } from '@/constants/GlassStyles';
 
@@ -22,9 +22,8 @@ export const GlassHeader: React.FC<GlassHeaderProps> = ({ children, style }) => 
     return (
       <BlurView
         style={[GlassStyles.header, style]}
-        blurType={colorScheme === 'dark' ? 'dark' : 'light'}
-        blurAmount={25}
-        reducedTransparencyFallbackColor={colors.glassBackground}
+        intensity={25}
+        tint={colorScheme === 'dark' ? 'dark' : 'light'}
       >
         <View style={[styles.fallbackOverlay, { backgroundColor: colors.glassBackground }]}>
           {children}

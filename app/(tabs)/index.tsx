@@ -54,7 +54,7 @@ export default function HomeScreen() {
       {/* Language Selector Button */}
       <LanguageSelectorButton />
 
-      <SafeAreaView edges={['top', 'left', 'right']} style={styles.safeArea}>
+      <SafeAreaView edges={['top', 'left', 'right', 'bottom']} style={styles.safeArea}>
         <ScrollView
           style={styles.scrollView}
           contentContainerStyle={styles.scrollContent}
@@ -212,7 +212,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   scrollContent: {
-    padding: 20,
+    paddingHorizontal: 20,
+    paddingTop: 60,
     paddingBottom: 100,
   },
   header: {

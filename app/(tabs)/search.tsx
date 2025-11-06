@@ -92,7 +92,7 @@ export default function SearchScreen() {
         end={{ x: 1, y: 1 }}
       />
 
-      <SafeAreaView edges={['top', 'left', 'right']} style={styles.safeArea}>
+      <SafeAreaView edges={['top', 'left', 'right', 'bottom']} style={styles.safeArea}>
         <View style={styles.content}>
           {/* Header */}
           <View style={styles.header}>
