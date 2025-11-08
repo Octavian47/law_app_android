@@ -5,8 +5,9 @@
 
 import { useEffect, useState } from 'react';
 import { Stack } from 'expo-router';
-import { useColorScheme } from 'react-native';
+import { Platform, useColorScheme } from 'react-native';
 import * as SplashScreen from 'expo-splash-screen';
+import * as NavigationBar from 'expo-navigation-bar';
 import { Colors } from '@/constants/Colors';
 import { initI18n } from '@/lib/i18n'; // No side-effect init
 
@@ -35,6 +36,14 @@ export default function RootLayout() {
       }
     })();
   }, []);
+
+  useEffect(() => {
+    if (Platform.OS !== 'android') return;
+
+    const buttonStyle = colorScheme === 'dark' ? 'light' : 'dark';
+
+    void NavigationBar.setButtonStyleAsync(buttonStyle);
+  }, [colorScheme]);
 
   if (!ready) return null;
 

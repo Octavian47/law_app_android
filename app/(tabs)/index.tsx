@@ -14,7 +14,7 @@ import {
   PlatformColor,
   TouchableOpacity,
 } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
 import { useRouter } from 'expo-router';
@@ -31,6 +31,8 @@ export default function HomeScreen() {
   const colors = Colors[colorScheme];
   const router = useRouter();
   const currentLanguage = i18n.language;
+  const insets = useSafeAreaInsets();
+  const bottomContentPadding = Math.max(140, insets.bottom + 120);
 
   const textColor = Platform.OS === 'ios' ? PlatformColor('labelColor') : colors.text;
   const secondaryTextColor = Platform.OS === 'ios' ? PlatformColor('secondaryLabelColor') : colors.textSecondary;
@@ -54,10 +56,10 @@ export default function HomeScreen() {
       {/* Language Selector Button */}
       <LanguageSelectorButton />
 
-      <SafeAreaView edges={['top', 'left', 'right', 'bottom']} style={styles.safeArea}>
+      <SafeAreaView edges={['top', 'left', 'right']} style={styles.safeArea}>
         <ScrollView
           style={styles.scrollView}
-          contentContainerStyle={styles.scrollContent}
+          contentContainerStyle={[styles.scrollContent, { paddingBottom: bottomContentPadding }]}
           showsVerticalScrollIndicator={false}
         >
           {/* Header */}

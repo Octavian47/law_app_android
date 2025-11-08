@@ -14,7 +14,7 @@ import {
   Platform,
   PlatformColor,
 } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
 import { useRouter, useLocalSearchParams } from 'expo-router';
@@ -36,6 +36,10 @@ export default function FineDetailScreen() {
   const { id: fineId } = useLocalSearchParams<{ id: string }>();
   const currentLanguage = i18n.language;
   const [isFavorite, setIsFavorite] = useState(false);
+  const insets = useSafeAreaInsets();
+  const bottomInset = Math.max(insets.bottom, 8);
+  const bottomContentPadding = 0;
+  const bottomFooterHeight = bottomInset;
 
   const textColor = Platform.OS === 'ios' ? PlatformColor('labelColor') : colors.text;
   const secondaryTextColor = Platform.OS === 'ios' ? PlatformColor('secondaryLabelColor') : colors.textSecondary;
@@ -113,7 +117,7 @@ export default function FineDetailScreen() {
         end={{ x: 1, y: 1 }}
       />
 
-      <SafeAreaView edges={['top', 'left', 'right']} style={styles.safeArea}>
+      <SafeAreaView edges={['top', 'left', 'right', 'bottom']} style={styles.safeArea}>
         {/* Header */}
         <View style={styles.header}>
           <TouchableOpacity
@@ -146,7 +150,7 @@ export default function FineDetailScreen() {
 
         <ScrollView
           style={styles.scrollView}
-          contentContainerStyle={styles.scrollContent}
+          contentContainerStyle={[styles.scrollContent, { paddingBottom: bottomContentPadding }]}
           showsVerticalScrollIndicator={false}
         >
           {/* Article Info Card */}
@@ -295,6 +299,13 @@ export default function FineDetailScreen() {
             </Text>
           </NeumorphicCard>
         </ScrollView>
+        <View
+          pointerEvents="none"
+          style={[
+            styles.bottomFooter,
+            { height: bottomFooterHeight, backgroundColor: colors.backgroundGradientEnd },
+          ]}
+        />
       </SafeAreaView>
     </View>
   );
@@ -461,5 +472,12 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
     margin: 20,
+  },
+  bottomFooter: {
+    width: '100%',
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
   },
 });

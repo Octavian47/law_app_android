@@ -2,7 +2,7 @@
   "expo": {
     "name": "VBussen CH",
     "slug": "swiss-law-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -11,28 +11,25 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "cover",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.swisstrafficlaw.app",
-      "infoPlist": {
-        "UIDesignRequiresCompatibility": false,
-        "ITSAppUsesNonExemptEncryption": false
-      }
+      "backgroundColor": "#101226"
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/adaptive-foreground.png",
+        "backgroundColor": "#004A97"
       },
       "package": "com.swisslaw.app",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
+      "navigationBar": {
+        "backgroundColor": "#080E27",
+        "barStyle": "light-content"
+      },
       "splash": {
         "image": "./assets/splash-icon.png",
         "resizeMode": "cover",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#101226"
       }
     },
     "web": {
@@ -40,7 +37,8 @@
     },
     "plugins": [
       "expo-router",
-      "expo-sqlite"
+      "expo-sqlite",
+      "expo-splash-screen"
     ],
     "extra": {
       "router": {},

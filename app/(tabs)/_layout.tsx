@@ -22,12 +22,29 @@ function CustomTabBar(props: BottomTabBarProps) {
   
   // Minimum height for icons + labels (48px) + safe area bottom inset
   // Use fallback value if insets.bottom is 0 (common on first render)
-  const minTabBarHeight = 48;
-  const safeAreaBottom = insets.bottom > 0 ? insets.bottom : 16; // Fallback to 16px if not available
-  const containerHeight = minTabBarHeight + safeAreaBottom;
+  const minTabBarHeight = 40;
+  const bottomInset = insets.bottom;
+  const defaultPadding = 6;
+  const legacyNavThreshold = 24; // 3-button nav bars usually report ~48px insets
+  const extraPadding = Platform.OS === 'android'
+    ? bottomInset > legacyNavThreshold
+      ? 10
+      : bottomInset || defaultPadding
+    : bottomInset || defaultPadding;
+  const topPadding = 4;
+  const containerHeight = minTabBarHeight + extraPadding + topPadding;
 
   return (
-    <View style={[styles.tabBarContainer, { minHeight: containerHeight }]}>
+    <View
+      style={[
+        styles.tabBarContainer,
+        {
+          minHeight: containerHeight,
+          paddingBottom: extraPadding,
+          paddingTop: topPadding,
+        },
+      ]}
+    >
       <LinearGradient
         colors={[colors.backgroundGradientStart, colors.backgroundGradientEnd]}
         start={{ x: 0, y: 0 }}
@@ -46,7 +63,16 @@ function CustomTabBar(props: BottomTabBarProps) {
         />
       </LinearGradient>
       
-      <BottomTabBar {...props} />
+      <BottomTabBar
+        {...props}
+        safeAreaInsets={{
+          top: 0,
+          left: 0,
+          right: 0,
+          // Let our wrapper handle the bottom inset so spacing isn't doubled
+          bottom: 0,
+        }}
+      />
     </View>
   );
 }
@@ -75,8 +101,8 @@ export default function TabsLayout() {
           borderTopWidth: 0,
           elevation: 0,
           shadowOpacity: 0,
-          paddingTop: 2,
-          paddingBottom: 2,
+          paddingTop: 0,
+          paddingBottom: 0,
           minHeight: 48, // Ensure minimum height for icons + labels
         },
         tabBarLabelStyle: {
