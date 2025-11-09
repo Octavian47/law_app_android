@@ -43,8 +43,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "0d10284d-a29c-470e-aab5-b006707d88d0"
+        "projectId": "64ae90d2-380b-4c97-ba16-bcd503ee9853"
       }
-    }
+    },
+    "owner": "treazmereu"
   }
 }
